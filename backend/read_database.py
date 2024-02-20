@@ -3,7 +3,7 @@ import os
 from google.cloud import firestore
 
 def get_documents_from_firebase():
-    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "./firebase_service_key.json"
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "./api_keys/firebase_service_key.json"
     project_id = 'warn-notices-ff163'
     db = firestore.Client(project=project_id)
     collection_name = 'users'

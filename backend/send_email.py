@@ -3,9 +3,7 @@ from sendgrid import SendGridAPIClient
 from sendgrid.helpers.mail import Mail
 
 def get_email_client():
-    if "sendgrid_api_key.txt" not in os.listdir():
-        raise Exception("Make sure sendgrid API key is in \"sendgrid_api_key.txt\"!")
-    with open("./sendgrid_api_key.txt") as f:
+    with open("./api_keys/sendgrid_api_key.txt") as f:
         api_key = f.read()
     sg_email_client = SendGridAPIClient(api_key)
     return sg_email_client
