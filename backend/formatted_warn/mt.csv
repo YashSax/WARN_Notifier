@@ -1,0 +1,26 @@
+,company_name,location,notice_date,layoff_date,employees_affected,Industry
+0,Sidney Sugars,Richland,2023-02-06 00:00:00,2023-04-14 00:00:00,up to 300,Processing
+1,Idaho Forest Group,Mineral,2021-08-30 00:00:00,2021-11-30 00:00:00,99,Timber
+2,RY Timber,Broadwater,2020-01-13 00:00:00,2020-04-01 00:00:00,70,Timber
+3,JC Penney,Missoula,2020-02-10 00:00:00,2020-04-25 00:00:00,67,Retail
+4,Hilton Garden Inn - Kalispell,Flathead,2020-03-24 00:00:00,2020-03-25 00:00:00,48,Hospitality
+5,Hilton Garden Inn - Missoula,Missoula,2020-03-25 00:00:00,2020-03-25 00:00:00,85,Hospitality
+6,ALSCO,Yellowstone,2020-03-25 00:00:00,2020-03-25 00:00:00,5,Hospitality
+7,CineMark,Multiple Counties,2020-03-26 00:00:00,2020-03-26 00:00:00,64,Movie Theatre
+8,Altacare of Montana,Multiple Counties,2020-04-03 00:00:00,2020-04-03 00:00:00,94,Mental Health Services
+9,Golden Entertainment,Missoula,2020-04-03 00:00:00,3/1620 to 4/30/20,50,Gaming
+10,Capra Group Inc,Jefferson,2020-04-20 00:00:00,2020-03-23 00:00:00,10,Mining
+11,Force State of Montana,Jefferson,2020-04-20 00:00:00,2020-03-23 00:00:00,83,Mining
+12,BNSF Railway,Dawson,2020-05-05 00:00:00,2020-07-07 00:00:00,79,Railroad
+13,Decker Coal,Big Horn,2020-12-09 00:00:00,2020-12-02 00:00:00,76,Mining
+14,Decker Coal,Big Horn,2020-12-09 00:00:00,2021-02-01 00:00:00,59,Mining
+15,Boyd Coffee Company,Lolo,2018-04-18 00:00:00,2018-10-01 00:00:00,1,Manufacturing
+16,B/E Aerospace,Great Falls,2017-03-21 00:00:00,2017-06-30 00:00:00,80,Manufacturing
+17,Tricon Lumber,Mineral,2016-01-04 00:00:00,2015-09-28 00:00:00,50,Timber
+18,BNSF Railroad,Valley,2016-01-20 00:00:00,2016-03-31 00:00:00,50,Transportation
+19,Sanjel,Custer,2016-03-30 00:00:00,2016-05-01 00:00:00,Not noted,Oil & Gas
+20,Weyerhaueser,Flathead,2016-06-22 00:00:00,2016-09-04 00:00:00,100,Timber
+21,Grand Pacific Resorts,Flathead,2015-01-29 00:00:00,2015-03-31 00:00:00,65,Hospitality
+22,Asurion (NEW),Cascade,2015-05-07 00:00:00,2015-12-31 00:00:00,341,Call center
+23,Golden Sunlight Mine,Jefferson,2015-09-23 00:00:00,2015-11-30 00:00:00,140,Mining
+24,Fidelity Exploration & Prod.,Multiple - Eastern MT,2015-11-04 00:00:00,2015-12-17 00:00:00,MT # unknown,Oil exploration

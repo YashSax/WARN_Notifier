@@ -1,0 +1,182 @@
+,company_name,location,notice_date,layoff_date,employees_affected,City,State,Zip
+0,Nashua Homes of Idaho,5200 Federal Way,1/9/2009,1/9/2009,171,Boise,ID,83717
+1,Freedom Plastics,640 S. Highway 91,2/7/2009,4/8/2009,26,Preston,ID,83262
+2,Micron Technology Inc,8000 S Federal Way,2/23/2009,3/9/2009,2000,Boise,ID,83707
+3,Tamarack Resort,311 Village Dr.,2/27/2009,3/4/2009,217,Tamarack,ID,83615
+4,"MPC Computers, LLC",906 E. Karcher Road,3/6/2009,3/6/2009,6,Nampa,ID,83687
+5,Sportsman's Warehouse,16865 N. Market Place Blvd,3/11/2009,5/11/2009,56,Nampa,ID,83687
+6,Sportsman's Warehouse,1844 Hurley Drive,3/11/2009,5/11/2009,46,Pocatello,ID,83204
+7,Sun Microsystems,"Ninth & Idaho Bldg, Ste 520",3/30/2009,3/23/2009,3,Boise,ID,83702
+8,"CDG Management, LLC",9286 Barnes Dr,5/15/2009,5/29/2009,15,Boise,ID,83709
+9,Idahoan Foods,"72 Dehigh Rd., P.O. Box 265",6/8/2009,10/23/2009,128,Dubois,ID,83423
+10,"Crossroad Services, Inc.",2360 Alvarado Street,8/6/2009,10/18/2009,8,San Leandro,CA,94577
+11,"Sturner & Klein, Inc.",7285 Franklin Ave,8/12/2009,10/15/2009,180,Boise,ID,83709
+12,Crossmark,5100 Legacy Dr,8/27/2009,10/31/2009,17,Plano,TX,75024
+13,Welco,242 Stagecoach Road,10/14/2009,12/14/2009,93,Naples,ID,75024
+14,Sun Microsystems,"Ninth & Idaho Bldg, Ste 520",11/3/2009,1/17/2010,1,Boise,ID,83702
+15,Macy's Downtown,918 Idaho Street,1/5/2010,3/7/2010-3/20/2,72,Boise,ID,83707
+16,Sam's Club,5725 East Franklin Rd,1/10/2010,3/11/2010,135,Nampa,ID,83687
+17,URS/Dry Valley Mining,91 S. Main St.,1/25/2010,1/25/2010,115,Soda Springs,ID,83276
+18,XL Four Star Beef,3611 East Amity Avenue,4/8/2011,6/7/2011,522,Nampa,ID,83687-8801
+19,Clearwater Paper,805 Mill Road,10/26/2011,10/27/2011,250,Lewiston,ID,83501
+20,Hecla Mining,397 Friday Avenue,1/16/2012,1/16/2012,200,Mullan,ID,83460
+21,Hostess Brands,110 E. Spruce St. Unit 1,5/7/2012,7/7/2012,1,Bellevue,ID,83313
+22,Hostess Brands,9224 Chinden Blvd,5/7/2012,7/7/2012,3,Boise,ID,83714-1504
+23,Hostess Brands,743 McGregor Crt. Ste. 120/130,5/7/2012,7/7/2012,28,Boise,ID,83705-5225
+24,Hostess Brands,380 N. Five Mile Rd.,5/7/2012,7/7/2012,3,Boise,ID,83713-8959
+25,Hostess Brands,3506 E. Cleveland,5/7/2012,7/7/2012,3,Caldwell,ID,83605-6042
+26,Hostess Brands,4534 W. Yellowstone Ave.,5/7/2012,7/7/2012,11,Chubbuck,ID,83202-2412
+27,Hostess Brands,1670 Hwy 30 North,5/7/2012,7/7/2012,5,Heyburn,ID,83336
+28,Hostess Brands,365 E. Anderson,5/7/2012,7/7/2012,15,Idaho Falls,ID,83401-2017
+29,Hostess Brands,1670 N. Woodruff Ave.,5/7/2012,7/7/2012,3,Idaho Falls,ID,83401-3330
+30,Hostess Brands,1115 Washington,5/7/2012,7/7/2012,2,Montpelier,ID,83254-1343
+31,Hostess Brands,690 S. Main St.,5/7/2012,7/7/2012,3,Mtn. Home,ID,83647-3574
+32,Hostess Brands,2603 Sundance Rd,5/7/2012,7/7/2012,15,Nampa,ID,83651-1596
+33,Hostess Brands,3155 E. Greenhurst,5/7/2012,7/7/2012,4,Nampa,ID,83686
+34,Hostess Brands,3100 Pole Line Road,5/7/2012,7/7/2012,11,Pocatello,ID,83201-6120
+35,Hostess Brands,120 N Hwy 33,5/7/2012,7/7/2012,9,Rexburg,ID,83440-3518
+36,Hostess Brands,548 Washington,5/7/2012,7/7/2012,18,Twin Falls,ID,83301-5642
+37,Hostess Brands,211 Freightway,5/7/2012,7/7/2012,1,Twin Falls,ID,83301-7940
+38,Peak Medical of Idaho,3111 Channing Way,5/21/2012,7/20/2012,82,Idaho Falls,ID,83404
+39,Hoku Materials,One Hoku Way,5/22/2012,5/22/2012,99,Pocatello,ID,83204
+40,Tranform Solar,900 E. Karcher Road,6/4/2012,6/15/2012,250,Nampa,ID,83687
+41,Tranform Solar,8000 South Federal Way,6/4/2012,6/15/2012,,Boise,ID,83716
+42,Frontier Communications,7400 Mineral Drive,7/20/2012,9/18/2012,107,Coeur d'Alene,ID,83815
+43,Teleperformance,151 N. Third Avenue,10/5/2012,10/5/2012,114,Pocatello,ID,83201
+44,TriWest Healthcare Alliance,"90 Hope Dr. Bldg. 6000, Room D-115",12/10/2012,2/15/2013,2,Mtn. Home,ID,83648
+45,Rhodes Bakery,14702 Karcher Rd,1/8/2013,3/10/2013,49,Caldwell,ID,83607
+46,U.S. Silver and Gold,1041 Lake Gulch Road,7/16/2013,9/16/2013,130,Wallace,ID,83873
+47,Affinion Group,"9300 W. Overland Road, Suite 230",7/17/2013,9/27/2013,226,Boise,ID,83709
+48,Dutchmen,10 N 300 W,9/10/2013,11/15/2013,156,Burley,ID,83318
+49,ATK,2100 S. Silverstone Way,10/31/2013,12/30/2013,75,Meridian,ID,83642
+50,Simplot Food Group,17385 Simplot Boulevard,11/1/2013,12/31/2013,262,Caldwell,ID,83606
+51,FLSmidth,"3405 E. Overland Rd., Suite 200",12/11/2013,2/12/2014,46,Meridian,ID,83642
+52,First National Bank of Layton,"625 S. Stratford Dr., Suite 200",12/16/2013,2/20/2014,56,Meridian,ID,83642
+53,Albertson's,1310 Pomerelle,1/2/2014,2/6/2014,40,Burley,ID,83318
+54,Center Partners,1755 International Way,1/22/2014,3/31/2014,400,Idaho Falls,ID,83402
+55,Simplot Food Group,3704 N. Middleton Rd,3/26/2014,11/10/2014,206,Nampa,ID,83687-8226
+56,Heinz Frozen Food,221 Ore Ida Court,2/20/2014,4/25/2014,400,Pocatello,ID,83202
+57,Maximus,"11331 Chinden Blvd., Bldg. 8",2/24/2014,4/25/2014,1600,Boise,ID,83714
+58,Simplot Food Group,624 Simplot Loop,2/28/2014,4/30/2014,309,Aberdeen,ID,83210
+59,Motive Power,4600 Apple Street,4/4/2014,6/4/2014,162,Boise,ID,83716
+60,Coldwater Creek,One Coldwater Creek Drive,4/11/2014,6/11/2014,339,Sandpoint,ID,83864
+61,Coldwater Creek,751 West Hanley Avenue,4/11/2014,6/11/2014,104,Coeur d'Alene,ID,83815
+62,HMS Host,"3201 Airport Way, Ste 290",7/16/2014,9/29/2014,79,Boise,ID,83705
+63,Elks Rehab System,600 N. Robbins Road,7/31/2014,9/30/2014,516,Boise,ID,83702
+64,Thompson Creek Mining,P.o. Box 600,11/10/2014,12/19/2014,160,Challis,ID,83226
+65,Packaging Corporation of America (PCA),1111 W. Jefferson St.,11/18/2014,3/1/2015,152,Boise,ID,83799
+66,Kimball Office,1881 W. Seltice Way,12/15/2014,rting 2/16/2015,2 5s1ta,Post Falls,ID,83854
+67,Plum Creek Timber Co.,240 W. Taylor Avenue,1/29/2015,3/30/2015,61,Meridian,ID,83642
+68,Simplot Food Group,624 Simplot Loop,2/17/2015,4/1/2015,20,Aberdeen,ID,83210
+69,Powerbar (Post-Nestle),7031 S. Eisenman Rd,3/16/2015,5/29/2015,165,Boise,ID,83716
+70,Assurant Health,"3501 W. Elder St., Suite 302",6/15/2015,8/14/2015,65,Boise,ID,83705
+71,Supervalu,"500 E. Baybrook Court,",7/30/2015,10/2/2015,115,Boise,ID,83706
+72,Mark III,1853 ID-34,9/8/2015,10/11/2015,100,Soda Springs,ID,83276
+73,AECOM,400 S. Broadway Avenue,9/21/2015,11/23/2015,85,Boise,ID,83702
+74,Shopko,1001 E Gowen Road,10/28/2015,1/1/2016,148,Boise,ID,83716
+75,Hart & Cooley,1820 East Fargo,11/3/2015,1/4/2016,67,Nampa,ID,83651
+76,Supervalu,700 N. Ancestor 3103 S. Denver Way & 250 Parkcenter,1/6/2016 (revised thru 5/5/16),3/11/2016,89,Boise,ID,83704 83705 83706
+77,ATCO,699 West Quinn Road,4/14/2016,4/18/2016,76,Pocatello,ID,83204
+78,Motive Power & Wabtec Global Services,4600 Apple Street 210 Braniff Street,5/23/2016,7/26/2016,210,Boise,ID,83716
+79,DCS Facility Svcs - WinCo Foods#01,110 East Myrtle St.,6/30/2016,8/31/2016,11,Boise,ID,83702
+80,DCS Facility Svcs - WinCo Foods#06,8200 Fairview Ave.,6/30/2016,8/31/2016,11,Boise,ID,83704
+81,DCS Facility Svcs - WinCo Foods#11,2020 Caldwell Blvd.,6/30/2016,8/31/2016,11,Nampa,ID,83651
+82,DCS Facility Svcs - WinCo Foods#27,3032 E. State St.,6/30/2016,8/31/2016,11,Eagle,ID,83616
+83,DCS Facility Svcs - WinCo Foods#29,1700 W. Pullman Rd,6/30/2016,8/31/2016,11,Moscow,ID,83843
+84,DCS Facility Svcs - WinCo Foods#30,1569 Blue Lakes Blvd. N.,6/30/2016,8/31/2016,11,Twin Falls,ID,83301
+85,DCS Facility Svcs - WinCo Foods#42,333 N. Woodruff Ave.,6/30/2016,8/31/2016,11,Idaho Falls,ID,83401
+86,DCS Facility Svcs - WinCo Foods#48,1050 S. Progress Ave.,6/30/2016,8/31/2016,11,Meridian,ID,83642
+87,DCS Facility Svcs - WinCo Foods#101,1485 W. Appleway,6/30/2016,8/31/2016,11,Coeur d'Alene,ID,83814
+88,DCS Facility Svcs - WinCo Foods#117,1030 Yellowstone Ave.,6/30/2016,8/31/2016,11,Pocatello,ID,83201
+89,DCS Facility Svcs - WinCo Foods#128,2001 17th St.,6/30/2016,8/31/2016,11,Lewiston,ID,83501
+90,Trading Co. Stores,1501 E. Seltice Way,7/7/2016,9/10/2016,68,Post Falls,ID,83854
+91,Trading Co. Stores,6504 Tyler St. Suite. B.,7/7/2016,9/10/2016,,Bonners Ferry,ID,83805
+92,Karcher Care Group,1127 Caldwell Boulevard,8/30/2016,11/1/2016,172,Nampa,ID,83651
+93,Basic American Ingredients,409 W. Collins Road,10/5/2016,12/15/2016,91,Blackfoot,ID,83221
+94,Mt. West Research Center,"675 Yellowstone Ave, Suite 1A",10/28/2016,12/31/2016,194,Pocatello,ID,83201
+95,Dollar Express,135 S. Washington Ave,3/30/2017,6/30/2017,6,Emmett,ID,83617
+96,Marvell Semiconductor,6074 N. Discovery Way,4/4/2017,6/9/2017,23,Boise,ID,83713
+97,Total System Services (TSYS),"701 E. Morrison Knudsen Plaza Dr., Suite 400",4/5/2017,4/7/2017,64,Boise,ID,83712
+98,Filson,3797 E. Primrose Ln.,8/31/2017,10/30/2017,45,Post Falls,ID,83854
+99,Transdev,4701 S. Northrup St.,10/10/2017,11/1/2017,102,Boise,ID,83705
+100,Safe Haven Health Care,1200 Hospital Way,10/23/2017,11/1/2017,117,Pocatello,ID,83204
+101,Clearwater Research,1845 S. Federal Way,10/26/2017,12/31/2017,101,Boise,ID,83705
+102,SW ID Advanced Care Hospital,6651 Franklin Rd.,1/3/2018,2/4/2018,135,Boise,ID,83709
+103,Thorne,25820 Hwy 2 West,3/21/2018,4/26/2018,136,Sandpoint,ID,83864
+104,PKL Services,480 5th Avenue,5/1/2018,7/1/2018,103,Mt. Home AFB,ID,83648
+105,SYKES,11331 W. Chinden Blvd.,7/2/2018,8/31/2018,640,Boise,ID,83713
+106,Marvell Semiconductor,"12553 W. Explorer Drive, Ste 100",7/9/2018,9/10/2018,16,Boise,ID,83713
+107,Koontz-Wagner Custom Controls,20394 Pinto Lane,7/11/2018,7/11/2018,51,Caldwell,ID,83607
+108,Connections Loyalty,"9300 W. Overland Road, Suite 230",9/19/2018,11/15/2018,175,Boise,ID,83709
+109,Connections Loyalty (Update),"9301 W. Overland Road, Suite 230",11/30/2018,12/3/2018,175,Boise,ID,83709
+110,Spectrum America,1001 E. Gowen Road,2/19/219 (rec'd 2/26/19),4/5/2019,111,Boise,ID,83716
+111,DXC Technology,"11341 Chinden Blvd., Bldg. 4,",8/30/2019,10/31/2019,62,Boise,ID,83713
+112,DXC Technology,"11342 Chinden Blvd., Bldg. 4,",9/27/2019,11/29/2019,58,Boise,ID,83713
+113,Motive Power,4600 Apple St.,10/10/2019,12/31/2019,218,Boise,ID,83716
+114,Basic American Foods,52 N. 400 W.,1/10/2020,3/11/2020,89,Blackfoot,ID,83221
+115,Concordia University,501 W. Front St.,2/12/2020 (rec'd 2/18/2020),4/25/2020,93,Boise,ID,83702
+116,ALSCO,22254 E. Braniff St.,3/19/2020 (rec'd 4/2/2020),3/23/2020,25,Boise,ID,83716
+117,Cinemark (Majestic Cinemas),2140 E. Cinema Dr.,3/26/2020 (rec'd 4/1/2020),3/26/2020,45,Meridian,ID,83642
+118,D e n n y ' s,2580 Airport Way 4310 Yellowstone Ave. 950 Lindsay Blvd,3/31/2020 (rec' 4/1/2020),3/31/2020,90,Boise Chubbuck Idaho Falls,ID,83705 83202 83401
+119,Nashua Builders,5200 S. Federal Way,4/1/2020 - REVISED 4/8/2020,3/31/2020,111,Boise,ID,83717
+120,Treasure Valley Family YMCA,1177 W.State Street,4/8/2020,3/30/2020,43,Boise,ID,83702
+121,First Student,465 W. Gowen Rd.,4/10/2020,4/30/2020,178,Boise,ID,83716
+122,Idaho Health & Fitness,2999 N. Lakeharbor,4/10/2020,3/31/2020,328,Boise,ID,83703
+123,Idaho Health & Fitness,875 E. Plaza Dr.,4/10/2020,3/31/2020,,Eagle,ID,83616
+124,Idaho Health & Fitness,1435 S. Maple Grove Rd.,4/10/2020,3/31/2020,,Boise,ID,83709
+125,Idaho Health & Fitness,5251 E. Exchange Way,4/10/2020,3/31/2020,,Nampa,ID,83687
+126,Idaho Health & Fitness,4623 Enterprise Way,4/10/2020,3/31/2020,,Caldwell,ID,83605
+127,Idaho Health & Fitness,1450 E. Fairview Ave,4/10/2020,3/31/2020,,Meridian,ID,83642
+128,Black Bear Diner,7530 W. State Street,4/10/2020,3/21/2020,21,Boise,ID,83714
+129,Riverence Holdings (inlcudes Clear Spring Foods),1579-A Clear Lakes Grade,"4/3/2020, 4/15/2020, & 5/1/2020",4/3/2020,3,Buhl,ID,83316
+130,Riverence Holdings (inlcudes Clear Spring Foods),1585-A Clear Lakes Grade,"4/3/2020, 4/15/2020, & 5/1/2020",4/3/2020,,Buhl,ID,83316
+131,Riverence Holdings (inlcudes Clear Spring Foods),4424 North 1500 East,"4/3/2020, 4/15/2020, & 5/1/2020",4/3/2020,,Buhl,ID,83316
+132,Riverence Holdings (inlcudes Clear Spring Foods),4074 N 2000 E,"4/3/2020, 4/15/2020, & 5/1/2020",4/3/2020,5,Filer,ID,83328
+133,Riverence Holdings (inlcudes Clear Spring Foods),4424 N 1500 E,"4/3/2020, 4/15/2020, & 5/1/2020",4/15/2020,13,Buhl,ID,83316
+134,Riverence Holdings (inlcudes Clear Spring Foods),1200 E. Burley Ave.,"4/3/2020, 4/15/2020, & 5/1/2020",4/15/2020,,Buhl,ID,83316
+135,Riverence Holdings (inlcudes Clear Spring Foods),4864 N 1115 E,"4/3/2020, 4/15/2020, & 5/1/2020",4/15/2020,,Buhl,ID,83316
+136,Riverence Holdings (inlcudes Clear Spring Foods),1579-A Clear Lakes Grade,"4/3/2020, 4/15/2020, & 5/1/2020",4/15/2020,81,Buhl,ID,83316
+137,Riverence Holdings (inlcudes Clear Spring Foods),1585-A Clear Lakes Grade,"4/3/2020, 4/15/2020, & 5/1/2020",4/15/2020,,Buhl,ID,83316
+138,Riverence Holdings (inlcudes Clear Spring Foods),1581 Clear Lakes Grade,"4/3/2020, 4/15/2020, & 5/1/2020",4/15/2020,,Buhl,ID,83316
+139,Riverence Holdings (inlcudes Clear Spring Foods),2288 Niagra Springs Grade,"4/3/2020, 4/15/2020, & 5/1/2020",4/15/2020,,Wendell,ID,83355
+140,Riverence Holdings (inlcudes Clear Spring Foods),3069 Magic Springs Rd,"4/3/2020, 4/15/2020, & 5/1/2020",4/15/2020,9,Hagerman,ID,83332
+141,Riverence Holdings (inlcudes Clear Spring Foods),2928 S 1175 E,"4/3/2020, 4/15/2020, & 5/1/2020",4/15/2020,,Hagerman,ID,83332
+142,Riverence Holdings (inlcudes Clear Spring Foods),4074 N 2000 E,"4/3/2020, 4/15/2020, & 5/1/2020",4/15/2020,43,Filer,ID,83328
+143,Riverence Holdings (inlcudes Clear Spring Foods),222 Warm Creek Road,"4/3/2020, 4/15/2020, & 5/1/2020",4/15/2020,8,Jerome,ID,83328
+144,Riverence Holdings (inlcudes Clear Spring Foods),1579-A Clear Lakes Grade,"4/3/2020, 4/15/2020, & 5/1/2020",5/1/2020,2,Buhl,ID,83316
+145,Boise Cascade - Homedale Beam Plant,4318 Pioneer Rd,4/16/2020,4/15/2020,10,Homedale,ID,83628
+146,Potlatch,2200 Railroad Ave,4/13/2020 (rec'd 4/20/2020),4/20/2020,164,St. Maries,ID,83861
+147,ATCO,3770 Poleline Road,4/21/2020,6/19/2020,158,Pocatello,ID,83201
+148,Community Partnerships of Idaho,3076 N Five Mile Rd,4/27/2020,4/13/2020,65,Boise,ID,83713
+149,Community Partnerships of Idaho,608 S. Washington,4/27/2020,4/27/2020,10,Emmett,ID,83617
+150,Community Partnerships of Idaho,803 N.W. 13th St.,4/27/2020,4/27/2020,17,Fruitland,ID,83619
+151,Community Partnerships of Idaho,1993 E. 8th St. N,4/27/2020,4/13/2020,27,Mountain Home,ID,83647
+152,Community Partnerships of Idaho,"2585 Nampa Caldwell Blvd, Ste 105",4/27/2020,4/27/2020,10,Nampa,ID,83651
+153,Community Partnerships of Idaho,1092 Eastland Dr. Ste. A & B,4/27/2020,4/27/2020,16,Twin Falls,ID,83301
+154,IVI Hotel Management of Washington,"Springhill Suites, 424 E. Parkcenter Blvd.",4/29/2020 (Rec'd 5/5/2020),3/20/2020,39,Boise,ID,83706
+155,IVI Hotel Management of Washington,"Residence Inn, 1401 S. Lusk Pl.",4/29/2020 (Rec'd 5/5/2020),3/20/2020,20,Boise,ID,83706
+156,Advance Thermoplastic Composites,1224 N. Lean St.,5/28/2020,6/17/2020,34,Post Falls,ID,83854
+157,Raymond Management Co. (RMC)- Hampton Inn and Suites Hotel,495 Capitol Blvd.,7/2/2020,6/30/2020,20,Boise,ID,83702
+158,DNCTHS Boise Partners (Delaware North),"3201 Airport Way, Ste 350",6/30/2020 (rec'd 7/6/2020),6/30/2020,4,Boise,ID,83705
+159,Alaska Airlines - Boise Reservations,1399 S. Eagle Flight Way,8/6/2020,10/1/2020,147,Boise,ID,83709
+160,Bodybuilding.com,5777 N. Meeker Ave.,8/19/2020,8/21/2020,76,Boise,ID,83313
+161,P.F. Chang's,391 South 8th Street,9/18/2020,10/1/2020,75,Boise,ID,83702
+162,Sodexo (Nampa Civic Center),311 3rd St. S.,11/6/2020,3/15/2020,79,Nampa,ID,83651
+163,SYKES,11331 W. Chinden Blvd.,1/26/2021,3/31/2021,370,Boise,ID,83704
+164,Perspecta,2487 W. Navigator Dr.,4/16/2021,6/4/2021,302,Meridian,ID,83642
+165,Peraton,2488 W. Navigator Dr.,7/6/2021,6/30/2021,86,Meridian,ID,83643
+166,Aramark (BSU),1910 University Dr.,3/17/2022,5/20/2022,271,Boise,ID,83725
+167,Ready Responders,No Address Supplied - Remote Work,2/18/22 (rec'd 3/21/22),2/16/2022,1,Boise,ID,83725
+168,"Packers Sanitation Services, Inc. (PSSI)",22303 Hwy 95,9/29/2022,10/21/2022,58,Wilder,ID,83676
+169,Inspiro,200 W. Hanley Ave. #13,9/29/2022,11/30/2022,80-100,CDA,ID,83815
+170,Rume Health LLC,784 S Clearwater Loop Ste B,12/7/2022,2/26/2023,1,Post Falls,ID,83854
+171,Western Idaho Cabinets,8025 W. Woodlark St.,1/11/2023,1/31/2023,55,Boise,ID,83709
+172,"Specialized Bycicyle Components, Inc.",15130 Concord Circle,1/11/2023,1/13/2023,120 (2 in ID),Morgan Hill,CA,95037
+173,"Track Utilities, LLC",441 West Corporate Dr.,2/6/2023,4/24/2023,152,Meridian,ID,83642
+174,"St. Luke's Health System, Ltd.",190 E. Bannock St.,2/8/2023,4/21/2023,194,Boise,ID,83712
+175,Management & Training Corporation - affected site - Idaho Correctional Alternative Placement Program (CAPP),15505 S. Pleasant Valley Rd.,5/1/2023,7/1/2023,82,Kuna,ID,83634
+176,Matheson Postal Services,9785 Goethe Rd.,6/9/2023,6/30/2023,48,Sacramento,CA,95827
+177,Yellow Corporations,10990 Roe Ave.,7/30/2023,7/30/2023,22000 (102 in ID),Overland Park,KN,66211
+178,"KeHE Distributors, Inc.",1245 E. Diehl Rd. #200,8/3/2023,10/6/2023,106 (17 in ID),Naperville,IL,60563
+179,Centerra,"13530 Dulles Technology Drive, Suite 500",8/10/2023,9/30/2023,39,Herndon,VA,20171
+180,"American Nursery Services, Inc.",PO Box 3231,9/5/2023,12/31/2023,TBD,Newbuerg,OR,97132

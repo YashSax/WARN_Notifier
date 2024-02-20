@@ -1,0 +1,972 @@
+,company_name,location,notice_date,layoff_date,employees_affected,Address,Closure,Layoff,Permanent Reduction
+0,Ball Advanced Aluminum Technologies,Verona,11/01/2023,12/31/2023,73,56 Dunsmore Road,Yes,No,No
+1,Cygnus Home Service,Chester,10/25/2023,12/15/2023,9,13100 Ramblewood Drive,Yes,No,No
+2,"NE Virginia Emergency Physicians, LLC",Fairfax,10/24/2023,12/31/2023,137,3300 Gallows Road,No,Yes,No
+3,"Morgan Olson, LLC",Ringgold,10/23/2023,12/22/2023,435,100 Morgan Olson Way,No,Yes,No
+4,BioSteel Sports Nutrition (Canopy Group),Verona,09/14/2023,09/14/2023,79,33 Lakeview Court,Yes,No,No
+5,HII Mission Technologies (Alion Technology),Norfolk,09/12/2023,09/29/2023,157,"5360 Robinhood Road, Suite 300",No,Yes,No
+6,"Thriveworks Administrative Services, LLC",Lynchburg,09/11/2023,11/30/2023,3,"1000 Jefferson Street, Suite 2C",No,Yes,No
+7,Giant Delivers,Manassas,08/28/2023,10/21/2023,72,"7413 Cushin Road, Suite 160",Yes,No,No
+8,CVS Health,Ashland,08/18/2023,10/21/2023,43,9555 Kings  Charter Drive,Yes,No,No
+9,WayForth,Richmond,08/11/2023,08/11/2023,78,"1518 Willow Lawn Drive, Suite 300",No,Yes,No
+10,Parkdale,Hillsville,08/10/2023,10/09/2023,326,1 Advance Technology Drive,Yes,No,No
+11,CTR Management Group LLC,Tysons,07/31/2023,08/30/2023,93,"1775 Tysons Blvd., 5th Floor",Yes,No,No
+12,Yellow Trucking (YRC Freight) Teamsters Local 822,Chesapeake,07/30/2023,07/30/2023,37,1313 Cavalier Boulevard,Yes,No,No
+13,Yellow Trucking (YRC Freight) Teamsters Local 29,Fishersville,07/30/2023,07/30/2023,24,53 Expo Road,Yes,No,No
+14,Yellow Trucking (YRC Freight) Teamsters Local 639,Manassas,07/30/2023,07/30/2023,23,10451 Colonial Court,Yes,No,No
+15,Yellow Trucking (YRC Freight) Teamsters Local 592,Chesterfield,07/30/2023,07/30/2023,70,9600 Express Lane,Yes,No,No
+16,Yellow Trucking (YRC Freight) Teamsters Local 171,Roanoke,07/30/2023,07/30/2023,24,"1665 Seibel Drive, NE",Yes,No,No
+17,QOMPLX,Tysons,07/20/2023,08/01/2023,60,"1775 Tysons Blvd., Suite 800",Yes,No,No
+18,"Portfolio Recovery Associates, LLC (PRA Group Inc.)","Danville,",07/18/2023,10/20/2023,123, 119 Cane Creek Blvd ,Yes,No,No
+19,"Wellmore Energy Company, LLC (Black Watch Operations)", Grundy,07/11/2023,09/10/2023,1,1209 Old Rock Road,No,Yes,No
+20,"Wellmore Energy Compnay, LLC (Black Watch Shop and Central Warehouse)",Big Rock,07/11/2023,09/10/2023,3,1395 BD Shop Road,No,Yes,No
+21,"Wellmore Energy Company, LLC (Company Trucks, Safety and Engineering)",Grundy,07/11/2023,09/10/2023,12,1073 Riverview Street,No,Yes,No
+22,"Wellmore Energy Company, LLC (Elk Creek) ",Hurley,07/11/2023,09/10/2023,58,2493 Elk Creek Drive,No,Yes,No
+23,"Wellmore Energy Company, LLC (Laboratory)",Big Rock,07/11/2023,09/10/2023,2,1236 Home Creek Road,No,Yes,No
+24,"Wellmore Energy Company, LLC (Paw Paw 2 North)",Hurley,07/11/2023,09/10/2023,20,16721 Hurley Road,No,Yes,No
+25,"Wellmore Energy Company, LLC (Paw Paw 2 South)",Big Rock,07/11/2023,09/10/2023,39,3113 Old Rock Lick Road,No,Yes,No
+26,"Wellmore Energy Company, LLC (Surface Minerals) ",Grundy,07/11/2023,09/10/2023,15,2845 Convict Hollow Road,No,Yes,No
+27,Walmart Neighborhood Market (Store 3885),Bentonville,07/11/2023,10/06/2023,98,702 SW 8th Street,Yes,No,No
+28,"Compass Group USA, Inc",McLean,06/30/2023,09/01/2023,220,1600 Capital One Drive,No,Yes,No
+29,"VIRTEX PPI/Time Zero, Inc.  (Waynesboro, VA Plant)",Austin,06/21/2023,08/21/2023,76,16310 Bratton Lane,Yes,No,No
+30,"Marine Hydraulics International, LLC (MHI)",Norfolk,06/19/2023,08/21/2023,139,543 East Indian River Road,No,Yes,No
+31,INMET Mining,Knoxville,06/16/2023,06/22/2023,258,144E Market Place Blvd,Yes,No,No
+32,The Yankee Candle Company Inc.,Blairs,06/16/2023,07/31/2023,58,200 Toy Lane ,Yes,No,No
+33,"Watermark Retirement Communities, LLC",Tucson,06/09/2023,08/08/2023,94,"4578 N. 1st Ave., Suite 160",No,Yes,No
+34,"Science Systems and Applications, Inc. (SSAI)",Lanham,04/26/2023,05/31/2023,199,"10210 Greenbelt Road, Ste. 600",No,Yes,No
+35,Dollar Tree - Chesapeake,Chesapeake,04/19/2023,06/23/2023,90,500 Volvo Parkway,No,Yes,No
+36,"American Anesthesiology Association of Virginia, Inc",Falls Church,04/11/2023,06/11/2023,172,3300 Gallows Road,Yes,No,No
+37,National Institute of Aerospace,Hampton,03/31/2023,05/31/2023,65,100 Exploration Way,No,Yes,No
+38,Gannett,McLean,03/16/2023,03/16/2023,44,7950 Jones Branch Drive,No,Yes,No
+39,Target-T3295 Store,Falls Church,03/13/2023,05/13/2023,28,500 S. Washington Street,Yes,No,No
+40,"Tyson Foods, Inc.",Springdale,03/13/2023,05/12/2023,612,2200 W. Don Tyson Parkway,Yes,No,No
+41,"Tyson Foods, Inc",Springdale,03/13/2023,05/12/2023,60,2200 W. Don Tyson Parkway,Yes,No,No
+42,Morrison Healthcare (Maryview Medical Center),Portsmouth,03/13/2023,05/07/2023,74,3636 High Street,No,Yes,No
+43,"Golden SVCS, LLC",Oak Ridge,01/11/2023,02/28/2023,26,1936 Oak Ridge Turnpike,Yes,No,No
+44," Specialized Bicycle Components, Inc",Morgan Hill,01/11/2023,01/13/2023,1,15130 Concord Circle,No,Yes,No
+45, American  Electronics Inc. (Amelex),Arlington,01/05/2023,03/10/2023,78,"1225 South Clark St, Suite 500",No,Yes,No
+46,Custom Ink,Charlottesville,01/03/2023,03/04/2023,175,"1180 Seminole Trail, Suite 147",Yes,No,No
+47,"DTSV, Inc.",Arlington,12/01/2022,01/31/2023,74,2200 Crystal Drive,No,Yes,No
+48,Newell Brands (Yankee Candle Co. Inc.),Forest,11/01/2022,12/31/2022,187,1000 Dillard Drive,Yes,No,No
+49,AM LLC,Leesburg,10/31/2022,12/30/2022,25,"161 Fort Even Rd NE, Suite 250",No,Yes,No
+50,"Starry, Inc",Arlington,10/20/2022,10/21/2022,53,"3330 Washington Blvd, Suite 600",No,Yes,No
+51,Golden Services. LLC ,Fairfax,10/18/2022,12/01/2022,34,2675 Prosperity Avenue,No,Yes,No
+52,Genesis Logistics Inc.,Franconia,10/18/2022,01/15/2022,86," 6306 Gravel Road, Section 1, Building 3",Yes,No,No
+53,Genesis Logistics,Richmond,10/18/2022,08/12/2023,35,6601 S. Laburnum Avenue,Yes,No,No
+54,Helpware Inc.,Martinsville,10/17/2022,09/23/2022,127,300 Franklin Street Suite 228,Yes,No,No
+55,VSE Corporation,Alexandria ,10/04/2022,11/30/2022,180,6348 Walker Lane ,No,Yes,No
+56,First Transit,Richmond,08/05/2022,12/01/2022,95,301 East Belt Blvd,No,Yes,No
+57,Sodexo,Roanoke,06/21/2022,06/30/2022,98,201 Campbell Ave SW,Yes,No,No
+58,Amentum (PAE Shared Services LLC),Virginia Beach,06/15/2022,08/11/2022,42,601 Oceana Boulevard Bldg 304,No,Yes,No
+59,Liberty Source PBC,Hampton,06/10/2022,06/30/2022,76,355 Fenwick Road,No,Yes,No
+60,"ID.me, Inc. ","McLean,",06/07/2022,06/07/2022,54,"8280 Greensboro Drive, Suite 800",No,Yes,No
+61,VIPdesk Connect,Alexandria,05/27/2022,07/29/2022,6,"908 King Street, Ste 400W",No,Yes,No
+62,AM LLC,Leesburg,05/05/2022,05/04/2022,175,"161 Fort Evans Road, NE, Suite 250",No,Yes,No
+63,SSB Manufacturing Company,Fredericksburg,04/29/2022,06/30/2022,128,9601Cosner Drive,Yes,No,No
+64,Imagine One Technology & Management ,Norfolk,04/28/2022,06/28/2022,187,"2510 Walmer Ave., Ste. A",No,Yes,No
+65,CACI NAVSEA03S Digital & Industrial Operations,Norfolk,04/28/2022,06/28/2022,80,2510 Walmer Avenue,No,Yes,No
+66,Crothall Healthcare,"Chesapeake,",04/14/2022,06/30/2022,91,736 North Battlefield Boulevard,No,Yes,No
+67,Lakeside Book Company,Harrisonburg,04/05/2022,06/03/2022,80,1433 Pleasant Valley Road,Yes,No,No
+68,Packers Sanitation Services Inc. (PSSI),Smithfield,03/31/2022,03/03/2022,85,601 North Church Street,No,Yes,No
+69,"CACI Technologies, LLC",Norfolk,03/07/2022,05/06/2022,102,"NAVSUP FLC, Code 200 1968 Gilbert Street",No,Yes,No
+70,"GALA North America, Inc.","Dublin,",03/07/2022,03/07/2022,82, 3994 Pepperell Way,No,Yes,No
+71,Peloton,Alexandria,02/08/2022,02/08/2022,81,"6304 Gravel Ave, Suite E",Yes,No,No
+72, ABM Industry Group Inc.,Alexandria,01/19/2022,02/28/2022,85,103 Clermont Ave,No,Yes,No
+73,ABM Industry Group Inc.,Alexandria,01/19/2022,02/28/2022,27,103 Clermont Ave,No,Yes,No
+74,ABM Industry Group Inc.,Alexandria,01/19/2022,02/28/2022,25,103 Clermont Ave,No,Yes,No
+75,Serco Inc.,Clintwood,01/19/2022,03/31/2022,163,539 Technology Drive,Yes,No,No
+76,The Logistics Company,Fort Eustis,01/07/2022,03/11/2022,47,1411 Washington Boulevard,No,Yes,No
+77,Odle Management Group,Monroe,10/29/2021,12/25/2021,130,1073 Father Judge Road,No,Yes,No
+78,Essex Bank,Henrico,10/29/2021,12/28/2021,51,"9954 Mayland Drive, Suite 2100",Yes,No,No
+79,Transdev,Lorton,10/26/2021,12/29/2021,137,7900 Cinder Bed Road,No,Yes,No
+80,The Logistics Company,Ft Eustis,10/08/2021,12/07/2021,45,1411 Washingtn Blvd,No,Yes,No
+81,Five Star U Street Parking (DCA),Arlington,07/30/2021,09/30/2021,109,2401 Smith Blvd,No,Yes,No
+82,Five Star U Street Parking (IAD),Dulles,07/30/2021,09/30/2021,106,1 Saarinen Cir,No,Yes,No
+83,The Logistics Company,Fayetteville,07/09/2021,09/07/2021,41,3400 Walsh Parkway,No,Yes,No
+84,The Logistics Company,Fayetteville,07/09/2021,09/07/2021,119,3400 Walsh Parkway,No,Yes,No
+85,Capital One,Richmond,06/30/2021,09/07/2021,147,15000 Capital One Drive,No,Yes,No
+86,Genetworx,Glen Allen,06/18/2021,06/18/2021,31,4060 Innslake Drive,No,Yes,No
+87,Genetworx,Glen Allen,06/18/2021,06/18/2021,24,4144 Innslake Drive,No,Yes,No
+88,Genetworx,Glen Allen,06/18/2021,06/18/2021,6,1000 Technology Park Drive,No,Yes,No
+89,General Dynamics Information Technology (GDIT),Chantilly,06/16/2021,08/16/2021,73,15036 Conference Center Drive,No,Yes,No
+90,Smithfield Fresh Meats Corporation (Pet Foods),Smithfield,06/07/2021,08/06/2021,59,501 North Church Street,No,Yes,No
+91,OMNIPLEX World Services,Chantilly,06/04/2021,06/30/2021,258,"14151 Park Meadow Drive, Suite 300",No,Yes,No
+92,Marriott - Key Bridge,Arlington,05/27/2021,07/27/2021,89,1401 Lee Highway,No,Yes,No
+93,Rosetta Stone,Arlington,05/11/2021,07/11/2021,97,"1621 N Kent St, Suite 1200",No,Yes,No
+94,Rosetta Stone,Harrisonburg,05/11/2021,07/11/2021,64,135 West Market Street,No,Yes,No
+95,"PAE Shared Services, LLC",Norfolk,04/30/2021,06/30/2021,48,1224 Pocahontas Street ,No,Yes,No
+96,Global Safety Textiles (GST),Sout Hill,04/29/2021,06/30/2021,130,1556 Montgomery Street,Yes,No,No
+97,"Perspecta, Inc.",Chantilly,04/16/2021,06/04/2021,374,14295 Park Meadow Drive,No,Yes,No
+98,Perspecta Inc.,Chantilly,04/16/2021,06/04/2021,107,14295 Park Meadows Drive,No,Yes,No
+99,"Kepro (Keystone Peer Review Organization, Inc)",Nashville,04/12/2021,07/12/2021,9,801 Royal Parkway,Yes,No,No
+100,General Dynamics Information Technology (GDIT),Fairfax,03/30/2021,05/28/2021,180,3211 Jermantown Road,No,Yes,No
+101,Southeast Frozen Foods,Miramar,03/25/2021,03/24/2021,68,3261 Executive Way,Yes,No,No
+102,The  J.M. Smuckers Company,Orrville,03/23/2021,04/01/2022,76,One Strawberry Lane,Yes,No,No
+103,Hanesbrand Inc.,Stuart,03/16/2021,07/31/2021,146,138 Elamsville Road,Yes,No,No
+104,"American Green Building Maintenance, Inc.",Aldie,02/03/2021,03/31/2021,150,23937 Mill Wheel Place,No,Yes,No
+105,First Transit,Cincinnati,02/01/2021,04/01/2021,68,600 Vine Street,No,Yes,No
+106,Aramark,Philadelphia,01/29/2021,01/01/2021,98,*Due to COVID-19,No,Yes,No
+107,Flying Food Group,Chicago,01/29/2021,04/01/2021,74,"212 N. Sangamon Street, Suite 1A",No,Yes,No
+108,Aramark,Chesapeake,01/29/2021,01/29/2021,17,*Due to COVID-19,No,Yes,No
+109,Air Wisconsin Airline ,Appleton,01/28/2021,04/01/2021,140,"W6390 Challenger Drive, Suite 203",No,Yes,No
+110,"Transdev, Inc.",Leesburg,01/27/2021,03/31/2021,112,42031 Loudoun Center Place,No,Yes,No
+111,Genworth,Richmond,01/26/2021,03/27/2021,95,6620 West Broad Street,No,Yes,No
+112,Wells Fargo,Charlotte,01/21/2021,03/21/2021,320,"8740 Research Drive, 2nd floor",No,Yes,No
+113,"Joy Global Underground Mining, LLC. (Komatsu Mining Corp. Group)",Bluefield,01/11/2021,03/15/2021,128,1081 Hockman Pike,Yes,No,No
+114,"Wellmore Coal Company, LLC",Grundy,12/22/2020,12/22/2020,61,1073 River View Street,Yes,No,No
+115,Rolls-Royce North America,Prince George,12/16/2020,03/05/2021,187,8800 Wells Station Road,Yes,No,No
+116,Southwest Airlines Co.,Dallas,12/03/2020,03/15/2021,60,*Due to COVID-19,No,Yes,No
+117,"TitleMax of Virginia, Inc. and TMX Finance of Virginia, Inc.",Savannah,11/30/2020,01/16/2021,38,"15 Bull Street, Suite 200",Yes,No,No
+118,"TitleMax of Virginia, Inc. and TMX Finance of Virginia, Inc. ",Savannah,11/30/2020,01/16/2021,55,"15 Bull Street, Suite 200",Yes,No,No
+119,"TitleMax of Virginia, Inc. and TMX Finance of Virginia, Inc.",Savannah,11/30/2020,01/16/2021,46,"15 Bull Street, Suite 200",Yes,No,No
+120,"TitleMax of Virginia, Inc. and TMX Finance of Virginia, Inc.",Savannah,11/30/2020,01/16/2021,17,"15 Bull Street, Suite 200",Yes,No,No
+121,"TitleMax of Virginia, Inc. and TMX Finance of Virginia, Inc.",Savannah,11/30/2020,01/16/2021,10,"15 Bull Street, Suite 200",Yes,No,No
+122,Washington Metropolitan Area Transit Authority (WMATA),Washington,11/23/2020,01/23/2020,1141,"600 Fifth Street, NW",No,Yes,No
+123,InSite Wireless,Alexandria,11/18/2020,01/29/2021,32,"1199 N Fairfax Street, Suite 700",No,Yes,No
+124,National Conference Center,Leesburg,11/18/2020,01/18/2021,180,*Due to COVID-19,No,Yes,No
+125,Sur La Table,Richmond,11/17/2020,09/01/2020,29,*Due to COVID-19,No,Yes,No
+126,Sur La Table,Alexandria,11/17/2020,09/01/2020,29,*Due to COVID-19,No,Yes,No
+127,The Airlie Hotel,Warrenton,10/26/2020,03/18/2020,95,*Due to COVID-19,No,Yes,No
+128,RGI Laundry (Goodwill Rappahannock),Fredericksburg,10/23/2020,12/31/2020,20,480 Central Road,No,Yes,No
+129,VCU Health System,Richmond,10/15/2020,12/19/2020,635,"1012 E. Marshall St., 3rd Floor, Room 303",No,Yes,No
+130,"Kinyo Virginia Beach, INC",Newport News,10/12/2020,12/31/2020,59,290 Enterprise Drive,No,Yes,No
+131,SMI Hotel Group,Richmond,10/06/2020,04/01/2020,77,*Due to COVID-19,No,Yes,No
+132,LE TOTE Inc,New York,10/01/2020,12/01/2020,49,"250 Vesey Street, 22nd Floor",Yes,No,No
+133,Busch Gardens Williamsburg,Williamsburg,09/30/2020,04/01/2020,1810,*Due to COVID-19,No,Yes,No
+134,Omni Richmond Hotel,Richmond,09/18/2020,03/19/2020,103,*Due to Covid-19,No,Yes,No
+135,Compass/Flik (dba UVA Inn at Darden),Charlottesville,09/18/2020,09/30/2020,56,*Due to COVID-19,No,Yes,No
+136,Amentum,Virginia Beach ,09/17/2020,10/26/2020,91,"601 Oceana Boulevard, BLDG 330",No,Yes,No
+137,OMNI Charlottesville Hotel,Charlottesville,09/17/2020,03/18/2020,101,*Due to COVID-19,No,Yes,No
+138,P.F. Chang's China Bistro,Scottsdale,09/17/2020,03/17/2020,306,*Due to Covid-19,Yes,No,No
+139,P.F. Chang's China Bistro,Scottsdale ,09/17/2020,03/17/2020,75,*Due to Covid-19,No,Yes,No
+140,Avis Budget Car Rental,Parsippany,08/31/2020,09/02/2020,27,379 Parsippany Road ,No,Yes,No
+141,Avis Budget Car Rental,,08/31/2020,09/04/2020,4, 379 Parsippany Road,No,Yes,No
+142,Avis Budget Group,Parsippany,08/31/2020,09/04/2020,86,379 Parsippany Road,No,Yes,No
+143,Marriott - Richmond,Richmond,08/28/2020,08/31/2020,50,500 East Broad Street,No,Yes,No
+144,"PostalMile, Inc. ",Duluth,08/11/2020,08/28/2020,31," 2750 Premiere Pkwy, Suite 900",No,Yes,No
+145,PostalMile Inc,Duluth,08/11/2020,08/28/2020,61,"2750 Premiere Pkwy, Ste 900",No,Yes,No
+146,Sodexo,Williamsburg,07/31/2020,08/31/2020,80,1100 Executive Drive,No,Yes,No
+147,ExpressJet Airlines LLC,Richmond,07/17/2020,10/01/2020,36,*Due to COVID-19,No,Yes,No
+148,PSA Airlines (ORF),Norfolk,07/17/2020,10/01/2020,87,2200 Norview Avenue,No,Yes,No
+149,PSA Airlines (DCA),Arlington,07/17/2020,10/01/2020,270,*Due to COVID-19,No,Yes,No
+150,Paradise Lagardere,Dulles,07/16/2020,03/15/2020,330,*Due to COVID-19,No,Yes,No
+151,"Yoga Works, Inc.",Arlington,07/14/2020,10/01/1973,73,*Due to COVID-19,No,Yes,No
+152,"Yoga Works, Inc",Fairfax,07/09/2020,10/01/2020,42,*Due to Covid-19,No,Yes,No
+153,United Airlines (Ronald Reagan Washington National Airport),Arlington,07/08/2020,10/01/2020,116,2401 Smith Boulevard,No,Yes,No
+154,United Airlines (Washington Dulles International Airport),Dulles,07/08/2020,10/01/2020,3036,1 Saarinen Circle,No,Yes,No
+155,"Delaware North Companies, Inc. ",Buffalo,06/30/2020,03/30/2020,80,*Due to COVID-19,No,Yes,No
+156,Swissport (Ronald Reagan Washington National Airport),Arlington,06/22/2020,06/22/2020,10,*Due to COVID-19,No,Yes,No
+157,Swissport (Dulles International Airport),Dulles,06/22/2020,06/22/2020,479,*Due to COVID-19,No,Yes,No
+158,The Alexandrian Hotel,Alexandria,06/19/2020,06/11/2020,59,480 King Street,No,Yes,No
+159,Hyatt Regency Tysons Corner Center,Tysons Corner,06/19/2020,03/22/2020,54,*Due to COVID-19,No,Yes,No
+160,Advance Auto Parts,Roanoke,06/12/2020,08/14/2020,94,5008 Airport Road,No,Yes,No
+161,Marriott-Crystal Gateway,Arlington,06/05/2020,03/16/2020,308,*Due to COVID-19,No,Yes,No
+162,Marriott-Westfields Washington Dulles-,Chantilly,06/05/2020,03/18/2020,167,*Due to COVID-19,No,Yes,No
+163,"Marriott Hotel Services, Inc. ",Dulles,06/05/2020,03/18/2020,105,*Due to COVID-19,No,Yes,No
+164,Tysons Corner Marriott,Vienna,06/05/2020,03/21/2020,120,*Due to COVID-19,No,Yes,No
+165,The Ritz Carlton Tysons Corner,McLean,06/05/2020,03/21/2020,344,*Due to COVID-19,No,Yes,No
+166,Joy Global Underground Mining (Komatsu Mining Corp. Group),Bluefield,06/05/2020,06/05/2020,71,1081 Hockman Pike,No,Yes,No
+167,Marriott -Crystal City at Reagan National Airport,Arlington,06/05/2020,03/16/2020,176,*Due to COVID-19,No,Yes,No
+168,Marriott Falls Church Fairview Park,Falls Church,06/04/2020,03/17/2020,164,*Due to COVID-19,No,Yes,No
+169,Residence Inn Arlington Pentagon City,Arlington,06/03/2020,03/17/2020,75,*Due to COVID-19,No,Yes,No
+170,The Ritz Carlton Pentagon City,Arlington,06/03/2020,03/14/2020,240,*Due to COVID-19,No,Yes,No
+171,Residence Inn Arlington Capital View , Arlington ,06/03/2020,03/14/2020,60,*Due to COVID-19,No,Yes,No
+172,Courtyard (by Marriott) - Arlington Crystal City/Reagan National Airport,Arlington,06/02/2020,03/08/2020,68,*Due to COVID-19,No,Yes,No
+173,Marriott Key Bridge,Arlington,06/02/2020,03/17/2020,202,*Due to COVID-19,No,Yes,No
+174,Hyatt Regency-Crystal City,Arlington,06/02/2020,03/13/2020,151,*Due to COVID-19,No,Yes,No
+175,NortonLifeLock Inc.,Mountain View,06/01/2020,07/01/2020,6,350 Ellis Street,No,Yes,No
+176,Le Meridien Arlington,Arlington,05/29/2020,05/27/2020,44,*Due to COVID-19,No,Yes,No
+177,The Westin - Reston Heights,Reston,05/27/2020,05/26/2020,32,*Due to COVID-19,No,Yes,No
+178," The Virginian~Pilot Media Companies, LLC ",Virginia Beach,05/26/2020,07/26/2020,131,5429 Greenwich Road,Yes,No,No
+179,Hyatt Regency Reston,Reston,05/26/2020,03/17/2020,88,*Due to COVID-19,No,Yes,No
+180, Sheraton Pentagon City ,Arlington,05/26/2020,05/26/2020,100,*Due to COVID-19,No,Yes,No
+181,"Embassy Suites Tysons Corner (Merritt Hospitality, LLC) ",Vienna,05/25/2020,05/25/2020,42,*Due to COVID-19,No,Yes,No
+182,Hilton Alexandria Mark Center,Alexandria,05/22/2020,05/04/2020,177,*Due to COVID-19,No,Yes,No
+183, Gate Gourmet Inc. ,Dulles,05/18/2020,02/29/2020,330,44845 Package Court,No,Yes,No
+184,B. F. Saul Company Hospitality Group (Holiday Inn Dulles),Bethesda,05/18/2020,03/24/2020,52,*Due to COVID-19,No,Yes,No
+185,B. F. Saul Company Hospitality Group (Holiday Inn National Airport),Bethesda,05/18/2020,03/24/2020,52,*Due to COVID-19,No,Yes,No
+186,B. F. Saul Company Hospitality Group (Doubletree Tysons) ,Bethesda,05/18/2020,03/24/2020,57,*Due to Covid-19,No,Yes,No
+187,B. F. Saul Company Hospitality Group (Crowne Plaza National Airport),Bethesda,05/18/2020,03/24/2020,50,*Due to COVID-19,No,Yes,No
+188,Amentum,Chantilly,05/18/2020,06/16/2020,40,"4800 Westfields Blvd., Suite 400",No,Yes,No
+189, Salamander Resort & Spa,Middleburg,05/15/2020,03/23/2020,225,500 N. Pendleton Street,No,Yes,No
+190,Cerner Corporation,Kansas City,05/15/2020,07/15/2020,1,2800 Rock Creek Pkwy,No,Yes,No
+191,Hilton Arlington & Towers Hotel,Arlington,05/13/2020,05/31/2020,98,*Due to COVID-19,No,Yes,No
+192,Nordstrom,Seattle,05/12/2020,05/14/2020,189,"1700 7th Ave., Suite 1000",Yes,No,No
+193,Atrium Hospitality Embassy Suites Hampton,Hampton,05/12/2020,03/12/2020,130,*Due to COVID-19,No,Yes,No
+194,Cox Automotive,Atlanta ,05/08/2020,05/17/2020,149,*Due to COVID-19,No,Yes,No
+195,Cox Automotive,Atlanta,05/08/2020,05/17/2020,55,*Due to COVID-19,No,Yes,No
+196,Medical Faculty Associates,Washington,05/05/2020,07/05/2020,117,2150 Pennsylvania Ave NW,Yes,No,No
+197,Shutterfly Inc.,Redwood City,05/04/2020,05/15/2020,308,2800 Bridge Parkway,Yes,No,No
+198,Cenveo Corporation,Stamford,05/04/2020,05/04/2020,184,"200 First Stamford Place, Second Floor",Yes,No,No
+199,Barcelona Wine Bar,Reston,05/02/2020,03/18/2020,66,*Due to COVID-19,No,Yes,No
+200,Marriott Fairfax at Fair Oak,Fairfax,05/01/2020,03/21/2020,81,*Due to COVID-19,No,Yes,No
+201,"Unilin North America, LLC (Mohawk Flooring)",Danville,04/30/2020,06/30/2020,135,100 Maxine Road,Yes,No,No
+202,Holiday Inn Alexandria Old Town ,Alexandria ,04/30/2020,03/23/2020,5,*Due to COVID-19,No,Yes,No
+203,Regal Cinemas,Knoxville,04/29/2020,03/17/2020,67,*Due to COVID-19,No,Yes,No
+204,Bloomin' Brands (Bonefish Grill) ,Tampa,04/27/2020,03/15/2020,291,*Due to COVID-19,No,Yes,No
+205,Bloomin' Brands (Carrabba's Italian Grill) ,Tampa,04/27/2020,03/15/2020,224,*Due to COVID-19,No,Yes,No
+206,Bloomin' Brands (Fleming's),Tampa,04/27/2020,03/15/2020,45,*Due to COVID-19,No,Yes,No
+207,Bloomin' Brands (Outback Steakhouse),Tampa,04/27/2020,03/15/2020,455,*Due to COVID-19,No,Yes,No
+208,Bloomin' Brands (Outback Steakhouse) ,Tampa,04/27/2020,03/15/2020,281,*Due to COVID-19,No,Yes,No
+209,Bloomin' Brands (Outback Steakhouse),Tampa,04/27/2020,03/15/2020,177,*Due to COVID-19,No,Yes,No
+210,Bloomin' Brands (Bonfish Grill) ,Tampa,04/27/2020,03/21/2020,201,*Due to COVID-19,No,Yes,No
+211,Bloomin' Brands (Carrabba's Italian Grill) ,Tampa,04/27/2020,03/15/2020,59,*Due to COVID-19,No,Yes,No
+212,Bloomin' Brands (Carrabba's Italian Grill) ,Tampa,04/27/2020,03/21/2020,319,*Due to COVID-19,No,Yes,No
+213,Bloomin' Brands (Outback Steakhouse) ,Tampa,04/27/2020,03/21/2020,524,*Due to COVID-19,No,Yes,No
+214,Bloomin' Brands (Bonefish Grill),Tampa ,04/27/2020,03/21/2020,44,*Due to COVID-19,No,Yes,No
+215,Bloomin' Brands (Outback Steakhouse),Tampa ,04/27/2020,03/21/2020,384,*Due to COVID-19,No,Yes,No
+216,Bloomin's Brands (Outback Steakhouse) ,Tampa,04/27/2020,03/21/2020,326,*Due to COVID-19,No,Yes,No
+217,Bloomin' Brands (Bonefish Grill) ,Tampa,04/27/2020,03/21/2020,116,*Due to COVID-19,No,Yes,No
+218,Bloomin' Brands (Fleming's) ,Tampa ,04/27/2020,03/21/2020,40,*Due to COVID-19,No,Yes,No
+219,Bloomin' Brands (Carrabba's Italian Grill) ,Tampa,04/27/2020,03/21/2020,115,*Due to COVID-19,No,Yes,No
+220,Hilton Richmond Downtown,"New Orleans,",04/24/2020,03/23/2020,109,*COVID-19,No,Yes,No
+221,Enterprise Holdings,Williamsburg,04/24/2020,04/24/2020,84,323 Alexander Lee Parkway,No,Yes,No
+222,Enterprise Holdings,Williamsburg,04/24/2020,04/24/2020,78,323 Alexander Lee Parkway,No,Yes,No
+223,Hertz,Estero,04/24/2020,04/14/2020,50,8501 Williams Road,No,Yes,No
+224,"Visionworks, Inc. ","San Antonio,",04/23/2020,03/21/2020,6,*Due to COVID-19,No,Yes,No
+225,"Visionworks, Inc. ",San Antonio,04/23/2020,04/04/2020,19,*Due to COVID-19,No,Yes,No
+226,"Visionworks, Inc. ",San Antonio,04/23/2020,04/04/2020,1,*Due to COVID-19,No,Yes,No
+227,"Visionworks, Inc. ",San Antonio,04/23/2020,03/21/2020,99,*Due to COVID-19,No,Yes,No
+228,"Visionworks, Inc. ",San Antonio,04/23/2020,03/21/2020,44,*Due to COVID-19,No,Yes,No
+229,Eastern Specialty Finance Inc.,Cincinnati,04/21/2020,05/01/2020,5,*Due to COVID-19,No,Yes,No
+230,"Eastern Specialty Finance, Inc. ",Cincinnati ,04/21/2020,05/01/2020,4,*Due to COVID-19,No,Yes,No
+231,Enterprise Holdings ,Alexandria,04/20/2020,03/28/2020,77,*Due to COVID-19,No,Yes,No
+232,Eat'n Park Hospitality Group,Homestead,04/17/2020,03/09/2020,192,*Due to COVID-19,No,Yes,No
+233,The Tile Shop,Plymouth,04/15/2020,03/26/2020,12,14000 Carlson Parkway,Yes,No,No
+234,Hyatt Centric,Arlington,04/13/2020,03/18/2020,79,*Due to COVID-19,No,Yes,No
+235,Ames Cleaners and Formal Inc.,Hampton,04/13/2020,03/23/2020,25,*Due to COVID-19,No,Yes,No
+236,The Westin Virginia Beach Town Center,Fairfax,04/10/2020,03/25/2020,115,*Due to COVID-19,No,Yes,No
+237,Allied Aviation Fueling Co. ,Arlington,04/10/2020,04/10/2020,7,*Due to COVID-19,No,Yes,No
+238,Utility Trailer Manufacturing Company,Glade Spring,04/09/2020,06/09/2020,326,13160 Monroe Road,No,Yes,No
+239,Jim Koons Automotive Companies,Vienna,04/09/2020,03/23/2020,148,*Due to COVID-19,No,Yes,No
+240,Pleasant Valley Medical Center,Virginia Beach,04/09/2020,03/25/2020,2,*Due to COVID-19,No,Yes,No
+241,Sysco,Front Royal,04/08/2020,03/20/2020,111,*Due to COVID-19,No,Yes,No
+242,Sysco,Front Royal,04/08/2020,03/20/2020,17,Northeast Redistribution Center,No,Yes,No
+243,IGS,Richmond,04/08/2020,03/26/2020,73,*Due to COVID-19,No,Yes,No
+244,Kaiser Aluminum ,Foothill Ranch ,04/08/2020,04/03/2020,78,*Due to COVID-19,No,Yes,No
+245,Avianca ,Doral,04/07/2020,04/01/2020,4,*Due to COVID-19,No,Yes,No
+246,G2 Secure Staff,Irving,04/07/2020,03/27/2020,66,*COVID-19,No,Yes,No
+247,Washington Golf and Country Club,Arlington,04/06/2020,04/06/2020,188,*Due to COVID-19,No,Yes,No
+248,Miller's Ale House,Orlando,04/06/2020,03/21/2020,73,*Due to COVID-19,No,Yes,No
+249,Bear Down Logistics,Richmond,04/06/2020,04/08/2020,75,4101 Carolina Avenue,Yes,No,No
+250,OneWeb,McLean,04/03/2020,03/20/2020,301,*Due to COVID-19,No,Yes,No
+251,Westwood Country Club,Vienna,04/03/2020,04/06/2020,90,*Due to COVID-19,No,Yes,No
+252,Asbury Automotive Group-Richmond BMW,Duluth,04/03/2020,04/03/2020,11,*Due to COVID-19,No,Yes,No
+253,Asbury Automotive Group-Crown Acura,Duluth,04/03/2020,04/03/2020,8,*Due to COVID-19,No,Yes,No
+254,Asbury Automotive Group-Crown MINI,Duluth,04/03/2020,04/06/2020,6,*Due to COVID-19,No,Yes,No
+255,Asbury Automotive Group - Richmond BMW Midlothian ,Duluth ,04/03/2020,04/03/2020,16,*Due to COVID-19,No,Yes,No
+256,Benihana National Corporation,Aventura,04/02/2020,03/17/2020,22,*Due to COVID-19,No,Yes,No
+257,"Trump National Golf Club Washington, D.C., LLC",Potomac Falls,04/02/2020,04/02/2020,102,*Due to COVID-19,No,Yes,No
+258,"DTI Management, LLC ",Arlington,04/01/2020,04/01/2020,70,*Due to COVID-19,No,Yes,No
+259,"Scholle IPN Packaging, Inc.",Northlake ,04/01/2020,04/05/2020,128,*Due to COVID-19,No,Yes,No
+260,"Roger Brown's Sports Bar & Restaurant, Inc.",Portmouth,04/01/2020,03/18/2020,46,*Due to COVID-19,No,Yes,No
+261,Bartaco,Fairfax,04/01/2020,03/21/2020,175,*Due to COVID-19,No,Yes,No
+262,Martin-Bower Compnay,Manassass,04/01/2020,04/01/2020,61,*Due to COVID-19,No,Yes,No
+263,Jim's Formal Wear,Trenton,03/31/2020,03/20/2020,44,*Due to COVID-19,No,Yes,No
+264,"OTG DCA Venture II, LLC ",North Wales ,03/31/2020,03/16/2020,121,*Due to COVID-19 ,No,Yes,No
+265,Crescent Hotels & Resorts ,Tysons,03/31/2020,04/03/2020,171,*Due to COVID-19,No,Yes,No
+266,Super Shoes,Greenwich,03/31/2020,03/20/2020,33,*Due to COVID-19,No,Yes,No
+267,Jackson's Mighty Fine Food & Luck Lounge ,Reston,03/30/2020,03/20/2020,137,*Due to COVID-19,No,Yes,No
+268,First Home Care,Portsmouth,03/30/2020,04/11/2020,43,1634 London Blvd,Yes,No,No
+269,First Home Care Mental Health Services,Portsmouth ,03/30/2020,04/11/2020,18,1634 London Blvd,Yes,No,No
+270,Costal Flats Tysons,McLean,03/30/2020,03/30/2020,135,*Due to COVID-19,No,Yes,No
+271,The Alexandrian Hotel,Alexandria,03/28/2020,03/13/2020,115,*Due to COVID-19,No,Yes,No
+272,Paper Source,Chicago,03/27/2020,03/29/2020,44,*Due to COVID-19,No,Yes,No
+273,Paper Source,Chicago,03/27/2020,03/29/2020,6,*Due to COVID-19,No,Yes,No
+274,Paper Source,Chicago,03/27/2020,03/29/2020,11,*Due to COVID-19,No,Yes,No
+275,IHG Army Hotels,Fort Lee,03/27/2020,03/27/2020,74,*Due to COVID-19,No,Yes,No
+276,Alsco,Alexandria,03/27/2020,03/19/2020,102,*Due to COVID-19,No,Yes,No
+277,Alsco,Salt Lake City,03/27/2020,03/18/2020,114,*Due to COVID-19,No,Yes,No
+278,Suit Supply Inc.,New York,03/26/2020,03/29/2020,19,*Due to COVID-19,No,Yes,No
+279,"Cinemark USA, Inc. ",Plano,03/26/2020,03/26/2020,26,*Due to COVID-19,No,Yes,No
+280,"Cinemark USA, Inc.",Plano ,03/26/2020,03/26/2020,134,"3900 Dallas Parkway, Suite 500",No,Yes,No
+281,"Cinemark USA, Inc.",Plano,03/26/2020,03/26/2020,103,"3900 Dallas Parkway, Suite 500",No,Yes,No
+282,"Rod M. Rodgge, D.D.S.",Virginia Beach,03/26/2020,03/30/2020,6,*Due to COVID-19,No,Yes,No
+283,Alsco,Virginia Beach,03/26/2020,03/20/2020,54,*Due to COVID-19,No,Yes,No
+284,Universal Companies,Abington,03/25/2020,04/01/2020,61,*Due to COVID-19,No,Yes,No
+285,"Route 60 & Associates, INC DBA Captin Groovy's Grill & Raw bar",Norfolk,03/25/2020,03/17/2020,25,*Due to COVID-19,No,Yes,No
+286,First Source,Toanao,03/25/2020,03/25/2020,49,*Due to COVID-19,No,Yes,No
+287,Alsco,Roanoke ,03/25/2020,03/18/2020,47,*Due to COVID-19,No,Yes,No
+288,"Bonums Oyster Co., Inc.",Hague,03/25/2020,03/25/2020,29,*Due to COVID-19,No,Yes,No
+289,Earl's Restaurant ,Tyson's Corner,03/25/2020,03/25/2020,119,*Due to COVID-19,No,Yes,No
+290,Case Architects & Remodels,Falls Church,03/25/2020,03/24/2020,24,*Due to COVID-19,No,Yes,No
+291,HMS Host,Washington ,03/25/2020,03/16/2020,80,*Due to COVID-19,No,Yes,No
+292,"BridgeStreet Cooprorate Housing LLC, ",Reston,03/24/2020,03/24/2020,68,*Due to COVID-19,No,Yes,No
+293,"Hooters of America, LLC",Atlanta,03/23/2020,03/16/2020,45,1815 The Exchange ,No,Yes,No
+294,"Hooters of America, LLC",Atlanta,03/23/2020,03/16/2020,45,1815 The Exchange,No,Yes,No
+295,"Take 5 Oil Change-Driven Brands Shared Services, LLC ",Charlotte,03/23/2020,03/22/2020,42,"440 South Church Street, Suite 700",No,Yes,No
+296,"A Head for Profits, LLC",Nashville,03/23/2020,03/20/2020,45,*Due to COVID-19,No,Yes,No
+297,"Take 5 Oil Change-Driven Brands Shared Services, LLC ",Charlotte,03/23/2020,03/22/2020,5,"440 South Church Street, Suite 700",No,Yes,No
+298,Collegiate  High Group,Louisville,03/23/2020,03/16/2020,66,*Due to COVID-19,No,Yes,No
+299,Collegiate Hotel Group,Louisville,03/23/2020,03/16/2020,66,*Due COVID-19,No,Yes,No
+300,"Hooters of America, LLC",Atlanta,03/23/2020,03/20/2020,21,1815 The Exchange,No,Yes,No
+301,America's Auto Auction,Dallas,03/23/2020,03/23/2020,53,*Due to COVID-19,No,Yes,No
+302,"Hooters of America, LLC",Atlanta,03/23/2020,03/16/2020,46,1815 The Exchange,No,Yes,No
+303,"Hooters of America, LLC",Atlanta,03/23/2020,03/16/2020,10,1815 The Exchange,No,Yes,No
+304,"Hooters of America, LLC",Atlanta,03/23/2020,03/16/2020,56,1815 The Exchange,No,Yes,No
+305,"Hooters of America, LLC",Atlanta,03/23/2020,03/16/2020,45,1815 The Exchange,No,Yes,No
+306,"Hooters of America, LLC",Atalnta,03/23/2020,03/16/2020,45,1815 The Exchange,No,Yes,No
+307,Brick Anchor Brew House,Norfolk,03/22/2020,03/22/2020,28,*Due to COVID-19,No,Yes,No
+308,Super Shoes,Greenwich ,03/21/2020,03/20/2020,18,*Due to COVID-19,No,Yes,No
+309,Mynd Spa and Salon,Fairfax,03/20/2020,03/19/2020,64,*Due to COVID-19,No,Yes,No
+310,Silverado,Annadale ,03/20/2020,03/20/2020,80,*Due to COVID-19,No,Yes,No
+311,Fred's Food Group,Vienna ,03/20/2020,03/20/2020,225,*Due to COVID-19,No,Yes,No
+312,Sweetwater Tavern,Centerville,03/20/2020,03/20/2020,140,*Due to COVID-19,No,Yes,No
+313,Sweetwater Tavern,Falls Church,03/20/2020,03/20/2020,118,*Due to COVID-19,No,Yes,No
+314,Sweetwater Taven,Sterling,03/20/2020,03/20/2020,118,*Due to COVID-19,No,Yes,No
+315,Costal Flats,Fairfax,03/20/2020,03/20/2020,134,*Due to COVID-19,No,Yes,No
+316,Mike's American Grill,Springfield,03/20/2020,03/20/2020,174,*Due to COVID-19,No,Yes,No
+317,Patsy's Italian ,Fairfax,03/20/2020,03/20/2020,100,*Due to COVID-19,No,Yes,No
+318,Go Rentals,Newport Beach,03/20/2020,03/21/2020,275,*Due to COVID-19,No,Yes,No
+319,Fantastic Frizbe's Flying Food Factory,Arlington,03/20/2020,03/20/2020,128,*Due to COVID-19,No,Yes,No
+320,Artie's,Fairfax,03/20/2020,03/20/2020,99,*Due to COVID-19,No,Yes,No
+321,Uncle Julio’s Ballston,Irving ,03/19/2020,03/19/2020,82,*Due to COVID-19,No,Yes,No
+322,Alamo Drafthouse Cinema,Winchester,03/19/2020,03/20/2020,122,*Due to COVID-19,No,Yes,No
+323,"CF Management-VA, LLC (X Sport Fitness) ",Alexandria,03/19/2020,03/18/2020,115,*Due to COVID-19,No,Yes,No
+324,Skyline Tent Company,Charlottesville,03/18/2020,03/23/2020,65,*Due to COVID-19,No,Yes,No
+325,Bluffwalk Center,Lynchburg,03/17/2020,03/17/2020,98,*Due to COVID-19,No,Yes,No
+326,Three Notch'd Brewing Company,Charlottesville,03/17/2020,03/17/2020,9,*Due to COVID-19,No,Yes,No
+327,Three Notch'd Brewing Company,Charlottesville,03/17/2020,03/17/2020,14,*Due to COVID-19,No,Yes,No
+328,Three Notch'd Brewing Company,Charlottesvile,03/17/2020,03/17/2020,59,*Due to COVID-19,No,Yes,No
+329,Three Notch'd Brewing,Charlottesville,03/17/2020,03/17/2020,6,*Due to COVID-19,No,Yes,No
+330,The Salvation Army ,Atlanta,03/09/2020,05/30/2020,38,Adult Rehibilitation Center,Yes,No,No
+331,"NortonLifeLock, Inc.",Tempe,03/03/2020,03/18/2020,73,60 E. Rio Salado Parkway,No,Yes,No
+332,Norfolk Southern,Norfolk,02/18/2020,04/18/2020,104,3 Commercial Place,Yes,No,No
+333,The Virginian~Pilot,Norfolk,02/18/2020,04/27/2020,137,150 West Brambleton Avenue,Yes,No,No
+334,Earth Fare,Fletcher,02/17/2020,02/17/2020,94,220 Continuum Drive,Yes,No,No
+335,Oakwood Worldwide ,Long Beach,01/28/2020,03/30/2020,35,1 World Trade Center 24th Floor,No,No,No
+336,"DynCorp International, LLC",McLean,01/19/2020,01/13/2021,58,1700 Old Meadow Road,No,Yes,No
+337,AECOM,Morehead City,01/17/2020,03/14/2020,102,113 Arendell  Street,No,No,No
+338,LSC Communications,Chicago,01/14/2020,03/16/2020,384,191 North Wacker Drive,Yes,No,No
+339,Aramark (at VCU Health Systems),Wingate,01/13/2020,03/13/2020,572,204 East Wilson Street,No,Yes,No
+340,Shoppers Food & Pharmacy Store #2346,Bowie,01/07/2020,03/07/2020,54,"16901 Melford Blvd., Suite 300",Yes,No,No
+341,"DTSV, Inc. ",Newport News,12/31/2019,02/29/2020,175,"739 Thimble Shoals Blvd, Suite 101  ",No,Yes,No
+342,Continental ,Newport News,12/09/2019,02/07/2020,6,"Vitesco Technologies USA, LLC",Yes,No,No
+343,Shoppers Food & Pharmacy Store #2344,Bowie,12/06/2019,02/05/2020,55,"16901 Melford Blvd., Suite 300",Yes,No,No
+344,Shoppers Food & Pharmacy Store #2365,Bowie,12/06/2019,02/05/2020,81,"16901 Melford Blvd., Suite 300",Yes,No,No
+345,Northrop Grumman,Huntsville,12/05/2019,02/04/2020,42,Missile Defense and Protective Systems Division ,No,Yes,No
+346,Volvo Trucks North America,Dublin,11/22/2019,01/20/2020,700,New River Valley Plant,No,Yes,No
+347,Topgolf,Dallas,11/12/2019,01/15/2020,198,"8750 N. Central Expy., Suite 1200",Yes,No,No
+348,Restaurant Associates ,New York ,11/07/2019,01/17/2020,282,31 Penn Plaza,Yes,No,No
+349,Crescent Bank & Trust ,Metairie,11/05/2019,02/14/2020,187,"2121 Airline Drive, Suite 400",No,No,No
+350,Lord+Taylor (Tyson's Corner Store),New York,10/31/2019,01/31/2020,117,225 Liberty  Street,Yes,No,No
+351,National Express Transit (NEXT),Lisle,10/31/2019,12/31/2019,150,2601 Navistar Drive,Yes,No,No
+352,Oakwood Worldwide (US) LP,Long Beach,10/29/2019,12/30/2019,23,"1 Trade Center, 24th Floor",No,No,No
+353,Smithfield,Newport News,10/28/2019,12/31/2019,39,121 Harwood Drive,Yes,No,No
+354,"Advanced System Development, Inc. (ASD)",Falls Church,10/16/2019,12/16/2019,54,"6400 Arlington Blvd, Suite 850",No,Yes,No
+355,Ominplex ,Chantilly,10/15/2019,12/15/2019,168,"14151 Park meadow Drive, Suite 300 ",No,Yes,No
+356,Berry Global,Evansville,10/15/2019,05/01/2020,23,101 Oakly Street,Yes,No,No
+357,"Teva Pharmaceuticals USA, Inc. ",Parsippany,10/11/2019,11/22/2019,220,"400 Interpace Pkwy MCC III, Bldg D",No,Yes,No
+358,Lord+Tyalor (Sterling Store),New York,10/08/2019,12/24/2019,79,225 Liberty Street,Yes,No,No
+359,"IKEA Industry Danville, LLC",Ringgold,10/07/2019,12/13/2019,280,100 Ikea Drive,Yes,No,No
+360,NetCentrics Corporation ,Herndon,10/03/2019,11/30/2019,95,"205 Van Buren St., Suite 420",No,No,No
+361,"True Health Diagnostic, LLC",Richmond,09/27/2019,10/01/2019,126,"737 North 5th Street, Suite 103",Yes,No,No
+362,Guest Services Inc.,Fairfax,09/27/2019,12/01/2019,358,3055 Prosperity Avenue,No,No,No
+363,Blackjewel,Milton,09/23/2019,08/31/2019,214, 1051 Main Street,Yes,No,No
+364,Blackjewel,Milton,09/18/2019,09/18/2019,92,1051 Main Street,Yes,No,No
+365,"Premier Fixtures, LLC",Hauppauge,09/11/2019,09/13/2019,190,"400 Oser Ave., Suite 350",Yes,No,No
+366,Mednax Health Solutions Partner ,Sunrise,08/27/2019,11/01/2019,61,1301 Concord Terrace,Yes,No,No
+367,Kimball Hospitality,Martinsville,07/29/2019,03/31/2020,54,451 Beaver Creek Drive,Yes,No,No
+368,"True Health Diagnostics, LLC",Richmond,07/29/2019,07/29/2019,399,"737 North 5th Street, Suite 103",No,No,No
+369,AECOM,Morehead City,07/29/2019,09/30/2019,101,113 Arendell Street ,No,Yes,No
+370,FreightCar America,Roanoke,07/22/2019,09/20/2019,200,830 Campbell Avenue SE,Yes,No,No
+371,Sykes,Tampa,06/26/2019,09/03/2019,197,400 North Ashley Drive,No,Yes,No
+372,Graham Packaging Company ,Lancaster,06/24/2019,09/04/2019,115,"700 Indian Springs Drive, Suite 100",Yes,Yes,No
+373,Rubbermaid Commercial Products ,Winchester,06/19/2019,09/30/2019,49,3124 Valley Avenue,No,Yes,No
+374,"Crothall Healthcare, Inc.",Wayne,06/12/2019,08/30/2019,113,1500 Liberty Ridge Drive ,Yes,No,No
+375,"Kontoor Brands, Inc. Distribution Center",Luray,06/12/2019,08/15/2019,75,101 Blue bell Avenue,No,Yes,No
+376,Walmart-store #650,Bemtonville,06/10/2019,08/16/2019,81,702 SW 8th Street,Yes,No,No
+377,Goodwill Rappahannock,Fredericksburg,06/10/2019,07/01/2019,100,"4701 Market Street, Suite A",No,Yes,No
+378,ZF Automotive,Atkins,06/05/2019,08/05/2019,75,222 Mountain Empire Road,No,Yes,No
+379,Colortree Group,Henrico,06/03/2019,06/03/2019,240,8000 Villa Park Drive,No,Yes,No
+380,Deloitte (Arcadia Group (USA) Limited) ,Springfield,05/24/2019,06/19/2019,13,SpringField Towne Center Mall - (Topshop & Topman),Yes,No,No
+381,GE,Salem,05/13/2019,07/12/2019,245,1501 Roanoke Blvd.,Yes,No,No
+382,Verso Corporation ,Miamisburg,05/10/2019,05/31/2019,5,8540 Gander Creek Drive,No,Yes,No
+383,"Live Well Financial, Inc. ",Richmond,05/03/2019,05/03/2019,103,1011 Boulder Springs Drive,Yes,No,No
+384,"MV Transportation, Inc.",Dallas,04/30/2019,06/30/2019,254,"2711 N. Haskell Avenue, Suite 1500",No,Yes,No
+385,"MV Transportation, Inc. ",Dallas,04/30/2019,06/30/2019,186,"2711 N. Haskell Avenue, Suite 1500",No,Yes,No
+386,"MV Transportation, Inc",Dallas ,04/30/2019,06/30/2019,256,"2711 N. Haskell Avenue, Suite 1500",No,Yes,No
+387,Dianne's Fine Desserts Inc.,Ashland,04/25/2019,06/28/2019,97,10440 leadbetter Road,Yes,No,No
+388,SwimWays Corporation ,Virginia Beach,04/23/2019,07/12/2019,82,5816 Ward Court,Yes,No,No
+389,"Core Health & Fitness, LLC",Vancouver,04/17/2019,07/01/2019,50,"4400 NE 77th Ave, Suite 300",No,Yes,No
+390,AECOM,Chantilly,04/17/2019,07/05/2019,30,4800 Westfields Boulevard,No,No,Yes
+391,"Alorica, Inc.",Fredericksburg,03/26/2019,05/31/2019,311,"10300 Spotsylvania Avenue, Suite 300",Yes,No,No
+392,Goodwill Central and Coastal Virginia (Goodwill Staffing Solutions),Richmond,03/19/2019,05/30/2019,74,6301 Midlothian Turnpike,Yes,No,No
+393,Crowne Plaza Hotels & Resorts,Alexandria ,03/19/2019,06/04/2019,61,901 North Fairfax Street,Yes,No,No
+394,OMNIPLEX World Services ,Chantilly,03/15/2019,05/09/2019,60,"14151 Park Meadow Drive, Suite 300",No,Yes,No
+395,OMNIPLEX World Services,Chantilly,03/15/2019,05/09/2019,155,"14151 Park Meadow Drive, Suite 300",No,Yes,No
+396,Bear Island,Ashland,03/08/2019,05/08/2019,132,10026 Old Ridge Road,Yes,No,No
+397,Walmart,Bentonville,02/27/2019,05/10/2019,94,702 SW 8th Street,Yes,No,No
+398,Walmart,Bentonville,02/27/2019,05/10/2019,72,702 SW 8th Street,Yes,No,No
+399,Union Bank & Trust,Richmond,02/27/2019,02/28/2019,46,"1051 East Cary Street, Suite 1200",No,Yes,Yes
+400,Spectrum Pharmaceuticals,Henderson,02/13/2019,03/15/2019,2,"11500 S. Eastern Avenue, Suite 240",No,Yes,Yes
+401,AECOM ,Morehead City,02/07/2019,04/01/2019,96,113 Arendell Street,No,No,No
+402,Phoenix Theatres Entertainment,Knoxville,01/23/2019,02/20/2019,112,"9111 Cross Park Dr., Suite E-275",No,No,No
+403,LSC Communications,Chicago ,01/22/2019,03/25/2019,369,191 North Wacker Drive,Yes,No,No
+404,Macy's ,New York ,01/18/2019,03/20/2019,43,112 West 34th Street,Yes,No,No
+405,Signify Health,Dallas,01/18/2019,03/18/2019,132,"4055 Valley View Lane, Suite 400",Yes,No,No
+406,Asheboro Elastic Corporation,Boykins,01/16/2019,05/31/2019,90,32056 East Circle,Yes,No,No
+407,Southeast Services Coproporation,Knoxville,11/29/2018,01/31/2019,134,1845 Midpark,Yes,No,No
+408,REO Logistics,Waynesboro,11/16/2018,01/15/2019,70,1 Solutions Way,No,No,No
+409,Crothall Healthcare,Wayne,11/15/2018,01/20/2019,139,"1500 Liberty Ridge Drive, Suite 210",No,Yes,No
+410,Broadcom ,San Jose,11/07/2018,01/08/2018,64,1320 Ridder Park Drive,No,Yes,No
+411,"DH Leesburg Managment, LLC @ Lansdowne Resort & Spa",Leesburg,10/31/2018,12/31/2018,401,44050 Woodridge Parkway,No,Yes,No
+412,Bristol Compressors,Bristol ,10/29/2018,11/05/2018,303,15185 Industrial Park Road,Yes,No,No
+413,Kroger Store #536,Roanoke,10/18/2018,12/19/2018,102,P.O. Box 14002,Yes,No,No
+414,NetCentrics Corporation,Herndon,10/11/2018,10/31/2018,149,"205  Van Buren Street, Suite 420",No,No,No
+415,The Tides Inn,Irvington,09/26/2018,11/26/2018,170,480 King Carter Drive,No,Yes,No
+416,Commonwealth Lodging Management ,Virginia Beach,08/28/2018,11/01/2018,79,"208 Golden Oak Court, Suite 100",No,No,No
+417,Kmart Store #04483,Durham,08/14/2018,11/18/2018,83,1620 Guess Road,Yes,No,No
+418,"DAL Global Services, LLC (DGS)",Atlanta,08/06/2018,10/31/2018,102,980 Virginia Avenue,No,Yes,No
+419,"DAL Global Services, LLC (DGS)",Atlanta,08/06/2018,10/17/2018,92,980 Virginia Avenue,No,Yes,No
+420,"CenseoHealth, LLC",Dallas ,07/17/2018,07/17/2018,141,"4055 Valley View Lane, Suite 400",Yes,No,No
+421,Aleut,Colorado Springs ,07/16/2018,08/31/2018,126,"5540 Tech Center Drive, Suite 100",No,Yes,No
+422,Advance Digestive Care,Vienna,07/03/2018,09/01/2018,40,"8300 Boone Boulevard, Suite 500",No,Yes,No
+423,Advanced Digestive Care,Vienna,07/03/2018,09/01/2018,90,"8300 Boone Boulevard, Suite 500",No,Yes,No
+424,Ammar's Inc-Magic Mart #363,Bluefield,07/02/2018,10/02/2018,28,710 South College Avenue,Yes,No,No
+425,"Ammar's, Inc-Magic Mart #475",Bluefield,07/02/2018,10/02/2018,24,710 South College Avenue,Yes,No,No
+426,"Ammar's, Inc-Magic Mart #500",Bluefield,07/02/2018,10/02/2018,26,710 South College Avenue,Yes,No,No
+427,Ammar's Inc-Magic Mart #873,Bluefield,07/02/2018,10/02/2018,28,710 South College Avenue,Yes,No,No
+428,"Ammar's, Inc.",Bluefield,07/02/2018,10/02/2018,97,710 South College Avenue,Yes,No,No
+429,Ammar's Inc-Magic Mart #312,Bluefield,07/02/2018,10/02/2018,26,710 South College Avenue,Yes,No,No
+430,"Ammar's, Inc-Magic Mart #983",Bluefield,07/01/2018,10/02/2018,30,710 South College Avenue,Yes,No,No
+431,Tailored Brands,Freemont,06/29/2018,08/31/2018,64,"6100 Stevenson Blvd., Bldg A",Yes,No,No
+432,"Dream Center Education Holdings, LLC","Pittsburg,",06/29/2018,08/28/2018,118,1400 Penn Avenue,Yes,No,No
+433,The Corsi Group,Indianapolis,06/19/2018,08/31/2018,53,6111 Churchman Bypass,Yes,No,No
+434,INOVA Health System,Falls Church,06/19/2018,08/20/2018,211,"8110 Gatehouse Road, Suite 200E",No,No,No
+435,Northrop Grumman,McLean,06/14/2018,08/17/2018,348,7575 Colshire Drive,No,No,No
+436,AECOM,McLean,06/08/2018,07/27/2018,173,1500 Tysons McLean Dr,No,Yes,No
+437,PE Systems,Fairfax,06/08/2018,08/10/2018,68,"10201 Fairfax Blvd, Suite 200",No,Yes,No
+438,ABM/GCA Vehicle Services,Tampa,05/25/2018,07/20/2018,80,5028 Tampa West Blvd,No,Yes,No
+439,Bayshore Concrete Products Corporation,Cape Charles,05/11/2018,07/23/2018,35,1134 Bayshore Road,Yes,No,No
+440,CACI,Arlington,05/07/2018,06/30/2018,65,1100 North Glebe Road,No,No,No
+441,Kroger #403,Roanoke,04/18/2018,06/19/2018,69,P.O. Box 14002,Yes,No,No
+442,Avante-Harrisonburg,Hollywood,03/28/2018,06/01/2018,79,"4601 Sheridan Street, Suite 500",No,Yes,No
+443,Avante-Lynchburg,Hollywood,03/28/2018,05/31/2018,92,"4601 Sheridan Street, Suite 500",No,Yes,No
+444,Avante-Roanoke,Hollywood,03/28/2018,05/31/2018,78,"4601 Sheridan Street, Suite 500",No,Yes,No
+445,Avante-Waynesboro,Hollywood,03/28/2018,05/31/2018,98,"4601 Sheridan Street, Suite 500",No,Yes,No
+446,Farm Fresh #6288,Virginia Beach,03/14/2018,05/14/2018,81,P.O. Box 2250,Yes,No,No
+447,Farm Fresh #6293,Virginia Beach,03/14/2018,05/14/2018,94,P.O. Box 2250,Yes,No,No
+448,Farm Fresh #6244,Virginia Beach ,03/14/2018,05/14/2018,82,P.O. Box 2250,Yes,No,No
+449,Farm Fresh #6240,Virginia Beach,03/14/2018,05/14/2018,134,P.O. Box 2250,Yes,No,No
+450,Farm Fresh #6249,Virginia Beach,03/14/2018,05/14/2018,102,P.O. Box 2250,Yes,No,No
+451,Farm Fresh #6242,Virginia Beach,03/14/2018,05/14/2018,77,P.O.Box 2250,Yes,No,No
+452,Farm Fresh #6257,Virginia Beach,03/14/2018,05/14/2018,111,P.O. Box 2250,Yes,No,No
+453,Farm Fresh #6243,Virginia Beach,03/14/2018,05/14/2018,71,P.O. Box 2250,Yes,No,No
+454,Farm Fresh #6260,Virginia Beach,03/14/2018,05/14/2018,70,P.O. Box 2250,Yes,No,No
+455,Farm Fresh #6274,Virgini Beach,03/14/2018,05/14/2018,84,P.O. Box 2250,Yes,No,No
+456,Farm Fresh #6247,Virignia Beach,03/14/2018,05/14/2018,86,P.O. Box 2250,Yes,No,No
+457,Farm Fresh #6239,Virginia Beach,03/14/2018,05/14/2018,82,P.O. Box ,Yes,No,No
+458,Farm Fresh #6275,Virginia Beach,03/14/2018,05/14/2018,100,P.O. Box 2250,Yes,No,No
+459,Farm Fresh #6250,Virignia Beach,03/14/2018,05/14/2018,58,P.O. Box 2250,Yes,No,No
+460,Farm Fresh #6241,Virginia Beach,03/14/2018,05/14/2018,58,P.O. Box 2250,Yes,No,No
+461,Farm Fresh #6256,Virginia Beach,03/14/2018,05/14/2018,100,P.O. Box 2250,Yes,Yes,No
+462,Farm Fresh #6253,Virginia Beach,03/14/2018,05/14/2018,69,P.O. Box 2250,Yes,No,No
+463,Farm Fresh #6255,Virginia Beach,03/14/2018,05/14/2018,94,P.O. Box 2250,Yes,No,No
+464,Farm Fresh #6280,Virginia Beach,03/14/2018,05/14/2018,77,P.O. Box 2250,Yes,No,No
+465,Farm Fresh #6268,Virginia Beach,03/14/2018,05/14/2018,93,P.O. Box 2250,Yes,Yes,No
+466,Farm Fresh #6266,Virignia Beach,03/14/2018,05/14/2018,71,P.O. Box 2250,Yes,No,No
+467,Farm Fresh #6277,Virginia Beach,03/14/2018,05/14/2018,78,P.O. Box 6277,Yes,No,No
+468,Farm Fresh #6290,Virginia Beach,03/14/2018,05/14/2018,87,P.O. Box 2250,Yes,Yes,No
+469,Farm Fresh #6279,Virginia Beach,03/14/2018,05/14/2018,98,P.O. Box 2250,Yes,No,No
+470,Farm Fresh #6282,Virginia Beach,03/14/2018,05/14/2018,85,P.O. Box 2250,Yes,No,No
+471,Farm Fresh #6254,Virginia Beach,03/14/2018,05/14/2018,92,P.O. Box 2250,Yes,No,No
+472,Farm Fresh #6289,Virginia Beach,03/14/2018,05/14/2018,92,P.O. Box 2250,Yes,No,No
+473,Farm Fresh #6262,Virginia Beach,03/14/2018,05/14/2018,69,P.O. Box 2250,Yes,No,No
+474,Farm Fresh #6291,Virignia Beach,03/14/2018,05/14/2018,88,P.O. Box 23455,Yes,No,No
+475,Farm Fresh #6265,Virginia Beach,03/14/2018,05/14/2018,88,P.O. Box 2250,Yes,No,No
+476,Farm Fresh #6258,Norfolk,03/14/2018,05/14/2018,67,P.O. Box 2250,Yes,No,No
+477,Farm Fresh #6269,Virignia Beach,03/14/2018,05/14/2018,88,P.O. Box 23450,Yes,No,No
+478,Farm Fresh #6246,Virginia Beach,03/14/2018,05/14/2018,104,P.O. Box 2250,Yes,No,No
+479,Farm Fresh #6276,Virignia Beach,03/14/2018,05/14/2018,80,P.O. Box 2250,Yes,No,No
+480,Farm Fresh #6270,Virginia Beach,03/14/2018,05/14/2018,65,P.O. Box 2250,Yes,No,No
+481,Farm Fresh #6238,Virginia Beach ,03/14/2018,05/14/2018,95,P.O. Box 2250,Yes,No,No
+482,Farm Fresh #6272,Virginia Beach,03/14/2018,05/14/2018,78,P.O. Box 2250,Yes,No,No
+483,Dish Network,Englewood,03/13/2018,05/15/2018,570,9601 S. Meridian Blvd,Yes,No,No
+484,Amazon,Sterling,03/07/2018,05/06/2018,67,45121 Global Plaza,No,Yes,No
+485,"NJVC, LLC",Chantilly,03/07/2018,04/25/2018,113,14295 Park Meadow Drive,No,Yes,No
+486,Leidos,Reston,03/01/2018,04/30/2018,52,11955 Freedom Drive,No,Yes,No
+487,"Schneider National Carriers, Inc. ",Green Bay,03/01/2018,04/30/2018,181,3101 S. Packland Drive,No,Yes,No
+488,Quality Technology Services ,Dulles,02/21/2018,04/30/2018,52,2000 Atlantic Blvd,No,Yes,No
+489,General Dynamics Information Technology,Herndon,02/19/2018,04/24/2018,73,13857 McLearen Road,No,Yes,No
+490,Dormeo-US Octaspring Operations Inc,Houston,02/09/2018,03/19/2018,33,3151 Briarpark Drive,Yes,No,No
+491,AES Corporation ,Arlingotn,02/05/2018,04/06/2018,70,4300 Wilson Blvd,No,Yes,Yes
+492,"BAE Systems, Inc.",McLean,01/29/2018,03/20/2018,141,8201 Greensboro Drive,No,No,No
+493,Dreamlight,Reading ,01/15/2018,03/16/2018,50,P.O. Box 16400,Yes,No,No
+494,Sam's Club #4733 Norfolk,Bentonville,01/11/2018,03/16/2018,140,2101 SE Sample Savings Drive,Yes,No,No
+495,Sam's Club #4788 Richmond,Bentonville,01/11/2018,03/16/2018,163,2101 SE Sample Savings Drive,Yes,No,No
+496,Telvista,Danville,01/05/2018,03/07/2018,300,119 Cane Creek Blvd,Yes,No,No
+497,Old Dominion Peanut Company,Norfolk,01/04/2018,03/09/2018,69,208 W. 14th Street,Yes,No,No
+498,"Metrie, Inc.",New Lenox,01/04/2018,03/01/2018,59,2200 W. Haven Ave,Yes,No,No
+499,Walmart-Roanoke #3618,Bentonville,01/03/2018,01/08/2018,72,702 SW 8th Street,Yes,No,No
+500,"Transportation General, Inc",Arlington,01/03/2018,03/04/2018,80,3251 Washington Boulevard,No,No,No
+501,URS Federal Services,Austin,12/26/2017,02/28/2018,78,9400 Amberglen Boulevard,No,No,Yes
+502,Air Wisconsin Airline Corporation,Appleton,12/13/2017,02/16/2018,213,"W6390 Challenger Drive, Suite 203",Yes,No,No
+503,Taylor Communications,Richmond,12/07/2017,02/16/2018,50,2840 Sprouse Drive,Yes,No,No
+504,Eulen America,Miami ,11/08/2017,12/15/2017,216,7200 Coorporate Center Drive #266,No,No,No
+505,Keswick Hall & Golf Club,Keswick,11/07/2017,01/07/2018,109,701 Club Drive,Yes,No,No
+506,Zenith Education Group-Altierus Career Colleges,Minneapolis,11/03/2017,01/08/2018,33,111 Washington Avenue South,No,No,Yes
+507,Zenith Education Group-Everest Institute,Minneapolis,11/03/2017,01/08/2018,43,111 Washington Avenue South,Yes,No,No
+508,"Shaw Industries Group, Inc.",Dalton,10/31/2017,10/31/2017,166,616 East Walnut Avenue,Yes,No,No
+509,Leidos,"Reston, VA",10/24/2017,12/29/2017,62,11955 Freedom Drive,No,Yes,No
+510,General Dynamics Information Technology,Fairfax,10/16/2017,12/18/2017,92,3060 Williams Drive,Yes,No,No
+511,Cardinal Logistics Management Corporation ,Concord,10/02/2017,12/02/2017,69,5333 Davidson Highway,No,No,No
+512,"Specialty Retailers, Inc.",Houston,09/27/2017,12/22/2017,100,2425 West Loop South,Yes,No,No
+513,Bayshore Concrete Products Corporation,Cape Charles ,09/26/2017,11/27/2017,100,1134 Bayshore Road,No,Yes,No
+514,Charter Communications,Charlotte,09/21/2017,10/07/2017,52,7910 Crescent Executive Dr,No,Yes,No
+515,Sovah Health-Danville,Danville,09/06/2017,11/06/2017,91,142 South Main Street,No,Yes,No
+516,Sovah Health-Martinsville,Martinsville,08/28/2017,11/06/2017,67,320 Hospital Drive,No,Yes,No
+517,Riverside Shore Rehabilitation Center,Parksley,08/22/2017,10/21/2017,128,26181 Parksley Road,Yes,No,No
+518,"DSC Logistics, Inc. ",Des Plaines,08/14/2017,10/20/2017,70,1750 Wolf Road,No,Yes,No
+519,Land-O-Sun Dairies LLC,Richmond,08/08/2017,10/07/2017,71,1505 Robin Hood Road,Yes,No,No
+520,Telvista,Dallas,07/28/2017,09/30/2017,222,1605 LBJ Freeway,No,No,No
+521,First Potomac Realty Trust,Bethesda,07/28/2017,10/01/2017,18,"7600 Wisconsin Avenue, 11th Floor",No,Yes,No
+522,General Foam Plastics,Virginia Beach,07/26/2017,08/15/2017,109,4429 Bonney Road Suite 500,Yes,Yes,No
+523,Asheboro Elastics,Boykins,07/05/2017,08/15/2017,40,32056 East Circle ,No,No,No
+524,Nordstrom,Seattle ,06/30/2017,09/08/2017,153,1700 7th Avenue,Yes,No,No
+525,Leidos,Reston,06/30/2017,08/31/2017,30,11955 Freedom Drive,No,Yes,Yes
+526,Elkay Wood Products Co.,Waconia,06/12/2017,08/12/2017,150,10501 10th Street,Yes,No,No
+527,Boats Group,Norfolk,06/01/2017,07/31/2017,72,150 Granby Street,Yes,No,No
+528,"BH Media Group, Inc. ",Roanoke,05/30/2017,07/31/2017,53,201 West Campbell Ave,No,Yes,Yes
+529,JCPenney,Plano,05/24/2017,07/31/2017,72,6501 Legacy Drive,Yes,No,No
+530,LSC Communications,Salem,05/22/2017,07/23/2017,140,6450 Technology Drive,Yes,No,No
+531,Martin's Store #6491,Carlisle,05/16/2017,08/09/2017,107,1149 Harrisonburg Pike,Yes,No,No
+532,Martin's Store #6588,Carlisle,05/16/2017,08/09/2017,164,1149 Harrisoburg Pike,Yes,No,No
+533,White Birch Paper ,Greenwich,05/16/2017,07/16/2017,164,80 Field Point Road,Yes,No,No
+534,Martin's Store #6402 ,Carlisle,05/16/2017,07/17/2017,183,1149 Harrisonburg Pike,Yes,No,No
+535,Martin's Store #6406,Carlisle,05/16/2017,07/17/2017,92,1149 Harrisonburg Pike,Yes,No,No
+536,Martin's  Store #6428,Carlisle,05/16/2017,08/09/2017,127,1149 Harrisonburg Pike ,Yes,No,No
+537,Martin's Store #5700,Carlisle,05/16/2017,08/09/2017,121,1149 Harrisonburg,Yes,No,No
+538,Martin's Store #6440,Carlisle,05/16/2017,07/17/2017,168,1149 Harrisonburg Pike,Yes,No,No
+539,Martin's Store #6489,Carlisle,05/16/2017,08/09/2017,110,1149 Harrisonburg,Yes,No,No
+540,Martin's Store #6490,Carlisle,05/16/2017,07/17/2017,114,1149 Harrisonburg Pike,Yes,No,No
+541,Kmart,Hoffman,05/04/2017,07/30/2017,62,3333 Beverly Road,Yes,No,No
+542,Kmart,Hoffman Estates,05/04/2017,07/30/2017,67,3333 Beverly Road,Yes,No,No
+543,Martin's ,Carlisle,04/24/2017,06/23/2017,109,1149 Harrisburg Pike,Yes,No,No
+544,Jacobs Technology Inc.,Huntsville ,04/17/2017,06/17/2017,55,1525 Perimeter Pkwy,No,No,No
+545,Martin's ,Carlisle,04/11/2017,07/10/2017,138,1149 Harrisburg Pike,Yes,No,No
+546,Martin's ,Carlisel,04/11/2017,07/10/2017,141,1149 Harrisburg Pike,Yes,No,No
+547,Martin's ,Carlisle ,04/11/2017,07/10/2017,99,1149 Harrisburg Pike,Yes,No,No
+548,Cardinal Bank,McLean,04/10/2017,06/10/2017,60,8270 Greensboro Drive,No,Yes,Yes
+549,Dollar Express,Charlotte,03/30/2017,06/30/2017,6,7520 E. Independence Road,Yes,No,No
+550,Dollar Express,Charlotte,03/30/2017,06/30/2017,11,7520 E. Independence Rd,Yes,No,No
+551,Dollar Express,Charlotte,03/30/2017,06/30/2017,44,7520 E. Independence Rd,Yes,No,No
+552,"FreightCar America, Inc. ",Chicago,03/29/2017,04/24/2017,364,2 N. Riverside Plaza,No,No,No
+553,"Bebe Stores, Inc",Brisbane,03/25/2017,05/27/2017,36,400 Valley Drive,Yes,No,No
+554,"Bebe Stores, Inc",Brisbane,03/25/2017,05/27/2017,18,400 Valley Drive ,Yes,No,No
+555,"Bebe Stores, Inc",Brisbane,03/25/2017,05/27/2017,10,400 Valley Drive,Yes,No,No
+556,Macy's,New York,03/06/2017,03/20/2017,119,11 Penn Plaza,Yes,No,No
+557,"Wilson Trucking Corporation, Inc. ",Fishersville,02/28/2017,03/01/2017,316,P.O. Box 200,Yes,No,No
+558,Charter Communications ,St. Louis,02/08/2017,03/30/2017,59,12405 Powerscourt Drive,No,Yes,No
+559,Aetna Insulated Wire ,Virginia Beach,01/30/2017,03/31/2017,52,1537 Air Rail Avenue ,Yes,No,No
+560,ABM Healthcare Support Services,St. Clair Shores ,01/27/2017,03/31/2017,130,22622 Harper Avenue ,Yes,No,No
+561,CACI,Arlington,01/03/2017,03/27/2017,65,1100 North Glebe Road,No,No,No
+562,Delivery Agent Holdings Corporation,Crozet,12/22/2016,02/22/2017,134,5391 Three Notch'd Road,Yes,No,No
+563,"Schenker, Inc",Chesapeake,12/14/2016,02/13/2017,16,1305 Executive Blvd,No,No,No
+564,Retail Relay (Realy Foods),Louisville,12/14/2016,01/15/2017,48,282 Century Place,No,No,No
+565,Volvo Group Trucks Operations,Dublin,12/14/2016,02/13/2016,519,New River Valley Plant,Yes,No,No
+566,The Kane Company ,Elkridge,12/13/2016,12/09/2016,122,6500 Kane Way,Yes,No,No
+567,The Kane Company,Elkridge,12/13/2016,12/09/2016,105,6500 Kane Way,Yes,No,No
+568,Martin's ,Carlisle,12/08/2016,02/06/2017,173,1149 Harrisburg Pike ,Yes,No,No
+569,Martin's,Carlisle,12/08/2016,02/06/2017,155,1149 Harrisburg Pike,Yes,No,No
+570,Martin's ,Carlisle,12/08/2016,02/06/2017,161,1149 Harrisburg Pike,Yes,No,No
+571,Martin's ,Carlisle ,12/08/2016,02/06/2017,183,1149 Harrisburg Pike,Yes,No,No
+572,The Home Depot,Atlanta,12/01/2016,03/07/2016,66,2455 Paces Ferry Road,Yes,No,No
+573,Quad/Graphics Inc. ,Sussex,12/01/2016,01/15/2017,81,N6W23044 Harry's Way,Yes,No,No
+574,Airport Terminal Services,St. Louis ,11/11/2016,01/02/2017,85,111 Westport Plaza Drive,No,No,No
+575,"Experience Works, Inc. ",Arlington,11/07/2016,12/01/2016,35,4401 Wilson Blvd.,No,No,No
+576,Riverside Pace,Richmond,11/07/2016,02/03/2017,37,701 Gordon Avenue,Yes,No,No
+577,Riverside Pace,Hampton,11/07/2016,02/03/2017,96,4107 West Mercury Boulevard,Yes,No,No
+578,Chubb,Philadelphia,10/28/2016,12/31/2016,71,436 Walnut Street,Yes,No,No
+579,NJVC,O'Fallon,10/18/2016,12/31/2016,46,1677 Mansion Way,Yes,No,No
+580,Giant Food Stores (Martin's),Carlisle,09/27/2016,11/28/2016,438,1149 Harrisburg Pike,Yes,No,No
+581,HDT Global,Solon,09/26/2016,12/31/2016,74,30525 Aurora Road,Yes,No,No
+582,Nordson Corporation,Westlake,09/16/2016,05/01/2017,146,28601 Clemens Road,Yes,No,No
+583,"Arrow Electronics, Inc.",Englewood,08/30/2016,10/29/2016,72,7459 South Lima Street,Yes,No,No
+584,Novitex Government Solutions,Landover,08/29/2016,09/30/2016,55,8401 Corporate Drive,Yes,No,No
+585,IBEX Global,Spring Hill,08/14/2016,10/12/2016,215,5000 Northfield Lane,No,No,Yes
+586,Lockheed Martin ,Fallon ,07/29/2016,10/01/2016,123,3400 Della Circle,No,No,Yes
+587,Sandvik,Bristol,07/29/2016,09/30/2016,49,15020 Industrial Park Road,Yes,No,No
+588,BB&T,Winston-Salem,07/27/2016,07/27/2016,61,200 West Second Street (27101),No,Yes,Yes
+589,Virginia Managment Inc.,Arlington,06/22/2016,08/24/2016,61,4600 Fairfax Drive,No,Yes,No
+590,Genworth Financial Inc.,Richmond,06/15/2016,08/16/2016,42,6620 W. Broad Street,No,No,No
+591,Martin's ,Carlisle ,06/14/2016,08/13/2016,65,1149 Harrisburg Pike ,Yes,No,No
+592,Martin's,Carlisle,06/14/2016,08/13/2016,94,1149 Harrisburg Pike,Yes,No,No
+593,Martin's,Carlisle,06/14/2016,08/13/2016,96,1149 Harrisburg Pike,Yes,No,No
+594,HSN ,St. Petersburg ,06/10/2016,08/10/2016,257,1 HSN Drive ,Yes,No,No
+595,"Midwesco Filter Resources, Inc. ",Niles,05/05/2016,07/03/2016,147,7720 N. Lehigh Avenue,Yes,No,No
+596,"Innovative Buildings Systems, LLC",Mechanicsburg,05/03/2016,05/03/2016,219,4900 Ritter Road,Yes,No,No
+597,HarrisConnect,Chesapeake,04/12/2016,06/11/2016,106,1400 Crossways Blvd,No,No,Yes
+598,Southern Season,Chapel Hill,04/08/2016,06/09/2016,115,100 Europa Drive,Yes,No,No
+599,"Pyrotechnique by Grucci, Inc. *notice rescinded",Radford,04/04/2016,04/08/2016,0,P.O. Box 1 Route 114,No,Yes,No
+600,Alorica,Plantation,03/30/2016,05/31/2016,262,8151 Peters Road,No,No,No
+601,CACI Inc,Arlington,03/28/2016,05/27/2016,64,1100 North Glebe Road ,No,Yes,No
+602,Hospice of Virginia,Richmond,03/21/2016,05/15/2016,16,1700 Bayberry Court,Yes,No,No
+603,AEC Narrow Fabrics ,Asheboro,03/21/2016,04/30/2016,5,150 North Park Street,No,Yes,No
+604,Hospice of Virginia,Richmond,03/20/2016,05/15/2016,76,1700 Bayberry Court,Yes,No,No
+605,Hospice of Virginia,Richmond,03/20/2016,05/15/2016,18,1700 Bayberry Court,Yes,No,No
+606,Hospice of Virginia,Richmond,03/15/2016,05/15/2016,5,1700 Bayberry Court,Yes,No,No
+607,Sterling Backcheck Company,New York,03/09/2016,08/23/2016,83,1 State Street Plaza,Yes,No,No
+608,Gannett Publishing Services,Springfield,03/05/2016,07/01/2016,7,6883 Commercial Drive,Yes,No,No
+609,Ball North American Metal Beverage Package,Broomfield,02/23/2016,05/01/2016,200,9300 West 108th Circle,Yes,No,No
+610,Genworth Financial,Richmond,02/04/2016,04/10/2016,336,6620 West Broad Street,No,No,No
+611,Sprint ,Overland Park ,01/22/2016,04/29/2016,380,6200,No,Yes,No
+612,General Dynamics Mission Systems,Annapolis,01/19/2016,03/07/2016,60,430 Natioanl Business Parkway,No,No,No
+613,BAE Systems,Norfolk,01/12/2016,03/18/2016,500,750 West Berkley Avenue,No,No,No
+614,General Dynamics NASSCO-Norfolk ,Norfolk,01/08/2016,01/29/2016,260,200 Ligon Street,No,No,No
+615,Nationwide Mutual Insurance Company,Columbus,01/07/2016,03/11/2016,85,One Nationwide Plaza,Yes,No,No
+616,Macy's,Glen Allen,01/06/2016,03/14/2016,81,Virginia Center Commons,Yes,No,No
+617,Macy's,Hampton,01/06/2016,03/14/2016,109,Peninsula Town Center,Yes,No,No
+618,Macy's,Norfolk,01/06/2016,03/14/2016,95,Military Circle,Yes,No,No
+619,Macy's,Richmond,01/06/2016,03/14/2016,135,Regency Square,Yes,No,No
+620,"Sykes Enterprises, Incorporated ",Tampa,01/04/2016,03/04/2016,184,400 North Drive ,Yes,Yes,No
+621,Pleasants Hardware,Richmond ,12/29/2015,02/27/2016,95,2024 West Broad Street ,Yes,Yes,No
+622,SSC Service Solutions,Knoxville,12/09/2015,01/01/2016,71,1845 Midpark Road,No,No,No
+623,Alion Science and Technology,McLean,12/08/2015,12/31/2015,114,1750 Tysons Boulevard,No,No,No
+624,Newport News Shipbuilding,Newport News,12/03/2015,12/04/2015,741,4101 Washington Avenue,No,No,Yes
+625,Volvo Group Trucks Operations ,Dublin,12/01/2015,02/05/2016,734,4881 Cougar Trucks Operations,No,No,No
+626,CACI International Inc.,Arlington,11/30/2015,01/31/2016,69,1100 North Giebe Road,No,No,No
+627,PAREXEL International ,Centreville,11/24/2015,01/04/2016,48,5870 Trinity Parkway,No,No,Yes
+628,Mitisubishi Kagaku Imaging Corporation (MKIC),Glendale ,11/24/2015,01/19/2016,83,655 N. Central Avenue,No,No,No
+629,Serco Inc.,Reston,11/19/2015,02/01/2016,44,1818 library Street,No,No,No
+630,"Home Retention Services, Inc. ",Houston ,11/19/2015,04/01/2016,255,9700 Bissonnet Street,Yes,No,No
+631,"Range Resources-Pine Mountain, Inc.",Fort Worth,11/09/2015,12/31/2015,158,100 Throckmorton Street,No,No,No
+632,Raytheon Intelligence Information & Services,Indianapolis,11/05/2015,01/04/2016,92,6125 East 21st Street,No,No,No
+633,Cumberland River Coal Company,Appalachia,10/30/2015,12/30/2015,8,US Route 603,No,No,Yes
+634,Jacobs Technology Inc. ,Fort Walton Beach,10/27/2015,01/12/2016,146,Advanced Systems Group ,No,No,No
+635,Gannett Publishing Services ,Springfield,10/06/2015,02/28/2016,250,6883 Commercial Drive,Yes,No,No
+636,"Home Retention Services, Inc.",Houston,09/23/2015,11/23/2015,255,1980 Post Oak Blvd,Yes,No,No
+637,BAE Systems,Norfolk,09/21/2015,11/20/2015,1512,750 West Berkley Avenue,No,No,Yes
+638,Alpha Natural Resources ,Norton ,09/21/2015,11/20/2015,527,5703 Crutchfeild Drive,Yes,No,No
+639,Sodex,Pittsburg,08/31/2015,10/02/2015,66,12 Short Street,Yes,No,No
+640,Gold Key Hotels & Resorts,Virgina Beach,08/17/2015,10/01/2015,1000,300 32nd Street,No,No,No
+641,The Wilburn Company ,Linthicum ,08/13/2015,09/30/2015,108,"1041 W. Nursery Road, Ste. 2A",No,No,No
+642,"Printpack, Inc. ",Atlanta,07/31/2015,10/02/2015,155,2800 Overlook Parkway ,Yes,No,No
+643,Raytheon ,Waltham ,07/29/2015,09/30/2015,54, 870 Winter Street,No,No,Yes
+644,Hertz Transporting Inc.,Oklahoma City ,07/21/2015,09/25/2015,116,14501 Hertz Quail Springs Parkway,No,Yes,No
+645,"NADA Retirement Administrators, Inc.",McLean,07/15/2015,09/15/2015,67,8400 Westpark Drive,No,Yes,No
+646,Alpha Natural Resources,Norton,07/08/2015,09/06/2015,165,5703,No,Yes,No
+647,"Buccaneer Computer Systems & Services, INC.",Warrenton,06/25/2015,08/25/2015,137,6799 Kennedy Road,No,Yes,No
+648,"Parsons Technical Services, Inc.",Newington,06/25/2015,09/25/2015,100,8500 Cinder Bed Road,No,No,No
+649,GENCO Installation Support Services ,Fort Lee,06/12/2015,08/07/2015,85,Fort Lee,Yes,No,No
+650,Avis Budget Group,Virginia Beach,05/29/2015,08/01/2015,146,"300 Centre Pointe Drive,",Yes,No,No
+651,Bayshore Concrete Products Corporation,Cape Charles,05/19/2015,07/19/2015,81,"1134 Bayshore Road,",Yes,No,No
+652,Kmart,Hoffman Estates,04/29/2015,07/19/2015,82,"3333 Beverly Road,",Yes,No,No
+653,Carpenter Company,Richmond,04/23/2015,06/24/2015,55,"5016 Monument Ave, P.O. Box 27205",No,Yes,No
+654,"Raytheon Intelligence, Information and Services",Springfield,04/15/2015,06/30/2015,59,"7500 Geoint Dr.,",Yes,No,No
+655,"CB&I Maintenance, Inc. ",Baton Rouge,04/07/2015,04/29/2015,148,4171 Essen Lane,No,Yes,No
+656,Wyle-Aerospace Group,Lexington Park,04/06/2015,05/31/2015,67,22309 Exploration Drive,Yes,No,No
+657,Parsons ,Newington,03/30/2015,05/29/2015,100,8500 Cinder Bed Road,No,No,No
+658,Norfolk Southern Corporation-NS,Norfolk,03/27/2015,06/01/2015,426,Three Commercial Place,Yes,No,No
+659,Sweet Briar College,Sweet Briar,03/26/2015,05/31/2015,344,34 Chapel Road,Yes,No,No
+660,AT&T Corporation,Bedminster,03/16/2015,07/31/2015,62,One AT&T Way,Yes,No,No
+661,Riverside Pace,Newport News,03/12/2015,05/15/2015,90,Riverside Health System,Yes,No,No
+662,United,Chicago,03/06/2015,05/17/2015,64,233 South Wacker Drive,No,Yes,No
+663,Riverside PACE ,Petersburg ,02/27/2015,04/30/2015,67,315 Brown Street ,Yes,No,No
+664,Office Depot Inc. ,Boca Raton ,02/26/2015,05/22/2015,143,6600 North Military Trail,No,No,No
+665,"Kids ""R"" Kids",Midlothian,02/26/2015,03/06/2015,39,6761 Temie Lee Pkwy,Yes,No,No
+666,Trident Seafoods Corporation,Seattle,02/20/2015,04/21/2015,65,5303 Shilshole Ave NW,No,Yes,No
+667,"Bart & Associates, Inc. ",McLean ,02/12/2015,04/16/2015,73,8300 Greensboro Drive ,No,No,No
+668,Kmart ,Hoffman Estates,02/12/2015,05/10/2015,113,Sears Holdings Support Center,Yes,No,No
+669,"Freight Handlers, Inc. FHI, LLC",Fuquay-Varina,02/10/2015,04/18/2015,65,P.O. Box 546,No,No,Yes
+670,"Tyonek Services Group, Inc.",Madison,01/30/2015,03/31/2015,45,229 Palmer Road,No,No,No
+671,"Suncoke Energy, Inc.",Vansant,01/29/2015,01/29/2015,151,P.O. Box 70,Yes,No,No
+672,Bank of America,Washington,01/28/2015,03/29/2015,202,"1455 Pennsylvania Ave., NW",No,Yes,Yes
+673,Concord Hospitality Enterprises Company,Raleigh,01/28/2015,03/29/2015,77,11410 Common Oaks Drive,Yes,No,No
+674,Iluka Resources,Stony Creek,01/08/2015,04/15/2015,120,12472 St John Church Road,Yes,No,No
+675,TECO Coal Corporation ,Corbin ,12/30/2014,02/12/2015,85,200 Allison Blvd.,No,Yes,No
+676,Harris IT Services,Sterling,12/22/2014,02/28/2015,65,44873 Falcon Place ,No,Yes,No
+677,"SunCoke Energy, Inc.",Vansant,12/15/2014,12/15/2014,160,P.O. Box 70,Yes,No,No
+678,Cumberland River Coal Company,Appalachia,11/21/2014,01/20/2015,1,Route 636,No,No,Yes
+679,Trident Seafoods Corporation,Seattle,11/12/2014,01/14/2015,70,5303 Shilshole Ave NW,Yes,No,No
+680,Lumber Liquidators,Toano,11/10/2014,11/30/2014,121,300 John Deere Road,No,Yes,No
+681,Sprint ,Overland Park,10/24/2014,10/24/2014,235,6200 Sprint Parkway ,No,No,Yes
+682,Dominion ,Glen Allen,10/23/2014,12/28/2014,29,5000 Dominion Blvd,No,Yes,No
+683,TECO Coal Corporation ,Corbin ,10/20/2014,12/31/2014,101,200 Allison Blvd,Yes,No,No
+684,Intersections Inc.,Chantilly,10/17/2014,12/19/2014,77,3901 Stonecroft Boulevard,Yes,No,No
+685,Kmart Corporation,Hofman Estates,10/15/2014,01/18/2015,88,Sear Holdings Support Center,Yes,No,No
+686,Colonial Downs ,New Kent,10/04/2014,12/31/2014,52,10515 Colonial Downs Pkwy,Yes,No,No
+687,Colonial Downs,New Kent,10/04/2014,12/31/2014,23,10515 Colonial Downs Pkwy,Yes,No,No
+688,Asheboro Elastics Corporation,Boykins,10/03/2014,11/30/2014,100,32056 East Circle,No,No,No
+689,The Founders Inn and Spa,Virginia Beach,10/03/2014,12/31/2014,208,5641 Indian River Road,No,No,No
+690,Keolis Transit America,Los Angeles,09/30/2014,11/30/2014,106,6053 W. Centry Blvd,No,Yes,No
+691,"Fluor Enterprises, Inc",Greenville,09/24/2014,11/30/2014,90,100 Fluor Danile Drive,No,No,Yes
+692,Cumberland River Coal Company,Appalachia,09/19/2014,11/18/2014,4,Route 636,No,No,Yes
+693,Travel Centers of America,Westlake,09/08/2014,11/15/2014,66,24601 Center Ridge Road,Yes,Yes,No
+694,URS,Austin,08/29/2014,10/31/2014,208,9400 Ambergien Boulevard,No,Yes,No
+695,DynCorp International LLC,McLean,08/20/2014,08/31/2014,64,1700 Old Meadow Road ,No,Yes,No
+696,Cumberland River Coal Company,Appalachia,07/21/2014,09/19/2014,213,US Route 603,Yes,No,Yes
+697,Intuit,Mountain View,07/15/2014,09/15/2014,159,2632 Marine Way,No,No,Yes
+698,"Acision, LLC",Plano,07/11/2014,09/09/2014,65,6404 Internatioanl Parkway,No,No,Yes
+699,Corizon Health,Brentwood,07/11/2014,09/30/2014,47,105 West Park Drive,No,Yes,No
+700,Corizon Health,Brentwood,07/11/2014,09/30/2014,216,105 West Park Drive,No,Yes,No
+701,Corizon Health,Brentwood,07/11/2014,09/30/2014,375,105 West Park Drive,No,Yes,No
+702,United Arab Shipping Company (UASC),Cranford,07/08/2014,09/01/2014,20,511 South Avenue East,No,Yes,No
+703,"Med-Fit Systems, Inc.",Independence,07/02/2014,06/30/2014,104,  709 Powerhouse Road                 ,No,No,Yes
+704,"NII Holdings, Inc. ",Reston,07/01/2014,07/31/2014,88,1875 Explorer Street,No,Yes,No
+705,"Transit Holding, LLC",Purcellville,07/01/2014,08/31/2014,52,109 North Bailey Lane,No,Yes,No
+706,"Dickenson-Russell Coal Company, LLC",Cleveland,06/26/2014,08/25/2014,121,7546 Gravel Lick Road,Yes,No,No
+707,Harris IT Services,Sterling,06/26/2014,08/29/2014,53,447873 Falcon Place,No,Yes,No
+708,"AMACD American Cadastre, LLC",Herndon,06/23/2014,06/23/2014,63,13650 Dulles Technology Drive,No,No,No
+709,Wolff Fording & Company,Richmond,06/23/2014,06/23/2014,118,2220 East Main Street,Yes,No,No
+710,"Jacobs Technology Inc., Advanced Systems Group",Fort Walton Beach,06/02/2014,06/28/2014,84,1020 Titan Court,No,Yes,No
+711,HMS Host,Washington,06/02/2014,08/07/2014,67,Dulles International Airport,No,No,No
+712,"Carl Zeiss Vision, Inc.",San Diego,05/29/2014,07/29/2014,73,12121 Scripps Summit Drive,No,Yes,No
+713,Electronic Arts Inc.,Redwood City,05/29/2014,07/28/2014,69,209 Redwood Shores Parkway,Yes,No,No
+714,Bank of America,Washington,05/22/2014,07/20/2014,5,"1455 Pennsylvania Ave., NW",No,No,Yes
+715,Sodexo,Roanoke,05/19/2014,07/06/2014,45,8004 Fishburn Drive,Yes,No,No
+716,U.S. Aviation Services Corp.,Chicago,05/13/2014,07/15/2014,213,1550 S. Indiana Avenue,No,No,No
+717,Cox Communications,Chesapeake,05/07/2014,07/06/2014,172, 1341 Crossways Blvd,No,Yes,No
+718,Northrop Grumman Corporation,Herndon,05/05/2014,07/22/2014,57,2411 Dulles Corner Park,No,Yes,No
+719,"Caterpillar Global Mining America, LLC",Oak Creek ,05/02/2014,07/01/2014,180,6744 Howell Avenue,Yes,No,No
+720,Community Development Institute Head Start (CDI HS),Virginia Beach,04/30/2014,07/01/2014,63,PO Box 12638,No,Yes,No
+721,"Caterpillar Global Mining America, LLC",Oak Creek ,04/29/2014,06/30/2014,45,6744 Howell Avenue,Yes,No,No
+722,"Med-Fit Systems, Inc.",Independence ,04/18/2014,04/21/2014,61,709 Powerhouse Road,No,No,No
+723,Reinhart Foodservices,La Crosse,04/14/2014,06/08/2014,46,100 Harborview Plaza,No,Yes,No
+724,B&W mPower,Charlotte,04/14/2014,06/16/2014,211,11525 N. Community House Road,No,No,No
+725,American Eagle,Washington,03/31/2014,06/04/2014,62,1 Aviation Circle,No,No,Yes
+726,NIITEK,Dulles,03/19/2014,05/23/2014,78,23031 Ladbrook Drive                          ,No,No,Yes
+727,DynCorp International,McLean,03/19/2014,04/30/2014,73,1700 Old Meadow Road,No,Yes,Yes
+728,Aramark,Downers Grove,03/17/2014,05/16/2014,197,2300 Warrenville Road,No,No,Yes
+729,"STEPS, Inc.",Farmville,03/13/2014,06/01/2014,110,225 Industrial Park Road,No,Yes,No
+730,Union First Market Bank ,Ruther Glen,03/10/2014,05/09/2014,80,P.O. Box 940,No,No,Yes
+731,Lockheed Martin Corporation Information Systems & Global Solutions,Arlington,03/07/2014,05/07/2014,165,1725 Jefferson Davis Hwy,No,Yes,No
+732,"General Dynamics Information Technology, Inc.",Fairfax,03/06/2014,05/09/2014,344,3060 Williams Drive,No,No,Yes
+733,"NCO Financial Systems, Inc.",Virginia Beach,03/05/2014,05/04/2014,107,4740 Baxter Road,No,No,Yes
+734,Child Care Aware of America,Arlington,02/28/2014,05/01/2014,60,1515 N. Courthouse Road,No,No,Yes
+735,General Dynamics Information Technology,Falls Church,02/25/2014,04/26/2014,110,3120 Fairview Park Drive,No,Yes,No
+736,The Commodore Corporation,Goshen,02/20/2014,04/16/2014,116,1423 Lincolnway East,Yes,No,No
+737,Coral Graphics,Hicksville,02/17/2014,04/19/2014,100,804 South Broadway,No,No,No
+738,Bank of America,Washington,01/24/2014,03/24/2014,79,"1455 Pennsylvania Ave., NW",No,Yes,No
+739,Sheraton Crystal City Hotel,Arlington,01/24/2014,04/12/2014,95,1800 Jefferson Davis Hwy,Yes,No,No
+740,Kroger Food Stores,Roanoke,01/17/2014,03/21/2014,98,P.O BOX 14002,Yes,No,No
+741,Kroger Food Stores,Roanoke,01/17/2014,03/21/2014,52,P.O BOX 14002,Yes,No,No
+742,JC Penney,Norfolk,01/15/2014,05/03/2014,115,880 N. Military Hwy,Yes,No,No
+743,Aditya Birla Minacs,Henrico,12/28/2013,03/29/2014,172,9950 Mayland Drive,No,No,No
+744,Bostwick Laboratories,Uniondale,12/12/2013,02/03/2014,44,100 Charles Lindbargh Blvd,Yes,No,No
+745,"SB Capital Acquisition, LLC (JC's 5 Outlet store)",Columbus,11/25/2013,12/18/2013,31,4010 E. Fifth Avenue,Yes,No,No
+746,"JELD-WEN, Inc.",Klamath Falls,11/12/2013,01/31/2013,109,3250 Lakeport Blvd.,Yes,No,No
+747,"Mitsubishi Nuclear Energy Systems, Inc. (MNES)",Charlotte,10/31/2013,12/31/2013,15,11405 North Community House Rd. Ste 300,No,No,No
+748,Boehringer Ingelheim,Petersburg,10/28/2013,12/31/2013,63,2820 North Normady Drive,No,No,No
+749,"NRG Energy, Inc.",Princeton,10/21/2013,12/02/2013,4,211 Carnegie Center,Yes,No,No
+750,Georgia-Pacific LLC,Atlanta,10/09/2013,12/08/2013,65,133 PeachTree Street NE,No,No,No
+751,"DNC Parks & Resorts at Peaks of Otter, Inc. ",Bedford,10/01/2013,10/01/2013,88,P.O. Box 489,No,No,No
+752,"DNC Parks & Resorts at Shenandoah, Inc.",Luray,10/01/2013,10/01/2013,267,P.O. Box 727,No,No,No
+753,"Northrop Grumman, Information Systems Sector, Intelligence Systems Division",Reston,09/30/2013,11/29/2013,52,12011 Sunset Hills Rd,No,No,No
+754,Bostwick Laboratories,Uniondale,09/25/2013,11/25/2013,34,100 Charles Lindbergh Blvd,No,No,No
+755,URS Corporation,Virginia Beach ,09/19/2013,11/12/2013,16,277 Bendix Road,No,No,No
+756,URS Corporation,Virginia Beach,09/19/2013,12/05/2013,21,277 Bendix Road,No,No,No
+757,URS Corporation,Virginia Beach,09/16/2013,09/28/2013,15,277 Bendix Road,No,No,No
+758,URS Corporation,Virginia Beach,09/16/2013,11/13/2013,106,"277 Bendix Road, Suite 500",No,No,No
+759,Fluor,Greenville ,09/12/2013,10/06/2013,184,100 Fluor Drive,No,No,No
+760,Lee Regional Medical Center,Pennington Gap,09/11/2013,10/01/2013,137,P.O. Box 589,No,No,No
+761,Grede,Radford,09/06/2013,12/31/2013,264,1701 West Main Street,No,No,No
+762,Minova,Goergetown,09/05/2013,12/30/2013,65,150 Carley Court,No,No,No
+763,Bank of America,Washington,08/29/2013,10/31/2013,50,"1455 Pennsylvania Ave., NW",No,No,No
+764,Northrop Grumman Information Systems,Reston,07/08/2013,09/03/2013,8,12011 Sunset Hills Rd,No,No,No
+765,"Schmitt E.G., Inc. ",Guilford,06/28/2013,09/03/2013,87,251 Boston Post Road,No,No,No
+766,The Boeing Company,Seattle,06/21/2013,08/23/2013,5,P.O. Box 3707,No,No,No
+767,"Smithfield Packaging Company, Inc.",SmithField,06/17/2013,08/16/2013,122,601 N. Church Street,No,No,No
+768,Shenandoah's Pride,Springfield,06/12/2013,08/12/2013,110,5325 Port Royal Road,No,No,No
+769,JPMorgan Chase & Co.,Paramus,06/06/2013,07/06/2013,84,36 East Midland Avenue,No,No,No
+770,AARP ,Washington,06/05/2013,08/02/2013,18,"601 E Street, NW",No,No,No
+771,Bechtel Infrastructure Corporation,Reston,05/25/2013,07/26/2013,117,12011 Sunset Hills Road,No,No,No
+772,"Northrop Grumman Technical Services, Inc.",Herndon,05/24/2013,07/22/2013,56,2411 Dulles Corner Park,No,No,No
+773,Comcast ,Henrico,05/16/2013,09/07/2013,53,5401 Staples Mill Road,No,No,No
+774,Comcast,Manassas,05/16/2013,07/16/2013,159,11101 University Blvd,No,No,No
+775,"Chenega Aerospace, LLC",Anchorage,05/15/2013,07/15/2013,9,3000 C Street,No,No,No
+776,"Chenega Integrated Ssystems, LLC",Ashburn,05/15/2013,07/15/2013,55,1990 Highland Vista Drive,No,No,No
+777,Liberty Medical Supply,Salem,05/10/2013,07/08/2013,18,2157 Apperson Drive,No,No,No
+778,Stage Stores,    Houston,04/30/2013,05/03/2013,112,10201 Main Street  ,No,No,No
+779,Akima/DTSV,Newport News,04/26/2013,06/30/2013,324,1600 Thimble Shoals Blvd,No,No,No
+780,Chatwells School Dining Services,Fredericksburg,04/23/2013,06/06/2013,120,Spotsylvania Public Schools,No,No,No
+781,"MV Transportation, Inc.",Dallas,04/12/2013,06/13/2013,110,5910 N. Central Expressway,No,No,No
+782,"Northrop Grumman, Information Systems, Intelligence Systems Division ",Reston,03/31/2013,05/31/2013,10,12011 Sunset Hills Road                           ,No,No,No
+783,Lockheed Martin,Chesapeake,03/28/2013,05/31/2013,59,1408 Stephanie Way,No,No,No
+784,SAIC ,Falls Church,03/22/2013,05/22/2013,150,6565 Arlington Blvd.,No,No,Yes
+785,"1859 Historic Hotels, Ltd. (Williamsburg Hospitality House)",Galveston,03/22/2013,05/21/2013,110,P.O. Box 59,No,No,No
+786,Kroger Food Stores,Roanoke,03/19/2013,05/21/2013,80,P.O. Box 14002,No,No,No
+787,The Examiner,Denver,03/19/2013,06/14/2013,65,Clarity Media Group,No,No,No
+788,TRI-ARK,Warminister,03/11/2013,04/30/2013,80,1230 Old York Road,No,No,No
+789,"OMNISEC International Security Services, INC.",Arlington,03/08/2013,05/09/2013,99,14151 Park Meadow Drive,No,No,No
+790,INOVA,Falls Church,03/07/2013,05/12/2013,438,8110 Gatehouse Road,No,No,No
+791,SERCO Inc.*,Reston,03/06/2013,11/30/2012,216,1818 Library Street,No,No,No
+792,SERCO Inc.*,Reston,03/06/2013,11/30/2012,75,1818 Library Street,No,No,No
+793,Advanced Federal ,Madison,03/01/2013,04/30/2013,72,250 Sun Temple Drive,No,No,No
+794,"BAE Systems Norfolk Ship Repair, Inc.*",Norfolk,02/22/2013,11/30/2012,0,750 West Berkley Ave.,No,No,No
+795,NSC Technologies Worldwide*,Portsmouth,02/22/2013,11/30/2012,0,660 Mt. Vernon Ave.,No,No,No
+796,Stage Stores (Peebles),South Hill,02/20/2013,05/01/2013,50,One Peebles Street,No,No,Yes
+797,Advanced Federal Services Corporation,Madison,02/15/2013,03/28/2013,96,250 Sun Temple Drive,No,Yes,No
+798,"SunCoke Energy, Inc. (Jewell Coal Mine)",Vansant,02/08/2013,02/09/2013,51,P.O. Box 70,Yes,No,No
+799,Alpha Natural Resources (Mill Branch Coal Corp),Wise,02/08/2013,04/09/2013,102,P.O. Box 2560,Yes,No,No
+800,"Alpha Natural Resources (Paramont Coal Company Virginia, LLC)",Wise,02/08/2013,04/09/2013,84,P.O. Box 2560,Yes,No,No
+801,HSBC,Buffalo,02/07/2013,04/12/2013,164,P.O. Box 2013,Yes,No,No
+802,NRG Energy ,Princeton,02/01/2013,02/01/2013,11,211 Carnegie Center,Yes,No,No
+803,Serco,Reston,01/25/2013,04/01/2013,82,"1818 Library Street, Suite 1000",No,No,No
+804,"International Veneer Company, Inc.",South Hill ,01/14/2013,03/15/2013,100,1551 Montgomery Street,No,Yes,No
+805,Liberty Medical Supply,Salem,01/07/2013,02/16/2013,186,2157 Apperson Drive,No,No,No
+806,"Home Care Industries, Inc. ",LaCrosse,01/02/2013,01/02/2013,113,350 Golden Eagle Drive,Yes,No,No
+807,URS Federal Services,Chantilly,01/02/2013,02/07/2013,24,4800 Westfields Blvd,No,No,Yes
+808,Archstone ,Englewood,12/22/2012,02/25/2013,69,9200 East Panorama Circle,No,Yes,No
+809,American Management Services (Pinnacle),Seattle,12/21/2012,12/14/2012,66,"2801 Alaskan Way, Suite 200",Yes,No,No
+810,"General Dynamics Information Technology, Inc.",Fairfax,12/17/2012,02/28/2013,84,3211 Jermantown Rd.,No,No,Yes
+811,Mundy Support Services LLC,Houston,12/13/2012,01/02/2013,124,11150 South Wilcrest Drive,No,Yes,No
+812,CDI Marine Company,Virginia Beach,12/03/2012,01/31/2012,55,5700 Ward Avenue,No,Yes,No
+813,Masco Cabinetry,Atkins,11/15/2012,01/14/2013,280,686 Mulberry Lane,Yes,No,No
+814,Sears,Omaha,11/15/2012,01/15/2013,5,Tucker HR Support Center,No,Yes,No
+815,Smithfield,Smithfield,11/12/2012,04/30/2013,388,601 North Church Street,Yes,No,No
+816,JELD-WEN-rescinded,Klamath Falls,11/06/2012,12/31/2012,138,3250 Lakeport Blvd,Yes,No,No
+817,Target,Gainesville,11/05/2012,02/02/2013,80,13301 Gateway Center Drive,Yes,No,No
+818,AGA Service Company dba Allianz Global Assistance,Richmond,11/01/2012,01/04/2013,139,2805 North Parham Road,Yes,No,No
+819,SAIC,Reston,11/01/2012,12/28/2012,80,Science Application International Corporation,No,Yes,No
+820,DuPont,Richmond,10/30/2012,12/31/2012,64,5200 DuPont Site Road,No,Yes,No
+821,"SRA International, Inc.",Fairfax,10/29/2012,01/01/2013,222,4350 Fair Lakes Court,No,Yes,No
+822,Henkel-Harris,Winchester,10/29/2012,12/31/2013,122,P.O. Box 2170,Yes,No,No
+823,Wyle,Houston,10/26/2012,11/30/1999,60,Science Technology & Engineering Group,No,Yes,No
+824,SEARS,Omaha,10/23/2012,01/23/2013,71,Tucker HR Support Center,No,Yes,No
+825,Strayer University,Herndon,10/15/2012,12/14/2012,61,2303 Dulles Station Blvd,Yes,No,No
+826,"Kurz-Kasch, Inc.",South Boston,10/11/2012,02/01/2013,59,1222 Seymour Drive,Yes,No,No
+827,"Money Mailer, LLC",Garden Grove,10/08/2012,03/05/2013,72,12131 Western Avenue,Yes,No,No
+828,BAE Systems Technology Solutions & Services Inc.,Hampton,10/05/2012,10/26/2012,77,6 Manhattan Square,No,Yes,No
+829,"ARAMARK Sports and Entertainment Services, LLC",Luray,10/02/2012,12/31/2012,228,Shenandoah National Park Operations,Yes,No,No
+830,Alpha Natural Resources,Norton,09/18/2012,11/17/2012,110,5703 Crutchfield Drive,No,No,No
+831,American Airlines,Fort Worth ,09/17/2012,11/16/2012,48,4333 Amon Carter Blvd. MD 5256,No,Yes,No
+832,Flour,Greenville,09/12/2012,10/06/2013,184,100 Fluor Daniel Manager,No,No,No
+833,GenOn,Houston,09/06/2012,10/08/2012,49,1000 Main Street,Yes,No,No
+834,URS,Midwest City,09/06/2012,10/31/2012,204,2701 Liberty Parkway,No,Yes,No
+835,Aer Lingus,Jericho,08/24/2012,10/30/2012,62,"300 Jericho Quadrangle, Suite 130",No,No,No
+836,Regional Elite,Minneapolis,08/24/2012,10/30/2012,38,7500 Airline Drive,Yes,No,No
+837,General Dynamics Land Systems,Sterling Heights,08/23/2012,10/01/2012,44,38500 Mound Road,No,No,No
+838,Federal Mogul,Winchester,08/10/2012,10/12/2012,129,2410 Papermill Road,Yes,No,No
+839,Dove Vinyl Windows,Wikes-Barre,08/08/2012,08/13/2012,52,767 Sans Souci Parkway,Yes,No,No
+840,"Masterbrand Cabinets, Inc.",Jasper,08/03/2012,08/10/2012,345,P.O. Box 420,Yes,No,No
+841,"G4S Government Solutionas , Inc.",Palm Beach Gardens,08/02/2012,09/30/2012,98,"7121 Fairway Drive, Suite 301",No,Yes,No
+842,"G4S Government Solutions, Inc.",Palm Beach,08/02/2012,09/30/2012,68,"7121 Fairway Drive, Suite 301",No,Yes,No
+843,Golden Living,Fort Smith,07/30/2012,10/02/2012,42,1000 Fianna Way,Yes,No,No
+844,BAE Systems Technology Solutions & Services Inc.,Hampton,07/24/2012,08/27/2012,76,6 Manhattan Square,No,Yes,No
+845,MDV ,Norfolk,06/28/2012,08/28/2012,18,A Nash Finch Company,No,Yes,No
+846,Southeast Service Corporation d/b/a SSC Service Solution,Knoxville,06/22/2012,08/26/2012,90,"1845 Midpark Road, Suite 201",No,Yes,No
+847,Xanodyne Pharmaceuticals Inc.,Newport,06/21/2012,08/20/2012,1,One Riverfront Place,No,Yes,No
+848,"Dilliard""s Inc",Little Rock,06/11/2012,08/12/2012,59,1600 Cantrell Road,Yes,No,No
+849,IAP Worldwide Services,Cape Canaveral,06/04/2012,06/29/2012,185,7315 North Atlantic Avenue,No,No,No
+850,ATK Energetic Systems ,Radford,06/01/2012,06/25/2012,614,Radford Army Ammunition Plant,No,Yes,No
+851,Golden West Foods,Bedford,05/30/2012,06/01/2012,119,940 Orange Street,Yes,No,No
+852,"RG Steel, LLC",Wheeling,05/23/2012,06/04/2012,10,1134 Market Street,No,Yes,No
+853,Sennett Security Products,Chantilly,05/22/2012,07/23/2012,50,4212-A Technology Court,Yes,No,No
+854,Daily Press,Newport News,05/10/2012,07/18/2012,80,7505 Warwick Boulevard,Yes,No,No
+855,Hostess Brands,Irving ,05/04/2012,07/04/2012,221,6031 Connection Drive,Yes,No,No
+856,Northrop Grumman,Herndon,05/01/2012,06/29/2012,130,Technical Services,No,Yes,No
+857,CSC ,Fort Worth,05/01/2012,05/31/2012,7,North American Public Sector Applied Technology Di,No,Yes,No
+858,"CRAssociates, Inc.",Newington,04/27/2012,06/30/2012,431,"8580 Cinderbed Road, Suite 2400",No,Yes,No
+859,"Delphinus Engineering, Inc.",Eddystone,04/26/2012,04/28/2012,46,Baldwin Tower,No,Yes,No
+860,Serco Inc.,Fairfax,04/25/2012,06/18/2012,58,1818 Library Street,No,No,No
+861,Best Buy,South Richfield,04/14/2012,05/12/2012,64,Corporate Campus,Yes,No,No
+862,TRG Customer Solutions,Jacksonville,04/04/2012,04/30/2012,371,8375 Dix Ellis Trail,No,Yes,No
+863,General Dynamics,Sterling Heights,04/02/2012,05/31/2012,3,Land Systems,No,No,No
+864,Lockheed Martin,Chesapeake,03/22/2012,04/06/2012,92,Information Systems & Global Solutions,No,Yes,No
+865,ARAMARK Higher Education,Covington,03/19/2012,06/01/2012,82,RiverCenter 1 Suite 1810,Yes,No,No
+866,"Luke & Associates, Inc.",Merritt Island,03/19/2012,05/13/2012,182,775 E. Marritt Causeway,No,Yes,No
+867,"Video Gaming Technologies, Inc.",Brentwood,03/15/2012,10/01/2012,218,155 Franklin Road,Yes,No,No
+868,Northrop Grumman Corporation,Chantilly,03/02/2012,05/04/2012,1,Information Systems,No,Yes,No
+869,LightSquard,Reston,02/27/2012,02/24/2012,123,10802 Parkridge Boulevard,No,No,Yes
+870,Lockheed Martin,Hampton,02/27/2012,04/30/2012,65,Information Systems & Global Solutions,No,Yes,No
+871,SIMOS,Roswell,02/24/2012,04/24/2012,135,"695 Mansell Road, Suite 200 ",No,Yes,No
+872,ATK Mission Systems Group Space Division NASA Langley Facility,Hampton,02/23/2012,04/23/2012,124,1221B Langley Blvd.,No,Yes,No
+873,Duro Duro Bag Manufacturing Compnay,Florence,02/21/2012,02/24/2012,154,7600 Empire Drive,Yes,No,No
+874,INOVA HEALTH SYSTEM ,Falls Church,02/16/2012,05/02/2012,210,8110 Gatehouse Road,No,Yes,No
+875,"Sears Holdings Sears, Roebuck, & Co. Associate Service Center",Omaha,02/15/2012,04/22/2012,84,P.O. Box 2945,Yes,No,No
+876,General Dynamics Land Systems,heights,02/13/2012,04/12/2012,44,38500 Mound Road,No,No,No
+877,"HanoverDirect, Inc",Crosse,02/09/2012,04/27/2012,189,455 Park Plaza Drive,No,Yes,No
+878,"CCC Transporation, LLC",Transporation,02/03/2012,04/15/2012,74,509 Hwy 92 East ,Yes,No,No
+879,Virginia Port Authority,Norfolk,02/01/2012,02/29/2012,39,600 World Trade Center,No,Yes,No
+880,"QinetiQ North America, Inc",Springfield,01/30/2012,02/29/2012,180,7450-B Boston Blvd,No,Yes,No
+881,Bluefield Beverage Company,Bluefield,01/27/2012,04/27/2012,107,219 Industrial Park Road,Yes,No,No
+882,The Mason Inn - ARAMARK,Fairfax,01/24/2012,03/31/2012,135,4352 Mason Pond Drive,No,Yes,No
+883,Kroger Food Stores,Roanoke,01/23/2012,03/23/2012,62,P.O. Box 14002,Yes,No,No
+884,Potomac Supply Corporation,Kinsale,01/18/2012,01/10/2012,98,1398 Kinsale Road,Yes,No,No
+885,"Miller Truck Lines, LLC",Lines,01/15/2012,03/31/2012,3,105 N. 8th Avenue,Yes,No,No
+886,Warsaw Healthcare Center,Warsaw,01/09/2012,03/09/2012,48,5373 Richmond Road,Yes,No,No
+887,Muller Martini Manufacturing Corp.,News,12/28/2011,02/28/2012,31,P.O. Box 6630,Yes,No,No
+888,Potomac Supply Corporation,,12/14/2011,01/13/2012,57,1398 Kinsdale Road,Yes,No,No
+889,Aramark,Philadelphia,12/09/2011,12/31/2011,67,1101 Market Street 20th Floor,Yes,No,No
+890,"Pitney Bowes, Inc ",Stamford,12/09/2011,02/22/2012,64,1 Elmcroft Road  ,Yes,No,No
+891,Windstream Communications,Rock,12/01/2011,02/03/2012,70,4001 Rodney Parham Road,No,Yes,No
+892,BASF Corporation,Suffolk,11/29/2011,01/29/2012,45,2301 Wilroy Road ,No,Yes,No
+893,Marion Youth Center,Marion,11/08/2011,01/08/2012,108,225 State Street,Yes,No,No
+894,"Filene\'s Basement/Syms Clothing Syms Corp and Filene\'s basement, LLCOne Syms WaySecaucus, New Jersey ",Secaucus,11/04/2011,01/09/2012,35,"Syms Corp and Filene\'s Basement, LLC  ",Yes,No,No
+895,Berry Plastics Corporation,Piscataway,10/28/2011,01/01/2012,123,251 Circle Drive North,Yes,No,No
+896,Muller Martini Manufacturing Corp. ,News,10/27/2011,12/30/2011,98,PO Box 6630,Yes,No,No
+897,Rock-Tenn Company,Stream,10/25/2011,12/24/2011,110,450 East North Avenue,Yes,No,No
+898,"ARL Richmond Management, LLC (Richmond Ramada Plaza) One Post Office Square Suite ",Management,10/19/2011,10/21/2011,73,3100,Yes,No,No
+899,QuadGraphics N,Sussex,10/17/2011,12/16/2011,126,63W23075 State Hwy. 74,Yes,No,No
+900,"Lowe\'s Home Centers, Inc.",Mooresville,10/17/2011,12/16/2011,95,1000 Lowes Blvd,Yes,No,No
+901,Genie,,10/13/2011,05/31/2012,92,P.O. Box 67,Yes,No,No
+902,"MV Transportation, Inc.",Fairfield,10/03/2011,12/02/2011,62,4620 Westamerica Drive,No,No,No
+903,GRTC Transit System,Richmond,10/03/2011,11/30/2011,122,301 East Belt Boulevard,No,Yes,No
+904,Kroger Food Stores,Roanoke,09/22/2011,12/02/2011,101,P.O. Box 14002,Yes,No,No
+905,Artemiss,York,09/16/2011,12/30/2011,66,711 Third Avenue. 4th floor,Yes,No,No
+906,"Landmark Services Parking, Inc.",Washington,09/01/2011,01/15/2012,12,"1000 Ohio Drive, S.W.",Yes,No,No
+907,INOVA Health System ,Falls Church,08/31/2011,11/01/2011,463,8110 Gatehouse Road,No,Yes,No
+908,INOVA Health System ,Falls Church,08/31/2011,11/01/2011,143,8110 Gatehouse Road,No,Yes,No
+909,Global Contact Services (GCS),Salisbury,08/29/2011,10/08/2011,80,118-B South Main Street,Yes,No,No
+910,Ceridian  Colonial Place III ,Arlington,08/15/2011,10/15/2011,58,"2107 Wilson Blvd., 1st Floor",Yes,No,No
+911,DRS Technologies ,Bridgeport,07/18/2011,10/14/2011,16,141 North Avenue,No,Yes,No
+912,"Current USA, Inc. ",North Mankato,07/18/2011,08/12/2011,8,1725 Roe Crest Drive,Yes,No,No
+913,"American Press One American Place Gordonsville, Virginia ",,06/30/2011,08/31/2011,123,22942,Yes,No,No
+914,Wells Fargo & Co. (Home Equity Group),Charlotte,06/28/2011,08/27/2011,59,301 S Tryon Street,Yes,No,No
+915,Gates Corporation,,06/22/2011,09/22/2011,146,1551 Wewatta Street,Yes,No,No
+916,General Dynamics Information Technology,Fairfax,06/06/2011,09/15/2011,10,3211 Jermantown Road,No,Yes,No
+917,Hometown America,,05/31/2011,09/30/2011,8,"150 North Wacker Drive, Suite 2800",No,Yes,No
+918,Muller Martini Manufacturing Corporation,News,05/26/2011,07/31/2011,3,11850 Jefferson Avenue,No,Yes,No
+919,Flextronics Americas LLC,,05/25/2011,08/31/2011,193,6800 Solectron Drive,No,No,No
+920,"RCN Telecom Services, LLC Presidents Plaza, Building One",Services,05/25/2011,07/29/2011,33,"196 Van Buren Street, Suite 300",No,No,No
+921,Georgia-Pacific,Skippers,05/23/2011,07/22/2011,105,234 Forest Road,Yes,No,No
+922,"StarTek, Inc.",Denver,05/23/2011,07/22/2011,628,44 Cook Street ,Yes,No,No
+923,New Breed Corporations,Greensboro,05/10/2011,07/15/2011,79,P.O. Box 18367,Yes,No,No
+924,"J. C. Penney Corporation, Inc. JCPenney Retail Store-Potomac Mills Mall",Woodbridge,05/03/2011,07/02/2011,103,2700 Potomac Mills Circle,Yes,No,No
+925,General Dynamics Land Systems,heights,05/03/2011,05/03/2011,112,38500 Mound Road,No,No,No
+926,Yusen Logistics (Americas) Inc.,Secaucus,05/02/2011,07/03/2011,96,"300 Lighting Way, 6th Floor",Yes,No,No
+927,AREVA INC.,Lynchburg,04/29/2011,06/29/2011,1,3315 Old Forest Road,No,No,Yes
+928,SONOCO,Sandston,04/28/2011,06/30/2011,0,3900 Technology Blvd,No,No,No
+929,"Canusa Hershman Recycling of Virginia, LLC",Virginia,04/22/2011,06/19/2011,86,1532 Thames Street,No,No,No
+930,Aircraft Service International Group ASIG JFK International Airport Terminial ,Jamaica,04/21/2011,06/01/2011,86,4 Room 276.180,No,No,No
+931,Northrop Grumman Information Systems,Street,04/12/2011,05/13/2011,32,"80 M Street, SE",No,No,Yes
+932,Capstone Corporation,,04/07/2011,08/31/2011,63,"635 Slaters Lane, Suite 100",No,Yes,No
+933,Verizon Wireless,,03/31/2011,06/01/2011,270,15 Federal Road ,Yes,No,No
+934,ARAMARK Business & Industry Facilities Services,Philadelphia,03/29/2011,05/17/2011,47,1101 Market Street,Yes,No,No
+935,"Remuda Ranch One East Apache Street Wickenburg, AZ ",Wickenburg,03/10/2011,05/16/2011,74,85390,Yes,No,No
+936,Areva NP Inc.,Lynchburg,03/01/2011,04/29/2011,11,1724 Mount Athos Road,No,No,Yes
+937,Benchmark Hospitality,,02/28/2011,04/30/2011,85,4 Waterway Square Suite 300,No,Yes,No
+938,Northrop Grumman Technical Services,Suffolk,02/28/2011,04/24/2011,293,8030 Harbour View Blvd,No,No,Yes
+939,Lockheed Martin Information Systems & Global Solutions,rockville,02/25/2011,04/27/2011,45,2275 Research Blvd,No,Yes,No
+940,"Current USA, Inc.",Mankato,01/26/2011,08/01/2001,70,1725 Roe Crest Drive,Yes,No,No
+941,Kmart Sears Holding Support Center,Estates,01/25/2011,03/26/2011,158,3333 Beverly Road,No,No,No
+942,Smithfield Packaging Company,Smithfield,01/25/2011,03/26/2011,53,601 North Church Street,Yes,No,No
+943,TriWest Healthcare Alliance Corp.,Phoenix,01/24/2011,03/31/2011,80,16010 North 28th Avenue,Yes,No,No
+944,StarTek,Denver,01/24/2011,03/25/2011,69,44 Cook Street,No,Yes,No
+945,"United Litho, Inc.",Ashburn,01/20/2011,07/15/2011,80,21800 Beaumeade Circle,Yes,No,No
+946,"ZipReality, Inc.",Emeryville,01/12/2011,03/14/2011,2,"2000 Powell Street, Suite 300",Yes,No,No
+947,"ZipReality, Inc.",Emeryville,01/12/2011,03/14/2011,1,"2000 Powell Street, Suite 300",Yes,No,No
+948,Northrop Grumman Technical Services Inc.,,12/27/2010,02/28/2011,148,P.O. Box U,No,No,Yes
+949,"QuadGraphics, Inc. N",Sussex,12/06/2010,01/28/2011,312,"63 W23075 State Hwy, 74",No,No,No
+950,"NCO NCO Financial Systems, Inc.",Getzville,12/01/2010,12/04/2011,368,150 CrossPoint Pkwy,No,No,Yes
+951,"Current USA, Inc.",Mankato,11/17/2010,,49,1725 roe Crest Drive,Yes,No,No
+952,"Duke Energy Generation Services, INC",Services,11/11/2010,03/15/2011,41,P.O. Box 455,No,Yes,No
+953,"Biovail Technologies, Ltd.",Chantilly,11/05/2010,01/14/2011,54,3701 Concorde Parkway,Yes,No,No
+954,Covance Inc.,,11/03/2010,01/03/2011,223,210 Carnegie Center,No,No,No
+955,"Richmond Cold Storage Company, LLC",Company,11/03/2010,12/25/2010,108,4808 Radford Avenue,No,Yes,No
+956,"Thomasville Furniture Industries, Inc.",Appomattox,11/02/2010,03/25/2011,171,P.O. Box 848,Yes,No,No
+957,Northrop Grumman Technical Services Inc.,,10/25/2010,12/31/2010,164,P.O. Box U,No,No,Yes
+958,General DynamicsAdvance Information Systems National Business Park,Annapolis,10/21/2010,01/03/2011,9,"2721 Technology Drive, Suite 400",No,Yes,No
+959,AREVA NP INC,Lynchburg,10/15/2010,10/15/2010,7,1724 Mount Athos Road,No,Yes,No
+960,Principal Financial Group,Moines,10/11/2010,12/10/2010,2,711 High Street,No,Yes,No
+961,"Travelers One Tower Square Hartford, CT ",Hartford,09/22/2010,,88,6183,No,Yes,No
+962,"Xanodyne Pharmaceutical, Inc.One RiverFront Place Newport, KY ",Newport,09/21/2010,11/21/2010,3,41071,No,Yes,No
+963,Lockheed Martin Information Systems & Global Solutions,Rockville,09/15/2010,10/15/2010,59,2275 Research Blvd,No,Yes,No
+964,Smurfit-Stone Container Corporation,Richmond,09/02/2010,10/31/2010,146,2900 Spouse Drive,Yes,No,No
+965,Smurfit-Stone Container Corporation,Richmond,09/02/2010,10/31/2010,83,5640 Lewis Road,Yes,No,No
+966,Science Application International Corporation (SAIC),,08/27/2010,10/31/2010,90,1710 SAIC Drive,No,Yes,No
+967,Raytheon Mission Operations & Services,Pasadena,08/25/2010,10/27/2010,82,299 N. Euclid Ave. Suite 500,No,Yes,No
+968,"Northrop Grumman Technical Services, Inc (NGTS)",,08/11/2010,10/15/2010,169,34200 Fulton Street,No,No,No
+969,"Western Refining Yorktown, Inc.",Yorktown,08/05/2010,08/05/2010,225,2201 Goodwin Neck Road,No,No,No
+970,"Northrop Grumman Technical Services, Inc. (NGTS)",Eustis,07/29/2010,09/30/2010,173,P.O. Box U,No,Yes,No

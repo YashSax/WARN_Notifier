@@ -1,0 +1,1163 @@
+,company_name,location,notice_date,layoff_date,employees_affected,Layoff Type
+0,Yelloh -  Central Point,Central Point,2023-10-25 00:00:00,2023-12-15 00:00:00,6.0,Permanent closure
+1,Yelloh - Eugene,Eugen,2023-10-25 00:00:00,2023-12-15 00:00:00,8.0,Permanent closure
+2,Yelloh - Salem,Salem,2023-10-25 00:00:00,2023-12-15 00:00:00,7.0,Permanent closure
+3,Yelloh - Tualitin,Tualitin,2023-10-25 00:00:00,2023-12-15 00:00:00,11.0,Permanent closure
+4,Peace Health,Eugene,2023-10-19 00:00:00,2023-12-20 00:00:00,463.0,Permanent closure
+5,Wilsonville Distribution Center,Wilsonville,2023-10-18 00:00:00,2024-01-03 00:00:00,136.0,Permanent closure
+6,Grace ,Albany,2023-10-01 00:00:00,2024-06-30 00:00:00,23.0,Permanent closure
+7,Grace ,Albany,2023-10-01 00:00:00,2024-03-31 00:00:00,11.0,Permanent closure
+8,Grace ,Albany,2023-10-01 00:00:00,2023-12-31 00:00:00,61.0,Permanent closure
+9,T3281 Store,Portland,2023-09-26 00:00:00,2023-12-30 00:00:00,40.0,Permanent closure
+10,T3358 Store,Portland,2023-09-26 00:00:00,2023-12-30 00:00:00,56.0,Permanent closure
+11,T3381 Store,Portland,2023-09-26 00:00:00,2023-12-30 00:00:00,62.0,Permanent closure
+12,"American Nursery Services, Inc. ",Newberg,2023-09-05 00:00:00,2023-12-31 00:00:00,25.0,Permanent closure
+13,"Divvy Homes, Inc","San Francisco, CA",2023-09-07 00:00:00,2023-11-07 00:00:00,94.0,Reduction
+14,Walker Rd - Hillsboro,Hillsboro,2023-08-22 00:00:00,2023-12-29 00:00:00,3.0,Reduction
+15,Bennett St. - Hillsboro,Hillsboro,2023-08-22 00:00:00,2023-12-29 00:00:00,2.0,Reduction
+16,Walker Rd - Hillsboro,Hillsboro,2023-08-22 00:00:00,2023-12-01 00:00:00,1.0,Reduction
+17,Walker Rd - Hillsboro,Hillsboro,2023-08-22 00:00:00,2023-11-17 00:00:00,1.0,Reduction
+18,Walker Rd - Hillsboro,Hillsboro,2023-08-22 00:00:00,2023-10-20 00:00:00,158.0,Large Layoff - 10 or more workers
+19,Bennett St. - Hillsboro,Hillsboro,2023-08-22 00:00:00,2023-10-20 00:00:00,159.0,Large Layoff - 10 or more workers
+20,BOISE CASCADE ELGIN PLYWOOD MILL       ,ELGIN                         ,2023-08-16 00:00:00,2023-10-14 00:00:00,1.0,Other
+21,Cascades Tissue Group - St Helens Paper,St. Helens,2023-08-10 00:00:00,2023-10-14 00:00:00,72.0,Permanent closure
+22,Medford Plant,Medford,2023-07-28 00:00:00,2023-12-23 00:00:00,18.0,Permanent closure
+23,Medford Plant,Medford,2023-07-28 00:00:00,2023-09-23 00:00:00,56.0,Permanent closure
+24,Roseburg-509,Roseburg,2023-07-30 00:00:00,2023-07-30 00:00:00,72.0,Permanent closure
+25,Eugene-506,Eugene,2023-07-30 00:00:00,2023-06-30 00:00:00,15.0,Permanent closure
+26,DC-25 Portland Distribution Center,Portland,2023-07-31 00:00:00,2023-11-03 00:00:00,23.0,Large Layoff - 10 or more workers
+27,DC-25 Portland Distribution Center,Portland,2023-07-31 00:00:00,2023-10-06 00:00:00,78.0,Large Layoff - 10 or more workers
+28,"PBS West, LLC",Corvallis,2023-07-07 00:00:00,2023-09-06 00:00:00,50.0,Large Layoff - 10 or more workers
+29,"Jacksonville, Remote Employee Location",Jacksonville,2023-06-14 00:00:00,2023-06-14 00:00:00,1.0,Large Layoff - 10 or more workers
+30,Owens-Brockway Glass Container Inc.,Portland,2023-06-13 00:00:00,2023-07-21 00:00:00,81.0,Reduction
+31,Marquis Spas,Independence,2023-06-08 00:00:00,2023-09-01 00:00:00,115.0,Permanent closure
+32,Aimbridge Employee Service Corp AKA Val,Eugene,2023-06-06 00:00:00,2023-06-29 00:00:00,62.0,Large Layoff - 10 or more workers
+33,Aspiration Partners,"Marina Del Rey, CA",2023-05-24 00:00:00,2023-06-30 00:00:00,3.0,Large Layoff - 10 or more workers
+34,Cascades Tissue Group - St Helens Paper,St. Helens,2023-05-09 00:00:00,2023-07-08 00:00:00,45.0,Large Layoff - 10 or more workers
+35,"Makita U.S.A., Inc.",Portland,2023-04-28 00:00:00,2023-06-28 00:00:00,6.0,Permanent closure
+36,Cascades Tissue Group - Scappoose Conve,Scappoose,2023-04-25 00:00:00,2023-07-28 00:00:00,88.0,Permanent closure
+37,"David's Bridal, Store # 160, Beaverton",Beaverton,2023-04-14 00:00:00,2023-07-17 00:00:00,1.0,Permanent closure
+38,"David's Bridal, Store # 200, Clackamas",Happy Valley,2023-04-14 00:00:00,2023-07-17 00:00:00,1.0,Permanent closure
+39,"David's Bridal, Store # 216, Eugene",Eugene,2023-04-14 00:00:00,2023-07-17 00:00:00,1.0,Permanent closure
+40,"David's Bridal, Store # 263 Medford",Medford,2023-04-14 00:00:00,2023-07-17 00:00:00,1.0,Permanent closure
+41,"David's Bridal, Store # 292 Salem",Keizer,2023-04-14 00:00:00,2023-07-17 00:00:00,1.0,Permanent closure
+42,"Aspiration Partners, Inc","Marina Del Rey, CA",2023-03-24 00:00:00,2023-05-26 00:00:00,12.0,Large Layoff - 10 or more workers
+43,Client Facility,Beaverton,2023-03-13 00:00:00,2023-05-31 00:00:00,150.0,Permanent closure
+44,Blount Fine Foods,Portland,2023-03-13 00:00:00,2023-05-12 00:00:00,198.0,Permanent closure
+45,Walmart Store #2552,Portland ,2023-02-22 00:00:00,2023-06-02 00:00:00,379.0,Permanent closure
+46,Walmart Store #5899 ,Portland,2023-02-22 00:00:00,2023-06-02 00:00:00,201.0,Permanent closure
+47,Railcar Manufacturing Operations,Portland,2023-01-20 00:00:00,2023-03-21 00:00:00,101.0,Large Layoff - 10 or more workers
+48,Specialized Bicycle Components,"Morgan Hill, CA",2023-01-11 00:00:00,2023-01-13 00:00:00,7.0,Reduction
+49,BayFirst Financial,"St. Petersburg, FL",2022-09-23 00:00:00,2022-11-25 00:00:00,58.0,Large Layoff - 10 or more workers
+50,"Laird Superfood, Inc",Sisters,2022-10-12 00:00:00,2022-12-12 00:00:00,46.0,Large Layoff - 10 or more workers
+51,"Beauty Systems Group, LLC, DBA CosmoPro",Clackamas,2022-10-11 00:00:00,2022-12-16 00:00:00,60.0,Large Layoff - 10 or more workers
+52,"Tegra, DBA Latitudes LLC",Portland,2022-09-08 00:00:00,2022-11-04 00:00:00,48.0,Permanent closure
+53,DENNIS Uniform,Portland ,2022-08-30 00:00:00,2022-11-01 00:00:00,71.0,Large Layoff - 10 or more workers
+54,"Columbia Steel Casting Co., Inc.",Portland ,2022-08-22 00:00:00,2022-10-22 00:00:00,225.0,Permanent closure
+55,RR Donnelley,Medford,2022-07-13 00:00:00,2022-09-11 00:00:00,97.0,Permanent closure
+56,Center for Autism and Related Disorders,"Plano, TX",2022-06-29 00:00:00,2022-08-29 00:00:00,156.0,Permanent closure
+57,"Dr. Martens Airway USA, LLC - Anchor Pa",Portland,2022-05-18 00:00:00,2022-10-31 00:00:00,31.0,Permanent closure
+58,"Dr. Martens Airway USA, LLC - Anchor Pa",Portland,2022-05-18 00:00:00,2022-09-01 00:00:00,40.0,Permanent closure
+59,"ARS-Fresno, LLC.","Carlsbad, CA",2022-03-30 00:00:00,2022-05-31 00:00:00,163.0,Large Layoff - 10 or more workers
+60,Peloton,Portland,2022-02-08 00:00:00,2022-02-08 00:00:00,54.0,Permanent closure
+61,Boyd Corporation,Portland,2022-01-17 00:00:00,2022-04-01 00:00:00,40.0,Permanent closure
+62,GP Downs LLC dba The Flying Lark,Grants Pass,2022-01-07 00:00:00,2022-02-28 00:00:00,226.0,Permanent closure
+63,GP Downs LLC dba The Flying Lark,Grants Pass,2022-01-07 00:00:00,2022-02-28 00:00:00,43.0,Permanent closure
+64,Hematology Oncology Associates PC,Medford,2021-10-22 00:00:00,2021-12-31 00:00:00,95.0,Permanent closure
+65,Eclipse Senior Living Support Center,Lake Oswego,2021-10-01 00:00:00,2021-12-01 00:00:00,171.0,Permanent closure
+66,Sulzer,Portland,2021-09-10 00:00:00,2022-08-26 00:00:00,10.0,Permanent closure
+67,Sulzer,Portland,2021-09-10 00:00:00,2022-07-01 00:00:00,16.0,Permanent closure
+68,Sulzer,Portland,2021-09-10 00:00:00,2022-04-29 00:00:00,5.0,Permanent closure
+69,Sulzer,Portland,2021-09-10 00:00:00,2022-04-01 00:00:00,6.0,Permanent closure
+70,Sulzer,Portland,2021-09-10 00:00:00,2022-01-14 00:00:00,12.0,Permanent closure
+71,Sulzer,Portland,2021-09-10 00:00:00,2021-11-12 00:00:00,14.0,Permanent closure
+72,4 Leaf LLC,Portland,2021-09-17 00:00:00,2021-09-30 00:00:00,63.0,Permanent closure
+73,Lifeways - Umatilla County,Pendleton,2021-08-13 00:00:00,2021-10-13 00:00:00,100.0,Permanent closure
+74,First Transit - Portland,Portland,2021-07-30 00:00:00,2021-09-30 00:00:00,170.0,Permanent closure
+75,First Transit - Multnomah,Portland,2021-07-30 00:00:00,2021-09-30 00:00:00,127.0,Permanent closure
+76,First Transit - Beaverton,Beaverton,2021-07-30 00:00:00,2021-09-30 00:00:00,99.0,Permanent closure
+77,Aramark,"Nashville, TN",2021-07-22 00:00:00,2021-08-31 00:00:00,402.0,Permanent closure
+78,Mentor Oregon,Portland,2021-07-06 00:00:00,2021-09-30 00:00:00,177.0,Permanent closure
+79,Thriftbooks - Portland Processing Cente,Portland,2021-04-22 00:00:00,2021-06-01 00:00:00,70.0,Permanent closure
+80,DSU-Peterbuilt & GMC Inc,Portland,2021-04-05 00:00:00,2021-05-31 00:00:00,260.0,Other
+81,PERFORMANT,Grants Pass,2021-02-26 00:00:00,2021-04-25 00:00:00,60.0,Reduction
+82,PERFORMANT,Grants Pass,2021-02-26 00:00:00,2021-03-01 00:00:00,31.0,Reduction
+83,Simple,Portland,2021-01-29 00:00:00,2021-06-11 00:00:00,47.0,Permanent closure
+84,Simple,Portland,2021-01-29 00:00:00,2021-05-14 00:00:00,95.0,Permanent closure
+85,Simple,Portland,2021-01-29 00:00:00,2021-05-07 00:00:00,1.0,Permanent closure
+86,Simple,Portland,2021-01-29 00:00:00,2021-04-02 00:00:00,37.0,Permanent closure
+87,azlo,Portland,2021-01-29 00:00:00,2021-04-02 00:00:00,122.0,Permanent closure
+88,SunPower,Hillsboro,2021-01-07 00:00:00,2021-09-30 00:00:00,9.0,Permanent closure
+89,SunPower,Hillsboro,2021-01-07 00:00:00,2021-03-09 00:00:00,172.0,Permanent closure
+90,NPL - Central Point - Grants Pass,Grants Pass,2020-12-15 00:00:00,2021-02-15 00:00:00,67.0,Permanent closure
+91,Southwest Airlines,Portland,2020-12-03 00:00:00,2021-03-15 00:00:00,85.0,Large Layoff - 10 or more workers
+92,Villasport,Beaverton,2020-11-25 00:00:00,2021-01-18 00:00:00,66.0,Reduction
+93,Providence,Portland,2020-11-16 00:00:00,2021-01-15 00:00:00,177.0,Other
+94,Providence,Portland,2020-11-16 00:00:00,2021-01-15 00:00:00,5.0,Reduction
+95,Elmer's Restaurants,Portland,2020-11-13 00:00:00,2020-11-13 00:00:00,280.0,Temporary Layoff
+96,Macy's Inc,Portland,2020-11-16 00:00:00,2021-01-18 00:00:00,83.0,Permanent closure
+97,SYUFY Enterprises - VillaSport,Beaverton,2020-10-23 00:00:00,2020-12-21 00:00:00,59.0,Reduction
+98,DoubleTree - Hilton Portland,Portland,2020-09-30 00:00:00,2020-09-30 00:00:00,59.0,Reduction
+99,Boise Cascade - Elgin Plywood Facility,Elgin,2020-11-16 00:00:00,2021-01-01 00:00:00,229.0,Permanent closure
+100,SP+,Portland,2020-09-25 00:00:00,2020-03-24 00:00:00,89.0,Reduction
+101,Sodexo - Gresham-Barlow SD  ,Gresham,2020-09-17 00:00:00,2020-03-13 00:00:00,85.0,Temporary Layoff
+102,Sodexo - Salem-Keizer SD,Salem,2020-09-17 00:00:00,2020-03-13 00:00:00,358.0,Temporary Layoff
+103,Sodexo - Medford SD,Medford,2020-09-17 00:00:00,2020-03-13 00:00:00,111.0,Temporary Layoff
+104,PF Chang's,Hillsboro,2020-09-18 00:00:00,2020-09-18 00:00:00,75.0,Other
+105,PF Chang's - Eugene,Eugene,2020-09-18 00:00:00,2020-09-18 00:00:00,75.0,Other
+106,LAGS Medical Center - Salem,Salem,2020-09-03 00:00:00,2020-11-02 00:00:00,4.0,Small Layoff  1 – 10 workers
+107,LAGS Medical Center - Portland,Portland,2020-09-03 00:00:00,2020-11-02 00:00:00,7.0,Small Layoff  1 – 10 workers
+108,Bon Appetit,Portland,2020-09-01 00:00:00,2020-09-30 00:00:00,224.0,Other
+109,Bon Appetit,Portland,2020-09-01 00:00:00,2020-09-30 00:00:00,170.0,Reduction
+110,Dave & Buster's,Happy Valley,2020-09-08 00:00:00,2020-11-08 00:00:00,84.0,Reduction
+111,PGE - Boardman,Boardman,2020-09-01 00:00:00,2020-11-05 00:00:00,22.0,Permanent closure
+112,LAIKA,Hillsboro,2020-08-14 00:00:00,2020-09-01 00:00:00,50.0,Large Layoff - 10 or more workers
+113,HMSHost,Portland,2020-08-11 00:00:00,2020-10-15 00:00:00,51.0,Reduction
+114,Nike (Lifeworks) - Beaverton,Beaverton,2020-07-20 00:00:00,2020-10-20 00:00:00,66.0,Reduction
+115,Nike (Lifeworks) - Hillsboro,Hillsboro,2020-07-20 00:00:00,2020-09-25 00:00:00,23.0,Reduction
+116,Nike (Lifeworks) - Beaverton,Beaverton,2020-07-20 00:00:00,2020-09-25 00:00:00,355.0,Reduction
+117,Alaska Airlines - Portland Internationa,Portland,2020-07-29 00:00:00,2020-10-01 00:00:00,277.0,Reduction
+118,Embassy Suites Portland-Downtown,Portland,2020-07-31 00:00:00,2020-03-20 00:00:00,70.0,Large Layoff - 10 or more workers
+119,"LSG Group - Sky Chefs, Inc",Portland,2020-07-31 00:00:00,2020-10-01 00:00:00,193.0,Large Layoff - 10 or more workers
+120,Nike - Childcare  ,Beaverton,2020-07-23 00:00:00,2020-10-01 00:00:00,192.0,Reduction
+121,Nike,Beaverton,2020-07-23 00:00:00,2020-10-01 00:00:00,308.0,Reduction
+122,Nike,Beaverton,2020-07-23 00:00:00,2020-07-23 00:00:00,700.0,Reduction
+123,American Queen Steamboat Company ,"New Albany, IN",2020-07-22 00:00:00,2020-09-24 00:00:00,250.0,Large Layoff - 10 or more workers
+124,Vesta ,Lake Oswego,2020-07-22 00:00:00,2020-07-22 00:00:00,20.0,Permanent closure
+125,Pioneer Pacific College,Portland,2020-07-21 00:00:00,2020-07-31 00:00:00,41.0,Permanent closure
+126,Pioneer Pacific College - Beaverton,Beaverton,2020-07-21 00:00:00,2020-07-31 00:00:00,39.0,Permanent closure
+127,Pioneer Pacific College - Springfield,Springfield,2020-07-21 00:00:00,2020-07-31 00:00:00,51.0,Permanent closure
+128,United - PDX,Portland,2020-07-08 00:00:00,2020-10-01 00:00:00,119.0,Reduction
+129,United - PDX,Portland,2020-07-08 00:00:00,2020-10-01 00:00:00,3.0,Reduction
+130,arauco - Albany ,Albany,2020-07-06 00:00:00,2020-07-06 00:00:00,75.0,Reduction
+131,Hampton Inn & Suites - Portland,Portland,2020-07-06 00:00:00,2020-06-30 00:00:00,41.0,Reduction
+132,Atrium Hospitality - Portland Embassy S,Portland,2020-05-13 00:00:00,2020-03-12 00:00:00,105.0,Other
+133,Hilton Portland Downtown,Portland,2020-06-30 00:00:00,2020-03-22 00:00:00,330.0,Other
+134,The Coca -Cola Company Odwalla's - Port,Portland,2020-06-30 00:00:00,2020-08-31 00:00:00,30.0,Permanent closure
+135,Levy Premium Foodservice...LLC,Portland,2020-06-24 00:00:00,2020-08-01 00:00:00,54.0,Reduction
+136,Hyatt Regency - Portland,Portland,2020-06-19 00:00:00,2021-01-13 00:00:00,2.0,Temporary Layoff
+137,Hyatt Regency - Portland,Portland,2020-06-19 00:00:00,2020-11-01 00:00:00,1.0,Reduction
+138,Hyatt Regency - Portland,Portland,2020-06-19 00:00:00,2020-10-30 00:00:00,4.0,Reduction
+139,Hyatt Regency - Portland,Portland,2020-06-19 00:00:00,2020-09-04 00:00:00,8.0,Temporary Layoff
+140,Hyatt Regency - Portland,Portland,2020-06-19 00:00:00,2020-03-20 00:00:00,181.0,Temporary Layoff
+141,The Bay Company - Portland,Tigard,2020-06-09 00:00:00,2020-09-29 00:00:00,125.0,Other
+142,The Bay Company - Portland,Tigard,2020-06-09 00:00:00,2020-04-15 00:00:00,289.0,Large Layoff - 10 or more workers
+143,Kimpton Hotel Monaco Portland,Portland,2020-06-12 00:00:00,2020-03-13 00:00:00,147.0,Large Layoff - 10 or more workers
+144,Kimpton Riverplace Hotel,Portland,2020-06-12 00:00:00,2020-03-13 00:00:00,79.0,Large Layoff - 10 or more workers
+145,Kimpton Hotel Vintage Portland,Portland,2020-06-12 00:00:00,2020-03-01 00:00:00,94.0,Large Layoff - 10 or more workers
+146,ATI Albany Operations,Albany,2020-06-10 00:00:00,2020-12-07 00:00:00,76.0,Permanent closure
+147,ATI Albany Operations,Albany,2020-06-10 00:00:00,2020-10-26 00:00:00,135.0,Large Layoff - 10 or more workers
+148,PCC Structurals - Portland,Portland,2020-06-04 00:00:00,2020-07-24 00:00:00,94.0,Reduction
+149,PCC Structurals - Clackamas,Clackamas,2020-06-04 00:00:00,2020-04-15 00:00:00,170.0,Reduction
+150,PCC Structurals - Portland,Portland,2020-06-04 00:00:00,2020-04-15 00:00:00,547.0,Reduction
+151,PCC Structurals - Redmond,Redmond,2020-06-04 00:00:00,2020-04-13 00:00:00,175.0,Large Layoff - 10 or more workers
+152,"Continuum Global Solutions, LLC",Portland,2020-06-10 00:00:00,2020-08-12 00:00:00,255.0,Permanent closure
+153,EVRAZ - Portland,Portland,2020-06-08 00:00:00,2020-06-08 00:00:00,65.0,Reduction
+154,Marriott Portland Downtown Waterfront ,Portland,2020-06-05 00:00:00,2020-11-06 00:00:00,145.0,Reduction
+155,Marriott Portland Downtown Waterfront ,Portland,2020-06-05 00:00:00,2020-03-21 00:00:00,248.0,Temporary Layoff
+156,Benson Hotel,Portland,2020-06-01 00:00:00,2020-06-01 00:00:00,81.0,Reduction
+157,Embassy Suites - Portland - Wash Sq ,Tigard,2020-05-31 00:00:00,2020-06-01 00:00:00,7.0,Temporary Layoff
+158,Embassy Suites - Portland - Wash Sq ,Tigard,2020-05-31 00:00:00,2020-03-29 00:00:00,81.0,Temporary Layoff
+159,Interfor - Gilchrist Division,Gilchrist,2020-05-19 00:00:00,2020-06-01 00:00:00,131.0,Temporary Layoff
+160,Nordstrom - Clackamas Town Center,Happy Valley,2020-05-11 00:00:00,2020-06-01 00:00:00,189.0,Permanent closure
+161,Bright Wood,Madras,2020-05-04 00:00:00,2020-03-23 00:00:00,199.0,Large Layoff - 10 or more workers
+162,Bright Wood - Redmond,Redmond,2020-05-04 00:00:00,2020-03-23 00:00:00,12.0,Large Layoff - 10 or more workers
+163,Multnomah Street Property,Portland,2020-04-29 00:00:00,2020-03-26 00:00:00,20.0,Permanent closure
+164,IVI Hotel Management of Oregon - Innven,"Tukwila, WA",2020-04-29 00:00:00,2020-03-20 00:00:00,350.0,Reduction
+165,IVI Hotel Management of Oregon - Innven,"Tukwila, WA",2020-04-29 00:00:00,2020-03-20 00:00:00,18.0,Other
+166,DAKINE,Hood River,2020-05-01 00:00:00,2020-05-15 00:00:00,39.0,Permanent closure
+167,Portland Art Museum,Portland,2020-04-28 00:00:00,2020-07-01 00:00:00,96.0,Reduction
+168,Hertz,"Estero, FL",2020-04-24 00:00:00,2020-06-18 00:00:00,1.0,Reduction
+169,Hertz - PDX,Portland,2020-04-24 00:00:00,2020-05-20 00:00:00,17.0,Temporary Layoff
+170,Hertz - PDX,Portland,2020-04-24 00:00:00,2020-04-14 00:00:00,67.0,Large Layoff - 10 or more workers
+171,Meggitt - Oregon Inc,Mcminnville,2020-04-30 00:00:00,2020-05-18 00:00:00,118.0,Large Layoff - 10 or more workers
+172,Regal - Tigard,Tigard,2020-04-29 00:00:00,2020-03-17 00:00:00,68.0,Other
+173,Adventist Health - Tillamook,Tillamook,2020-04-23 00:00:00,2020-12-31 00:00:00,7.0,Reduction
+174,Adventist Health - Tillamook,Tillamook,2020-04-23 00:00:00,2020-05-05 00:00:00,15.0,Temporary Layoff
+175,Adventist Health - Tillamook,Tillamook,2020-04-23 00:00:00,2020-05-05 00:00:00,2.0,Reduction
+176,Enterprise Holdings ,Tualatin,2020-04-23 00:00:00,2020-04-30 00:00:00,14.0,Reduction
+177,Enterprise Holdings - PDX,Portland,2020-04-23 00:00:00,2020-04-30 00:00:00,18.0,Reduction
+178,Enterprise Holdings - Admin,Tualatin,2020-04-23 00:00:00,2020-03-19 00:00:00,262.0,Temporary Layoff
+179,Enterprise Holdings - PDX ,Portland,2020-04-23 00:00:00,2020-03-19 00:00:00,60.0,Temporary Layoff
+180,Visionworks,"San Antonio, TX",2020-04-23 00:00:00,2020-04-20 00:00:00,103.0,Other
+181,Oksenholt Hospitality Company - Meredit,Lincoln City,2020-04-20 00:00:00,2020-03-19 00:00:00,94.0,Large Layoff - 10 or more workers
+182,Oksenholt Hospitality Company - Mojo Re,Bend,2020-04-20 00:00:00,2020-03-18 00:00:00,2.0,Large Layoff - 10 or more workers
+183,Oksenholt Hospitality - Meredith Lodgin,Bend,2020-04-20 00:00:00,2020-03-17 00:00:00,15.0,Large Layoff - 10 or more workers
+184,Women's Healthcare Associates,Portland,2020-04-14 00:00:00,2020-04-13 00:00:00,186.0,Temporary Layoff
+185,Enterprise Holdings - PDX,Portland,2020-04-20 00:00:00,2020-03-04 00:00:00,62.0,Temporary Layoff
+186,Augusta Sportswear Brands - Coburg,Coburg,2020-04-16 00:00:00,2020-03-31 00:00:00,25.0,Temporary Layoff
+187,Augusta Sportswear Brands - Coburg,Coburg,2020-04-16 00:00:00,2020-03-30 00:00:00,21.0,Temporary Layoff
+188,Augusta Sportswear Brands - Coburg,Coburg,2020-04-16 00:00:00,2020-03-23 00:00:00,6.0,Temporary Layoff
+189,The Portland Clinic,Portland,2020-04-14 00:00:00,2020-06-01 00:00:00,101.0,Reduction
+190,The Portland Clinic,Portland,2020-04-14 00:00:00,2020-06-01 00:00:00,90.0,Temporary Layoff
+191,The Portland Clinic,Portland,2020-04-14 00:00:00,2020-04-06 00:00:00,193.0,Other
+192,The Portland Clinic,Portland,2020-04-14 00:00:00,2020-04-01 00:00:00,234.0,Other
+193,John's Incredible Pizza Company ,Beaverton,2020-03-31 00:00:00,2020-04-03 00:00:00,74.0,Temporary Layoff
+194,Andale Management Group dba The Country,Portland,2020-04-10 00:00:00,2020-03-17 00:00:00,48.0,Temporary Layoff
+195,Eagle Crest Resort,Redmond,2020-04-09 00:00:00,2020-04-10 00:00:00,60.0,Temporary Layoff
+196,Multnomah Athletic Club,Portland,2020-04-06 00:00:00,2020-05-01 00:00:00,635.0,Large Layoff - 10 or more workers
+197,The Oregon Clinic,Portland,2020-04-08 00:00:00,2020-03-16 00:00:00,820.0,Temporary Layoff
+198,Allura - OR,White City,2020-04-08 00:00:00,2020-04-08 00:00:00,80.0,Other
+199,Phoenix Inn Suites,Salem,2020-04-08 00:00:00,2020-03-27 00:00:00,15.0,Reduction
+200,Phoenix Inn Suites - Albany,Albany,2020-04-08 00:00:00,2020-03-27 00:00:00,13.0,Reduction
+201,Phoenix Inn Suites - Lake Oswego,Lake Oswego,2020-04-08 00:00:00,2020-03-27 00:00:00,12.0,Reduction
+202,Phoenix Inn Suites - Eugene,Eugene,2020-04-08 00:00:00,2020-03-27 00:00:00,21.0,Reduction
+203,The Grand Hotel in Salem,Salem,2020-04-08 00:00:00,2020-03-27 00:00:00,26.0,Reduction
+204,The Salem Convention Center,Salem,2020-04-08 00:00:00,2020-03-27 00:00:00,72.0,Reduction
+205,Bentley's Grill,Salem,2020-04-08 00:00:00,2020-03-27 00:00:00,40.0,Reduction
+206,The Grand Hotel at Bridgeport,Tigard,2020-04-08 00:00:00,2020-03-27 00:00:00,28.0,Reduction
+207,Landmark Ford Lincoln,Tigard ,2020-04-03 00:00:00,2020-03-25 00:00:00,46.0,Temporary Layoff
+208,EVRAZ - Portland,Portland,2020-04-06 00:00:00,2020-04-06 00:00:00,232.0,Reduction
+209,Pac-12 Enterprises dba Pac-12 Networks,"San Francisco, CA",2020-04-03 00:00:00,2020-03-14 00:00:00,531.0,Other
+210,Big Al's II,Beaverton,2020-03-18 00:00:00,2020-03-18 00:00:00,120.0,Temporary Layoff
+211,Carr Auto Group,Beaverton,2020-04-03 00:00:00,2020-04-03 00:00:00,54.0,Temporary Layoff
+212,Benihana,Beaverton,2020-04-02 00:00:00,2020-03-17 00:00:00,57.0,Reduction
+213,RLK Co. Timberline Lodge,Government Camp,2020-04-01 00:00:00,2020-03-23 00:00:00,471.0,Reduction
+214,Shamrock Foods Co.,Portland,2020-04-01 00:00:00,2020-04-01 00:00:00,8.0,Temporary Layoff
+215,SAS Restaurant Ventures,Ontario,2020-03-31 00:00:00,2020-03-31 00:00:00,32.0,Temporary Layoff
+216,Paper Source - Portland,Portland,2020-03-27 00:00:00,2020-03-29 00:00:00,13.0,Temporary Layoff
+217,Paper Source - Tigard,Tigard ,2020-03-27 00:00:00,2020-03-29 00:00:00,13.0,Temporary Layoff
+218,FXI Inc,Portland,2020-03-31 00:00:00,2020-03-27 00:00:00,77.0,Permanent closure
+219,SAGE,Portland,2020-03-30 00:00:00,2020-06-19 00:00:00,226.0,Large Layoff - 10 or more workers
+220,SAGE,Portland,2020-03-30 00:00:00,2020-03-22 00:00:00,332.0,Temporary Layoff
+221,Courtyard Portland City Hotel,Portland,2020-03-30 00:00:00,2020-03-16 00:00:00,83.0,Temporary Layoff
+222,Meritex Portland Central Laundry,Portland,2020-03-31 00:00:00,2020-04-02 00:00:00,50.0,Temporary Layoff
+223,Ahern Rentals,Portland,2020-03-28 00:00:00,2020-03-30 00:00:00,1.0,Reduction
+224,ORM Fertility,Portland,2020-03-24 00:00:00,2020-03-23 00:00:00,53.0,Temporary Layoff
+225,Gee Automotive dba Ron Tonkin Toyota & ,Portland,2020-03-27 00:00:00,2020-03-25 00:00:00,63.0,Temporary Layoff
+226,ALSCO - Medford ,Medford,2020-03-30 00:00:00,2020-03-23 00:00:00,5.0,Temporary Layoff
+227,ALSCO - Klamath Falls,Klamath Falls,2020-03-30 00:00:00,2020-02-23 00:00:00,5.0,Temporary Layoff
+228,Valley River Inn,Eugene,2020-03-26 00:00:00,2020-04-09 00:00:00,10.0,Temporary Layoff
+229,Valley River Inn,Eugene,2020-03-26 00:00:00,2020-03-27 00:00:00,115.0,Temporary Layoff
+230,ALSCO,Portland,2020-03-25 00:00:00,2020-04-24 00:00:00,31.0,Temporary Layoff
+231,Deschutes Brewery Public Rooms ,Bend,2020-03-25 00:00:00,2020-03-16 00:00:00,248.0,Temporary Layoff
+232,Deschutes Brewery - HQ,Bend,2020-03-25 00:00:00,2020-03-19 00:00:00,89.0,Reduction
+233,ALSCO,Portland,2020-03-27 00:00:00,2020-03-25 00:00:00,9.0,Temporary Layoff
+234,ALSCO,Portland,2020-03-27 00:00:00,2020-03-23 00:00:00,1.0,Temporary Layoff
+235,ALSCO,Portland,2020-03-27 00:00:00,2020-03-20 00:00:00,1.0,Temporary Layoff
+236,ALSCO,Portland,2020-03-27 00:00:00,2020-03-19 00:00:00,32.0,Temporary Layoff
+237,Blazer Industries Inc,Aumsville,2020-03-26 00:00:00,2020-03-26 00:00:00,117.0,Temporary Layoff
+238,Beaverton Toyota,Beaverton,2020-03-26 00:00:00,2020-03-26 00:00:00,78.0,Reduction
+239,Staypineapple Hotel Rose and Bottle + K,Portland,2020-03-25 00:00:00,2020-03-20 00:00:00,29.0,Temporary Layoff
+240,Staypineapple Hotel Rose and Bottle + K,Portland,2020-03-25 00:00:00,2020-03-19 00:00:00,2.0,Temporary Layoff
+241,Staypineapple Hotel Rose and Bottle + K,Portland,2020-03-25 00:00:00,2020-03-16 00:00:00,21.0,Temporary Layoff
+242,ALSCO,Eugene,2020-03-20 00:00:00,2020-03-20 00:00:00,58.0,Temporary Layoff
+243,Lynx,Aurora,2020-03-25 00:00:00,2020-03-27 00:00:00,6.0,Temporary Layoff
+244,Next Adventure,Portland,2020-03-25 00:00:00,2020-03-20 00:00:00,114.0,Temporary Layoff
+245,Stanford's - Portland Seafood Company,Portland,2020-03-16 00:00:00,2020-03-18 00:00:00,44.0,Permanent closure
+246,Stanford's Restaurant and Bar - Tanasbo,Hillsboro,2020-03-16 00:00:00,2020-03-18 00:00:00,65.0,Temporary Layoff
+247,Stanford's - Clackamas,Clackamas,2020-03-16 00:00:00,2020-03-18 00:00:00,56.0,Temporary Layoff
+248,Stanford's - Portland - Jantzen,Portland,2020-03-16 00:00:00,2020-03-18 00:00:00,53.0,Temporary Layoff
+249,HMS Host,Portland,2020-03-24 00:00:00,2020-03-18 00:00:00,32.0,Temporary Layoff
+250,Tualatin Hills Park & Recreation Distri,Beaverton,2020-03-23 00:00:00,2020-05-23 00:00:00,23.0,Reduction
+251,Tualatin Hills Park & Recreation Distri,Beaverton,2020-03-23 00:00:00,2020-03-31 00:00:00,30.0,Reduction
+252,Tualatin Hills Park & Recreation Distri,Beaverton,2020-03-23 00:00:00,2020-03-23 00:00:00,762.0,Large Layoff - 10 or more workers
+253,The Children's Clinic,Portland,2020-03-23 00:00:00,2020-03-19 00:00:00,82.0,Temporary Layoff
+254,Marriott City Center,Portland,2020-03-23 00:00:00,2020-03-23 00:00:00,59.0,Temporary Layoff
+255,Spieg's Barbers LLC,"Vancouver, WA",2020-03-20 00:00:00,2020-03-18 00:00:00,119.0,Temporary Layoff
+256,Holler Hospitality,Portland,2020-03-23 00:00:00,2020-03-18 00:00:00,109.0,Temporary Layoff
+257,Salon DeLange,Eugene,2020-03-19 00:00:00,2020-03-19 00:00:00,14.0,Large Layoff - 10 or more workers
+258,Jasper's Food Management Inc,Eugene,2020-03-17 00:00:00,2020-11-18 00:00:00,146.0,Temporary Layoff
+259,Jasper's Food Management Inc,Eugene,2020-03-17 00:00:00,2020-03-17 00:00:00,172.0,Temporary Layoff
+260,Brasada Ranch,Powell Butte,2020-03-22 00:00:00,2020-03-23 00:00:00,96.0,Temporary Layoff
+261,Powell's City of Books,Portland,2020-03-19 00:00:00,2020-03-19 00:00:00,389.0,Large Layoff - 10 or more workers
+262,Punch Bowl Portland LLC,Portland,2020-03-18 00:00:00,2020-03-17 00:00:00,83.0,Temporary Layoff
+263,Elmer's Restaurants Inc,Portland,2020-03-16 00:00:00,2020-03-17 00:00:00,296.0,Temporary Layoff
+264,Delivery Force - DPD 1 - Portland,Portland,2020-02-13 00:00:00,2020-04-16 00:00:00,48.0,Permanent closure
+265,Delivery Force - HPD1 - Portland,Portland,2020-02-13 00:00:00,2020-04-16 00:00:00,30.0,Permanent closure
+266,"TBS, Inc - Portland",Portland,2020-02-14 00:00:00,2020-07-31 00:00:00,30.0,Reduction
+267,"TBS, Inc - Portland",Portland,2020-02-14 00:00:00,2020-04-16 00:00:00,22.0,Permanent closure
+268,Concordia University,Portland,2020-02-12 00:00:00,2020-04-25 00:00:00,1012.0,Permanent closure
+269,arauco,Eugene,2020-02-11 00:00:00,2020-05-01 00:00:00,84.0,Permanent closure
+270,moovel North America,Portland,2020-01-16 00:00:00,2020-04-01 00:00:00,22.0,Large Layoff - 10 or more workers
+271,moovel North America,Portland,2020-01-16 00:00:00,2020-02-03 00:00:00,47.0,Large Layoff - 10 or more workers
+272,Philips - Neurology Solutions,Eugene,2020-01-27 00:00:00,2020-03-27 00:00:00,60.0,Permanent closure
+273,Mr Cooper - Beaverton,Beaverton,2020-01-16 00:00:00,2020-03-18 00:00:00,301.0,Permanent closure
+274,Adventist Health Tillamook,Tillamook,2020-01-08 00:00:00,2020-03-07 00:00:00,14.0,Permanent closure
+275,"Unified Natural Foods, Inc. (UNFI)",Milwaukie,2020-01-09 00:00:00,2020-03-14 00:00:00,280.0,Permanent closure
+276,NORPAC Foods Inc. - Corporate,Salem,2019-11-27 00:00:00,2019-01-19 00:00:00,38.0,Permanent closure
+277,NortonLifeLock Inc - Springfield,Springfield,2019-11-19 00:00:00,2020-07-01 00:00:00,7.0,Reduction
+278,NortonLifeLock Inc - Springfield,Springfield,2019-11-19 00:00:00,2020-04-24 00:00:00,2.0,Reduction
+279,NortonLifeLock Inc - Springfield,Springfield,2019-11-19 00:00:00,2020-03-18 00:00:00,33.0,Reduction
+280,NortonLifeLock Inc - Springfield,Springfield,2019-11-19 00:00:00,2020-02-14 00:00:00,1.0,Reduction
+281,NortonLifeLock Inc - Springfield,Springfield,2019-11-19 00:00:00,2020-02-13 00:00:00,3.0,Reduction
+282,NortonLifeLock Inc - Springfield,Springfield,2019-11-19 00:00:00,2020-01-17 00:00:00,46.0,Reduction
+283,NORPAC FOODS - Salem Repack,Salem,2019-11-13 00:00:00,2020-01-12 00:00:00,458.0,Large Layoff - 10 or more workers
+284,NORPAC FOODS INC - Brooks Plant,Salem,2019-11-13 00:00:00,2019-11-15 00:00:00,466.0,Permanent closure
+285,Republic Services,Oregon City,2019-11-08 00:00:00,2019-12-31 00:00:00,40.0,Permanent closure
+286,Owens-Brockway Glass Container Inc. - P,Portland,2019-10-29 00:00:00,2019-12-30 00:00:00,93.0,Reduction
+287,Oakwood Portland,Portland,2019-10-29 00:00:00,2020-03-30 00:00:00,1.0,Permanent closure
+288,Oakwood Portland,Portland,2019-10-29 00:00:00,2019-12-30 00:00:00,1.0,Reduction
+289,"Sightbox, Inc.",Portland,2019-10-28 00:00:00,2020-03-20 00:00:00,7.0,Reduction
+290,"Sightbox, Inc.",Portland,2019-10-28 00:00:00,2019-12-27 00:00:00,50.0,Reduction
+291,Pacifica Beauty,Portland,2019-10-22 00:00:00,2020-01-01 00:00:00,75.0,Large Layoff - 10 or more workers
+292,"McAfee, LLC",Hillsboro,2019-10-17 00:00:00,2019-12-31 00:00:00,107.0,Reduction
+293,Cerner,Portland,2019-10-01 00:00:00,2019-12-01 00:00:00,4.0,Permanent closure
+294,Schenker Inc,"Chesapeake, VA",2019-09-24 00:00:00,2019-12-04 00:00:00,220.0,Large Layoff - 10 or more workers
+295,NORPAC FOODS INC - Stayton Plant,Stayton,2019-08-30 00:00:00,2019-10-31 00:00:00,485.0,Permanent closure
+296,Nestle - Portland,Portland,2019-09-02 00:00:00,2019-11-01 00:00:00,53.0,Permanent closure
+297,EVG Holdings,Grass Valley,2019-08-29 00:00:00,2019-09-04 00:00:00,90.0,Temporary Layoff
+298,Symantec Corporation - Springfield,Springfield,2019-08-20 00:00:00,2019-10-15 00:00:00,24.0,Reduction
+299,Symantec Corporation - Springfield,Springfield,2019-08-20 00:00:00,2019-09-25 00:00:00,5.0,Reduction
+300,"welocalize, Inc.",Portland,2019-08-16 00:00:00,2019-08-16 00:00:00,73.0,Permanent closure
+301,Stanley Black & Decker,Portland,2019-08-08 00:00:00,2019-11-14 00:00:00,20.0,Permanent closure
+302,Adult Rehabilitation Center (ARC),Portland,2019-07-29 00:00:00,2019-09-27 00:00:00,72.0,Permanent closure
+303,iQor US Inc dba TechFive LLC,Klamath Falls,2019-06-12 00:00:00,2019-08-16 00:00:00,303.0,Permanent closure
+304,Harry's Fresh Foods,Portland,2019-05-31 00:00:00,2019-08-09 00:00:00,195.0,Permanent closure
+305,Union Pacific,Portland,2019-05-21 00:00:00,2019-05-21 00:00:00,195.0,Reduction
+306,ERGOTRON,Tualatin,2019-04-15 00:00:00,2019-08-30 00:00:00,23.0,Permanent closure
+307,ERGOTRON,Tualatin,2019-04-15 00:00:00,2019-06-28 00:00:00,76.0,Permanent closure
+308,Georgia - Pacific,Coos Bay,2019-04-11 00:00:00,2019-06-10 00:00:00,111.0,Permanent closure
+309,Winnebago Ind,Junction City,2019-02-04 00:00:00,2019-06-14 00:00:00,45.0,Permanent closure
+310,Winnebago Ind,Junction City,2019-02-04 00:00:00,2019-05-10 00:00:00,49.0,Permanent closure
+311,Winnebago Ind,Junction City,2019-02-04 00:00:00,2019-04-19 00:00:00,22.0,Permanent closure
+312,Winnebago Ind,Junction City,2019-02-04 00:00:00,2019-04-05 00:00:00,22.0,Permanent closure
+313,Lost Valley Farm,Lexington,2019-01-15 00:00:00,2019-04-15 00:00:00,9.0,Permanent closure
+314,Lost Valley Farm,Lexington,2019-01-15 00:00:00,2019-03-31 00:00:00,33.0,Permanent closure
+315,Lost Valley Farm,Lexington,2019-01-15 00:00:00,2019-03-21 00:00:00,33.0,Permanent closure
+316,Thomson Reuters,Lake Oswego,2018-12-04 00:00:00,2019-09-27 00:00:00,10.0,Permanent closure
+317,Thomson Reuters,Lake Oswego,2018-12-04 00:00:00,2019-08-30 00:00:00,1.0,Permanent closure
+318,Thomson Reuters,Lake Oswego,2018-12-04 00:00:00,2019-07-01 00:00:00,49.0,Permanent closure
+319,Thomson Reuters,Lake Oswego,2018-12-04 00:00:00,2019-03-29 00:00:00,35.0,Permanent closure
+320,Thomson Reuters,Lake Oswego,2018-12-04 00:00:00,2019-02-08 00:00:00,3.0,Permanent closure
+321,"Ergotron, Inc",Tualatin,2018-11-16 00:00:00,2019-06-30 00:00:00,86.0,Permanent closure
+322,"Ergotron, Inc",Tualatin,2018-11-16 00:00:00,2019-03-29 00:00:00,13.0,Permanent closure
+323,First Transit - GridWorks,Clackamas,2018-11-01 00:00:00,2019-01-02 00:00:00,60.0,Permanent closure
+324,Western Health Resources dba Adventist ,Portland,2018-10-22 00:00:00,2018-12-20 00:00:00,92.0,Permanent closure
+325,Sears Store Auto Center #06009,Portland,2018-10-15 00:00:00,2018-12-31 00:00:00,8.0,Permanent closure
+326,Sears Store #01079,Portland,2018-10-15 00:00:00,2018-12-31 00:00:00,64.0,Permanent closure
+327,Schmidt's Deodorant Company LLC,Portland,2018-09-07 00:00:00,2018-10-31 00:00:00,52.0,Permanent closure
+328,"Orchard Supply Company, LLC",Tigard,2018-10-20 00:00:00,2018-10-20 00:00:00,112.0,Permanent closure
+329,Kah Nee Ta,Warm Springs,2018-06-06 00:00:00,2018-09-05 00:00:00,146.0,Permanent closure
+330,Acara Solutions dba Superior Talent Res,Tualatin,2018-06-13 00:00:00,2018-06-14 00:00:00,112.0,Reduction
+331,Sunshine Dairy,Portland,2018-06-12 00:00:00,2018-07-15 00:00:00,9.0,Permanent closure
+332,Sunshine Dairy,Portland,2018-06-12 00:00:00,2018-06-30 00:00:00,1.0,Permanent closure
+333,Sunshine Dairy,Portland,2018-06-12 00:00:00,2018-06-29 00:00:00,3.0,Permanent closure
+334,Sunshine Dairy,Portland,2018-06-12 00:00:00,2018-06-22 00:00:00,7.0,Permanent closure
+335,Sunshine Dairy,Portland,2018-06-12 00:00:00,2018-06-15 00:00:00,3.0,Permanent closure
+336,Sunshine Dairy,Portland,2018-06-12 00:00:00,2018-06-08 00:00:00,23.0,Permanent closure
+337,BOISE CASCADE ELGIN SAWMILL        ,Elgin,2018-05-16 00:00:00,2018-07-15 00:00:00,90.0,Large Layoff - 10 or more workers
+338,Armstrong World Industries - St Helens ,Saint Helens,2018-03-19 00:00:00,2018-05-31 00:00:00,136.0,Permanent closure
+339,Boyd's Coffee,Portland,2018-03-20 00:00:00,2018-09-28 00:00:00,1.0,Permanent closure
+340,Boyd's Coffee,Portland,2018-03-20 00:00:00,2018-09-28 00:00:00,16.0,Permanent closure
+341,Boyd's Coffee,Portland,2018-03-20 00:00:00,2018-09-14 00:00:00,4.0,Permanent closure
+342,Boyd's Coffee,Portland,2018-03-20 00:00:00,2018-09-07 00:00:00,3.0,Permanent closure
+343,Boyd's Coffee,Portland,2018-03-20 00:00:00,2018-09-07 00:00:00,6.0,Permanent closure
+344,Boyd's Coffee,Portland,2018-03-20 00:00:00,2018-08-31 00:00:00,20.0,Permanent closure
+345,Boyd's Coffee,Portland,2018-03-20 00:00:00,2018-08-31 00:00:00,15.0,Permanent closure
+346,Boyd's Coffee,Portland,2018-03-20 00:00:00,2018-08-03 00:00:00,3.0,Permanent closure
+347,Boyd's Coffee,Portland,2018-03-20 00:00:00,2018-07-31 00:00:00,8.0,Permanent closure
+348,Boyd Coffee Company - Eugene,Eugene,2018-03-20 00:00:00,2018-05-23 00:00:00,72.0,Permanent closure
+349,Boyd's Coffee,Portland,2018-03-20 00:00:00,2018-04-30 00:00:00,4.0,Permanent closure
+350,Bartels Packing Inc,Eugene,2018-03-16 00:00:00,2018-03-16 00:00:00,142.0,Permanent closure
+351,Vectrus Corporation - Hillsboro,Hillsboro,2018-02-21 00:00:00,2018-04-26 00:00:00,54.0,Large Layoff - 10 or more workers
+352,Nordstrom Salem Center Store (Store 23),Salem,2018-02-01 00:00:00,2018-04-06 00:00:00,137.0,Permanent closure
+353,Adventist Medical Center,Portland,2018-01-19 00:00:00,2018-04-01 00:00:00,157.0,Large Layoff - 10 or more workers
+354,General Distributors Inc,Oregon City,2018-01-29 00:00:00,2018-03-31 00:00:00,165.0,Permanent closure
+355,Convergys,Wilsonville,2018-01-02 00:00:00,2018-03-31 00:00:00,117.0,Permanent closure
+356,Convergys,Wilsonville,2018-01-02 00:00:00,2018-03-03 00:00:00,91.0,Permanent closure
+357,FamilyCare Health,Portland,2017-12-15 00:00:00,2018-03-15 00:00:00,72.0,Permanent closure
+358,FamilyCare Health,Portland,2017-12-15 00:00:00,2018-01-05 00:00:00,250.0,Permanent closure
+359,Symantec Corporation,Springfield,2017-11-29 00:00:00,2018-10-03 00:00:00,2.0,Large Layoff - 10 or more workers
+360,Symantec Corporation,Springfield,2017-11-29 00:00:00,2018-09-01 00:00:00,1.0,Large Layoff - 10 or more workers
+361,Symantec Corporation,Springfield,2017-11-29 00:00:00,2018-07-27 00:00:00,6.0,Large Layoff - 10 or more workers
+362,Symantec Corporation,Springfield,2017-11-29 00:00:00,2018-07-13 00:00:00,2.0,Large Layoff - 10 or more workers
+363,Symantec Corporation,Springfield,2017-11-29 00:00:00,2018-06-29 00:00:00,90.0,Large Layoff - 10 or more workers
+364,Symantec Corporation,Springfield,2017-11-29 00:00:00,2018-04-25 00:00:00,29.0,Large Layoff - 10 or more workers
+365,Symantec Corporation,Springfield,2017-11-29 00:00:00,2018-03-30 00:00:00,1.0,Large Layoff - 10 or more workers
+366,Symantec Corporation,Springfield,2017-11-29 00:00:00,2018-01-26 00:00:00,2.0,Large Layoff - 10 or more workers
+367,Symantec Corporation,Springfield,2017-11-29 00:00:00,2018-01-17 00:00:00,64.0,Large Layoff - 10 or more workers
+368,Everest Institute - Tigard,Tigard,2017-11-03 00:00:00,2018-01-08 00:00:00,29.0,Permanent closure
+369,"SureID, Inc - dba. Fortior Solutions",Hillsboro,2017-11-07 00:00:00,2017-11-08 00:00:00,25.0,Large Layoff - 10 or more workers
+370,Microsoft - Wilsonville Facility,Wilsonville,2017-11-06 00:00:00,2018-03-23 00:00:00,7.0,Large Layoff - 10 or more workers
+371,Microsoft - Wilsonville Facility,Wilsonville,2017-11-06 00:00:00,2018-01-22 00:00:00,8.0,Large Layoff - 10 or more workers
+372,Microsoft - Wilsonville Facility,Wilsonville,2017-11-06 00:00:00,2017-12-05 00:00:00,6.0,Large Layoff - 10 or more workers
+373,Microsoft - Wilsonville Facility,Wilsonville,2017-11-06 00:00:00,2017-11-06 00:00:00,50.0,Large Layoff - 10 or more workers
+374,jive,Portland,2017-11-01 00:00:00,2017-12-31 00:00:00,18.0,Large Layoff - 10 or more workers
+375,West Linn Paper Co,West Linn,2017-10-16 00:00:00,2017-10-16 00:00:00,277.0,Permanent closure
+376,Pacific Crest Transformers,Medford,2017-09-14 00:00:00,2017-11-13 00:00:00,110.0,Large Layoff - 10 or more workers
+377,Hermiston Foods Plant,Hermiston,2017-09-13 00:00:00,2017-11-13 00:00:00,199.0,Permanent closure
+378,Sykes Eugene Site,Eugene,2017-08-30 00:00:00,2017-10-31 00:00:00,181.0,Permanent closure
+379,"Panasonic Eco Solutions Solar America, ",Salem,2017-09-06 00:00:00,2017-11-06 00:00:00,92.0,Permanent closure
+380,Nike,Beaverton,2017-08-31 00:00:00,2017-09-30 00:00:00,490.0,Large Layoff - 10 or more workers
+381,Nike,Beaverton,2017-08-31 00:00:00,2017-07-31 00:00:00,255.0,Large Layoff - 10 or more workers
+382,Asurion,Klamath Falls,2017-07-18 00:00:00,2017-09-17 00:00:00,53.0,Large Layoff - 10 or more workers
+383,Western Graphics & Data/Travel Tags Inc,Portland,2017-07-11 00:00:00,2018-03-31 00:00:00,3.0,Permanent closure
+384,Western Graphics & Data/Travel Tags Inc,Portland,2017-07-11 00:00:00,2018-03-28 00:00:00,1.0,Large Layoff - 10 or more workers
+385,Western Graphics & Data/Travel Tags Inc,Portland,2017-07-11 00:00:00,2018-01-26 00:00:00,4.0,Large Layoff - 10 or more workers
+386,Western Graphics & Data/Travel Tags Inc,Portland,2017-07-11 00:00:00,2017-12-29 00:00:00,6.0,Large Layoff - 10 or more workers
+387,Western Graphics & Data/Travel Tags Inc,Portland,2017-07-11 00:00:00,2017-12-15 00:00:00,7.0,Large Layoff - 10 or more workers
+388,Western Graphics & Data/Travel Tags Inc,Portland,2017-07-11 00:00:00,2017-12-01 00:00:00,49.0,Large Layoff - 10 or more workers
+389,Western Graphics & Data/Travel Tags Inc,Portland,2017-07-11 00:00:00,2017-10-06 00:00:00,12.0,Large Layoff - 10 or more workers
+390,Microsoft Wilsonville OR Facility ,Wilsonville,2017-07-10 00:00:00,2017-11-06 00:00:00,63.0,Permanent closure
+391,Microsoft Wilsonville OR Facility ,Wilsonville,2017-07-10 00:00:00,2017-09-08 00:00:00,61.0,Large Layoff - 10 or more workers
+392,NORPAC FOODS,Salem,2017-06-30 00:00:00,2017-08-31 00:00:00,199.0,Permanent closure
+393,NORPAC FOODS,Salem,2017-06-30 00:00:00,2017-08-31 00:00:00,24.0,Permanent closure
+394,SureID,Hillsboro,2017-06-19 00:00:00,2017-08-14 00:00:00,79.0,Large Layoff - 10 or more workers
+395,SureID,Hillsboro,2017-06-19 00:00:00,2017-06-26 00:00:00,17.0,Large Layoff - 10 or more workers
+396,SureID,Hillsboro,2017-06-19 00:00:00,2017-06-19 00:00:00,80.0,Large Layoff - 10 or more workers
+397,SureID,Hillsboro,2017-06-19 00:00:00,2017-05-08 00:00:00,200.0,Large Layoff - 10 or more workers
+398,Special Mobility Services/RideSource,Eugene,2017-05-26 00:00:00,2017-09-18 00:00:00,95.0,Permanent closure
+399,Special Mobility Services,Oakridge,2017-05-26 00:00:00,2017-09-18 00:00:00,6.0,Permanent closure
+400,SolarWorld,Hillsboro,2017-05-19 00:00:00,2017-07-18 00:00:00,360.0,Large Layoff - 10 or more workers
+401,Holiday Retirement,Lake Oswego,2017-04-26 00:00:00,2017-06-30 00:00:00,186.0,Permanent closure
+402,Portland State University - Aramark,Portland,2017-04-28 00:00:00,2017-06-30 00:00:00,121.0,Permanent closure
+403,Portland Willamette,Portland,2017-03-17 00:00:00,2017-05-20 00:00:00,62.0,Permanent closure
+404,Convergys,Wilsonville,2017-02-15 00:00:00,2017-05-05 00:00:00,143.0,Large Layoff - 10 or more workers
+405,Riverbend Annex,Springfield,2017-02-16 00:00:00,2017-05-28 00:00:00,85.0,Large Layoff - 10 or more workers
+406,Riverbend Annex,Springfield,2017-02-16 00:00:00,2017-04-30 00:00:00,186.0,Large Layoff - 10 or more workers
+407,Frontier Communications,Beaverton,2017-02-10 00:00:00,2017-04-11 00:00:00,57.0,Permanent closure
+408,Cenveo,Portland,2017-01-31 00:00:00,2017-01-30 00:00:00,91.0,Permanent closure
+409,SIS Inc - Facebook Site,Prineville,2017-01-09 00:00:00,2017-01-31 00:00:00,85.0,Large Layoff - 10 or more workers
+410,Macy's,Portland,2017-01-05 00:00:00,2017-03-06 00:00:00,96.0,Permanent closure
+411,Commercial Aircraft Painting Services L,Portland,2016-12-05 00:00:00,2017-01-31 00:00:00,186.0,Permanent closure
+412,UTI,Portland,2016-11-16 00:00:00,2016-12-31 00:00:00,96.0,Large Layoff - 10 or more workers
+413,Experience Works Inc,"Arlington, VA",2016-11-07 00:00:00,2016-11-07 00:00:00,8.0,Large Layoff - 10 or more workers
+414,ESCO,Portland,2016-10-31 00:00:00,2016-11-01 00:00:00,168.0,Permanent closure
+415,Farmers Insurance,Hillsboro,2016-10-24 00:00:00,2016-12-30 00:00:00,50.0,Reduction
+416,Sykes - Eugene,Eugene,2016-08-31 00:00:00,2016-10-30 00:00:00,418.0,Permanent closure
+417,Portland International Airport,Portland,2016-08-22 00:00:00,2016-10-19 00:00:00,186.0,Large Layoff - 10 or more workers
+418,Safeway,Clackamas,2016-08-16 00:00:00,2016-10-16 00:00:00,57.0,Permanent closure
+419,Upper Columbia Mill,Boardman,2016-07-21 00:00:00,2016-09-19 00:00:00,67.0,Permanent closure
+420,"Zelenka Farms - BFN Operations, LLC","Irving, TX",2016-07-14 00:00:00,2016-09-09 00:00:00,50.0,Permanent closure
+421,Bank of America,Hillsboro,2016-07-11 00:00:00,2016-09-04 00:00:00,102.0,Reduction
+422,WinCo Foods #03,Corvallis,2016-06-30 00:00:00,2016-08-31 00:00:00,11.0,Large Layoff - 10 or more workers
+423,WinCo Foods #13,Portland,2016-06-30 00:00:00,2016-08-31 00:00:00,11.0,Large Layoff - 10 or more workers
+424,WinCo Foods #15,Portland,2016-06-30 00:00:00,2016-08-31 00:00:00,11.0,Large Layoff - 10 or more workers
+425,WinCo Foods #20,Salem,2016-06-30 00:00:00,2016-08-31 00:00:00,11.0,Large Layoff - 10 or more workers
+426,WinCo Foods #28,Hillsboro,2016-06-30 00:00:00,2016-08-31 00:00:00,11.0,Large Layoff - 10 or more workers
+427,WinCo Foods #38,Independence,2016-06-30 00:00:00,2016-08-31 00:00:00,11.0,Large Layoff - 10 or more workers
+428,WinCo Foods #40,Hillsboro,2016-06-30 00:00:00,2016-08-31 00:00:00,11.0,Large Layoff - 10 or more workers
+429,WinCo Foods #44,Medford,2016-06-30 00:00:00,2016-08-31 00:00:00,11.0,Large Layoff - 10 or more workers
+430,WinCo Foods #132,Portland,2016-06-30 00:00:00,2016-08-31 00:00:00,11.0,Large Layoff - 10 or more workers
+431,WinCo Foods #09,Happy Valley,2016-06-30 00:00:00,2016-08-31 00:00:00,11.0,Large Layoff - 10 or more workers
+432,WinCo Foods #14,Beaverton,2016-06-30 00:00:00,2016-08-31 00:00:00,11.0,Large Layoff - 10 or more workers
+433,WinCo Foods #18,Salem,2016-06-30 00:00:00,2016-08-31 00:00:00,11.0,Large Layoff - 10 or more workers
+434,WinCo Foods #23,Tigard,2016-06-30 00:00:00,2016-08-31 00:00:00,11.0,Large Layoff - 10 or more workers
+435,WinCo Foods #34,Springfield,2016-06-30 00:00:00,2016-08-31 00:00:00,11.0,Large Layoff - 10 or more workers
+436,WinCo Foods #39,Eugene,2016-06-30 00:00:00,2016-08-31 00:00:00,11.0,Large Layoff - 10 or more workers
+437,WinCo Foods #41,Mcminnville,2016-06-30 00:00:00,2016-08-31 00:00:00,11.0,Large Layoff - 10 or more workers
+438,WinCo Foods #47,Gresham,2016-06-30 00:00:00,2016-08-31 00:00:00,11.0,Large Layoff - 10 or more workers
+439,WinCo Foods #138,Grants Pass,2016-06-30 00:00:00,2016-08-31 00:00:00,11.0,Large Layoff - 10 or more workers
+440,Durham School Services,Roseburg,2016-06-27 00:00:00,2016-08-30 00:00:00,67.0,Permanent closure
+441,"Norm Thompson Outfitters, Inc.",Hillsboro,2016-05-24 00:00:00,2016-07-22 00:00:00,82.0,Permanent closure
+442,Veritas,Springfield,2016-04-18 00:00:00,2016-06-15 00:00:00,50.0,Large Layoff - 10 or more workers
+443,RR Donnelley,Portland,2016-05-27 00:00:00,2016-08-01 00:00:00,113.0,Permanent closure
+444,Intel,"Santa Clara, CA",2016-04-25 00:00:00,2016-05-31 00:00:00,784.0,Large Layoff - 10 or more workers
+445,Lund International,Portland,2016-03-29 00:00:00,2016-05-27 00:00:00,156.0,Permanent closure
+446,"Firstsource Group USA, Inc.",Eugene,2016-03-22 00:00:00,2016-05-19 00:00:00,275.0,Permanent closure
+447,Mycom North America,Portland,2016-03-22 00:00:00,2016-03-22 00:00:00,2.0,Permanent closure
+448,Haggen Food & Pharmacy,Oregon City,2016-03-11 00:00:00,2016-05-11 00:00:00,70.0,Permanent closure
+449,Haggen Food & Pharmacy,West Linn,2016-03-09 00:00:00,2016-05-09 00:00:00,68.0,Permanent closure
+450,Haggen Food & Pharmacy,Clackamas,2016-03-09 00:00:00,2016-05-09 00:00:00,70.0,Permanent closure
+451,Pinnacle Workforce Logistics,Clackamas,2016-03-03 00:00:00,2016-04-03 00:00:00,190.0,Large Layoff - 10 or more workers
+452,Aequitas Capital,Lake Oswego,2016-02-16 00:00:00,2016-02-15 00:00:00,80.0,Large Layoff - 10 or more workers
+453,"Panasonic Eco Solutions Solar America, ",Salem,2016-02-15 00:00:00,2016-04-15 00:00:00,50.0,Large Layoff - 10 or more workers
+454,EVRAZ,Portland,2016-02-09 00:00:00,2016-04-09 00:00:00,230.0,Large Layoff - 10 or more workers
+455,UTi,Portland,2016-02-02 00:00:00,2016-03-29 00:00:00,41.0,Large Layoff - 10 or more workers
+456,Global Partners LP (Global) Columbia Pa,Clatskanie,2016-01-26 00:00:00,2016-01-27 00:00:00,50.0,Large Layoff - 10 or more workers
+457,Walmart,Lake Oswego,2016-01-20 00:00:00,2016-04-15 00:00:00,64.0,Permanent closure
+458,Walmart,Portland,2016-01-20 00:00:00,2016-04-15 00:00:00,39.0,Permanent closure
+459,"Youth Villages, Christie Campus",Lake Oswego,2015-12-30 00:00:00,2016-03-01 00:00:00,74.0,Reduction
+460,"A-List, Inc. and H-List, Inc. dba Kitso",Portland,2015-12-28 00:00:00,2016-01-04 00:00:00,9.0,Permanent closure
+461,"Pacific States Plywood, Inc.",Springfield,2015-12-18 00:00:00,2016-02-15 00:00:00,39.0,Large Layoff - 10 or more workers
+462,Greatbatch,Beaverton,2015-11-06 00:00:00,2016-01-01 00:00:00,140.0,Reduction
+463,Woodgrain Millwork,Prineville,2015-10-23 00:00:00,2015-12-28 00:00:00,55.0,Permanent closure
+464,WestRock,Newberg,2015-10-20 00:00:00,2015-11-15 00:00:00,171.0,Permanent closure
+465,Haggen Food & Pharmacy,"Bellingham, WA",2015-09-25 00:00:00,2015-11-24 00:00:00,416.0,Permanent closure
+466,Haggen Food and Pharmacy,"Bellingham, WA",2015-08-14 00:00:00,2015-10-14 00:00:00,331.0,Permanent closure
+467,Capital One,Portland,2015-07-24 00:00:00,2016-01-01 00:00:00,4.0,Permanent closure
+468,Capital One,Portland,2015-07-24 00:00:00,2015-12-07 00:00:00,818.0,Permanent closure
+469,Capital One,Portland,2015-07-24 00:00:00,2015-11-01 00:00:00,22.0,Permanent closure
+470,Capital One,Portland,2015-07-24 00:00:00,2015-10-01 00:00:00,2.0,Permanent closure
+471,MAG Retail Group,Medford,2015-07-02 00:00:00,2015-09-04 00:00:00,114.0,Permanent closure
+472,Netflix Inc,Hillsboro,2015-04-02 00:00:00,2015-05-31 00:00:00,68.0,Permanent closure
+473,CP Medical Corporation,Portland,2015-03-04 00:00:00,2016-07-01 00:00:00,5.0,Large Layoff - 10 or more workers
+474,CP Medical Corporation,Portland,2015-03-04 00:00:00,2015-12-31 00:00:00,30.0,Large Layoff - 10 or more workers
+475,CP Medical Corporation,Portland,2015-03-04 00:00:00,2015-11-30 00:00:00,8.0,Large Layoff - 10 or more workers
+476,CP Medical Corporation,Portland,2015-03-04 00:00:00,2015-10-30 00:00:00,31.0,Large Layoff - 10 or more workers
+477,CP Medical Corporation,Portland,2015-03-04 00:00:00,2015-09-30 00:00:00,14.0,Large Layoff - 10 or more workers
+478,Ambassadors Programs Inc.,"Spokane, WA",2015-02-25 00:00:00,2015-04-27 00:00:00,1.0,Large Layoff - 10 or more workers
+479,Safeway Inc.,Clackamas,2015-01-29 00:00:00,2015-03-31 00:00:00,91.0,Permanent closure
+480,Kaiser Permanente,Portland,2015-01-19 00:00:00,2015-06-01 00:00:00,100.0,Large Layoff - 10 or more workers
+481,Cover Oregon,Durham,2015-01-08 00:00:00,2015-03-10 00:00:00,62.0,Large Layoff - 10 or more workers
+482,Woodgrain Millwork,Prineville,2014-11-28 00:00:00,2014-11-25 00:00:00,133.0,Large Layoff - 10 or more workers
+483,Lloyd Center Nordstrom,Portland,2014-10-29 00:00:00,2015-01-10 00:00:00,172.0,Permanent closure
+484,Ringside Steakhouse,Portland,2014-10-28 00:00:00,2015-01-01 00:00:00,57.0,Small Layoff  1 – 10 workers
+485,Umatilla Chemical Agent-URS,Hermiston,2014-08-08 00:00:00,2014-10-09 00:00:00,26.0,Permanent closure
+486,Elks Rehab System,Ontario,2014-07-31 00:00:00,2014-07-31 00:00:00,5.0,Temporary Layoff
+487,BFN Operations LLC,Cornelius,2014-06-30 00:00:00,2014-09-30 00:00:00,100.0,Permanent closure
+488,Kmart Corporation,Albany,2014-06-12 00:00:00,2014-09-14 00:00:00,64.0,Permanent closure
+489,"LAIKA, LLC",Hillsboro,2014-05-19 00:00:00,2014-07-19 00:00:00,76.0,Permanent closure
+490,URS-Umatilla Chemical Agent Disposal,Hermiston,2014-05-14 00:00:00,2014-07-17 00:00:00,25.0,Large Layoff - 10 or more workers
+491,Commercial Vehicle Group Inc.,Tigard,2014-05-09 00:00:00,2015-04-30 00:00:00,120.0,Permanent closure
+492,Commercial Vehicle Group Inc.,Tigard,2014-05-09 00:00:00,2015-01-26 00:00:00,117.0,Permanent closure
+493,Welch Allyn,Beaverton,2014-04-01 00:00:00,2015-03-27 00:00:00,9.0,Large Layoff - 10 or more workers
+494,Welch Allyn,Beaverton,2014-04-01 00:00:00,2015-01-31 00:00:00,14.0,Large Layoff - 10 or more workers
+495,Welch Allyn,Beaverton,2014-04-01 00:00:00,2014-12-19 00:00:00,45.0,Large Layoff - 10 or more workers
+496,Welch Allyn,Beaverton,2014-04-01 00:00:00,2014-09-26 00:00:00,1.0,Large Layoff - 10 or more workers
+497,Welch Allyn,Beaverton,2014-04-01 00:00:00,2014-07-27 00:00:00,1.0,Large Layoff - 10 or more workers
+498,Welch Allyn,Beaverton,2014-04-01 00:00:00,2014-06-27 00:00:00,1.0,Large Layoff - 10 or more workers
+499,Welch Allyn,Beaverton,2014-04-01 00:00:00,2014-05-30 00:00:00,13.0,Large Layoff - 10 or more workers
+500,CenturyLink Customer Contact Sales & Se,Medford,2014-03-19 00:00:00,2014-06-06 00:00:00,114.0,Permanent closure
+501,West Linn Paper Co,West Linn,2014-08-22 00:00:00,2014-03-19 00:00:00,41.0,Reduction
+502,Sierra Pines Ltd.,Springfield,2014-02-05 00:00:00,2014-04-04 00:00:00,87.0,Permanent closure
+503,Glenn Walters Nursery,Cornelius,2014-01-17 00:00:00,2014-01-17 00:00:00,119.0,Large Layoff - 10 or more workers
+504,System Services of America Inc,Portland,2013-11-06 00:00:00,2014-02-02 00:00:00,78.0,Permanent closure
+505,Evergreen International Airlines Inc.,Mcminnville,2013-11-07 00:00:00,2013-11-07 00:00:00,131.0,Large Layoff - 10 or more workers
+506,Happy Guests Intl. - Salty's,Portland,2020-05-14 00:00:00,,,Temporary Layoff
+507,BOISE CASCADE ELGIN PLYWOOD MILL       ,ELGIN                         ,2022-12-14 00:00:00,,,Large Layoff - 10 or more workers
+508,"Rise Services, Inc.","Mesa, AZ",2023-07-18 00:00:00,,,Permanent closure
+509,Centerra ,"Herndon, VA",2023-08-10 00:00:00,,,Permanent closure
+510,Bank of America,Hillsboro,2013-10-25 00:00:00,2013-10-23 00:00:00,59.0,Large Layoff - 10 or more workers
+511,Wells Fargo Home Mortgage Retail Retail,Portland,2013-10-23 00:00:00,2013-12-22 00:00:00,92.0,Large Layoff - 10 or more workers
+512,American Bridge Manufacturing Company,"Coraopolis, PA",2013-10-08 00:00:00,2013-12-09 00:00:00,51.0,Permanent closure
+513,CapitalOne,Portland,2013-09-12 00:00:00,2013-12-07 00:00:00,66.0,Large Layoff - 10 or more workers
+514,Dutchmen,Clackamas,2013-09-10 00:00:00,2013-11-15 00:00:00,163.0,Permanent closure
+515,URS-UMCDF,Hermiston,2013-08-22 00:00:00,2013-10-24 00:00:00,4.0,Large Layoff - 10 or more workers
+516,Blount International,Portland,2013-08-09 00:00:00,2013-10-22 00:00:00,198.0,Large Layoff - 10 or more workers
+517,"Cambia Health Solutions, Inc.",Portland,2013-07-25 00:00:00,2013-07-29 00:00:00,22.0,Reduction
+518,Kaiser Permanente,Portland,2013-07-19 00:00:00,2013-10-31 00:00:00,111.0,Permanent closure
+519,SolarWorld,Hillsboro,2013-07-02 00:00:00,2014-01-14 00:00:00,1.0,Reduction
+520,SolarWorld,Hillsboro,2013-07-02 00:00:00,2013-07-07 00:00:00,100.0,Reduction
+521,Lloyd Center,Portland,2013-06-18 00:00:00,2013-08-17 00:00:00,49.0,Large Layoff - 10 or more workers
+522,Zynga,Eugene,2013-06-03 00:00:00,2013-06-03 00:00:00,8.0,Reduction
+523,Ricoh,Portland,2013-05-31 00:00:00,2013-07-31 00:00:00,70.0,Large Layoff - 10 or more workers
+524,CenturyLink,Hood River,2013-05-13 00:00:00,2013-07-19 00:00:00,51.0,Large Layoff - 10 or more workers
+525,Ovations,"Lutz, FL",2013-04-30 00:00:00,2013-06-30 00:00:00,539.0,Large Layoff - 10 or more workers
+526,Xerox Business Services,"Lewisville, TX",2013-05-01 00:00:00,2013-07-07 00:00:00,285.0,Permanent closure
+527,AEG Facilities,"Los Angeles, CA",2013-04-29 00:00:00,2013-06-30 00:00:00,900.0,Permanent closure
+528,SANYO Solare of Oregon LLC,Salem,2013-04-25 00:00:00,2013-12-20 00:00:00,50.0,Permanent closure
+529,Rough & Ready Lumber LLC,Cave Junction,2013-04-23 00:00:00,2013-05-01 00:00:00,88.0,Permanent closure
+530,URS-Umatilla Chemical Depo,Hermiston,2013-04-13 00:00:00,2013-06-20 00:00:00,136.0,Permanent closure
+531,FOSS Maritime Company,Portland,2013-04-11 00:00:00,2013-06-11 00:00:00,60.0,Permanent closure
+532,Solopower,Portland,2013-04-17 00:00:00,2013-06-17 00:00:00,29.0,Permanent closure
+533,URS-Umatilla Chemical Agent Disposal,Hermiston,2013-03-07 00:00:00,2013-05-09 00:00:00,5.0,Permanent closure
+534,Umatilla Chemical Agent Disp. Facility,Hermiston,2013-03-01 00:00:00,2013-06-20 00:00:00,117.0,Permanent closure
+535,Kathy Nicholl,Beaverton,2013-02-15 00:00:00,2013-04-26 00:00:00,174.0,Permanent closure
+536,Pepsi Beverages Company,Salem,2013-01-22 00:00:00,2013-03-23 00:00:00,66.0,Permanent closure
+537,American InterContinental Univ. Online,Beaverton,2013-01-21 00:00:00,2013-03-23 00:00:00,124.0,Permanent closure
+538,K Mart,Milwaukie,2013-01-15 00:00:00,2013-03-16 00:00:00,61.0,Permanent closure
+539,American Suzuki Motor Corporation,,2013-01-11 00:00:00,2013-03-14 00:00:00,2.0,Permanent closure
+540,Umatilla Chemical Agent Disposal Facili,Hermistion,2013-01-02 00:00:00,2013-03-07 00:00:00,11.0,Permanent closure
+541,Sealy Mattress Company,Portland,2013-01-04 00:00:00,2013-03-31 00:00:00,9.0,Permanent closure
+542,Sealy Mattress Company,Portland,2013-01-04 00:00:00,2013-03-04 00:00:00,106.0,Permanent closure
+543,Umatilla Chemical Agent Disposal Facili,Hermiston,2012-12-11 00:00:00,2013-02-14 00:00:00,178.0,Permanent closure
+544,TriWest Healthcare Alliance Corp.,,2012-12-10 00:00:00,2013-02-15 00:00:00,7.0,Reduction
+545,"Boise White Paper, LLC",St. Helens,2012-10-16 00:00:00,2012-12-31 00:00:00,106.0,Permanent closure
+546,Capitol One,Portand,2012-09-25 00:00:00,2013-01-02 00:00:00,217.0,Reduction
+547,Conservation Services Group,Portland,2012-09-24 00:00:00,2012-12-16 00:00:00,97.0,Large Layoff - 10 or more workers
+548,Warm Springs Forest Product Industries,Warm Springs,2012-09-17 00:00:00,2012-11-16 00:00:00,93.0,Large Layoff - 10 or more workers
+549,"Washington Demilitarization Co., (URS)",Hermiston,2012-09-07 00:00:00,2012-11-08 00:00:00,34.0,Permanent closure
+550,"America's Body Company, LLC",Portland,2012-07-09 00:00:00,2012-09-10 00:00:00,46.0,Permanent closure
+551,Salem Hospital,Salem,2012-06-15 00:00:00,2012-06-15 00:00:00,52.0,Permanent closure
+552,Umatilla Chemical Agent Disposal Facili,Hermiston,2012-05-31 00:00:00,2012-06-06 00:00:00,1.0,Permanent closure
+553,"Hostess Brands, Inc.",Baker City,2012-05-04 00:00:00,2012-07-04 00:00:00,1.0,Permanent closure
+554,Capital One Services,Portland,2012-05-02 00:00:00,2012-09-01 00:00:00,79.0,Permanent closure
+555,Lumber Products,Tualatin,2012-05-01 00:00:00,2012-06-29 00:00:00,65.0,Permanent closure
+556,"AT&T Mobility Services, LLC","Duluth, MN",2012-04-27 00:00:00,2012-06-29 00:00:00,86.0,Permanent closure
+557,Siltronic Corporation,Portland,2012-03-21 00:00:00,2012-07-01 00:00:00,350.0,Permanent closure
+558,T-Mobile,Redmond,2012-03-22 00:00:00,2012-06-22 00:00:00,359.0,Permanent closure
+559,Symantec Corporation,Beaverton,2012-03-05 00:00:00,2012-05-05 00:00:00,55.0,Reduction
+560,"Schneider Logistics, Inc. (SLI)",Beaverton,2012-02-01 00:00:00,2012-03-31 00:00:00,1.0,Permanent closure
+561,MASCO Bath,Klamath Falls,2012-01-31 00:00:00,2012-03-30 00:00:00,50.0,Permanent closure
+562,"Monaco RV, LLC",Coburg,2012-10-30 00:00:00,2012-11-15 00:00:00,1.0,Permanent closure
+563,"Monaco RV, LLC",Coburg,2012-10-30 00:00:00,2012-10-31 00:00:00,2.0,Permanent closure
+564,"Monaco RV, LLC",Coburg,2012-10-30 00:00:00,2012-04-13 00:00:00,72.0,Permanent closure
+565,"Monaco RV, LLC",Coburg,2012-10-30 00:00:00,2012-03-30 00:00:00,24.0,Permanent closure
+566,"Monaco RV, LLC",Coburg,2012-10-30 00:00:00,2012-03-16 00:00:00,3.0,Permanent closure
+567,Umatilla Chemical Agent Disposal Facili,Hermiston,2012-01-12 00:00:00,2012-04-12 00:00:00,17.0,Permanent closure
+568,"MEMC Electronic Materials, Inc.",Portland,2011-12-07 00:00:00,2011-12-07 00:00:00,85.0,Large Layoff - 10 or more workers
+569,"MEMC Electronic Materials, Inc.",Portland,2011-12-07 00:00:00,2011-10-26 00:00:00,9.0,Large Layoff - 10 or more workers
+570,"CFRI-HWKD Maple Grove, LLC",Monmouth,2011-10-19 00:00:00,2011-12-31 00:00:00,120.0,Permanent closure
+571,"Pace American Enterprises, Inc.",Lebanon,2011-09-13 00:00:00,2011-09-20 00:00:00,35.0,Large Layoff - 10 or more workers
+572,Nationwide Sales Solutions,Portland,2011-07-13 00:00:00,2011-09-12 00:00:00,90.0,Permanent closure
+573,"Musician's Friend, Inc.",Medford,2011-07-12 00:00:00,2011-07-14 00:00:00,160.0,Permanent closure
+574,Insight Schools,Portland,2011-05-18 00:00:00,2011-07-18 00:00:00,58.0,Permanent closure
+575,Blue Heron Paper Company,Oregon City,2011-02-22 00:00:00,2011-02-28 00:00:00,181.0,Permanent closure
+576,"Haggen, Murray Hill Store",Beaverton,2011-02-22 00:00:00,2011-04-27 00:00:00,72.0,Permanent closure
+577,"Silver Eagle Manufacturig Company, Inc.",Portland,2010-10-15 00:00:00,2010-12-17 00:00:00,55.0,Reduction
+578,"Liberty Homes, Inc",Sheridan,2010-12-01 00:00:00,2011-02-01 00:00:00,83.0,Permanent closure
+579,Zip Realty,Tigard,2010-11-29 00:00:00,2010-12-10 00:00:00,51.0,Permanent closure
+580,"bioMerieux, Inc.",Wilsonville,2010-12-01 00:00:00,2010-12-31 00:00:00,80.0,Permanent closure
+581,Hines Nurseries,Forest Grove,2010-10-06 00:00:00,2011-03-08 00:00:00,56.0,Reduction
+582,Hines Nurseries,Forest Grove,2010-10-06 00:00:00,2010-12-06 00:00:00,96.0,Reduction
+583,Wealthbridge Mortgage,Beaverton,2010-09-23 00:00:00,2010-09-24 00:00:00,109.0,Permanent closure
+584,Alcan Cable,Roseburg,2010-08-03 00:00:00,2010-08-06 00:00:00,32.0,Permanent closure
+585,Gladstone Honda & Gladstone Nissan,Gladstone,2010-07-28 00:00:00,2010-09-15 00:00:00,94.0,Permanent closure
+586,"Senvoy,",Portland,2010-06-04 00:00:00,2010-08-08 00:00:00,196.0,Permanent closure
+587,"Sunwest Management, Inc.",Salem,2010-05-18 00:00:00,2010-07-15 00:00:00,150.0,Large Layoff - 10 or more workers
+588,HAVI Logistics,Portland,2010-05-14 00:00:00,2010-05-14 00:00:00,60.0,Permanent closure
+589,Movie Gallery Inc.,Wilsonville,2010-05-03 00:00:00,2010-04-30 00:00:00,600.0,Permanent closure
+590,IGT,Corvallis,2010-04-26 00:00:00,2010-06-30 00:00:00,19.0,Permanent closure
+591,Saks Fifth Avenue,Portland,2010-03-23 00:00:00,2010-07-31 00:00:00,100.0,Permanent closure
+592,Artex Aircraft Supplies,Aurora,2010-02-26 00:00:00,2010-04-30 00:00:00,68.0,Large Layoff - 10 or more workers
+593,Auto Warehousing Co.,Portland,2010-01-21 00:00:00,2010-01-22 00:00:00,55.0,Large Layoff - 10 or more workers
+594,Alcan Cable,Roseburg,2010-01-06 00:00:00,2010-01-06 00:00:00,33.0,Large Layoff - 10 or more workers
+595,Alcan Cable,Roseburg,2010-01-06 00:00:00,2009-04-19 00:00:00,32.0,Large Layoff - 10 or more workers
+596,"Means Nursery, Inc.",Scappoose,2009-12-18 00:00:00,2010-02-19 00:00:00,100.0,Permanent closure
+597,Suntron,Newberg,2009-12-14 00:00:00,2010-03-31 00:00:00,188.0,Permanent closure
+598,"Blackwell North American, Inc.",Lake Oswego,2009-12-07 00:00:00,2010-02-07 00:00:00,139.0,Permanent closure
+599,Weyerhaeuser,Warrenton,2009-12-07 00:00:00,2009-12-07 00:00:00,140.0,Permanent closure
+600,Sykes,Milton-Freewater,2009-11-12 00:00:00,2010-01-15 00:00:00,336.0,Large Layoff - 10 or more workers
+601,"Mount Bachelor Educational Center, Inc.",Prineville,2009-11-06 00:00:00,2009-11-11 00:00:00,72.0,Permanent closure
+602,"Sun Microsystems, Inc.",Hillsboro,2009-11-03 00:00:00,2010-01-03 00:00:00,42.0,Permanent closure
+603,Pepsi,,2009-10-23 00:00:00,2009-10-23 00:00:00,25.0,Permanent closure
+604,"Canron Western Constructors, Inc.",Portland,2009-10-07 00:00:00,2009-12-07 00:00:00,106.0,Permanent closure
+605,"Ferguson Enterprises, Inc.",Portland,2009-10-06 00:00:00,2009-12-07 00:00:00,94.0,Permanent closure
+606,"LAIKA, Inc.",Portland,2009-09-17 00:00:00,2009-11-17 00:00:00,52.0,Large Layoff - 10 or more workers
+607,Benchmark Electronics,Beaverton,2009-09-15 00:00:00,2009-12-31 00:00:00,183.0,Permanent closure
+608,Crossmark,"Plano, TX",2009-08-27 00:00:00,2009-10-31 00:00:00,46.0,Permanent closure
+609,Metso Minerals,Portland,2009-08-20 00:00:00,2009-10-21 00:00:00,39.0,Reduction
+610,Cleanpak International,Clackamas,2009-08-17 00:00:00,2009-12-01 00:00:00,12.0,Permanent closure
+611,Cleanpak International,Clackamas,2009-08-17 00:00:00,2009-11-27 00:00:00,1.0,Permanent closure
+612,Cleanpak International,Clackamas,2009-08-17 00:00:00,2009-10-23 00:00:00,30.0,Permanent closure
+613,Cleanpak International,Clackamas,2009-08-17 00:00:00,2009-10-16 00:00:00,115.0,Permanent closure
+614,Crossroads,"Orange, CA",2009-08-06 00:00:00,2009-10-18 00:00:00,14.0,Large Layoff - 10 or more workers
+615,InFocus,Wilsonville,2009-07-02 00:00:00,2009-09-01 00:00:00,60.0,Large Layoff - 10 or more workers
+616,Fleetwood Homes,Woodburn,2009-07-02 00:00:00,2009-08-31 00:00:00,89.0,Permanent closure
+617,"RM International, Inc",Portland,2009-08-05 00:00:00,2009-10-05 00:00:00,109.0,Large Layoff - 10 or more workers
+618,"Philips Prodoucts, Inc.",Stayton,2009-06-03 00:00:00,2009-08-05 00:00:00,125.0,Permanent closure
+619,Nypro,Corvallis,2009-06-01 00:00:00,2009-11-30 00:00:00,62.0,Permanent closure
+620,Hach Ultra Analytics,Grants Pass,2009-06-03 00:00:00,2009-08-15 00:00:00,50.0,Reduction
+621,Cobham Avionics  DBA Artex Products,Aurora,2009-08-04 00:00:00,2009-10-07 00:00:00,113.0,Permanent closure
+622,Cobham Avionics  DBA Artex Products,Aurora,2009-08-04 00:00:00,2009-07-07 00:00:00,29.0,Permanent closure
+623,Cobham Avionics  DBA Artex Products,Aurora,2009-08-04 00:00:00,2009-04-07 00:00:00,12.0,Permanent closure
+624,Market Strategies International,Portland,2009-05-15 00:00:00,2009-07-31 00:00:00,162.0,Permanent closure
+625,Nike,Beaverton,2009-05-14 00:00:00,2009-04-03 00:00:00,500.0,Large Layoff - 10 or more workers
+626,Rose City Cafe,Portland,2009-04-28 00:00:00,2009-06-30 00:00:00,53.0,Permanent closure
+627,Albany Trucking,Albany,2009-04-16 00:00:00,2009-04-16 00:00:00,75.0,Permanent closure
+628,North River Boats,Roseburg,2009-04-09 00:00:00,2009-04-14 00:00:00,157.0,Permanent closure
+629,Nike,Beaverton,2009-04-07 00:00:00,2009-06-13 00:00:00,17.0,Reduction
+630,Hampton Lumber Mills,Tillamook,2009-04-06 00:00:00,2009-06-06 00:00:00,85.0,Large Layoff - 10 or more workers
+631,JP Morgan Chase,Portland,2009-03-31 00:00:00,2009-06-05 00:00:00,19.0,Permanent closure
+632,Evraz Inc.,Portland,2009-03-31 00:00:00,2009-05-25 00:00:00,225.0,Large Layoff - 10 or more workers
+633,Boise Cascade,LaGrande,2009-04-29 00:00:00,2009-06-28 00:00:00,120.0,Large Layoff - 10 or more workers
+634,HiRel Systems,Hillsboro,2009-03-16 00:00:00,2009-04-17 00:00:00,55.0,Permanent closure
+635,Warrenton Lumber Mill,Warrenton,2009-03-10 00:00:00,2009-03-16 00:00:00,59.0,Large Layoff - 10 or more workers
+636,"Fleetwood Travel Trailers of Oregon, In",Pendleton,2009-03-09 00:00:00,2009-03-09 00:00:00,253.0,Permanent closure
+637,"Fleetwood Travel Trailers of Oregon, In",LaGrande,2009-03-09 00:00:00,2009-03-09 00:00:00,162.0,Permanent closure
+638,Monaco Coach Corporation,Coburg,2009-03-02 00:00:00,2009-03-02 00:00:00,1396.0,Reduction
+639,Weyerhaeuser-Dallas Lumber,Dallas,2009-03-17 00:00:00,2009-05-16 00:00:00,78.0,Permanent closure
+640,Verizon Wireless,Bend,2009-02-20 00:00:00,2009-02-20 00:00:00,47.0,Permanent closure
+641,"Joe's Sports, Outdoor & More",Wilsonville,2009-02-17 00:00:00,2009-04-03 00:00:00,190.0,Large Layoff - 10 or more workers
+642,St. Charles Medical Center/Pioneer Mem.,Bend/Prineville/Redmond,2009-02-11 00:00:00,2009-04-16 00:00:00,80.0,Reduction
+643,Bright Wood Corporation,Redmond,2009-02-03 00:00:00,2009-04-06 00:00:00,98.0,Large Layoff - 10 or more workers
+644,Boise Cascade White City,White City,2009-01-08 00:00:00,2009-03-09 00:00:00,113.0,Permanent closure
+645,Sauer-Danfoss Company,,2009-01-12 00:00:00,2009-03-15 00:00:00,110.0,Permanent closure
+646,GE Security,Tualatin,2009-01-08 00:00:00,2009-03-08 00:00:00,222.0,Large Layoff - 10 or more workers
+647,Sherwood Building Materials Distributio,Sherwood,2008-12-30 00:00:00,2009-03-02 00:00:00,105.0,Permanent closure
+648,Country Coach,Junction City,2008-12-30 00:00:00,2009-04-01 00:00:00,460.0,Large Layoff - 10 or more workers
+649,North Sky Communications,Sherwood,2008-12-11 00:00:00,2008-12-11 00:00:00,27.0,Large Layoff - 10 or more workers
+650,"Lime Financial Services, Ltd.",Lake Oswego,2008-12-08 00:00:00,2008-12-09 00:00:00,54.0,Permanent closure
+651,Shorewood Packaging,Springfield,2009-02-03 00:00:00,2009-02-13 00:00:00,15.0,Permanent closure
+652,Boise Paper Holdings,St Helens,2008-11-17 00:00:00,2009-01-17 00:00:00,300.0,Large Layoff - 10 or more workers
+653,DHL,"Portland, Tigard",2008-11-21 00:00:00,2009-01-23 00:00:00,140.0,Permanent closure
+654,Bayliner- US Marine,,2008-10-16 00:00:00,2008-10-17 00:00:00,174.0,Permanent closure
+655,"Johnson Controls, Inc.",Hillsboro,2008-10-01 00:00:00,2008-12-14 00:00:00,14.0,Permanent closure
+656,Gate Gourmet,,2008-10-01 00:00:00,2008-12-01 00:00:00,74.0,Permanent closure
+657,ACS Business Process Solutions,Portland,2008-12-03 00:00:00,2009-02-03 00:00:00,90.0,Permanent closure
+658,Tektronix,Beaverton,2008-08-07 00:00:00,2008-09-20 00:00:00,60.0,Permanent closure
+659,Hynix Semiconductor Manufacturing Ameri,,2008-07-29 00:00:00,2008-08-01 00:00:00,1000.0,Permanent closure
+660,Gold River Distributing,,2008-07-15 00:00:00,2008-09-15 00:00:00,374.0,Permanent closure
+661,Columbia Distributing Company,,2008-07-14 00:00:00,2008-09-15 00:00:00,771.0,Permanent closure
+662,Mt. Hood Beverage,,2008-07-15 00:00:00,2008-07-16 00:00:00,809.0,Reduction
+663,Nike Distribution Center,Wilsonville,2008-07-14 00:00:00,2008-09-15 00:00:00,130.0,Permanent closure
+664,"American Airlines, Inc.",Portland,2008-07-07 00:00:00,2008-09-05 00:00:00,3.0,Permanent closure
+665,Hilton Lake Oswego,Lake Oswego,2008-06-30 00:00:00,2008-08-29 00:00:00,53.0,Permanent closure
+666,Kerry Inc.,Tualatin,2008-06-24 00:00:00,2008-10-17 00:00:00,74.0,Permanent closure
+667,"Pope & Talbot, Inc.",Halsey,2008-06-19 00:00:00,2008-06-24 00:00:00,114.0,Permanent closure
+668,Gage Industires,,2008-05-22 00:00:00,2008-07-15 00:00:00,75.0,Permanent closure
+669,Skyline McMinnville Nomad Division,,2008-05-28 00:00:00,2008-05-28 00:00:00,84.0,Permanent closure
+670,SuperValu-Albertsons,Portland,2008-05-09 00:00:00,2008-06-07 00:00:00,53.0,Permanent closure
+671,Homette Corporation,,2008-04-18 00:00:00,2008-04-21 00:00:00,82.0,Permanent closure
+672,Trans Ocean Products,Salem,2008-04-02 00:00:00,2008-06-19 00:00:00,57.0,Permanent closure
+673,"Redman Housing, Inc.",Silverton,2008-03-24 00:00:00,2008-05-23 00:00:00,160.0,Permanent closure
+674,Macy's,Portland,2008-02-26 00:00:00,2008-05-02 00:00:00,50.0,Permanent closure
+675,US Timber,Baker City,2008-02-25 00:00:00,2008-02-05 00:00:00,30.0,Permanent closure
+676,Coe/Newnes/McGehee,Tigard,2008-02-12 00:00:00,2008-04-11 00:00:00,51.0,Permanent closure
+677,Bay Valley Foods,,2008-04-14 00:00:00,2008-06-01 00:00:00,88.0,Permanent closure
+678,Unitrin Business Insurance,Portland,2008-02-12 00:00:00,2008-03-31 00:00:00,20.0,Large Layoff - 10 or more workers
+679,Norton Lumber Co Inc.,White City,2008-02-12 00:00:00,2008-02-22 00:00:00,6.0,Permanent closure
+680,Roberts Motor Company,Portland,2008-01-28 00:00:00,2008-03-24 00:00:00,162.0,Permanent closure
+681,"Johnny Cat Inc., Construction",Jacksonville,2008-01-28 00:00:00,2008-01-29 00:00:00,45.0,Permanent closure
+682,Nationwide,Portland,2008-02-01 00:00:00,2008-06-27 00:00:00,204.0,Permanent closure
+683,Nationwide,Portland,2008-02-01 00:00:00,2008-02-04 00:00:00,234.0,Permanent closure
+684,Merix Corporation,Wood Village,2008-01-09 00:00:00,2008-03-01 00:00:00,133.0,Permanent closure
+685,Ideal Merchandising,,2007-12-06 00:00:00,2007-12-10 00:00:00,8.0,Permanent closure
+686,Umpqua Lumber Co.,Dillard,2007-12-13 00:00:00,2008-02-01 00:00:00,60.0,Permanent closure
+687,"MasterBrand Cabinets, Inc.",Hillsboro,2007-12-05 00:00:00,2008-02-05 00:00:00,131.0,Permanent closure
+688,Weyerhaeuser Company,Junction City,2008-03-03 00:00:00,2008-05-04 00:00:00,56.0,Permanent closure
+689,Sun's Hillsboro Site,Hillsboro,2009-01-21 00:00:00,2009-03-23 00:00:00,19.0,Reduction
+690,"GreenPoint Mortgage Funding, Inc.",Lake Oswego,2007-11-15 00:00:00,2007-08-24 00:00:00,38.0,Permanent closure
+691,"Maco Wood Products, Inc.",Clackamas,2007-07-06 00:00:00,2007-07-05 00:00:00,130.0,Permanent closure
+692,JM Eagle,Eugene,2007-07-02 00:00:00,2007-09-03 00:00:00,61.0,Permanent closure
+693,Global Spectrum - Rose Garden,Portland,2008-04-29 00:00:00,2007-06-30 00:00:00,780.0,Permanent closure
+694,Washington Mutual,Lake Oswego,2007-02-16 00:00:00,2007-03-30 00:00:00,51.0,Permanent closure
+695,Seaswirl Boats,Culver,2007-02-27 00:00:00,2007-02-27 00:00:00,174.0,Permanent closure
+696,Weyerhaeuser - Bauman Lumber,Lebanon,2007-02-09 00:00:00,2007-04-01 00:00:00,76.0,Permanent closure
+697,Copeland Sports,"Portland, Eugene, Medford, Salem",2006-11-03 00:00:00,2006-11-15 00:00:00,919.0,Permanent closure
+698,Macy's Downtown Portland,Portland,2006-11-13 00:00:00,2006-11-14 00:00:00,142.0,Permanent closure
+699,Mertitage Mortgage Corporation/NetBank,Beaverton,2006-11-13 00:00:00,2006-11-13 00:00:00,151.0,Permanent closure
+700,Shopko #094,Eugene,2006-11-09 00:00:00,2006-11-09 00:00:00,39.0,Permanent closure
+701,Freightliner,Portland,2007-01-26 00:00:00,2007-01-29 00:00:00,802.0,Permanent closure
+702,Whittier Wood Products,Eugene,2006-08-31 00:00:00,2006-09-06 00:00:00,101.0,Permanent closure
+703,Foster Farms,Creswell,2006-08-03 00:00:00,2007-04-28 00:00:00,15.0,Permanent closure
+704,Foster Farms,Creswell,2006-08-03 00:00:00,2006-08-04 00:00:00,53.0,Permanent closure
+705,Qwest Consumer Sales & Service,Portland,2006-07-20 00:00:00,2006-10-13 00:00:00,175.0,Permanent closure
+706,Trans-Ocean Products,Salem,2006-05-30 00:00:00,2006-07-30 00:00:00,38.0,Permanent closure
+707,Cenveo Graphic Arts Center ,Portland,2006-05-02 00:00:00,2006-05-02 00:00:00,99.0,Permanent closure
+708,Ace Parking Management,Portland,2006-03-31 00:00:00,2006-03-31 00:00:00,82.0,Permanent closure
+709,"Sun Microsystems, Inc.",Hillsboro-Portland,2006-03-08 00:00:00,2007-04-30 00:00:00,2.0,Permanent closure
+710,"Sun Microsystems, Inc.",Hillsboro-Portland,2006-03-08 00:00:00,2006-05-08 00:00:00,7.0,Permanent closure
+711,Trus Joist - A Weyerhaeuser Business,Eugene,2006-03-03 00:00:00,2006-03-06 00:00:00,79.0,Permanent closure
+712,"PDI, Inc.",,2006-03-03 00:00:00,2006-04-30 00:00:00,2.0,Permanent closure
+713,Convergys Corporation,Portland,2006-02-16 00:00:00,2007-09-01 00:00:00,350.0,Permanent closure
+714,Curly's Dairy - Salem,Salem,2006-01-31 00:00:00,2006-03-31 00:00:00,107.0,Permanent closure
+715,FASST Federated Logistics & Operations,Milwaukie,2006-06-02 00:00:00,2006-08-31 00:00:00,150.0,Permanent closure
+716,"Williams Controls, Inc.",Portland,2007-02-16 00:00:00,2007-04-16 00:00:00,42.0,Large Layoff - 10 or more workers
+717,"Williams Controls, Inc.",Portland,2007-02-16 00:00:00,2005-02-02 00:00:00,6.0,Large Layoff - 10 or more workers
+718,Delta Airlines,Portland,2005-12-06 00:00:00,2005-12-06 00:00:00,67.0,Permanent closure
+719,Cingular Wireless,Portland,2005-12-06 00:00:00,2005-12-06 00:00:00,1.0,Permanent closure
+720,Hotel Mallory,Portland,2005-12-05 00:00:00,2005-12-05 00:00:00,80.0,Permanent closure
+721,SITEL,Hillsboro,2005-10-05 00:00:00,2005-10-05 00:00:00,695.0,Permanent closure
+722,Michaels of Oregon,Oregon City,2005-09-29 00:00:00,2005-09-29 00:00:00,33.0,Permanent closure
+723,Neilsen Manufacturing Inc.             ,Salem                         ,2005-09-27 00:00:00,2005-09-28 00:00:00,128.0,Permanent closure
+724,U.S. Cellular,Medford,2005-09-19 00:00:00,2005-09-20 00:00:00,159.0,Large Layoff - 10 or more workers
+725,Solectron,Hillsboro,2005-09-14 00:00:00,2005-12-31 00:00:00,119.0,Permanent closure
+726,Western Electronics Delta Corporation,Tualatin,2005-08-01 00:00:00,2005-07-28 00:00:00,57.0,Reduction
+727,Valley Wine Company,Beaverton,2005-08-01 00:00:00,2005-10-01 00:00:00,101.0,Reduction
+728,"Seneca Foods, L.L.C.",Salem,2005-07-22 00:00:00,2005-10-01 00:00:00,50.0,Reduction
+729,Glide Lumber Products Company,Glide,2005-07-05 00:00:00,2005-09-16 00:00:00,161.0,Reduction
+730,Robert Bosch Tool Corporation ,Woodburn,2005-06-07 00:00:00,2005-06-30 00:00:00,10.0,Reduction
+731,Con Agra Foods ,Umattilla,2005-06-07 00:00:00,2005-06-01 00:00:00,62.0,Reduction
+732,Biovail,Bridgewater,2005-05-11 00:00:00,2005-07-10 00:00:00,3.0,Reduction
+733,Cingular Wireless,Portland,2005-05-09 00:00:00,2005-07-03 00:00:00,1.0,Reduction
+734,"Matsushita Electronic Materials, Inc.",Forest Grove,2005-04-28 00:00:00,2005-06-30 00:00:00,127.0,Reduction
+735,Monaco Coach Corporation,Bend,2005-04-15 00:00:00,2005-06-15 00:00:00,500.0,Reduction
+736,TNS Corporation,Eugene,2005-04-11 00:00:00,2005-06-10 00:00:00,134.0,Reduction
+737,American Airlines,Portland,2005-04-07 00:00:00,2005-07-01 00:00:00,49.0,Reduction
+738,Associated Administrators (AAI),Portland,2005-04-06 00:00:00,2005-06-05 00:00:00,170.0,Reduction
+739,"Doubletree Hotel, Jantzen Beach        ",Portland,2005-01-21 00:00:00,2005-03-29 00:00:00,70.0,Reduction
+740,THE AMALGAMATED SUGAR COMPANY LLC      ,NYSSA                         ,2005-01-19 00:00:00,1899-12-29 00:00:00,510.0,Reduction
+741,OREGON ARENA CORPORATION               ,PORTLAND                      ,2004-11-01 00:00:00,2004-12-31 00:00:00,976.0,Reduction
+742,TRINITY UNIVERSAL INSURANCE COMPANY    ,ALBANY                        ,2004-10-29 00:00:00,2005-01-07 00:00:00,89.0,Reduction
+743,GUIDANT SALES CORPORATION              ,LAKE OSWEGO                   ,2004-08-09 00:00:00,2004-10-08 00:00:00,1.0,Reduction
+744,STREAM                                 ,EUGENE                        ,2004-06-24 00:00:00,2004-08-23 00:00:00,206.0,Reduction
+745,QWEST SMALL BUSINESS GROUP AND         ,PORTLAND                      ,2004-06-08 00:00:00,2004-08-11 00:00:00,161.0,Reduction
+746,"WINCO FOODS, INC.                      ",WOODBURN                      ,2004-04-14 00:00:00,2004-06-19 00:00:00,81.0,Reduction
+747,SYKES-MILTON FREEWATER                 ,MILTON-FREEWATER              ,2004-03-02 00:00:00,2004-10-12 00:00:00,264.0,Reduction
+748,THE CLARION HOTEL                      ,SPRINGFIELD                   ,2004-02-02 00:00:00,2004-03-30 00:00:00,119.0,Reduction
+749,GOLDEN WEST HOMES                      ,ALBANY                        ,2004-01-30 00:00:00,2004-03-31 00:00:00,273.0,Reduction
+750,MARLETTE HOMES                         ,HERMISTON                     ,2004-01-30 00:00:00,2004-03-31 00:00:00,405.0,Reduction
+751,WASHINGTON MUTUAL                      ,LAKE OSWEGO                   ,2004-01-26 00:00:00,2004-02-01 00:00:00,202.0,Reduction
+752,DOUBLETREE HOTEL                       ,PORTLAND                      ,2004-01-02 00:00:00,2004-04-02 00:00:00,104.0,Reduction
+753,VANGUARD MARKETING SERVICES            ,PORTLAND                      ,2003-12-29 00:00:00,2004-02-06 00:00:00,187.0,Reduction
+754,"ALEXANDER MANUFACTURING, INC.",PORTLAND & GRESHAM,2003-12-18 00:00:00,2003-09-22 00:00:00,138.0,Reduction
+755,WELLS FARGO HOME MORTGAGE              ,CLACKAMAS                     ,2003-12-12 00:00:00,2004-02-12 00:00:00,60.0,Reduction
+756,EVANITE FIBER CORPORATION              ,CORVALLIS                     ,2003-10-16 00:00:00,2003-10-24 00:00:00,62.0,Reduction
+757,VIKING INDUSTRIES INC.                 ,PORTLAND                      ,2003-10-07 00:00:00,2003-12-05 00:00:00,151.0,Reduction
+758,TRUS JOIST - A WEYERHAEUSER BUSINESS   ,JUNCTION CITY                 ,2003-09-22 00:00:00,1899-12-29 00:00:00,120.0,Reduction
+759,"LEBANON, OR                            ",                              ,2003-08-29 00:00:00,1899-12-29 00:00:00,62.0,Reduction
+760,CHEVRON                                ,                              ,2003-09-02 00:00:00,2003-10-29 00:00:00,239.0,Reduction
+761,"SYKES ENTERPRISES, INC.                ",KLAMATH FALLS                 ,2003-08-27 00:00:00,2003-10-12 00:00:00,151.0,Large Layoff - 10 or more workers
+762,"FAMILIAN NORTHWEST, INC                ",PORTLAND                      ,2003-08-27 00:00:00,1899-12-29 00:00:00,68.0,Large Layoff - 10 or more workers
+763,BLACKWELL BOOK SERVICE                 ,                              ,2003-08-20 00:00:00,2003-12-31 00:00:00,80.0,Reduction
+764,"HORSFALL BEACH, NORTH BEND             ",NORTH BEND                    ,2003-08-18 00:00:00,2003-10-13 00:00:00,158.0,Reduction
+765,FAIRFIELD RESORTS- MRKTNG CONTACT CENTE,SALEM                         ,2003-08-04 00:00:00,2003-10-03 00:00:00,221.0,Reduction
+766,"KLAMATH FALLS, OR                      ",                              ,2003-11-03 00:00:00,2004-01-02 00:00:00,131.0,Reduction
+767,"PO BOX 1227, BEND, OR 97709            ",                              ,2003-07-28 00:00:00,1899-12-29 00:00:00,7.0,Reduction
+768,SPRINGFIELD AND MEDFORD                ,                              ,2003-07-14 00:00:00,1899-12-29 00:00:00,12.0,Reduction
+769,SPRINGFIELD                            ,                              ,2003-07-09 00:00:00,1899-12-29 00:00:00,30.0,Reduction
+770,PLYWOOD PLANT #3,ROSEBURG,2003-07-02 00:00:00,2003-10-01 00:00:00,220.0,Permanent closure
+771,"MILTON-FREEWATER, OR                   ",                              ,2003-06-30 00:00:00,1899-12-29 00:00:00,8.0,Reduction
+772,"HILLSBORO, OR                          ",                              ,2003-06-30 00:00:00,1899-12-29 00:00:00,30.0,Reduction
+773,"ALBANY, OR                             ",                              ,2003-06-26 00:00:00,1899-12-29 00:00:00,57.0,Reduction
+774,FMS AMERICA INC,,2003-06-04 00:00:00,2003-07-31 00:00:00,4.0,Reduction
+775,"RAINIER, OR                            ",                              ,2003-05-22 00:00:00,1899-12-29 00:00:00,40.0,Reduction
+776,SUMCO                                  ,SOUTH AND NORTH SALEM         ,2003-06-02 00:00:00,2003-08-01 00:00:00,120.0,Reduction
+777,"KLAMATH FALLS, OR                      ",                              ,2003-05-27 00:00:00,2003-05-27 00:00:00,8.0,Reduction
+778,"1651 SOUTH F STREET, SPRINGFIELD, OR 97",                              ,2003-05-22 00:00:00,2003-05-16 00:00:00,87.0,Reduction
+779,REGENCE BLUE CROSS BLUE SHIELD         ,KLAMATH FALLS                 ,2003-05-06 00:00:00,2003-07-07 00:00:00,51.0,Reduction
+780,"US FOREST INDUSTRIES, INC              ",GRANTS PASS                   ,2003-05-05 00:00:00,2003-04-30 00:00:00,218.0,Reduction
+781,FRIESEN LUMBER CO.                     ,ST HELENS                     ,2003-05-01 00:00:00,2003-06-29 00:00:00,110.0,Reduction
+782,BROWN & WILLIAMSON TOBACCO             ,EUGENE AND BEAVERTON          ,2003-04-11 00:00:00,2003-05-15 00:00:00,82.0,Reduction
+783,SONY DISC MANUFACTURING                ,SPRINGFIELD                   ,2003-04-10 00:00:00,2003-06-01 00:00:00,281.0,Permanent closure
+784,SMUCKERS                               ,WOODBURN                      ,2003-04-07 00:00:00,2003-12-19 00:00:00,100.0,Reduction
+785,DILLARD,,2003-04-01 00:00:00,1899-12-29 00:00:00,445.0,Reduction
+786,FIRST CONSUMERS NATIONAL BANK          ,BEAVERTON                     ,2003-05-01 00:00:00,2003-06-30 00:00:00,402.0,Reduction
+787,MOLL INDUSTRIES                        ,NEWBERG                       ,2003-03-06 00:00:00,2003-04-25 00:00:00,86.0,Reduction
+788,SYMANTEC CORPORATION                   ,BEAVERTON                     ,2003-03-05 00:00:00,2003-05-05 00:00:00,69.0,Reduction
+789,PORTLAND STEELWORKS                    ,PORTLAND                      ,2003-02-27 00:00:00,2003-05-06 00:00:00,270.0,Reduction
+790,METROPOLITAN PUBLIC DEFENDER SERVICES  ,                              ,2003-02-27 00:00:00,2003-04-13 00:00:00,138.0,Reduction
+791,QWEST COMMUNICATIONS AGENT SERVICES    ,                              ,2003-02-07 00:00:00,2003-04-11 00:00:00,27.0,Reduction
+792,RFD PUBLICATIONS LLC                   ,WILSONVILLE                   ,2003-02-11 00:00:00,2003-04-11 00:00:00,71.0,Reduction
+793,ACTIVE USA INC,PORTLAND,2003-01-29 00:00:00,2003-03-24 00:00:00,161.0,Reduction
+794,"QWEST COMMUNICATIONS, AGENT SVCS       ",CORVALLIS                     ,2003-01-27 00:00:00,2003-04-11 00:00:00,54.0,Reduction
+795,EMPORIUM                               ,EUGENE                        ,2003-02-05 00:00:00,2003-03-27 00:00:00,123.0,Reduction
+796,KMART-EUGENE                           ,EUGENE                        ,2003-01-22 00:00:00,2003-03-21 00:00:00,100.0,Reduction
+797,KMART-JANTZEN BEACH                    ,PORTLAND                      ,2003-01-22 00:00:00,2003-03-21 00:00:00,200.0,Reduction
+798,GOTTSCHALKS                            ,CORVALLIS                     ,2002-12-27 00:00:00,2003-03-29 00:00:00,22.0,Reduction
+799,ROUGH & READY LUMBER                   ,CAVE JUNCTION                 ,2002-12-18 00:00:00,2003-02-15 00:00:00,145.0,Reduction
+800,COPPERWELD                             ,PORTLAND                      ,2002-12-10 00:00:00,2003-02-07 00:00:00,55.0,Reduction
+801,"NEC ELUMINANT TECHNOLOGIES, INC.       ",HILLSBORO                     ,2002-12-09 00:00:00,2003-02-06 00:00:00,62.0,Reduction
+802,IKON OFFICE SOLUTIONS                  ,PORTLAND                      ,2002-11-19 00:00:00,2003-01-17 00:00:00,44.0,Reduction
+803,ATLAS COPCO WAGNER INC                 ,PORTLAND                      ,2003-02-28 00:00:00,2003-04-28 00:00:00,210.0,Reduction
+804,"3985 PORTLAND RD., SALEM, OR 97303     ",                              ,2002-11-14 00:00:00,2002-12-31 00:00:00,25.0,Reduction
+805,NATIONAL REFRACTORIES & MINERALS       ,"LIVERMORE, CA",2002-11-15 00:00:00,2003-01-15 00:00:00,1.0,Reduction
+806,PACIFICARE HEALTH SYSTEMS              ,LAKE OSWEGO                   ,2002-11-05 00:00:00,2003-01-03 00:00:00,50.0,Reduction
+807,"TREESOURCE INDUSTRIES, INC.            ",TILLAMOOK                     ,2002-11-05 00:00:00,2003-01-05 00:00:00,119.0,Reduction
+808,K-MART                                 ,SPRINGFIELD                   ,2002-10-31 00:00:00,2003-01-05 00:00:00,100.0,Reduction
+809,"CHIQUITA PROCESSED FOODS, LLC          ",SALEM                         ,2002-10-24 00:00:00,2002-12-24 00:00:00,664.0,Reduction
+810,GETRONICS                              ,PORTLAND                      ,2002-10-15 00:00:00,2002-11-30 00:00:00,2.0,Reduction
+811,GAGE INDUSTRIES INC                    ,TIGARD                        ,2002-09-09 00:00:00,2002-11-09 00:00:00,95.0,Reduction
+812,CONSOLIDATED FREIGHTWAYS,,2002-09-03 00:00:00,2002-09-01 00:00:00,315.0,Reduction
+813,DURAMETAL CORPORATION                  ,TUALATIN                      ,2002-08-15 00:00:00,2002-08-15 00:00:00,62.0,Reduction
+814,SILVERCREST HOMES                      ,WOODBURN                      ,2002-08-20 00:00:00,1899-12-29 00:00:00,45.0,Reduction
+815,HUNTLEIGH USA CORPORATION              ,PORTLAND                      ,2002-07-29 00:00:00,2002-11-18 00:00:00,413.0,Reduction
+816,METALS USA                             ,PORTLAND                      ,2002-07-29 00:00:00,2002-09-15 00:00:00,62.0,Reduction
+817,BEND                                   ,                              ,2002-07-25 00:00:00,2002-07-24 00:00:00,207.0,Reduction
+818,QWEST OPER & INFO SVCS- LISTING SVCS GR,PORTLAND                      ,2002-07-18 00:00:00,2002-09-23 00:00:00,89.0,Reduction
+819,WIMER LOGGING COMPANY                  ,ALBANY                        ,2002-07-15 00:00:00,2002-07-12 00:00:00,80.0,Reduction
+820,WEYERHAEUSER PORTLAND OFFICE           ,PORTLAND                      ,2002-07-03 00:00:00,2002-09-01 00:00:00,200.0,Reduction
+821,ARTHUR ANDERSON LLP                    ,PORTLAND                      ,2002-07-01 00:00:00,2002-07-27 00:00:00,50.0,Reduction
+822,MOLDED CONTAINER CORPORATION           ,PORTLAND                      ,2002-06-21 00:00:00,2002-08-30 00:00:00,98.0,Reduction
+823,TRUS JOIST WEYERHAEUSER                ,STAYTON                       ,2002-06-10 00:00:00,2002-06-10 00:00:00,49.0,Reduction
+824,WOODBURN PLANT                         ,WOODBURN                      ,2002-06-07 00:00:00,2002-06-06 00:00:00,58.0,Reduction
+825,ROSEN PRODUCTS LLC                     ,EUGENE                        ,2002-06-04 00:00:00,1899-12-29 00:00:00,153.0,Reduction
+826,IBM                                    ,BEAVERTON                     ,2002-05-23 00:00:00,2002-07-23 00:00:00,287.0,Reduction
+827,SYMANTEC                               ,SPRINGFIELD                   ,2002-05-20 00:00:00,2002-07-26 00:00:00,165.0,Reduction
+828,NEW WEST FOODS                         ,SALEM                         ,2002-05-14 00:00:00,1899-12-29 00:00:00,66.0,Reduction
+829,"ADVANCED TELCOM GROUP, INC",SALEM,2002-05-13 00:00:00,2002-05-15 00:00:00,112.0,Reduction
+830,SOLECTRON  OREGON                      ,HILLSBORO                     ,2002-04-23 00:00:00,2002-06-28 00:00:00,271.0,Reduction
+831,PORTLAND-32 LOCATIONS                  ,                              ,2002-04-29 00:00:00,2002-06-30 00:00:00,425.0,Reduction
+832,KORPINE                                ,BEND                          ,2002-04-09 00:00:00,2002-04-15 00:00:00,137.0,Permanent closure
+833,KMART STORE #9530                      ,PENDLETON                     ,2002-03-13 00:00:00,2002-05-07 00:00:00,60.0,Reduction
+834,QUALITY COMPONENTS                     ,KLAMATH FALLS                 ,2002-02-26 00:00:00,2002-02-26 00:00:00,63.0,Reduction
+835,PACIFICARE                             ,HILLSBORO                     ,2002-02-21 00:00:00,2002-04-24 00:00:00,279.0,Permanent closure
+836,JANTZEN SEWING FACTORY                 ,PORTLAND                      ,2002-03-05 00:00:00,2002-05-06 00:00:00,250.0,Reduction
+837,COLONIAL PACIFIC LEASING (CPL)         ,PORTLAND                      ,2002-01-24 00:00:00,2002-03-29 00:00:00,195.0,Reduction
+838,FEDEX SUPPLY CHAIN SERVICES            ,CORVALLIS                     ,2002-01-03 00:00:00,1899-12-29 00:00:00,63.0,Reduction
+839,"FUJITSU MICROELECTRONICS, INC (FMI)    ",GRESHAM                       ,2001-12-04 00:00:00,2002-01-31 00:00:00,512.0,Reduction
+840,INTEL CORPORATION                      ,HILLSBORO                     ,2001-11-27 00:00:00,2002-01-09 00:00:00,175.0,Reduction
+841,"CHIQUITA PROCESSED FOODS, LLC          ",MILTON-FREEWATER              ,2001-11-15 00:00:00,2001-01-15 00:00:00,35.0,Reduction
+842,KENTROX                                ,HILLSBORO                     ,2001-11-06 00:00:00,2001-12-28 00:00:00,76.0,Large Layoff - 10 or more workers
+843,FOURPLY INC                            ,GRANTS PASS                   ,2002-02-28 00:00:00,2002-04-30 00:00:00,80.0,Reduction
+844,METROPOLITAN PUBLIC DEFENDER           ,PORTLAND                      ,2001-11-02 00:00:00,2001-12-31 00:00:00,153.0,Reduction
+845,PICTSWEET MUSHROOM FARMS               ,SALEM                         ,2001-10-26 00:00:00,2001-11-17 00:00:00,317.0,Permanent closure
+846,PDX                                    ,PORTLAND                      ,2001-10-01 00:00:00,2001-09-24 00:00:00,20.0,Reduction
+847,TWA                                    ,PORTLAND                      ,2001-09-25 00:00:00,2001-09-24 00:00:00,5.0,Reduction
+848,ADVANCED WOOD RESOURCES,BROWNSVILLE,2001-09-21 00:00:00,2001-11-20 00:00:00,60.0,Reduction
+849,RED LION HOTEL                         ,PORTLAND                      ,2001-08-30 00:00:00,2001-10-31 00:00:00,59.0,Permanent closure
+850,WILLAMETTE INDUSTRIES                  ,BEND                          ,2001-08-14 00:00:00,2001-09-14 00:00:00,52.0,Large Layoff - 10 or more workers
+851,MAIL-WELL ENVELOPE,PORTLAND,2001-08-15 00:00:00,2001-10-15 00:00:00,200.0,Permanent closure
+852,PW PIPE                                ,HILLSBORO                     ,2001-07-26 00:00:00,2001-09-28 00:00:00,67.0,Permanent closure
+853,DYNAMIX                                ,EUGENE                        ,2001-08-13 00:00:00,2001-11-15 00:00:00,97.0,Reduction
+854,RPS PHARMACY INC                       ,BEAVERTON                     ,2001-07-09 00:00:00,2001-09-01 00:00:00,210.0,Permanent closure
+855,PACIFIC GATEWAY HOSPITAL               ,PORTLAND                      ,2001-06-13 00:00:00,2001-06-07 00:00:00,137.0,Reduction
+856,AT&T BROADBAND                         ,BEAVERTON                     ,2001-06-07 00:00:00,2001-08-08 00:00:00,101.0,Reduction
+857,OCHOCO LUMBER                          ,PRINEVILLE                    ,2001-05-31 00:00:00,2001-07-31 00:00:00,81.0,Permanent closure
+858,ALCATEL SUBMARINE NETWORKS INC,PORTAND,2001-05-29 00:00:00,2001-05-29 00:00:00,443.0,Reduction
+859,EPSON PORTLAND INC                     ,HILLSBORO                     ,2001-05-15 00:00:00,2001-04-30 00:00:00,462.0,Reduction
+860,CALIFORNIA CEDAR PRODUCTS COMPANY,ROSEBURG,2001-05-04 00:00:00,2001-07-01 00:00:00,55.0,Reduction
+861,TYCO ELECTRONICS                       ,WHITE CITY                    ,2001-05-04 00:00:00,2001-05-04 00:00:00,332.0,Reduction
+862,INTEL CORPORATION                      ,HILLSBORO                     ,2001-05-03 00:00:00,2001-07-02 00:00:00,198.0,Reduction
+863,PROTECTION ONE ALARM MONITORING INC    ,BEAVERTON                     ,2001-04-27 00:00:00,2001-06-30 00:00:00,390.0,Reduction
+864,BROWN & WILLIAMSON TOBACCO             ,"LOUISVILLE, KY",2001-04-24 00:00:00,2001-06-27 00:00:00,5.0,Reduction
+865,RADISYS                                ,HILLSBORO                     ,2001-04-24 00:00:00,2001-06-25 00:00:00,3.0,Reduction
+866,KYSOR PANEL SYSTEMS                    ,PORTLAND                      ,2001-04-17 00:00:00,2001-06-15 00:00:00,107.0,Reduction
+867,KOZMO.COM                              ,PORTLAND                      ,2001-04-13 00:00:00,2001-04-27 00:00:00,27.0,Reduction
+868,GOTTSCHALKS                            ,WARRENTON                     ,2001-04-06 00:00:00,2001-06-04 00:00:00,15.0,Reduction
+869,"ATOFINA CHEMICALS, INC.                ",PORTLAND                      ,2001-03-30 00:00:00,2001-03-30 00:00:00,140.0,Reduction
+870,THE NEW PORTLAND MEADOWS               ,PORTLAND                      ,2001-03-21 00:00:00,2001-05-20 00:00:00,235.0,Reduction
+871,NORTH POWDER LUMBER COMPANY            ,NORTH POWDER                  ,2001-03-16 00:00:00,2001-04-01 00:00:00,30.0,Permanent closure
+872,FOSTER POULTRY FRAMS                   ,CRESWELL                      ,2001-02-26 00:00:00,2001-04-24 00:00:00,137.0,Reduction
+873,GRAPHIC PACKAGING                      ,PORTLAND                      ,2001-02-16 00:00:00,2001-04-17 00:00:00,69.0,Large Layoff - 10 or more workers
+874,GEM EQUIPMENT OF OREGON INC            ,MT ANGEL                      ,2001-02-06 00:00:00,2001-01-31 00:00:00,71.0,Large Layoff - 10 or more workers
+875,DELTA AIRLINES GLOBAL SERVICES         ,PORTLAND                      ,2001-01-31 00:00:00,2001-04-01 00:00:00,79.0,Large Layoff - 10 or more workers
+876,TRUCK MANUFACTURING PLANT              ,PORTLAND                      ,2001-01-29 00:00:00,2001-03-30 00:00:00,1085.0,Reduction
+877,OREMET                                 ,ALBANY                        ,2001-01-24 00:00:00,2001-04-02 00:00:00,71.0,Large Layoff - 10 or more workers
+878,AGRIFROZEN FOODS,SALEM,2001-01-24 00:00:00,2001-03-23 00:00:00,851.0,Permanent closure
+879,CAE NEWNES INC                         ,SHERWOOD                      ,2001-01-17 00:00:00,2001-03-19 00:00:00,68.0,Reduction
+880,MONTGOMERY WARDS                       ,                              ,2001-01-17 00:00:00,2001-03-13 00:00:00,902.0,Reduction
+881,YORK INTERNATIONAL CORPORATION         ,PORTLAND                      ,2001-01-17 00:00:00,2001-06-29 00:00:00,206.0,Reduction
+882,TELEPORT                               ,PORTLAND                      ,2000-12-06 00:00:00,2001-01-31 00:00:00,53.0,Permanent closure
+883,MARUS DENTAL INTERNATIONAL             ,BEND                          ,2000-12-04 00:00:00,2001-01-29 00:00:00,60.0,Large Layoff - 10 or more workers
+884,CONSOLIDATED METCO INC                 ,PORTLAND                      ,2000-12-01 00:00:00,2001-03-30 00:00:00,50.0,Reduction
+885,"SPM UNITED PLASTICS GROUP, INC         ",HILLSBORO                     ,2000-11-27 00:00:00,2001-02-01 00:00:00,170.0,Reduction
+886,"COACHMEN INDUSTRIES OF OREGON, INC     ",GRANTS PASS                   ,2000-11-08 00:00:00,2001-01-08 00:00:00,72.0,Reduction
+887,"M2NETWORX, INC                         ",LAKE OSWEGO                   ,2000-11-02 00:00:00,2000-12-31 00:00:00,55.0,Reduction
+888,ON-PREMISE MANAGEMENT                  ,"WOBURN, MA",2000-10-31 00:00:00,2000-12-31 00:00:00,4.0,Reduction
+889,NORTHWEST ALUMINUM COMPANY             ,THE DALLES                    ,2000-10-03 00:00:00,2000-11-13 00:00:00,205.0,Large Layoff - 10 or more workers
+890,US INTEC                               ,CORVALLIS                     ,2000-09-15 00:00:00,2000-11-13 00:00:00,25.0,Reduction
+891,S3 INCORPORATED                        ,ALBANY                        ,2000-09-08 00:00:00,2000-10-31 00:00:00,15.0,Large Layoff - 10 or more workers
+892,"CIT GROUP, INC                         ",LAKE OSWEGO                   ,2000-09-01 00:00:00,2000-10-31 00:00:00,34.0,Permanent closure
+893,COLLINS PRODUCTS LLC                   ,KLAMATH FALLS                 ,2000-08-25 00:00:00,2000-10-25 00:00:00,279.0,Large Layoff - 10 or more workers
+894,PUGET PLASTICS                         ,TUALATIN                      ,2000-06-12 00:00:00,2000-11-17 00:00:00,160.0,Permanent closure
+895,TRUCK MANUFACTURING  PLANT             ,PORTLAND                      ,2000-08-14 00:00:00,2000-10-20 00:00:00,770.0,Large Layoff - 10 or more workers
+896,ROSEBUG FOREST PRODUCTS,ROSEBURG,2000-08-10 00:00:00,2000-10-06 00:00:00,172.0,Permanent closure
+897,LOUISIANA PACIFIC CORPORATION          ,HINES                         ,2000-08-09 00:00:00,2000-09-22 00:00:00,151.0,Large Layoff - 10 or more workers
+898,KMART #7377                            ,BEND                          ,2000-08-08 00:00:00,2000-10-05 00:00:00,50.0,Permanent closure
+899,KMART #3999                            ,WOODBURN                      ,2000-08-08 00:00:00,2000-10-05 00:00:00,65.0,Permanent closure
+900,"ORIX CREDIT ALLIANCE, INC              ",BEAVERTON                     ,2000-08-04 00:00:00,2000-08-01 00:00:00,84.0,Permanent closure
+901,CENTRAL POINT LUMBER COMPANY           ,CENTRAL OREGON                ,2000-08-02 00:00:00,2000-08-31 00:00:00,94.0,Large Layoff - 10 or more workers
+902,REYNOLDS METALS COMPANY                ,TROUTDALE                     ,2000-07-27 00:00:00,2000-09-30 00:00:00,530.0,Permanent closure
+903,PROGRESSIVE CASUALTY INSURANCE COMPANY ,TIGARD                        ,2000-06-26 00:00:00,2000-09-01 00:00:00,49.0,Permanent closure
+904,PACIFICORP                             ,PORTLAND                      ,2000-05-05 00:00:00,1899-12-29 00:00:00,1600.0,Large Layoff - 10 or more workers
+905,WONDER/HOSTESS BAKING COMPANY          ,PORTLAND                      ,2000-05-17 00:00:00,2000-07-16 00:00:00,15.0,Permanent closure
+906,PILLSBURY                              ,MCMINVILLE                    ,2000-05-15 00:00:00,2000-05-15 00:00:00,95.0,Permanent closure
+907,FUJITSU COMPUTER PRODUCTS OF AMERICA   ,HILLSBORO                     ,2000-05-05 00:00:00,2000-06-30 00:00:00,175.0,Large Layoff - 10 or more workers
+908,METROPOLITAN PUBLIC DEFENDER           ,PORTLAND                      ,2000-04-27 00:00:00,2000-06-30 00:00:00,147.0,Permanent closure
+909,WILLAMETTE IND/DALLAS PLYWOOD          ,DALLAS                        ,2000-04-19 00:00:00,2000-06-23 00:00:00,174.0,Permanent closure
+910,ROTH'S - CANBY STORE,CANBY,2000-03-31 00:00:00,2000-07-01 00:00:00,66.0,Permanent closure
+911,POLY HI SOLIDUR                        ,PORTLAND                      ,2000-03-29 00:00:00,2000-06-15 00:00:00,96.0,Permanent closure
+912,MICROWAVE TOWER SERVICE INC            ,SALEM                         ,2000-03-23 00:00:00,2000-04-04 00:00:00,34.0,Large Layoff - 10 or more workers
+913,SILVER EAGLE COMPANY,PORTLAND,2010-10-14 00:00:00,2000-03-16 00:00:00,450.0,Permanent closure
+914,MATTELL OPERATIONS                     ,BEAVERTON                     ,2000-02-22 00:00:00,2000-05-01 00:00:00,59.0,Permanent closure
+915,EMPIRE PACIFIC INDUSTRIES              ,EUGENE                        ,2000-02-09 00:00:00,2000-04-08 00:00:00,91.0,Permanent closure
+916,DOUGLAS COMMUNITY MEDICAL CENTER       ,ROSEBURG                      ,2000-02-28 00:00:00,2000-03-28 00:00:00,259.0,Reduction
+917,NORDIC ENTERPRISES                     ,HUBBARD                       ,2000-01-06 00:00:00,2000-01-06 00:00:00,126.0,Permanent closure
+918,FLETCHER'S FINE FOODS                  ,PORTLAND                      ,2000-01-03 00:00:00,2000-03-01 00:00:00,100.0,Permanent closure
+919,ECHO SPRINGS DAIRY INC.                ,EUGENE                        ,1999-11-02 00:00:00,1899-12-29 00:00:00,105.0,Reduction
+920,INGRAM BOOKS                           ,                              ,1999-07-15 00:00:00,1999-08-01 00:00:00,240.0,Reduction
+921,NORTHWEST RESOURCE RECYCLING           ,EUGENE                        ,1999-03-25 00:00:00,1999-04-09 00:00:00,27.0,Reduction
+922,SMURFIT NEWSPRINT COMPANY              ,                              ,1999-11-17 00:00:00,2000-01-01 00:00:00,170.0,Reduction
+923,TROJAN NUCLEAR PLANT                   ,                              ,1999-08-01 00:00:00,2001-01-31 00:00:00,200.0,Large Layoff - 10 or more workers
+924,WAUNA MILL                             ,CLATSKANIE                    ,1999-12-20 00:00:00,2000-02-14 00:00:00,70.0,Permanent closure
+925,VARIOUS                                ,MEDFORD                       ,1999-12-08 00:00:00,2000-01-31 00:00:00,258.0,Permanent closure
+926,VARIOUS CLINICS                        ,PORTLAND                      ,1999-12-07 00:00:00,1999-12-31 00:00:00,123.0,Permanent closure
+927,VARIOUS CLINICS                        ,MEDFORD                       ,1999-11-08 00:00:00,1999-12-18 00:00:00,378.0,Permanent closure
+928,LITTON ADVANCED SYSTEMS                ,GRANTS PASS                   ,1999-10-28 00:00:00,2000-01-28 00:00:00,120.0,Large Layoff - 10 or more workers
+929,LAIDLAW TRANSIT SERVICES INC           ,PORTLAND                      ,1999-10-15 00:00:00,1999-12-05 00:00:00,36.0,Reduction
+930,METROPOLITAN PUBLIC DEFENDER           ,PORTLAND                      ,1999-11-04 00:00:00,1999-12-31 00:00:00,147.0,Permanent closure
+931,RYDER/ATE INC.                         ,PORTLAND                      ,1999-10-07 00:00:00,1999-12-05 00:00:00,102.0,Reduction
+932,MASONITE PILOT ROCK FACILITY           ,PILOT ROCK                    ,1999-10-06 00:00:00,1999-12-31 00:00:00,160.0,Permanent closure
+933,STONE MILL FOODS                       ,PORTLAND                      ,1999-10-05 00:00:00,1999-12-01 00:00:00,60.0,Reduction
+934,KENTROX INDUSTRIES INC,PORTLAND,1999-08-03 00:00:00,1999-11-01 00:00:00,100.0,Large Layoff - 10 or more workers
+935,PORTLAND AREA LOCATIONS                ,PORTLAND                      ,1999-06-29 00:00:00,1999-09-01 00:00:00,823.0,Permanent closure
+936,DYNAMIX INC                            ,EUGENE                        ,1999-09-20 00:00:00,1999-11-20 00:00:00,60.0,Large Layoff - 10 or more workers
+937,JANTZEN                                ,PORTLAND                      ,1999-05-11 00:00:00,1999-07-12 00:00:00,110.0,Large Layoff - 10 or more workers
+938,WILSONVILLE                            ,                              ,1999-05-05 00:00:00,1899-12-29 00:00:00,120.0,Large Layoff - 10 or more workers
+939,MATERIALS HANDLING DIVISION            ,PORTLAND                      ,1999-05-05 00:00:00,1999-06-30 00:00:00,90.0,Permanent closure
+940,WONDER/HOSTESS BAKING COMPANY          ,PORTLAND                      ,1999-12-08 00:00:00,2000-02-08 00:00:00,119.0,Permanent closure
+941,"EUGENE, OREGON CAR & LOCOMOTIVE        ",EUGENE                        ,1999-03-15 00:00:00,1999-07-01 00:00:00,93.0,Permanent closure
+942,YAMAMOTO                               ,BEAVERTON                     ,1999-03-09 00:00:00,1999-04-30 00:00:00,90.0,Permanent closure
+943,"IVC INDUSTRIES, INC.                   ",PORTLAND                      ,1999-02-24 00:00:00,1999-05-15 00:00:00,156.0,Permanent closure
+944,"IVC INDUSTRIES, INC.                   ",PORTLAND                      ,1999-02-24 00:00:00,1999-05-04 00:00:00,62.0,Permanent closure
+945,"KOMATSU SILICON AMERICA, INC.          ",HILLSBORO                     ,1999-02-22 00:00:00,1999-04-23 00:00:00,69.0,Large Layoff - 10 or more workers
+946,VANPORT MANUFACTURING                  ,BORING                        ,1999-02-16 00:00:00,1999-04-30 00:00:00,181.0,Permanent closure
+947,BLITZ - WEINHARD BREWING COMPANY       ,PORTLAND                      ,1999-02-11 00:00:00,1999-09-27 00:00:00,220.0,Permanent closure
+948,BUILDERS SQUARE STORES #1464 & #1466   ,PORTLAND                      ,1999-02-10 00:00:00,1999-04-11 00:00:00,147.0,Permanent closure
+949,"KINZUA RESOURCES, LLC                  ",HEPPNER                       ,1999-01-19 00:00:00,1999-03-01 00:00:00,160.0,Permanent closure
+950,CENTRAL POINT LUMBER,CENTRAL POINT,1998-12-14 00:00:00,1999-02-10 00:00:00,92.0,Large Layoff - 10 or more workers
+951,PACIFIC SOFTWOODS COMPANY,PHILOMATH,1999-02-05 00:00:00,1998-11-01 00:00:00,70.0,Large Layoff - 10 or more workers
+952,BANK OF THE WEST,PORTLAND,1998-12-21 00:00:00,1999-02-16 00:00:00,110.0,Large Layoff - 10 or more workers
+953,PREPAID SERVICES,PORTLAND,1998-12-16 00:00:00,1998-12-30 00:00:00,51.0,Reduction
+954,HYUNDAI FACILITY,,1998-12-04 00:00:00,1998-12-30 00:00:00,110.0,Large Layoff - 10 or more workers
+955,KINROSS DELAMAR MINING COMPANY         ,JORDAN VALLEY                 ,1998-10-29 00:00:00,1998-01-31 00:00:00,137.0,Permanent closure
+956,BEAVERTON & WILSONVILLE                ,                              ,1998-11-02 00:00:00,1899-12-29 00:00:00,500.0,Reduction
+957,GARDINER MILL                          ,GARDINER                      ,1998-10-14 00:00:00,1998-12-14 00:00:00,297.0,Permanent closure
+958,TRUSERV                                ,PORTLAND                      ,1998-10-05 00:00:00,1998-12-30 00:00:00,236.0,Large Layoff - 10 or more workers
+959,FLEMING COMPANIES INC                  ,PORTLAND                      ,1998-09-17 00:00:00,1998-11-16 00:00:00,162.0,Permanent closure
+960,"KOMATSU SILICON AMERICA, INC.          ",HILLSBORO                     ,1998-09-08 00:00:00,1998-11-08 00:00:00,125.0,Large Layoff - 10 or more workers
+961,FIRCREST FARMS                         ,CRESWELL                      ,1998-09-01 00:00:00,1998-10-30 00:00:00,130.0,Reduction
+962,NORTHWEST AIRLINES                     ,"ST. PAUL, MN",1998-08-11 00:00:00,1998-08-29 00:00:00,27500.0,Large Layoff - 10 or more workers
+963,FUJITSU COMPUTER PRODUCTS OF AMERICA   ,HILLSBORO                     ,1998-08-03 00:00:00,1998-07-29 00:00:00,133.0,Permanent closure
+964,OKI SEMICONDUCTOR MANUFACTURING        ,TUALATIN                      ,1998-07-31 00:00:00,1998-08-31 00:00:00,126.0,Permanent closure
+965,PHILOMATH FOREST PRODUCTS CO           ,PHILOMATH                     ,1998-07-30 00:00:00,1998-05-01 00:00:00,96.0,Large Layoff - 10 or more workers
+966,COTTAGE GROVE HEALTHCARE COMMUNITY     ,COTTAGE GROVE                 ,1998-07-22 00:00:00,1998-09-15 00:00:00,230.0,Permanent closure
+967,HANDLEMAN COMPANY                      ,TUALATIN                      ,1998-06-12 00:00:00,1998-10-01 00:00:00,83.0,Permanent closure
+968,WAREMART FOODS                         ,HILLSBORO                     ,1998-06-02 00:00:00,1998-08-03 00:00:00,52.0,Permanent closure
+969,HANEL LUMBER COMPANY DIVISION          ,Hood River                    ,1998-05-21 00:00:00,1998-07-18 00:00:00,117.0,Permanent closure
+970,LYNDEN FARMS                           ,Portland                      ,1998-05-12 00:00:00,1998-07-07 00:00:00,312.0,Permanent closure
+971,THE STANDARD REGISTER COMPANY          ,Roseburg                      ,1998-04-29 00:00:00,1998-06-24 00:00:00,112.0,Permanent closure
+972,J.C. PENNEY STORE LLOYD CENTER         ,Portland                      ,1998-04-24 00:00:00,1998-06-30 00:00:00,30.0,Permanent closure
+973,VERTEQ                                 ,Corvallis                     ,1998-04-23 00:00:00,1998-05-05 00:00:00,100.0,Permanent closure
+974,FUJITSU COMPUTER PRODUCTS OF AMERICA IN,Hillsboro,1998-03-26 00:00:00,1998-04-09 00:00:00,70.0,Large Layoff - 10 or more workers
+975,AMARON CONCRETE AND STEEL,"Portland, O ",1998-02-15 00:00:00,1998-04-01 00:00:00,60.0,Permanent closure
+976,TETRA AND AIR SOLE PRODUCTION          ,,1998-02-28 00:00:00,1998-02-26 00:00:00,1500.0,Large Layoff - 10 or more workers
+977,SPALDING & SON INC.                    ,Grants Pass                   ,1998-06-09 00:00:00,1998-08-07 00:00:00,154.0,Permanent closure
+978,GLENBROOK NICKEL COMPANY               ,Riddle                        ,1998-01-29 00:00:00,1998-03-30 00:00:00,305.0,Permanent closure
+979,WEYERHAEUSER WOOD PRODUCTS,North Bend,1998-01-13 00:00:00,1998-01-13 00:00:00,345.0,Permanent closure
+980,EUGENE F. BURRILL LUMBER CO.           ,White City                    ,1997-12-04 00:00:00,1998-01-31 00:00:00,120.0,Reduction
+981,METROPOLITAN PUBLIC DEFENDER SERVICES  ,,1997-11-18 00:00:00,1998-01-01 00:00:00,138.0,Permanent closure
+982,PACIFIC HERITAGE ASSURANCE COMPANY     ,Portland                      ,1997-11-05 00:00:00,1997-12-31 00:00:00,112.0,Permanent closure
+983,LANE PLYWOOD INC.                      ,Eugene                        ,1997-09-22 00:00:00,1997-12-03 00:00:00,225.0,Permanent closure
+984,ARROW TRANSPORTATION                   ,Portland                      ,1997-09-05 00:00:00,1997-10-09 00:00:00,267.0,Permanent closure
+985,LANE SHELTER CARE                      ,Eugene                        ,1997-04-30 00:00:00,1899-12-29 00:00:00,16.0,Large Layoff - 10 or more workers
+986,NORTHWEST AGRICULTURAL COOPERATIVE     ,Ontario                       ,1997-06-09 00:00:00,1997-08-06 00:00:00,138.0,Permanent closure
+987,ESTEY CORPORATION                      ,Portland                      ,1997-06-04 00:00:00,1997-08-01 00:00:00,140.0,Large Layoff - 10 or more workers
+988,ALTHIN MEDICAL INC.                    ,Portland                      ,1997-04-22 00:00:00,1997-07-30 00:00:00,180.0,Permanent closure
+989,OREGON COMMUNITY SUPPORT               ,Springfield                   ,1997-02-28 00:00:00,1997-05-01 00:00:00,180.0,Reduction
+990,TECTON LAMINATES CORPORATION           ,Hines                         ,1997-01-22 00:00:00,1997-02-15 00:00:00,200.0,Reduction
+991,AETNA LIFE INSURANCE COMPANY,Portland,1997-05-12 00:00:00,1997-07-11 00:00:00,107.0,Permanent closure
+992,US WEST INC.                           ,Portland                      ,1996-09-25 00:00:00,1996-11-20 00:00:00,145.0,Permanent closure
+993,THRIFTY- PAYLESS                       ,Wilsonville                   ,1996-10-15 00:00:00,1997-02-12 00:00:00,670.0,Permanent closure
+994,ASTORIA SEA PRODUCTS                   ,Astoria                       ,1996-12-26 00:00:00,1997-02-28 00:00:00,123.0,Permanent closure
+995,MEDITE CORPORATION                     ,MEDFORD                       ,1996-10-09 00:00:00,1899-12-29 00:00:00,363.0,Reduction
+996,HEWLETT-PACKARD COMPANY                ,McMinnville                   ,1996-12-03 00:00:00,1997-02-28 00:00:00,152.0,Permanent closure
+997,US WEST                                ,Portland                      ,1996-09-27 00:00:00,1996-09-25 00:00:00,124.0,Permanent closure
+998,UNITED GROCERS MEDFORD DIVISION        ,Medford                       ,1996-07-10 00:00:00,1998-01-31 00:00:00,150.0,Permanent closure
+999,SIMPSON PAPER COMPANY                  ,West Linn                     ,1996-07-24 00:00:00,1996-09-22 00:00:00,385.0,Permanent closure
+1000,CROWN PACIFIC                          ,Redmond                       ,1996-07-15 00:00:00,1996-09-10 00:00:00,213.0,Permanent closure
+1001,REDMOND PLYWOOD                        ,,1996-07-11 00:00:00,1996-09-10 00:00:00,241.0,Permanent closure
+1002,ARMOUR SWIFT ECKRICH                   ,Portland                      ,1996-05-16 00:00:00,1996-07-18 00:00:00,153.0,Permanent closure
+1003,FENDER MUSICAL INSTRUMENTS             ,Lake Oswego                   ,1996-05-09 00:00:00,1996-09-27 00:00:00,112.0,Permanent closure
+1004,PIERCE PACIFIC MANUFACTURING INC.      ,Tigard                        ,1996-03-29 00:00:00,1996-05-27 00:00:00,134.0,Large Layoff - 10 or more workers
+1005,LOUISIANA PACIFIC CORPORATION          ,Pilot Rock                    ,1996-03-21 00:00:00,1996-05-20 00:00:00,130.0,Permanent closure
+1006,ELLINGSON LUMBER COMPANY               ,Baker City                    ,1996-03-18 00:00:00,1995-11-17 00:00:00,139.0,Permanent closure
+1007,KEY SERVICES CORPORATION               ,Tigard                        ,1996-03-14 00:00:00,1996-05-17 00:00:00,93.0,Large Layoff - 10 or more workers
+1008,INTERNATIONAL PAPER                    ,Veneta                        ,1996-03-12 00:00:00,1996-03-31 00:00:00,123.0,Permanent closure
+1009,FREIGHTLINER CORPORATION               ,Portland                      ,1996-03-04 00:00:00,1996-05-06 00:00:00,666.0,Large Layoff - 10 or more workers
+1010,BESS KAISER MEDICAL CENTER             ,Portland                      ,1996-02-05 00:00:00,1996-03-31 00:00:00,1000.0,Permanent closure
+1011,WEYERHAEUSER                           ,Klamath Falls                 ,1995-12-18 00:00:00,1996-02-15 00:00:00,715.0,Reduction
+1012,JAMES RIVER CORPORATION,Portland,1995-11-09 00:00:00,1996-01-06 00:00:00,210.0,Large Layoff - 10 or more workers
+1013,ELLINGSON LUMBER CO,Baker City,1995-11-06 00:00:00,1995-11-17 00:00:00,139.0,Permanent closure
+1014,"METROPOLITAN PUBLIC DEFENDER SERVICES, ",Portland,1995-11-06 00:00:00,1996-01-01 00:00:00,159.0,Large Layoff - 10 or more workers
+1015,"AMERICAN HARDWOODS, INC.               ",Tualatin                      ,1995-10-19 00:00:00,1995-12-16 00:00:00,166.0,Permanent closure
+1016,"PECO MANUFACTURING CO., INC            ",Portland                      ,1995-10-13 00:00:00,1995-12-13 00:00:00,153.0,Large Layoff - 10 or more workers
+1017,RISBERG TRUCK LINE                     ,Portland                      ,1995-06-16 00:00:00,1995-06-09 00:00:00,130.0,Permanent closure
+1018,KMART #7219                            ,Grants Pass                   ,1995-06-09 00:00:00,1995-08-08 00:00:00,63.0,Permanent closure
+1019,CROWN PACIFIC                          ,Redmond                       ,1995-05-24 00:00:00,1995-07-21 00:00:00,214.0,Large Layoff - 10 or more workers
+1020,LAERDAL MANUFACTURING CORPORATION      ,Tualatin                      ,1995-05-16 00:00:00,1995-07-14 00:00:00,62.0,Permanent closure
+1021,CEDARAPIDS A RAYTHEON COMPANY          ,Eugene                        ,1995-05-05 00:00:00,1995-07-08 00:00:00,302.0,Permanent closure
+1022,CH2M HILL                              ,Corvallis                     ,1995-05-04 00:00:00,1995-07-14 00:00:00,158.0,Permanent closure
+1023,RFD PUBLICATIONS                       ,Wilsonville                   ,1995-05-01 00:00:00,1995-04-21 00:00:00,100.0,Permanent closure
+1024,BLUE BELL SNACK FOODS INC              ,Portland                      ,1995-04-13 00:00:00,1995-06-10 00:00:00,269.0,Permanent closure
+1025,MODOC LUMBER COMPANY                   ,Klamath Falls                 ,1995-03-07 00:00:00,1995-05-01 00:00:00,169.0,Permanent closure
+1026,JOHN HANCOCK MUTUAL LIFE INSURANCE COMP,PORTLAND OR  97205,1995-02-21 00:00:00,1995-04-14 00:00:00,52.0,Permanent closure
+1027,GTE MOBILNET                           ,Portland                      ,1995-02-07 00:00:00,1995-05-05 00:00:00,190.0,Large Layoff - 10 or more workers
+1028,WILLAMETTE INDUSTRIES COBURG TRUCKING  ,Eugene                        ,1995-01-11 00:00:00,1995-03-17 00:00:00,27.0,Permanent closure
+1029,"SNOW MOUNTAIN PINE, LTD.               ",Hines                         ,1994-12-13 00:00:00,1995-03-31 00:00:00,182.0,Reduction
+1030,HOME BASE WAREHOUSE #71                ,Eugene                        ,1994-11-22 00:00:00,1995-01-16 00:00:00,79.0,Permanent closure
+1031,CHEF FRANCISCO                         ,Eugene                        ,1994-11-14 00:00:00,1995-05-03 00:00:00,215.0,Permanent closure
+1032,AERO DDL,Beaverton,1991-10-31 00:00:00,1994-12-29 00:00:00,131.0,Large Layoff - 10 or more workers
+1033,"RR DONNELLEY NORWEST, INC.             ",Portland                      ,1994-10-31 00:00:00,1995-01-01 00:00:00,124.0,Permanent closure
+1034,US WEST COMMUNICATIONS                 ,"Denver, CO",1994-10-04 00:00:00,1994-12-02 00:00:00,577.0,Large Layoff - 10 or more workers
+1035,STONE FOREST INDUSTRIES                ,SPRINGFIELD                   ,1994-09-27 00:00:00,1994-09-28 00:00:00,317.0,Permanent closure
+1036,KMART                                  ,McMinnville                   ,1994-09-16 00:00:00,1994-12-26 00:00:00,53.0,Permanent closure
+1037,WAGNERS SUPERMARKET PINEBROOK PLAZA    ,Bend                          ,1994-09-06 00:00:00,1994-11-06 00:00:00,315.0,Permanent closure
+1038,"PIERCE PACIFIC MFG, INC.               ",Tigard                        ,1994-10-11 00:00:00,1994-10-10 00:00:00,95.0,Large Layoff - 10 or more workers
+1039,WILLAMETTE INDUSTRIES SWEET HOME PLYWOO,ALBANY                        ,1994-10-10 00:00:00,1994-10-28 00:00:00,160.0,Permanent closure
+1040,CA ONE SERVICES                        ,Portland                      ,1994-08-02 00:00:00,1994-09-30 00:00:00,202.0,Permanent closure
+1041,MERCO PRODUCTS INC                     ,Eugene                        ,1994-06-29 00:00:00,1994-12-31 00:00:00,78.0,Permanent closure
+1042,"JOHNSON CONTROLS, INC. BATTERY GROUP   ",Canby                         ,1994-06-08 00:00:00,1994-08-05 00:00:00,54.0,Permanent closure
+1043,MORGAN MANUFACTURING                   ,SPRINGFIELD                   ,1994-05-25 00:00:00,1994-07-22 00:00:00,159.0,Permanent closure
+1044,NORM THOMPSON                          ,PORTLAND                      ,1994-05-20 00:00:00,1994-07-18 00:00:00,108.0,Permanent closure
+1045,HANNAH ANDERSSON                       ,Portland                      ,1994-04-01 00:00:00,1994-07-01 00:00:00,50.0,Permanent closure
+1046,TEKTRONIX                              ,Beaverton                     ,1994-03-22 00:00:00,1899-12-29 00:00:00,60.0,Large Layoff - 10 or more workers
+1047,TIMBER & WOOD PRODUCTS SAWMILL,Joseph,1994-03-21 00:00:00,1994-05-27 00:00:00,52.0,Permanent closure
+1048,GUIDANCE AND CONTROL SYSTEMS           ,GRANTS PASS                   ,1994-02-25 00:00:00,1994-04-29 00:00:00,69.0,Permanent closure
+1049,THE STOLLE CORPORATION                 ,PHOENIX                       ,1993-12-17 00:00:00,1994-02-15 00:00:00,71.0,Permanent closure
+1050,FRERES LUMBER COMPANY INC.,Lyons,1993-12-01 00:00:00,1993-12-30 00:00:00,55.0,Permanent closure
+1051,"CADRE TECHNOLOGIES, INC.",Beaverton,1993-11-24 00:00:00,1994-01-28 00:00:00,50.0,Permanent closure
+1052,"PACE MEMBERSHIP WAREHOUSE, INC.",SALEM,1993-11-16 00:00:00,1994-01-01 00:00:00,106.0,Permanent closure
+1053,"PIERCE PACIFIC MANUFACTURING, INC.",TUALATIN,1993-11-15 00:00:00,1993-12-30 00:00:00,44.0,Reduction
+1054,CROWN PACIFIC,Portland,1993-11-10 00:00:00,1994-01-10 00:00:00,141.0,Permanent closure
+1055,METROPOLITAN PUBLIC DEFENDER SERVICE   ,Portland                      ,1993-11-03 00:00:00,1993-01-01 00:00:00,148.0,Reduction
+1056,UNITED AIRLINES                        ,PORTLAND                      ,1993-10-28 00:00:00,1993-12-30 00:00:00,63.0,Reduction
+1057,WEYERHAEUSER                           ,COTTAGE GROVE                 ,1993-10-19 00:00:00,1994-01-06 00:00:00,70.0,Reduction
+1058,COMMUNITY PSYCHIATRIC CENTER - CEDAR HI,Portland                      ,1993-08-09 00:00:00,1993-10-05 00:00:00,55.0,Reduction
+1059,FOURPLY PLYWOOD MANUFACTURING          ,Grants Pass                   ,1993-06-28 00:00:00,1993-08-27 00:00:00,134.0,Permanent closure
+1060,"NERCO, INC.                            ","Portland,                     ",1993-06-14 00:00:00,1993-08-16 00:00:00,140.0,Large Layoff - 10 or more workers
+1061,GLENBROOK NICKEL COMPANY               ,Riddle                        ,1993-05-25 00:00:00,1993-07-31 00:00:00,262.0,Large Layoff - 10 or more workers
+1062,SUNLINE                                ,Lake Oswego                   ,1993-04-16 00:00:00,1993-06-11 00:00:00,107.0,Permanent closure
+1063,"TEKTRONIX, INC./BEAVERTON              ",Beaverton                     ,1993-03-26 00:00:00,1899-12-29 00:00:00,150.0,Large Layoff - 10 or more workers
+1064,LSBO/TBO/SSBO/CROSSWHITE ANNEX         ,Portland & Clackamas          ,1993-01-19 00:00:00,1993-03-31 00:00:00,400.0,Large Layoff - 10 or more workers
+1065,"TEKTRONIX, INC.                        ",,1993-01-15 00:00:00,1993-02-01 00:00:00,100.0,Large Layoff - 10 or more workers
+1066,PORTLAND GENERAL ELECTRIC              ,Rainer                        ,1994-02-03 00:00:00,1994-01-28 00:00:00,6.0,Reduction
+1067,NORTHWEST AGRICULTURAL COOPERATIVE ASSO,Ontario                       ,1992-12-14 00:00:00,1993-02-08 00:00:00,156.0,Permanent closure
+1068,PRECISION CASTPARTS CORPORATION        ,Portland                      ,1992-11-12 00:00:00,1992-03-31 00:00:00,500.0,Large Layoff - 10 or more workers
+1069,WEST COAST GROCERY                     ,Salem                         ,1992-11-02 00:00:00,1993-01-15 00:00:00,350.0,Reduction
+1070,MEDFORD CORPORATION                    ,Medford                       ,1992-10-19 00:00:00,1992-12-18 00:00:00,260.0,Permanent closure
+1071,WILLAMETTE INDUSTRIES - COBURG VENEER P,Coburg                        ,1992-09-28 00:00:00,1992-12-18 00:00:00,224.0,Permanent closure
+1072,NW AGRICULTURAL COOPERATIVE            ,Ontario                       ,1992-09-23 00:00:00,1992-11-25 00:00:00,195.0,Permanent closure
+1073,NORTH WEST MARINE                      ,Portland                      ,1992-09-10 00:00:00,1992-11-09 00:00:00,400.0,Permanent closure
+1074,WEYERHAEUSER'S LAMINATED BEAM BUSINESS ,"Cottage Grove,                ",1992-07-20 00:00:00,1992-09-20 00:00:00,165.0,Permanent closure
+1075,SEARS                                  ,"Tigard,                       ",1992-07-01 00:00:00,1992-09-04 00:00:00,117.0,Permanent closure
+1076,"MAYWOOD, INC.                          ","Klamath Falls,                ",1992-06-25 00:00:00,1992-09-25 00:00:00,107.0,Permanent closure
+1077,CHAMPION INTERNATIONAL CORP/PLYWOOD MAN,Roseburg                      ,1992-06-03 00:00:00,1992-08-02 00:00:00,260.0,Permanent closure
+1078,DAW FOREST PRODUCTS COMPANY - BEND DIVI,BEND                          ,1992-03-30 00:00:00,1992-05-31 00:00:00,102.0,Large Layoff - 10 or more workers
+1079,WEYERHAEUSER FOREST PRODUCTS COMPANY   ,KLAMATH FALLS                 ,1992-03-23 00:00:00,1992-05-29 00:00:00,351.0,Permanent closure
+1080,PINE PRODUCTS CORPORATION              ,PRINEVILLE                    ,1992-02-19 00:00:00,1992-04-20 00:00:00,102.0,Permanent closure
+1081,"FONE AMERICA, INC                      ",PORTLAND                      ,1992-02-13 00:00:00,1992-04-13 00:00:00,91.0,Large Layoff - 10 or more workers
+1082,DIAMOND-B LUMBER COMPANY               ,PHILOMATH                     ,1992-01-24 00:00:00,1992-03-22 00:00:00,132.0,Permanent closure
+1083,MULTNOMAH PLYWOOD CORPORATION          ,ST. HELENS                    ,1991-12-20 00:00:00,1991-12-20 00:00:00,79.0,Large Layoff - 10 or more workers
+1084,FPS COMPUTING                          ,BEAVERTON                     ,1991-11-15 00:00:00,1991-11-09 00:00:00,125.0,Permanent closure
+1085,"METROPOLITAN PUBLIC DEFENDER SERVICES, ",PORTLAND                      ,1992-01-13 00:00:00,1992-02-29 00:00:00,141.0,Permanent closure
+1086,Warm Springs Forest Products Industries,Warm Springs,2008-02-28 00:00:00,2008-04-29 00:00:00,57.0,Large Layoff - 10 or more workers
+1087,"BOHEMIA, INC.-ELKSIDE SAWMILL, GARDINER",GARDINER                      ,1991-10-30 00:00:00,1992-01-12 00:00:00,294.0,Permanent closure
+1088,"GREGORY FOREST PRODUCTS, INC           ",GLENDALE                      ,1991-09-17 00:00:00,1991-11-19 00:00:00,351.0,Permanent closure
+1089,BOHEMIA INC.                           ,DRAIN                         ,1991-09-10 00:00:00,1991-11-11 00:00:00,181.0,Permanent closure
+1090,JLFOODS                                ,EUGENE                        ,1991-08-28 00:00:00,1991-09-16 00:00:00,118.0,Large Layoff - 10 or more workers
+1091,CHAMPION PLYWOOD OPERATION             ,ROSEBURG                      ,1991-08-15 00:00:00,1991-08-31 00:00:00,100.0,Large Layoff - 10 or more workers
+1092,JOHN DAY OPERATION                     ,JOHN DAY                      ,1991-08-13 00:00:00,1991-10-15 00:00:00,100.0,Permanent closure
+1093,"FABRICLAND, INC. WAREHOUSE             ",PORTLAND                      ,1991-07-29 00:00:00,1991-09-30 00:00:00,165.0,Permanent closure
+1094,REYNOLDS METALS COMPANY                ,TROUTDALE                     ,1991-09-30 00:00:00,1991-12-14 00:00:00,800.0,Large Layoff - 10 or more workers
+1095,GILCRIST TIMBER COMPANY                ,GILCRIST                      ,1991-05-30 00:00:00,1991-07-31 00:00:00,170.0,Permanent closure
+1096,"MURPHY CO, SUTHERLIN                   ",SUTHERLIN                     ,1991-05-31 00:00:00,1991-08-02 00:00:00,140.0,Permanent closure
+1097,"ROSEBURG FOREST PRODUCTS, SAWMILL #2",ROSEBURG,1991-05-14 00:00:00,1991-09-15 00:00:00,121.0,Permanent closure
+1098,"WILLAMETTE INDUSTRIES, INC.            ",LEBANON                       ,1991-05-29 00:00:00,1991-07-26 00:00:00,124.0,Permanent closure
+1099,"WEYERHAEUSER, IN SPRINGFIELD           ",SPRINGFIELD                   ,1991-05-06 00:00:00,1991-06-28 00:00:00,270.0,Permanent closure
+1100,CODE-A-PHONE                           ,CLACKAMAS                     ,1991-03-12 00:00:00,1991-05-08 00:00:00,69.0,Large Layoff - 10 or more workers
+1101,AUTOMOTIVE AND APPLIANCE CONTROLS DIV. ,BEAVERTON                     ,1991-01-16 00:00:00,1991-06-30 00:00:00,130.0,Permanent closure
+1102,MOUNTAIN FIR LUMBER COMPANY INC.       ,SALEM                         ,1991-02-11 00:00:00,1991-04-15 00:00:00,60.0,Permanent closure
+1103,TEKTRONIX                              ,BEAVERTON                     ,1991-02-01 00:00:00,1991-03-31 00:00:00,210.0,Large Layoff - 10 or more workers
+1104,MIDWAY FOREST PRODUCTS                 ,CORVALLIS                     ,1991-01-25 00:00:00,1991-04-30 00:00:00,50.0,Large Layoff - 10 or more workers
+1105,BEAVERTON (SERVIO CORPORATION)         ,BEAVERTON                     ,1991-01-17 00:00:00,1991-03-12 00:00:00,34.0,Large Layoff - 10 or more workers
+1106,NORTH SANTIAM PLYWOOD COMPANY          ,MILL CITY                     ,1991-01-18 00:00:00,1991-03-09 00:00:00,175.0,Permanent closure
+1107,TAYLOR LUMBER AND TREATING INC.        ,Beaverton                     ,1991-01-09 00:00:00,1991-03-01 00:00:00,80.0,Permanent closure
+1108,FREDERICK & NELSON                     ,TIGARD                        ,1991-01-11 00:00:00,1991-03-13 00:00:00,143.0,Permanent closure
+1109,CRATER LAKE LUMBER CO.                 ,CHILOQUIN OR. 97624,1990-12-07 00:00:00,1990-09-01 00:00:00,166.0,Large Layoff - 10 or more workers
+1110,TEKTRONIX                              ,Beaverton                     ,1990-10-11 00:00:00,1990-12-11 00:00:00,175.0,Permanent closure
+1111,JAMES RIVER CORPORATION                ,West Linn                     ,1990-09-17 00:00:00,1990-11-16 00:00:00,49.0,Permanent closure
+1112,"PIERCE PACIFIC MANUFACTURING, INC.     ",Tualatin                      ,1990-09-04 00:00:00,1991-08-23 00:00:00,73.0,Large Layoff - 10 or more workers
+1113,GEORGIA-PACIFIC CORPORATION            ,Eugene                        ,1990-08-31 00:00:00,1990-09-04 00:00:00,340.0,Permanent closure
+1114,WEYERHAEUSER                           ,Springfield                   ,1990-08-28 00:00:00,1990-09-10 00:00:00,290.0,Large Layoff - 10 or more workers
+1115,FUTURE LOGGING COMPANY                 ,"Springfield,                  ",1990-08-15 00:00:00,1990-10-03 00:00:00,92.0,Permanent closure
+1116,EVANITE FIBER CORPORATION (#2)         ,Corvallis                     ,1990-07-11 00:00:00,1990-09-07 00:00:00,88.0,Large Layoff - 10 or more workers
+1117,ROSEBURG FOREST PRODUCTS,Roseburg,1990-10-25 00:00:00,1990-12-20 00:00:00,58.0,Large Layoff - 10 or more workers
+1118,ST. HELEN'S HOSPITAL & HEALTH CENTER   ,St. Helens                    ,1990-06-20 00:00:00,1990-08-07 00:00:00,149.0,Permanent closure
+1119,"FOURPLY, INC.                          ",Grants Pass                   ,1990-06-13 00:00:00,1990-08-12 00:00:00,205.0,Permanent closure
+1120,MEDFORD CORPORATION                    ,Medford                       ,1990-05-31 00:00:00,1990-07-29 00:00:00,80.0,Large Layoff - 10 or more workers
+1121,"NAPCO SCIENTIFIC, INC.                 ","City of Tualatin,  R",1990-09-07 00:00:00,1990-11-06 00:00:00,61.0,Permanent closure
+1122,KOGAP MANUFACTURING COMPANY            ,Medford                       ,1990-04-03 00:00:00,1990-06-02 00:00:00,70.0,Large Layoff - 10 or more workers
+1123,STANLEY-PROTO INDUSTRIAL TOOLS         ,Portland                      ,1989-11-20 00:00:00,1990-06-30 00:00:00,241.0,Permanent closure
+1124,AMERICAN NATIONAL CAN,Salem,1989-05-10 00:00:00,1989-09-15 00:00:00,42.0,Permanent closure
+1125,"MACK TRUCKS, INC.",Portland,1989-03-02 00:00:00,1989-05-01 00:00:00,50.0,Permanent closure
+1126,JAMES RIVER CORPORATION,Halsey,1989-03-01 00:00:00,1989-05-01 00:00:00,147.0,Large Layoff - 10 or more workers
+1127,MIDWAY VENEER PLANT (WILLAMETTE INDUSTR,Albany,1988-11-28 00:00:00,1989-02-03 00:00:00,50.0,Large Layoff - 10 or more workers
+1128,FOURPLY INC                            ,GRANTS PASS                   ,1993-09-07 00:00:00,1993-10-08 00:00:00,67.0,Permanent closure
+1129,SMITH'S HOME FURNISHINGS,Wilsonville,1995-08-28 00:00:00,,,Permanent closure
+1130,"METROPOLITAN PUBLIC DEFENDER SERVICES, ",Portland                      ,1994-01-05 00:00:00,,,Permanent closure
+1131,"STANLEY SMITH SECURITY, INC            ","Portland,                     ",1993-02-08 00:00:00,,,Large Layoff - 10 or more workers
+1132,CLEAR PINE MOULDINGS                   ,Prineville                    ,1993-04-21 00:00:00,,,Permanent closure
+1133,MOORE BUSINESS FORMS & SYSTEMS DIVISION,Salem                         ,1993-05-14 00:00:00,,,Permanent closure
+1134,KINZUA CORPORATION                     ,Heppner                       ,1994-03-07 00:00:00,,,Permanent closure
+1135,Burley Design LLC,Eugene,2008-03-14 00:00:00,,,Permanent closure
+1136,"Integrated Device Technology, Inc. (IDT",Hillsboro,2011-11-18 00:00:00,,,Permanent closure
+1137,Fashion Tech Window Coverings,Portland,2012-10-26 00:00:00,,,Permanent closure
+1138,C & D Technologies,"Mansfield, MA",2006-10-30 00:00:00,,,Permanent closure
+1139,Boise Cascade - LaGrande,LaGrande,2009-05-01 00:00:00,,,Permanent closure
+1140,"Only One Dollar Store, DBA","Boise, ID",2007-02-16 00:00:00,,,Permanent closure
+1141,Cosmo Stores Services,"Orange, CA",2007-03-23 00:00:00,,,Permanent closure
+1142,"First Student, Inc.","Cincinnati, OH",2004-04-26 00:00:00,,,Permanent closure
+1143,Actuant (Kwikee Products),"Mishawaka, IN",2007-07-16 00:00:00,,,Permanent closure
+1144,SULZER                                 ,                              ,2003-04-29 00:00:00,,,Reduction
+1145,FARMERS COOP CREAMERY                  ,                              ,2003-09-04 00:00:00,,,Reduction
+1146,AMALGAMATED SUGAR,,2005-01-19 00:00:00,,,Reduction
+1147,LEGACY HEALTH SYSTEM                   ,PORTLAND                      ,2005-06-16 00:00:00,,,Reduction
+1148,PacifiCorp - Multnomah County,Portland,2006-11-20 00:00:00,,,Large Layoff - 10 or more workers
+1149,"Albertsons, Inc.","Boise, ID",2006-07-24 00:00:00,,,Permanent closure
+1150,"WILLAMETTE INDUSTRIES, INC             ",ALBANY                        ,2001-10-18 00:00:00,,,Reduction
+1151,LINNTON PLYWOOD ASSOCIATION            ,                              ,2001-10-22 00:00:00,,,Reduction
+1152,RAINSWEET FRUITS & VEGETABLES          ,SALEM                         ,2001-10-30 00:00:00,,,Reduction
+1153,AUSTIN POWDER CO.                      ,                              ,2003-01-29 00:00:00,,,Reduction
+1154,"STARWOOD HOTELS & RESORTS WORLDWIDE, IN","SEATTLE, WA",2003-03-20 00:00:00,,,Reduction
+1155,TSA SECURITY SCREENERS                 ,                              ,2003-05-05 00:00:00,,,Reduction
+1156,"HANEL LUMBER COMPANY, INC.             ",Hood River                    ,1995-04-05 00:00:00,,,Reduction
+1157,WEYERHAEUSER-NORTH BEND                ,North Bend                    ,1995-04-11 00:00:00,,,Permanent closure
+1158,EUGENE F. BURRILL LUMBER COMPANY       ,Medford                       ,1995-06-06 00:00:00,,,Permanent closure
+1159,NORTH SANTIAM PLYWOOD COMPANY          ,Mill City                     ,1997-05-30 00:00:00,,,Permanent closure
+1160,NATIONAL INDUSTRIAL SERVICES INCORP    ,"ST LOUIS, MO",2001-02-06 00:00:00,,,Reduction
+1161,"SKY CHEFS, INC                         ","ARLINGTON, TX",2001-10-08 00:00:00,,,Reduction

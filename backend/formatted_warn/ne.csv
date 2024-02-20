@@ -1,0 +1,995 @@
+,company_name,location,notice_date,employees_affected
+0,Bank of the West,Omaha,11/02/2023,41
+1,Cardinal Health,Norfolk,10/30/2023,2
+2,"Cygnus Home Service, LLC","Cozad, Crete, Gering, Gretna, Kearney",10/25/2023,41
+3,Cardinal Health,Norfolk,10/16/2023,10
+4,First Savings Bank,remote location,09/29/2023,1
+5,Cardinal Health,Norfolk,09/25/2023,14
+6,Bank of the West,Omaha,09/19/2023,143
+7,"Becton, Dickinson and Company",Holdrege,08/15/2023,107
+8,Bank of the West,Omaha,07/10/2023,100
+9,"Honor Technology, Inc.","Lincoln, Omaha, and remote locations",06/22/2023,114
+10,Multi-Color Corporation,Omaha,06/14/2023,61
+11,"Bitwise Industries, Inc.",Sarpy County,06/14/2023,1
+12,"David's Bridal, LLC","Lincoln, Omaha",06/12/2023,
+13,"Enrollease, LLC",Omaha,05/01/2023,17
+14,"David's Bridal, LLC","Lincoln, Omaha",04/14/2023,
+15,"Omaha Steaks International, Inc.",Snyder,03/15/2023,65
+16,Nebraska Book Company,Lincoln,03/01/2023,242
+17,"Malco Products, SBC, Inc.",DeWitt,"12/19/2022  
+  11/02/2022",63
+18,PSSI Food Safety Solutions: JBS USA,Grand Island,12/13/2022,181
+19,"Spreetail, LLC","Lincoln, Omaha and remote locations",10/31/2022,220
+20,"Bosch Security Systems, LLC",Lincoln,9/8/2022,75
+21,"Omaha Anesthesia Associates, LLC",Omaha,6/22/2022,186
+22,Select Medical,Lincoln,10/11/2021,93
+23,AGCO Corporation,Omaha,7/15/2021,101
+24,"Pall Filter Specialists, Inc.",Grand Island,10/27/2020,84
+25,P.F. Chang's China Bistro,Omaha,9/18/2020,75
+26,Marriott Corporate (Marcus),"The Lincoln Marriott
+Cornhusker Hotel",8/4/2020,19
+27,Travel and Transport,Omaha,7/23/2020,49
+28,Hilton - Omaha,Omaha,7/17/2020,39
+29,XPO Logistics Supply Chain - Revision,Omaha - Giles Road,7/20/2020,67
+30,Alamo Drafthouse Cinema Corp.,Omaha Midtown,7/9/2020,71
+31,"Specialty Retailers, Inc. (Gordman's)",Omaha,7/2/2020,84
+32,Marriott Corporate (Marcus),"The Lincoln Marriott
+Cornhusker Hotel",6/25/2020,79
+33,Marriott Corporate (Marcus),Omaha Marriott Downtown,6/4/2020,86
+34,Atrium Hospitality - Embassy Suites,Omaha - South 10th Street,5/19/2020,92
+35,Royal Engineered Composites,Minden,5/13/2020,99
+36,Hyatt Global Contact Center,Global Contact Center - Omaha,5/11/2020,223
+37,"Specialty Retailers, Inc. (Gordman's)",Omaha,5/11/2020,432
+38,"Hooters of America, LLC",La Vista,3/23/2020,55
+39,Collegiate Hotel Group (Graduate Hotel),Graduate Hotel - Lincoln,3/23/2020,112
+40,Alamo Drafthouse Cinema Corp.,La Vista,3/16/2020,119
+41,"Hy-Vee, Inc.",Omaha Fulfillment Center,3/5/2020,512
+42,"Hayneedle, Inc.",Chalco Valley Parkway - Omaha,1/23/2020,87
+43,"Hayneedle, Inc.",West Dodge Road - Omaha,1/23/2020,138
+44,"B & R Stores, Inc.",Super Saver - Millard,1/21/2020,96
+45,"Packers Sanitation Services, Inc.",Lincoln - Smithfield,1/18/2020,58
+46,Husqvarna,Husqvarna,8/27/2010,390
+47,Parker Hannifin Corporation,Lincoln,7/15/2010,150
+48,"Heartland Automotive Services, Inc.",Omaha,7/1/2010,50
+49,Dana College,Blair,6/30/2010,124
+50,Cedars Youth Services,Lincoln,5/3/2010,68
+51,West Corporation,Omaha,2/2/2010,231
+52,American Enterprise,Omaha,12/27/2011,52
+53,Uta Halee Girls Village,Omaha,12/1/2011,126
+54,"Bosselman Travel Centers, Inc.",Wood River,11/7/2011,24
+55,"Bosselman Travel Centers, Inc.",Elm Creek,11/7/2011,27
+56,"Bosselman Travel Centers, Inc.",Big Springs,11/7/2011,40
+57,Connectivity Solutions Manufacturing,Omaha,5/2/2011,191
+58,"Aurora Telemarketing, Inc.",Columbus,3/11/2011,52
+59,"Aurora Telemarketing, Inc.",Aurora,3/11/2011,64
+60,"The Connection, Contact Center Services",Holdrege,1/7/2011,113
+61,CommScope,CommScope,12/31/2011,400
+62,College of St. Marys,"College of St. Marys, Lincoln Campus",12/16/2011,3
+63,Barrys,Barrys,12/1/2011,45
+64,Rogers Fine Foods,Rogers Fine Foods,11/30/2011,13
+65,TD Ameritrade,TD Ameritrade,11/29/2011,60
+66,The Clark Enersen Partners,The Clark Enersen Partners,11/14/2011,7
+67,Vetter Health Services: Friendship Villa,Vetter Health Services:  Friendship Villla,10/31/2011,50
+68,Square D (Schneider Electric),Square D (Schneider Electric),10/30/2011,8
+69,Lannys Bar and Grill,Lannys Bar and Grill,10/30/2011,10
+70,Whispering Pines,Whispering Pines,9/30/2011,9
+71,Tabitha Health Care Services,Tabitha Health Care Services,9/16/2011,12
+72,American Red Cross,American Red Cross - Statewide,9/2/2011,12
+73,Connectivity Solutions Manufacturing,Omaha,8/31/2011,95
+74,"Intralot, Inc.","Intralot, Inc.",8/31/2011,20
+75,Borders Book Stores,Borders Book Stores,8/12/2011,87
+76,ConAgra Snack Foods,ConAgra - Hamburg IA,8/10/2011,95
+77,"CXT, Inc.","CXT, Inc.",7/31/2011,67
+78,Ben Franklin,North Platte,7/28/2011,10
+79,Connectivity Solutions Manufacturing,Omaha,7/15/2011,96
+80,Lincoln Journal Star,Lincoln Journal Star - Lee Enterprises,6/30/2011,11
+81,Infogroup,Infogroup,6/30/2011,50
+82,"Intralot, Inc.","Intralot, Inc.",6/26/2011,20
+83,KVC Health Systems - Nebraska,KVC Health Systems - Nebraska,6/17/2011,75
+84,News America Marketing,News America Marketing,6/10/2011,9
+85,Dodge County Corrections,Dodge County Corrections,6/9/2011,12
+86,Mid-Plains Behavioral Center,Mid-Plains Behavioral Center,6/2/2011,3
+87,"Aurora Telemarketing, Inc.",Aurora,6/1/2011,67
+88,Royco Hotels Inc./Supertel,Royco Hotels Inc./Supertel,5/30/2011,31
+89,Cooper Village,Cooper Village,5/30/2011,60
+90,"Aurora Telemarketing, Inc.",Columbus,5/10/2011,52
+91,"The Connection, Contact Center Services",Holdrege,4/18/2011,113
+92,Nebraska Department of Labor,Nebraska Department of Labor,3/31/2011,10
+93,Omaha Housing Authority,Omaha Housing Authority,3/30/2011,4
+94,"Action Marketing, LLC","Action Marketing, LLC",3/4/2011,6
+95,Earl May Nursery & Garden Center,Earl May Nursery & Garden Center,2/18/2011,1
+96,Walsworth Publishing Company,Walsworth Publishing Company,2/14/2011,84
+97,RSC Equipment Rental #297,RSC Equipment Rental #297,2/11/2011,4
+98,Lincoln Benefit Life,Lincoln Benefit Life,2/10/2011,25
+99,Boys & Girls Home of Nebraska,Boys & Girls Home of Nebraska - North Platte,2/4/2011,16
+100,Miller Brands of Omaha,Miller Brands of Omaha,2/4/2011,50
+101,Gymboree,Gateway Mall,1/23/2011,11
+102,Husqvarna,Husqvarna,1/14/2011,390
+103,TriWest Healthcare Alliance,Offutt AFB,12/17/2012,7
+104,Katana Summit,Columbus,11/21/2012,178
+105,Designer Blinds,Omaha,10/12/2012,103
+106,"Sodexo, Inc.",Omaha,8/28/2012,47
+107,Regional Elite,Omaha,8/27/2012,93
+108,Schreiber Foods Inc.,Ravenna,8/23/2012,21
+109,Schreiber Foods Inc.,Ravenna,8/23/2012,43
+110,"Aurora Bank FSB, Aurora Loan Services",Scottsbluff,4/24/2012,502
+111,Pamida Store Support Center,Omaha,1/31/2012,234
+112,Designer Blinds,Omaha,12/31/2012,103
+113,Katana Summit,Columbus,12/31/2012,178
+114,KV Vet Supply,David City,12/28/2012,11
+115,Garden Cafe & Bakery,Hastings,12/24/2012,50
+116,Hostess (International Brands Incorporated),Norfolk,11/16/2012,3
+117,Hostess (International Brands Incorporated),Lincoln (48th Street),11/16/2012,2
+118,Hostess (International Brands Incorporated),Bellevue,11/16/2012,2
+119,Hostess (International Brands Incorporated),Omaha (144th St.),11/16/2012,37
+120,Hostess (International Brands Incorporated),Lincoln (Kimco),11/16/2012,15
+121,Hostess (International Brands Incorporated),Omaha (Plaza),11/16/2012,2
+122,Regional Elite,Omaha,10/30/2012,93
+123,"Sodexo, Inc.",Omaha,10/26/2012,47
+124,Schreiber Foods Inc.,Ravenna,10/24/2012,21
+125,CoSentry,Omaha,10/12/2012,7
+126,Lakeview Care Center,Firth,10/1/2012,49
+127,Bobs Super Store,Kearney,9/21/2012,50
+128,TCBY,Kearney,9/15/2012,8
+129,Preferred Sands of Genoa,Genoa,8/17/2012,16
+130,"Even Temp, Inc.",Waco,8/16/2012,10
+131,Alco Discount Store,Beatrice,8/15/2012,18
+132,Party Patch,Omaha,8/4/2012,5
+133,Spaghetti Works,Lincoln,7/29/2012,29
+134,"Aurora Bank FSB, Aurora Loan Services",Scottsbluff,7/7/2012,502
+135,Uta Halee Girls Village,Uta Halee Girls Village - Ponca Pines Academy,6/30/2012,12
+136,QBE North America,Lincoln,6/19/2012,7
+137,Library Restaurant and Lounge,Library Restaurant and Lounge,6/16/2012,14
+138,Grand View Manor,Grand View Manor,5/31/2012,30
+139,Grand View Manor,Grandview Manor,5/31/2012,30
+140,Stone Creek Homes,Stone Creek Homes,5/25/2012,41
+141,"Beef Products, Inc. - Lexington","Beef Products, Inc. - Lexington",5/25/2012,10
+142,William Thiemann DDS,William Thiemann DDS,5/24/2012,4
+143,"Beef Products, Inc. - South Sioux City","Beef Products, Inc. - South Sioux City",5/15/2012,45
+144,Wendy's,Wendys - Central City,4/22/2012,20
+145,Blockbuster - Grand Island,Blockbuster - Grand Island,4/15/2012,6
+146,Blockbuster Video - Kearney,Blockbuster Video - Kearney,3/25/2012,12
+147,Maverick Media,Maverick Media,3/2/2012,18
+148,"Nebraska Department of Health and Human Services, Central Service Area","Nebraska Department of Health and Human Services, Central Service Area",2/29/2012,10
+149,Rural Metro,Rural Metro,2/29/2012,30
+150,KVC Health Systems - Nebraska,KVC Health Systems - Nebraska,2/29/2012,490
+151,Russwood Auto Center,Russwood Auto Center,2/6/2012,40
+152,"Ballantyne Strong, Inc.",Omaha,2/3/2012,16
+153,Uta Halee Girls Village,Omaha,1/31/2012,4
+154,Bath & Body,Bath & Body - Hastings,1/27/2012,9
+155,Sartor Hamann Jewelers,Sartor Hamann Jewelers:  Grand Island,1/15/2012,11
+156,American Meter Company,American Meter (Elster),1/6/2012,70
+157,"School Specialty, Inc. - Hammond & Stephens",Fremont,9/4/2013,52
+158,Leprino Foods,Ravenna,9/3/2013,168
+159,"Oakland Logistics Service, Inc.",Grand Island,8/26/2013,319
+160,"OTR Logistics, Inc.",Grand Island,8/26/2013,8
+161,QBE North America,Lincoln,4/15/2013,113
+162,First Student,Omaha,4/4/2013,500
+163,American Suzuki Motor Corporation,Butler County,1/22/2013,1
+164,"AMES Companies, Inc.",Falls City,12/31/2013,22
+165,Lancaster County Community Mental Health Center,Lincoln,12/31/2013,70
+166,Pacific Coast Feather Company,Wayne,12/31/2013,117
+167,Dress Barn,Nebraska City,12/21/2013,11
+168,Dress Barn,Nebraska City,12/21/2013,11
+169,DressBarn,Nebraska City,12/21/2013,11
+170,MBA Poultry,Tecumseh,12/13/2013,9
+171,CSG Systems International Inc.,Omaha,12/5/2013,36
+172,"School Specialty, Inc. - Hammond & Stephens",Fremont,11/30/2013,52
+173,Blockbuster,Lincoln - 27th St./Superior,11/22/2013,7
+174,Schroeder's Jack & Jill,Fairbury,11/17/2013,12
+175,Great Harvest Bread,Lincoln,11/16/2013,5
+176,Leprino Foods,Ravenna,11/8/2013,168
+177,Hewlett Packard,Omaha - Farnam Dr.,11/4/2013,100
+178,Pet Sense,Columbus,10/27/2013,6
+179,"Oakland Logistics Service, Inc.",Grand Island,10/22/2013,319
+180,"OTR Logistics, Inc.",Grand Island,10/22/2013,8
+181,Bubba Foods,Hastings,9/7/2013,11
+182,Pawnee Assisted Living Hotel,North Platte,8/31/2013,10
+183,Bubba Foods,Hastings,8/30/2013,11
+184,"AMES Companies, Inc.",Falls City,8/30/2013,15
+185,Village Inn Corporation,North Platte,8/27/2013,15
+186,Grede LLC,Omaha,7/31/2013,56
+187,Kayton International,Norfolk,7/31/2013,10
+188,Grede LLC,Omaha,7/12/2013,1
+189,Wesley Crisis Nursery Center,Norfolk,7/1/2013,2
+190,First Student,Omaha,6/30/2013,500
+191,Salvation Army,Grand Island,6/15/2013,10
+192,Novartis,Lincoln2,5/16/2013,72
+193,QBE North America,Lincoln,5/10/2013,70
+194,First Data,Omaha,4/26/2013,60
+195,Classen Manufacturing,Norfolk,4/24/2013,22
+196,QBE North America,Lincoln,4/16/2013,44
+197,"Even Temp, Inc.",Waco,4/8/2013,11
+198,American Suzuki Motor Corporation,Butler County,3/14/2013,1
+199,Schreiber Foods Inc.,Ravenna,2/28/2013,43
+200,TriWest Healthcare Alliance,Offutt AFB,2/15/2013,7
+201,Pitney Bowes Presort Services,Omaha,2/8/2013,33
+202,Ag Processing Inc.,Hastings,2/1/2013,43
+203,Wisconsin Physician Services,Omaha,1/25/2013,22
+204,Stepping Stones Daycare,Omaha,1/2/2013,17
+205,"Merrick Manor, Litzenberg Memorial County Hospital",Central City,1/1/2013,12
+206,"Skyline Manor, Inc.",Omaha,11/3/2014,200
+207,Tenneco,Cozad,10/28/2014,2
+208,Nationstar,Scottsbluff,10/14/2014,114
+209,Nationstar,Scottsbluff,8/19/2014,90
+210,West Corporation,Omaha,5/16/2014,244
+211,Cox Communications,Omaha,4/2/2014,77
+212,"HDA, Inc. & N-Store Merchandising, Inc.",Statewide,2/3/2014,20
+213,Tenneco,Cozad,12/31/2014,2
+214,Agrium Advanced Technologies,Fairbury,12/15/2014,25
+215,CNH America LLC,Grand Island,11/14/2014,2
+216,Novartis,Lincoln2,11/3/2014,17
+217,Sun Mart,Lincoln (S. 48th Street),10/31/2014,19
+218,Bag'n Save/No Frills,Omaha (Dodge),10/25/2014,0
+219,Bag'n Save/No Frills,Omaha (N. 114th St.),10/25/2014,0
+220,CNH America LLC,Grand Island,10/24/2014,2
+221,CNH America LLC,Grand Island,10/17/2014,30
+222,Nationstar,Scottsbluff,10/14/2014,78
+223,Store Kraft,Beatrice,10/10/2014,44
+224,CNH America LLC,Grand Island,10/10/2014,103
+225,Store Kraft,Beatrice,10/9/2014,1
+226,Store Kraft,Beatrice,10/7/2014,2
+227,Store Kraft,Beatrice,10/6/2014,56
+228,ADM Alliance Nutrition,Cozad,10/1/2014,15
+229,Big Apple Bagels,Norfolk,8/29/2014,11
+230,Milk Specialties,Norfolk,8/19/2014,15
+231,West Corporation,Omaha,7/12/2014,47
+232,Old Home Bakery,North Platte,6/11/2014,7
+233,K-Mart,Grand Island,6/6/2014,14
+234,Cox Communications,Omaha,6/1/2014,77
+235,Norfolk Family Medicine,Norfolk,5/31/2014,21
+236,"Transport Plus of Lincoln, Inc.",Lincoln,5/18/2014,16
+237,Cedar Bowl/Touch Down Club,North Platte,5/14/2014,35
+238,Nationstar,Scottsbluff,4/30/2014,50
+239,McKesson Medical Surgical,Omaha,4/18/2014,17
+240,Four Seasons Mini-Mart,Pierce,4/15/2014,2
+241,Milk Specialties,Norfolk,4/8/2014,15
+242,Nationstar,Scottsbluff,3/28/2014,50
+243,Sun Mart,Hastings,3/21/2014,31
+244,B&D Office City,North Platte,2/28/2014,4
+245,"Mallory USA, Inc.",South Sioux City,2/28/2014,34
+246,"HDA, Inc. & N-Store Merchandising, Inc.",Statewide,2/3/2014,20
+247,"International Nutrition, Inc.",Omaha,1/31/2014,25
+248,ConAgra Foods,Lincoln,1/10/2014,38
+249,IAC Acoustics,Lincoln,11/17/2015,160
+250,Cargill Meat Solutions Corporation,Columbus,10/30/2015,75
+251,Shopko xxxx,Omaha Distribution Center,10/28/2015,265
+252,Shopko Corporate Office,Omaha - Shopko Distribution Center,10/28/2015,
+253,Convergys Corporation,Omaha,10/27/2015,191
+254,H & H Chevrolet LLC,Omaha,10/26/2015,153
+255,H & H Motors Omaha dba H & H KIA,Omaha,10/26/2015,53
+256,Folders Express,Omaha,10/23/2015,57
+257,Catholic Health Initiative,Omaha,10/16/2015,60
+258,Union Pacific - Withdrawn,Omaha,8/12/2015,100+
+259,Michael Foods Egg Products Company,Wakefield - Farm Facility,5/21/2015,50
+260,Michael Foods Egg Products Company,Wakefield - Plant Facility,5/21/2015,60
+261,"Skag-Way Discount Department Stores, Inc.",Grand Island (Locust Street),3/23/2015,92
+262,"Skag-Way Discount Department Stores, Inc.",Grand Island (State Street),3/23/2015,134
+263,"United Airlines, Inc.",Omaha,3/11/2015,76
+264,Land O'Frost,West Point,2/27/2015,125
+265,Folders Express,Omaha,12/31/2015,57
+266,Lockheed Martin,Bellevue,12/31/2015,8
+267,H & H Chevrolet LLC,Omaha,12/31/2015,153
+268,H & H Motors Omaha dba H & H KIA,Omaha,12/31/2015,53
+269,"RICOH USA, Inc.",Scottsbluff,12/30/2015,26
+270,Subway Pizza Express/Auntie Anne's Pretzels,Lincoln,12/18/2015,5
+271,Catholic Health Initiative,Omaha,12/18/2015,60
+272,Lincolnland Printing,Lincoln,12/16/2015,2
+273,"RICOH USA, Inc.",Scottsbluff,12/9/2015,26
+274,Sears Automotive Center,Grand Island,12/5/2015,4
+275,"Packers Sanitation Services, Inc.",Columbus,12/5/2015,
+276,Cargill Meat Solutions Corporation,Columbus,12/4/2015,75
+277,American Express Global Business Travel,Omaha,12/4/2015,5
+278,The Knolls,Lincoln,12/2/2015,2
+279,Bag'n Save/No Frills,Omaha,12/1/2015,0
+280,Omni Engineering,Omaha,11/27/2015,30
+281,Youth Learning Center,Omaha,11/23/2015,2
+282,Sebastian's Table,Lincoln,11/21/2015,5-9
+283,Quality Service Integrity,Dakota City,11/20/2015,58
+284,IAC Acoustics,Lincoln,11/17/2015,160
+285,Lincoln Journal Star,Lincoln,11/16/2015,8
+286,Office Depot,Lincoln,11/14/2015,
+287,Office Depot,Omaha,11/14/2015,
+288,Alter Trading Co,Sidney,11/9/2015,2
+289,Alter Trading Co,Ogallala,11/9/2015,2
+290,Alter Trading Co,Kearney,11/9/2015,3
+291,Alter Trading Co,Grand Island,11/9/2015,2
+292,Alter Trading Co,Omaha,11/9/2015,1
+293,Alter Trading Co,Lincoln,11/9/2015,1
+294,Pioneer Investments,Omaha,11/6/2015,38
+295,The Knolls,Lincoln,11/5/2015,5
+296,Hexagon Lincoln,Lincoln,11/5/2015,45
+297,Omni Engineering,Omaha,11/2/2015,5
+298,Elliott Equipment Company,Omaha,11/1/2015,5
+299,Grossenburg Implement,Laurel,11/1/2015,14
+300,IAC Acoustics,Lincoln,10/28/2015,30
+301,Sears,Scottsbluff,10/26/2015,
+302,CNH America LLC,Grand Island,10/23/2015,49
+303,Hydraulic Components,Hartington,10/19/2015,
+304,Shop EZ,Lincoln,10/17/2015,7
+305,Mid-Plains Power,Omaha,10/16/2015,28
+306,Behlen Manufacturing Company,Columbus,10/12/2015,
+307,Rouge Manufacturing,Grand Island,10/8/2015,2
+308,Telecare Corporation,Omaha,10/7/2015,
+309,Staples,Omaha,10/7/2015,13
+310,Allmand Brothers,Holdrege,10/6/2015,23
+311,The Knolls Restaurant,Lincoln,10/4/2015,11
+312,Apogee Call Center/Savers,Columbus,10/4/2015,296
+313,Preferred Sands of Genoa,Genoa,10/2/2015,30
+314,Preferred Resin of Genoa,Genoa,10/1/2015,4
+315,Chief Industries,Grand Island,10/1/2015,32
+316,Golden Star,Ainsworth,10/1/2015,15
+317,Family Variety,Bloomfield,9/30/2015,
+318,Main Street Market & Deli,Stapleton,9/30/2015,8
+319,Infocrossing,Omaha,9/28/2015,4
+320,A&A Bar,Western,9/26/2015,1
+321,Election Systems & Software,Omaha,9/25/2015,25
+322,Potter's Wheel Ministries,Scotts Bluff,9/23/2015,1
+323,Cabela's x,Sidney,9/23/2015,
+324,Preferred Pump,Grand Island,9/23/2015,4
+325,Cox's Drywall,North Platte,9/23/2015,1
+326,Cabela's Corporation,Cabela's Store - Sidney,9/23/2015,
+327,Medicine Shoppe Pharmacy,Beatrice,9/18/2015,5
+328,Depot Bar & Grill,North Platte,9/18/2015,
+329,Allmand Brothers,Holdrege,9/18/2015,12
+330,Union Pacific,Omaha,9/16/2015,100+
+331,Candy's Cupcakery,North Platte,9/14/2015,
+332,Yarn Shop,Lincoln,9/7/2015,8
+333,Joffe's Too,Lincoln,8/31/2015,1
+334,South Omaha Terminal Warehouse,Omaha,8/31/2015,3
+335,Hexagon Lincoln,Lincoln,8/27/2015,8
+336,Hydraulic Components,Hartington,8/18/2015,9
+337,Forsberg Gallery,Lincoln,8/15/2015,4
+338,Progress Rail,Gering,8/10/2015,19
+339,Diana's Antiques and Gifts,Ceresco,7/31/2015,1
+340,Libations,Lincoln,7/31/2015,3
+341,Alorica,Omaha,7/24/2015,16
+342,Alter Trading Co,Kearney,7/23/2015,2
+343,City of Crete,Crete,7/9/2015,4
+344,TD Ameritrade,Omaha,7/3/2015,16
+345,CCB,Cozad,7/1/2015,26
+346,Burns Lab,McCook,6/30/2015,11
+347,Wisner Pharmacy,Wisner,6/26/2015,3
+348,CNH America LLC,Grand Island,6/15/2015,136
+349,"Skag-Way Discount Department Stores, Inc.",Grand Island (Locust Street),5/22/2015,92
+350,"Skag-Way Discount Department Stores, Inc.",Grand Island (State Street),5/22/2015,134
+351,"United Airlines, Inc.",Omaha,5/17/2015,76
+352,Exeter Care Center,Exeter,4/20/2015,12
+353,Nationstar,Scottsbluff,3/31/2015,114
+354,Charter Communication,Hastings,3/31/2015,5
+355,Alco Discount Store,McCook,3/16/2015,12
+356,Alco Discount Store,Valentine,2/28/2015,15
+357,Alco Discount Store,Albion,2/28/2015,16
+358,Applause Video,Hastings,2/28/2015,10
+359,Alco Discount Store,O'Neill,2/15/2015,13
+360,Alco Discount Store,North Platte,2/15/2015,13
+361,Alco Discount Store,Ord,2/10/2015,11
+362,Alco Discount Store,Cozad,2/10/2015,14
+363,Alco Discount Store,Broken Bow,2/10/2015,13
+364,Alco Discount Store,Imperial,1/31/2015,0
+365,Alco Discount Store,Gordon,1/31/2015,15
+366,Alco Discount Store,Ainsworth,1/31/2015,28
+367,Alco Discount Store,Ogallala,1/30/2015,17
+368,Alco Discount Store,West Point,1/30/2015,13
+369,Experience Works,North Platte,11/16/2016,5
+370,Verizon,Lincoln,11/7/2016,324
+371,Hood Packaging Corporation,Omaha,10/10/2016,25
+372,Bimbo Bakeries - Hastings,Hastings,7/8/2016,121
+373,CommScope,Sidney,1/27/2016,150
+374,McKesson Corporation,La Vista,12/31/2016,80
+375,Pizza Hut,Falls City,12/31/2016,
+376,Bellar Feedlot,Wisner,12/31/2016,22
+377,Catholic Charities,Columbus,12/30/2016,25
+378,Andrew's Van Lines,Norfolk,12/30/2016,13
+379,China Road,Bellevue,12/24/2016,15
+380,K-Mart Kearney,Kearney,12/11/2016,35
+381,K-Mart,Scottsbluff,12/11/2016,40
+382,K-Mart,Kearney,12/11/2016,35
+383,The Original Korn Popper,Lincoln,12/9/2016,4
+384,Piedmont Bistro,Lincoln,12/6/2016,30
+385,Sarpy County Landfill,Sarpy County,12/3/2016,10
+386,Lukasiewicz Furniture,Farwell,12/3/2016,3
+387,Gering Citizen Newspaper,Gering,12/2/2016,2
+388,Mission Foods,Omaha,12/1/2016,13
+389,USA Steak Buffet,Fremont,11/30/2016,15
+390,Dempsey's Burger Pub,Lincoln,11/6/2016,
+391,Hastings Entertainment - Grand Island,Hastings Entertainment-Grand Island,10/31/2016,20
+392,Hastings Entertainment-Kearney,Hastings Entertainment-Kearney,10/31/2016,
+393,Affiliated Foods,Norfolk,10/23/2016,50
+394,Orthman Manufacturing,Lexington,10/20/2016,16
+395,Chief Transportation Products,Omaha,10/19/2016,23
+396,SWBC Mortgage Corporation,Scottsbluff,10/14/2016,15
+397,Flatwater Bistro,Lincoln,10/11/2016,46
+398,VF Factory Outlet,Nebraska City,10/2/2016,10
+399,Bag'n Save/No Frills,York,10/1/2016,40
+400,Heartland Craft Mall,Nebraska City,9/30/2016,1
+401,Beacon Hills Restaurant,Lincoln,9/30/2016,
+402,D.L. Blair,Blair,9/30/2016,14
+403,Mystery Bookstore,Omaha,9/30/2016,1
+404,Bohemian Cafe,Omaha,9/24/2016,
+405,OMALiNK,Lincoln,9/23/2016,
+406,Pizza Hut,David City,9/22/2016,13
+407,Cabela's Corporation,Cabela's Store - Sidney,9/9/2016,120
+408,Bimbo Bakeries - Hastings,Hastings,9/9/2016,121
+409,Cabela's x,Sidney,9/9/2016,120
+410,SWBC Mortgage Corporation,Scottsbluff,9/2/2016,30
+411,North Platte Veterinary Clinic,North Platte,9/1/2016,9
+412,Java Pointe,Norfolk,8/31/2016,
+413,Austad's Golf,Lincoln,8/21/2016,9
+414,RubyTuesday,Omaha,8/13/2016,
+415,Korf Continental,Scottsbluff,8/9/2016,3
+416,SWBC Mortgage Corporation,Scottsbluff,8/1/2016,35
+417,Kmart,Hastings,7/31/2016,
+418,The Midwife's Place,Bellevue,7/28/2016,12
+419,"Hy-Vee, Inc.",Omaha L St,6/26/2016,
+420,Midwest Roofing,Lincoln,6/24/2016,10
+421,"Canning Truck Service, Inc.",Fairbury,6/17/2016,14
+422,Brentwood Touch Free Auto Wash & Detail,La Vista,6/13/2016,
+423,Orscheln Farm & Home Supply,Falls City,6/1/2016,5
+424,Liberty Social Hall,Papillion,5/31/2016,
+425,Goodwill's Reserve 99,Omaha,5/31/2016,
+426,Burger Star/Big Cheese,Gretna,5/31/2016,
+427,Adam Michael Jewelry,Omaha,5/31/2016,0
+428,Education Service Unit No-9,Hastings,5/31/2016,
+429,The Children's Place,Papillion,5/28/2016,
+430,"Gavilon, LLC",Omaha,5/26/2016,
+431,Four Star Drug,Lincoln (Piedmont),5/26/2016,
+432,Four Star Drug,Lincoln (Bethany),5/26/2016,
+433,Ron's Garage,Omaha,5/26/2016,2
+434,Four Star Drug,Waverly,5/24/2016,
+435,Alliance Public Schools,Alliance,5/23/2016,10
+436,Ideal Grocery & Market,Lincoln,5/19/2016,
+437,Aeropostale - Lincoln,Lincoln,5/7/2016,
+438,Aeropostale - Omaha,Omaha,5/7/2016,
+439,Ben Franklin,Lincoln,5/1/2016,11
+440,Heartland Cash Advance,Scottsbluff,4/30/2016,2
+441,Heartland Cash Advance,Alliance,4/30/2016,1
+442,Athlete's Edge,Scottsbluff,4/30/2016,
+443,Pretzelmaker,Lincoln,4/26/2016,
+444,Tom + Chee,Lincoln,4/23/2016,
+445,Wildcat Bowling Lanes,Papillion,4/21/2016,5
+446,Ferellgas,Norfolk,4/20/2016,
+447,Amsterdam Falafel & Kabob,Lincoln,4/17/2016,7
+448,The French Bulldog,Omaha,4/15/2016,
+449,Wright Career College,Omaha,4/14/2016,
+450,Barnstormers Family Bar & Grill,Norfolk,4/13/2016,
+451,Tia Zia,O'Neill,4/4/2016,
+452,Duff's Friendship Villa,Nebraska City,4/1/2016,33
+453,Curley's Machine Works,Kimball,4/1/2016,4
+454,Fashion II Consignment Boutique,Lincoln,3/31/2016,4
+455,K Mart,Omaha,3/31/2016,
+456,CommScope,Sidney,3/31/2016,150
+457,Bag'n Save/No Frills,Omaha (Blondo),3/31/2016,
+458,Bag'n Save/No Frills,Omaha (Weir St),3/31/2016,
+459,"International Sensor Systems, Inc.",Aurora,3/17/2016,4
+460,DXP Enterprises,Lincoln,3/15/2016,10
+461,Doozy's,Lincoln,3/15/2016,
+462,Sweets and Antiques,Atkinson,3/12/2016,
+463,Slice Pizzeria,Lincoln,3/7/2016,
+464,Regional Recycling,North Platte,3/5/2016,0
+465,Preferred Pump,Grand Island,3/4/2016,4
+466,Grandmother's Restaurant,Lincoln,2/28/2016,
+467,Hancock Fabrics,Lincoln,2/28/2016,
+468,Barb's Hallmark,Lincoln,2/28/2016,
+469,Henry's on South,Lincoln,2/27/2016,
+470,Progress Rail,Gering,2/25/2016,5
+471,Abengoa,Ravenna,2/1/2016,
+472,Abengoa,York,2/1/2016,
+473,Sugar Bakers Gift Shop,Omaha,1/31/2016,
+474,Sonic,Omaha,1/31/2016,
+475,Ann Taylor Loft,Lincoln,1/31/2016,
+476,The Limited,Lincoln,1/31/2016,
+477,Piccolo Pete's,Omaha,1/31/2016,50
+478,Convergys Corporation,Omaha,1/31/2016,191
+479,Schweser's,Fremont,1/31/2016,33
+480,"Cargill, Inc.","Blair, NE",1/11/2016,7
+481,Burkley Envelope Company,Wahoo,1/4/2016,
+482,Burger King,Lincoln,1/3/2016,
+483,Schweser's,Beatrice,1/1/2016,8
+484,Schweser's,Columbus,1/1/2016,12
+485,Shopko xxxx,Omaha Distribution Center,1/1/2016,265
+486,Schweser's,Lincoln,1/1/2016,10
+487,Shopko Corporate Office,Omaha - Shopko Distribution Center,1/1/2016,265
+488,CHS,South Sioux City,12/19/2017,63
+489,RHD,Omaha,8/8/2017,160
+490,American Red Cross,Recruitment Center,8/1/2017,133
+491,Gordmans,Headquarter,5/11/2017,131
+492,Dr. Leonard's Healthcare Corporation,Lincoln,5/5/2017,170
+493,"Cargill, Inc.","Blair, NE",4/7/2017,7
+494,Dollar Express,Omaha,4/4/2017,7
+495,Gordmans,Headquarter,3/14/2017,450
+496,Progress Rail,Gering,12/31/2017,39
+497,Good Samaritan Society,Alliance,12/31/2017,50
+498,Eagle Grocery,Eagle,12/31/2017,5
+499,Reicherts Jewelry,Ogallala,12/31/2017,3
+500,Union Tank Car,Omaha,12/29/2017,12
+501,Stagecoach Mall,Fairbury,12/29/2017,5
+502,Black Hills Energy,Lincoln,12/29/2017,5
+503,MJ's Restaurant,Scottsbluff,12/28/2017,
+504,Charming Charlie,Papillion,12/24/2017,15
+505,"Hobbe""s"" Restaurant",North Platte,12/23/2017,8
+506,Cottonwood,Lincoln,12/23/2017,15
+507,Herzing University,Omaha,12/20/2017,8
+508,CHS,South Sioux City,12/18/2017,63
+509,Buss Stop Petro,Beatrice,12/15/2017,5
+510,Foster Lumber Company,Sidney,12/15/2017,6
+511,ADM Milling,Lincoln,12/12/2017,4
+512,Bread & Cup,Lincoln,12/10/2017,30
+513,Canfield's Sporting Goods,Omaha,12/8/2017,
+514,Century Link,Omaha,12/2/2017,1
+515,Data Transmission Network,Omaha,11/30/2017,53
+516,Smart Room,Lincoln,11/12/2017,
+517,The Shed Grill & Spirits,Scottsbluff,11/11/2017,
+518,Hood Packaging Corporation,Omaha,11/10/2017,100
+519,Axius Services,Norfolk,11/8/2017,3-5
+520,Penair,North Platte,11/7/2017,
+521,Whiskey Creek Wood Fire Grill,Scottsbluff,11/6/2017,24
+522,Pizza Hut,Gering,10/31/2017,12
+523,"Mark of Honor Youth Lodge, Inc.",Lincoln,10/27/2017,10
+524,"Willsie Cap & Gown, Inc.",Omaha,10/27/2017,8
+525,Gusto Cuban Cafe,Ralston,10/22/2017,4
+526,Boston Market,Lincoln,10/22/2017,
+527,Life Quest,Palmer,10/20/2017,12
+528,Chevy's Fresh Mex,Lincoln,10/19/2017,
+529,RHD,Omaha,10/8/2017,80
+530,RHD,Lincoln,10/8/2017,80
+531,McFarland & Sons,Lincoln,10/4/2017,
+532,Northside Cafe,Lincoln,10/1/2017,
+533,Together,Omaha,9/30/2017,2
+534,American Red Cross,Recruitment Center,9/29/2017,133
+535,Rent A Center,Beatrice,9/27/2017,4
+536,Choice Floor Specialists,York,8/15/2017,3
+537,Joe's Crab Shack,Omaha,8/11/2017,
+538,Dr. Leonard's Healthcare Corporation,Lincoln,8/4/2017,170
+539,Marshfield Food Safety Services,Schuyler,7/24/2017,18
+540,Black Hills Energy,Papillion,7/19/2017,35
+541,Prengers,Norfolk,7/16/2017,25
+542,Game Cycle,Beatrice,7/15/2017,1
+543,Doc's Place,Lincoln,7/15/2017,
+544,Ploughshare,Lincoln,7/11/2017,
+545,Tiger Town Food and Floral Center,Osmond,7/10/2017,
+546,Good Air Home Medical Equipment,Ogallala,7/1/2017,6
+547,Integrated Life Choices,Beatrice,6/30/2017,8
+548,Nebraska Bull Service,McCook,6/30/2017,14
+549,"MWD Steel Fabrication, LLC",Lincoln,6/23/2017,20
+550,"Dickey's Barbeque Restaurants, Inc",Lincoln,6/16/2017,
+551,TCBY,O Street - Lincoln,5/22/2017,
+552,Speak Out,P.O. Box 1066,5/1/2017,4
+553,Family Christian,Lincoln,4/28/2017,
+554,Da Buzz,North Platte,4/24/2017,4
+555,Good Samaritan Society,Wymore,4/24/2017,40
+556,Ragazzi's Pizza,Ralston,4/21/2017,
+557,Epworth Village,York,4/17/2017,13
+558,Rue 21,North Platte,4/17/2017,9
+559,Rue 21,Lincoln -Wilderness Hills,4/17/2017,12
+560,Rue 21,Gretna,4/17/2017,14
+561,Gothenburg Medical Arts,Gothenburg,4/17/2017,4
+562,Omaha Truck and Trailer,Omaha,4/7/2017,2
+563,Nathan Detroit's,Grand Island,4/1/2017,
+564,Envision,Norfolk,3/31/2017,15
+565,Resource Real Estate Management,Omaha,3/31/2017,6
+566,Big Apple Bagels,Norfolk,3/31/2017,3
+567,Casey's,West Point,3/28/2017,15
+568,Hallmark,Norfolk,3/27/2017,13
+569,Vanity,Grand Island,3/27/2017,7
+570,Vanity,Kearney,3/27/2017,7
+571,Vanity,Lincoln,3/27/2017,7
+572,Vanity,Norfolk,3/27/2017,5
+573,Vanity,North Platte,3/27/2017,12
+574,Vanity,Omaha,3/27/2017,8
+575,Vanity,Omaha - California Street,3/27/2017,5
+576,Vanity,Scottsbluff,3/27/2017,7
+577,Western Convenience Stores - Restaurant,Hershey,3/24/2017,9
+578,"General Wireless Operations, Inc dba Radio Shack",Dodge Street - Omaha,3/23/2017,5
+579,"General Wireless Operations, Inc dba Radio Shack",Eastgate Plaza - Fremont,3/23/2017,2
+580,"General Wireless Operations, Inc dba Radio Shack",Lincoln Crossing - Lincoln,3/23/2017,2
+581,"General Wireless Operations, Inc dba Radio Shack",Maplewood Plaza - Omaha,3/23/2017,5
+582,"General Wireless Operations, Inc dba Radio Shack",Stockyards Plaza - Omaha,3/23/2017,4
+583,"General Wireless Operations, Inc dba Radio Shack",Sunset Plaza - Norfolk,3/23/2017,3
+584,"General Wireless Operations, Inc dba Radio Shack",Van Dorn Plaza - Lincoln,3/23/2017,3
+585,Delta Enterprises - MidAmerica Vision,Fairbury,3/21/2017,4
+586,Sun Mart,Ogalalla,3/18/2017,25
+587,Cabela's x,Sidney,3/14/2017,70
+588,Cabela's Corporation,Cabela's Store - Sidney,3/14/2017,70
+589,Pizza Shoppe,Benson,3/11/2017,8
+590,Capriottis,S. 11th Street,3/10/2017,0
+591,Nebraska Book Company,Lincoln,3/9/2017,40
+592,Titan Machinery,Broken Bow,3/1/2017,
+593,City of Fairbury,Fairbury,2/28/2017,
+594,Nebraska State Patrol-Communications Center,Lincoln,2/28/2017,9
+595,PureRed Integrated Marketing,Norfolk,2/27/2017,3
+596,Creighton University,Omaha,2/23/2017,6
+597,Amy's Hallmark,Fremont,2/22/2017,9
+598,Lutheran Family Services,Omaha,2/21/2017,8
+599,Cleaver Brooks,Lincoln,2/20/2017,2
+600,Cleaver Brooks,Lincoln,2/17/2017,23
+601,First National Bank,Omaha,2/16/2017,65
+602,Sunmart,Ogallala,2/16/2017,25
+603,Sunmart,Ogalalla,2/16/2017,25
+604,R Way Mental Health Rehabilitation,Wayne,2/15/2017,25
+605,Brix - Village Point,Village Point,2/14/2017,45
+606,Taco Inn,Lincoln,2/14/2017,16
+607,Sunflower Marketing,"Geneva, NE",2/3/2017,14
+608,Bentley Fine Jewelry and Repair,Scottsbluff,1/31/2017,1
+609,Shopko xxxx,Omaha Store,1/31/2017,75
+610,Pendleton Woolen Mills,Nebraska City,1/28/2017,4
+611,Braeda,Lincoln,1/28/2017,14
+612,NCI Building Systems,Omaha,1/27/2017,30
+613,Catholic Charities,Omaha,1/27/2017,28
+614,Midwest Medical Transport,North Platte,1/27/2017,5
+615,Simply Mac,Gateway Mall,1/26/2017,6
+616,The Children's Place,Lincoln,1/14/2017,14
+617,Zoup,Lincoln,1/14/2017,8
+618,Brix,Midtown Crossing,1/12/2017,45
+619,Brix,Village Point,1/12/2017,42
+620,Brix - Midtown Crossing,Midtown Crossing,1/12/2017,42
+621,Brix - Village Point,Village Point,1/12/2017,45
+622,Brix - Village Point,Village Point,1/12/2017,45
+623,The Limited,Nebraska Crossing Outlet Mall,1/11/2017,15
+624,The Limited,Oakview Mall,1/11/2017,15
+625,Western Trails Sports Post,Scottsbluff,1/7/2017,4
+626,Yates Motors,Gering,1/7/2017,1
+627,Great Wraps,Gateway Mall,1/4/2017,2
+628,Great Wraps,Gateway Mall,1/4/2017,0
+629,Union Pacific,Morrill,10/11/2018,68
+630,Capital One Financial,Lincoln,10/2/2018,155
+631,Ariens,Auburn,6/14/2018,194
+632,Charter Spectrum,Lincoln,5/8/2018,55
+633,Younkers (BonTon),102nd street Omaha,4/5/2018,356
+634,Convergys Corporation,Omaha,3/7/2018,123
+635,Brightstar,Omaha,2/27/2018,53
+636,Parker Hannifin,Gothenburg,1/16/2018,132
+637,Dr. Mausolf Ophthalmology,Lincoln,12/31/2018,7
+638,PaymentSpring - Nelnet,Omaha,12/31/2018,30
+639,Allstate Insurance,Lincoln,12/31/2018,14
+640,Kearney Little Learners,Kearney,12/28/2018,23
+641,CraftHouse,Lincoln,12/22/2018,
+642,Shopko Corporate Office,Gordon,12/22/2018,12
+643,Shopko Corporate Office,Ogallala,12/22/2018,16
+644,Shopko xxxx,Gordon,12/22/2018,12
+645,Shopko xxxx,Ogallala,12/22/2018,16
+646,201 Tanning & Spa,Beatrice,12/21/2018,2
+647,O'Connor's Irish Pub,Omaha,12/15/2018,3
+648,Capital One Financial,Lincoln,12/7/2018,155
+649,Shivers Sweets N Treats,Lincoln,12/2/2018,2
+650,The Creative Teacher,Kearney,11/27/2018,
+651,Funshine Shop,Kearney,11/21/2018,2
+652,The Emporium Restaurant,Scottsbluff,11/16/2018,11
+653,Quad Graphics,Sidney,11/16/2018,30
+654,Jimmy's Egg,Lincoln,11/14/2018,
+655,Five Guys,Lincoln - Downtown,10/31/2018,
+656,The Donut Shop,Omaha,10/31/2018,2
+657,Lewis Greenscape,Grand Island,10/27/2018,12
+658,Heartland Foods,Beatrice,10/27/2018,4
+659,Crafts Inc.,Norfolk,10/2/2018,3
+660,Jason Sears Flooring,O'Neill,10/1/2018,3
+661,Big Top Party Shop,Norfolk,9/30/2018,5
+662,Family 4Ward,Scottsbluff,9/28/2018,5
+663,Gamers,Lincoln,9/27/2018,
+664,Gamers,Omaha,9/27/2018,
+665,Gamers,La Vista,9/27/2018,
+666,Poling Drug,Beatrice,9/18/2018,4
+667,Allen's Superstore,Hastings,9/15/2018,33
+668,Herbergers,Kearney,8/31/2018,80
+669,Save Best Store,Lincoln,8/31/2018,8
+670,Herbergers,Norfolk,8/31/2018,22
+671,Herbergers,North Platte,8/31/2018,47
+672,Herbergers,Scottsbluff,8/31/2018,55
+673,Herbergers,Hastings,8/31/2018,13
+674,Younkers,Lincoln,8/31/2018,90
+675,Younkers,Omaha - Oakview Mall,8/31/2018,141
+676,Younkers,Grand Island,8/31/2018,80
+677,Younkers,Omaha - Westroads Mall,8/31/2018,190
+678,Nebraska Auto Auction,Lincoln,8/29/2018,5
+679,Ruby Tuesday,Grand Island,8/26/2018,45
+680,Pet Kingdom,Kearney,8/20/2018,
+681,Ariens,Auburn,8/17/2018,194
+682,Erbert & Gerbert's Sandwich Shop,Kearney,7/31/2018,7
+683,Lutheran Home,Omaha,7/29/2018,38
+684,Brightstar,Omaha,7/27/2018,53
+685,Staples,North Platte,7/20/2018,12
+686,Serendipity,Norfolk,7/5/2018,1
+687,MB Financial Bank,Omaha,7/2/2018,31
+688,Little Blessings,Lincoln,7/2/2018,7
+689,Little Blessings,Omaha,7/2/2018,13
+690,Akin's Natural Foods,Lincoln,6/30/2018,10
+691,Adams County Senior Services,Hastings,6/30/2018,9
+692,Randolph Car Wash,Lincoln,6/30/2018,20
+693,Shopko Corporate Office,Crete,6/30/2018,12
+694,Joseph's College,North Platte,6/30/2018,2
+695,Building Healthy Futures,Omaha,6/30/2018,5
+696,Shopko xxxx,Crete,6/30/2018,12
+697,Maximus,Omaha,6/29/2018,41
+698,Toys-R-Us,Lincoln,6/27/2018,30
+699,Toys-R-Us,Omaha,6/27/2018,30
+700,Toys-R-Us,Lincoln,6/27/2018,30
+701,Toys-R-Us,Omaha - Oakview Mall,6/27/2018,30
+702,Lyons Living Center,Lyons,6/24/2018,30
+703,PureRed Integrated Marketing,Norfolk,6/22/2018,19
+704,Center for People in Need,Lincoln,6/21/2018,3
+705,Farner Company,Norfolk,6/15/2018,17
+706,Good Samaritan Assisted Living,Scribner,6/15/2018,7
+707,Applebee's,Hastings,6/14/2018,5
+708,The Minuteman Hotel,Lexington,5/31/2018,4
+709,Roadrunner Temperature Controlled,Omaha,5/31/2018,28
+710,Grace University,Omaha,5/31/2018,135
+711,Convergys Corporation,Omaha,5/31/2018,123
+712,Wells Fargo,Grand Island,5/16/2018,18
+713,Cenveo Corporation,Omaha,5/10/2018,52
+714,Streck,La Vista,5/4/2018,9
+715,Runza,Lincoln,5/4/2018,19
+716,Maaschhoff's,Wolbach,5/1/2018,9
+717,Liberty Cleaners,Hastings,5/1/2018,3
+718,Liberty Cleaners,North Platte,5/1/2018,3
+719,Liberty/Deluxe Cleaners,York,5/1/2018,3
+720,Perkins Restaurant & Bakery,Lincoln - N 48th,5/1/2018,15
+721,Kearney County Health Services,Minden,4/29/2018,55
+722,Charter Spectrum,Lincoln,4/26/2018,55
+723,Nebraska Transport Company,Gering,4/20/2018,8
+724,C & C Specialty Market,Beatrice,4/6/2018,3
+725,PCT Livestock,St. Libory,4/4/2018,2
+726,Direct Check,McCook,4/3/2018,1
+727,Eagle Distributing,Norfolk,4/2/2018,2
+728,Election Systems & Software,Omaha,4/2/2018,1
+729,Corelink Administrative Solutions,HQ,4/2/2018,14
+730,Great Plains Health,North Platte,4/1/2018,7
+731,Defy Gravity Trampoline Park,La Vista,3/31/2018,
+732,Nifast,Beatrice,3/29/2018,4
+733,Justice,Norfolk,3/28/2018,2
+734,Wells Fargo,McCook,3/28/2018,6
+735,Claire's,North Platte,3/25/2018,
+736,Tanner's Bar and Grill,Lincoln,3/18/2018,10
+737,Methodist Hospital Hospice,Omaha,3/16/2018,60
+738,Three Eighteen on the Avenue,Norfolk,3/12/2018,3
+739,Tidal Gas Station,North Platte,3/7/2018,4
+740,Schwartz Enterprises of NE,Chappell,2/28/2018,16
+741,Heartland Motors,Beatrice,2/27/2018,2
+742,Hickory Road BBQ,Lincoln,2/26/2018,10
+743,Taco Bell,North Platte,2/25/2018,18
+744,Omaha World Herald,Bellevue,2/20/2018,24
+745,Chocolatier Blue,Lincoln,2/15/2018,1
+746,Lot 2 Restaurant and Wine Bar,Omaha,2/15/2018,15
+747,Strategic Health Solutions,Omaha,2/14/2018,41
+748,Village Inn,Lincoln,2/11/2018,32
+749,"Heartland Products-Hog Slat, Inc.",Columbus,2/8/2018,5
+750,YMCA,Grand Island,2/6/2018,1
+751,Schlotzsky's,Lincoln,2/5/2018,13
+752,Lead & Stone,Norfolk,2/1/2018,
+753,Bart's Detasseling,Beaver Crossing,1/31/2018,
+754,GCR (Firestone),North Platte,1/30/2018,7
+755,Fair Deal Cafe,Omaha,1/29/2018,
+756,Beatrice Daily Sun,Beatrice,1/29/2018,1
+757,Lincoln Journal Star,Lincoln,1/29/2018,4
+758,Wahoo's Fish Taco,Lincoln,1/26/2018,
+759,Company Kitchen,Omaha,1/26/2018,3
+760,Windstream Communications,Lincoln,1/25/2018,5
+761,Oklahoma Joe's,Lincoln,1/23/2018,
+762,Perkins Restaurant & Bakery,Lincoln - NW 12th,1/21/2018,29
+763,Austad's Golf,Lincoln,1/19/2018,6
+764,Watering Hole,Lincoln,1/19/2018,
+765,Kmart,Omaha,1/14/2018,44
+766,"Liberty Mobility Now, Inc.",Lincoln,1/11/2018,29
+767,Shopko xxxx,Omaha - Southwest,1/6/2018,15
+768,Shopko Corporate Office,Omaha - 3020 South 84th Street,1/6/2018,15
+769,Strouds,Omaha,1/2/2018,
+770,Dugger's Cafe,Omaha,1/1/2018,20
+771,Bimbo Bakeries,South Sioux City,8/2/2019,81
+772,"Fargo Assembly of PA, Inc.","David City, NE",7/15/2019,186
+773,Premier Estates,West Point,6/10/2019,35
+774,Premier Estates,Fremont,6/10/2019,43
+775,Premier Estates,Crete,6/10/2019,64
+776,Premier Estates,Crete,6/10/2019,64
+777,"Hayneedle, Inc.",Chalco Valley Parkway,5/2/2019,180
+778,"Hayneedle, Inc.",West Dodge Road,5/2/2019,59
+779,"Coreslab Structures, Inc.",Bellevue,4/9/2019,
+780,Broken Bow Care & Rehabilitation Center,Broken Bow,3/27/2019,44
+781,Schuyler Care & Rehabilitation Center,Schuyler,3/18/2019,53
+782,Norfolk Care & Rehabilitation Center,Norfolk,3/18/2019,42
+783,Cabela's x,Oshkosh Returns Facility,3/8/2019,41
+784,Cabela's x,Sidney Distribution Center,3/8/2019,120
+785,Cabela's Corporation,Returns Facility - Oshkosh,3/8/2019,41
+786,Cabela's Corporation,Distribution Center - Sidney,3/8/2019,120
+787,Spectrum America Supply Chain Solutions (Shopko distribution)xxxx,Shopko Distribution Center,2/26/2019,295
+788,Shopko Corporate Office,Omaha - Shopko Distribution Center,2/26/2019,
+789,Lincoln Journal Star,Lincoln,2/11/2019,48
+790,Wausa Care and Rehabilitation Center,Wausa,1/14/2019,39
+791,Sidney Care and Rehabilitation Center,Sidney,1/10/2019,51
+792,Wright's Jewelers,Lincoln,12/31/2019,5
+793,Jack Link's Jerky,Bellevue,12/31/2019,62
+794,Leonard and His House of Unfinished Furniture,Lincoln,12/31/2019,1
+795,Lazzari's Pizza,Lincoln,12/31/2019,
+796,Le Cupcake,Lincoln,12/31/2019,5
+797,Goodwill Outlet,Grand Island,12/31/2019,1
+798,Tornado Crepes,Lincoln,12/31/2019,
+799,Land O Lakes Inc,McCook,12/31/2019,3
+800,Beed Transportation Inc,Office,12/31/2019,26
+801,Connect Gallery,Omaha,12/28/2019,2
+802,Kitchen Sink Bakery,Lincoln,12/21/2019,2
+803,Gianna's Java & Gelato,Lincoln,12/21/2019,10
+804,Papa Murphy's,Columbus,12/16/2019,
+805,Petrow's Restaurant,Omaha,12/14/2019,40
+806,Amigos,Lincoln - 14th & Q,12/13/2019,
+807,Rule G Night Club,Lincoln,12/9/2019,
+808,"Dickey's Barbeque Restaurants, Inc",York,12/5/2019,
+809,TC Home Furnishings,Columbus,11/30/2019,3
+810,Mouth of the South,Omaha,11/30/2019,
+811,Buffalo Wings & Rings,Lincoln,11/29/2019,20
+812,Skeeter Barnes,Columbus,11/24/2019,
+813,Forever 21,Lincoln,11/23/2019,35
+814,Morys Haven in Columbus,Columbus,11/21/2019,62
+815,Utica Community Center,Utica,11/21/2019,30
+816,Crestview Healthcare Center - Milford,Milford,11/21/2019,50
+817,MWC Acquisitions Co. LLC,Atkinson,11/19/2019,19
+818,Jazz: A Louisiana Kitchen,Omaha,11/19/2019,
+819,"Prairie Catalyitic, LLC",Plant,11/18/2019,15
+820,Wilber Meat Market,Wilber,11/16/2019,2
+821,Fresh Thyme,Grand Island,11/16/2019,45
+822,Fresh Thyme,Lakeside,11/16/2019,28
+823,9 South Chargrill # 2,Hickman,11/15/2019,45
+824,Buck Snort Restaurant,Nebraska City,11/11/2019,8
+825,AJ's Soda Shop,Scottsbluff,11/5/2019,1
+826,Amigo's/King Classic,Auburn,11/3/2019,15
+827,Green Flash Brewhouse & Eatery,Lincoln,11/2/2019,5
+828,Seasons Floral & Gifts,Columbus,10/31/2019,2
+829,Valley Bowl,Scottsbluff,10/31/2019,
+830,Airhost Restaurant & Lounge,Lincoln,10/31/2019,10
+831,"Games People Play, Inc",Omaha,10/30/2019,3
+832,Egg & I,Lincoln,10/27/2019,17
+833,Thurston Manufacturing,Thurston,10/24/2019,38
+834,Regis Salon,Conestoga Mall,10/22/2019,5
+835,Blue Prairie Brands,Gering,10/22/2019,2
+836,Sears Hometown Store,North Platte,10/17/2019,
+837,Major's Convenience Store & Cafe,Roca,10/5/2019,2
+838,Bimbo Bakeries,South Sioux City,10/4/2019,81
+839,Don & Randy Shoemaker's Truck Station,Lincoln,9/28/2019,20
+840,Greenbrier Railcar (GBW),Omaha,9/27/2019,14
+841,The Michael's Cantina at the Market,Omaha,9/27/2019,25
+842,Family Video,Columbus,9/25/2019,4
+843,Kentucky Fried Chicken,S. Sioux City,9/25/2019,17
+844,Kentucky Fried Chicken,Columbus,9/25/2019,
+845,Set the Bar Fitness & Nutrition,Norfolk,9/13/2019,
+846,MMP Enterprises,Sidney,9/5/2019,7
+847,Eakes Office Solutions Corporation,Grand Island - Corporate / Retail,8/31/2019,2
+848,Charming Charlie,Omaha - L Street,8/31/2019,9
+849,Charming Charlie,Omaha - Village Pointe,8/31/2019,4
+850,Charming Charlie,Lincoln,8/31/2019,9
+851,Jan's Cleaners & Shirt Laundry,Beatrice,8/23/2019,2
+852,Tommy's Family Restaurant,Grand Island,8/20/2019,1
+853,Union Pacific Railroad,North Platte,8/20/2019,55
+854,Teriyaki Madness,Lincoln,8/16/2019,
+855,Peking Palace Chinese Buffett,Grand Island,8/14/2019,
+856,Standard Iron,Grand Island,8/12/2019,31
+857,Young Voices Child Development Center,Lincoln,8/11/2019,
+858,Barnstormers Family Bar & Grill,Norfolk,8/10/2019,20
+859,Risky's Sports Bar and Grill,Beatrice,8/9/2019,
+860,US Aprons,Sidney,8/8/2019,10
+861,Premier Estates,West Point,8/6/2019,35
+862,Premier Estates,Fremont,8/6/2019,43
+863,Premier Estates,Crete,8/6/2019,64
+864,Earl May Nursery & Garden Center,Beatrice,8/4/2019,3
+865,Eakes Office Solutions x,York,8/2/2019,3
+866,Eakes Office Solutions Corporation,York,8/2/2019,3
+867,Anderson Auto Parts,Grand Island,7/31/2019,4
+868,El Canelo Mexican Restaurant,Beatrice,7/31/2019,
+869,Norfolk Natural Market,Norfolk,7/31/2019,5
+870,The Pipeline Clothing eXchange,Beatrice,7/31/2019,1
+871,Goodyear Fitness Center,Lincoln,7/28/2019,20
+872,Therman's Bike and Sport,Nebraska City,7/28/2019,0
+873,Merle's Food & Drink,Lincoln,7/27/2019,13
+874,B & B Grill and Arcade,Bellevue,7/27/2019,11
+875,Spreetail,Lincoln,7/24/2019,22
+876,Gerda's German Restaurant & Bakery,Omaha,7/22/2019,
+877,Charter Spectrum,Beatrice,7/19/2019,2
+878,Good Samaritan Nursing Home,Wood River,6/30/2019,40
+879,Cosmo Professional Beauty Supply,Lincoln,6/28/2019,31
+880,Highnooner's Deli,Lincoln,6/28/2019,4
+881,Video Kingdom Electronics,Hastings,6/28/2019,5
+882,Amato's,Omaha,6/23/2019,5
+883,Shopko Hometown xxxx,Shopko Hometown Omaha,6/23/2019,53
+884,Shopko Corporate Office,Omaha - 14445 West Center Road,6/23/2019,53
+885,Union Pacific,North Platte,6/21/2019,78
+886,Werner Service & Trucking,St. Edward,6/21/2019,24
+887,Grand Island Park Place Care & Rehabilitation Center,Grand Island,6/18/2019,64
+888,Shopko xxxx,Grand Island,6/16/2019,54
+889,Shopko Hometown xxxx,Holdrege,6/16/2019,21
+890,Shopko xxxx,North Platte,6/16/2019,45
+891,Shopko Hometown xxxx,SHopko Hometown Wayne,6/16/2019,25
+892,Shopko xxxx,Shopko O'Neil,6/16/2019,19
+893,Shopko Hometown xxxx,Broken Bow,6/16/2019,15
+894,Shopko Hometown xxxx,Valentine,6/16/2019,18
+895,Shopko Corporate Office,Broken Bow,6/16/2019,15
+896,Shopko Corporate Office,Grand Island,6/16/2019,54
+897,Shopko Corporate Office,Holdrege,6/16/2019,21
+898,Shopko Corporate Office,North Platte,6/16/2019,45
+899,Shopko Corporate Office,O'Neill,6/16/2019,19
+900,Shopko Corporate Office,Valentine,6/16/2019,18
+901,Shopko Corporate Office,Wayne,6/16/2019,25
+902,Wahoo Super,Wahoo,6/5/2019,28
+903,Payless,Scottsbluff,5/31/2019,2
+904,Bigler Motors,Lincoln,5/31/2019,12
+905,Payless ShoeSource,Norfolk - Sunset Plaza Mall,5/28/2019,6
+906,Blue Blood Brewery,Lincoln,5/16/2019,34
+907,Wiggles and Giggles Academy,Holdrege,5/15/2019,9
+908,Casey's General Store,Lincoln,5/12/2019,6
+909,Shopko xxxxx,Beatrice,5/12/2019,15
+910,Shopko xxxx,Ainsworth,5/12/2019,15
+911,Shopko Hometown xxxx,Falls City,5/12/2019,25
+912,Shopko Corporate Office,Falls City,5/12/2019,25
+913,Shopko Corporate Office,Ainsworth,5/12/2019,18
+914,Shopko Corporate Office,Beatrice,5/12/2019,15
+915,Cabela's Corporation,Returns Facility - Oshkosh,5/11/2019,41
+916,Cabela's Corporation,Distribution Center - Sidney,5/11/2019,120
+917,Schuyler Care & Rehabilitation Center,Schuyler,5/11/2019,53
+918,Norfolk Care & Rehabilitation Center,Norfolk,5/11/2019,42
+919,Cabela's x,Oshkosh Returns Facility,5/11/2019,41
+920,Cabela's x,Sidney Distribution Center,5/11/2019,120
+921,Shopko Hometown xxxx,Auburn,5/5/2019,20
+922,Shopko Hometown xxxx,Superior,5/5/2019,12
+923,Shopko xxxx,Gothenburg,5/5/2019,15
+924,Shopko Corporate Office,Gothenburg,5/5/2019,15
+925,Shopko Corporate Office,Auburn,5/5/2019,20
+926,Shopko Corporate Office,West Point,5/2/2019,24
+927,Shopko Corporate Office,Norfolk,5/1/2019,35
+928,Noodles & Company,Lincoln,4/23/2019,16
+929,"Elkhorn River Farms, LLC",O'Neill,4/22/2019,31
+930,Payless ShoeSource,Lincoln 6845,4/20/2019,2
+931,Payless ShoeSource,Lincoln 4200,4/19/2019,3
+932,Payless,North Platte,4/19/2019,5
+933,Spectrum America Supply Chain Solutions (Shopko distribution)xxxx,Shopko Distribution Center,4/15/2019,295
+934,Shopko Corporate Office,Lincoln - 4200 South 27th Street,4/15/2019,42
+935,Shopko Corporate Office,Lincoln - 100 South 66th Street,4/15/2019,44
+936,Shopko Corporate Office,Lincoln - 6845 South 27th Street,4/15/2019,44
+937,Shopko Corporate Office,Lincoln - 4200 South 27th Street Optical,4/15/2019,5
+938,Shopko Corporate Office,Omaha - Shopko Distribution Center,4/15/2019,295
+939,Payless ShoeSource,Gateway Mall - Lincoln,4/14/2019,
+940,Lincoln Journal Star,Lincoln,4/13/2019,48
+941,Buck's Shoes,Omaha,4/9/2019,6
+942,Buck's Shoes,Fremont,4/9/2019,2
+943,Century Lumber Center,Scottsbluff,4/1/2019,1
+944,Shopko Hometown xxxx,Albion,3/31/2019,17
+945,SkateDaze,Omaha,3/31/2019,6
+946,Shopko Corporate Office,Albion,3/31/2019,17
+947,Sears,Crossroads Mall - Omaha,3/29/2019,42
+948,Kmart,Alliance,3/24/2019,42
+949,Payless ShoeSource,Norfolk 2005,3/23/2019,1
+950,Payless ShoeSource,Lincoln N27th,3/23/2019,7
+951,Payless ShoeSource,In Shopko - Lincoln,3/19/2019,
+952,Sidney Care and Rehabilitation Center,Sidney,3/15/2019,51
+953,Wausa Care and Rehabilitation Center,Wausa,3/15/2019,39
+954,Nebraska Commission for the Blind x,Norfolk,3/12/2019,2
+955,Nebraska Commission for the Blind and Visually Impaired,Lincoln,3/12/2019,8
+956,Nebraska Commission for the Blind and Visually Impaired,Norfolk,3/12/2019,2
+957,Payless ShoeSource,Columbus,3/12/2019,6
+958,Legends Patio Bar & Grill,Lincoln,3/11/2019,18
+959,Sears,Lincoln - Gateway Mall,3/10/2019,
+960,Shopko xxxx,Lincoln NW,3/2/2019,48
+961,Shopko xxxx,Ord,3/2/2019,17
+962,Shopko Corporate Office,Ord,3/2/2019,17
+963,Shopko Corporate Office,Lincoln - 3400 North 27th Street,3/2/2019,48
+964,Capital One Financial,Lincoln,3/1/2019,4
+965,Sears,Grand Island,2/28/2019,27
+966,Shopko xxxx,Kimball,2/28/2019,16
+967,Corps of Discovery Welcome Center,Crofton,2/28/2019,1
+968,Shopko Corporate Office,Kimball,2/28/2019,16
+969,Shopko Corporate Office,Broken Bow,2/18/2019,3
+970,Country Nest,Kearney,2/18/2019,0
+971,Shopko xxxx,Ainsworth - Pharmacy,2/18/2019,3
+972,Shopko Hometown xxxx,Broken Bow - Pharmacy,2/18/2019,3
+973,The Solid Rock,Kearney,1/31/2019,6
+974,Union Pacific,Morrill,1/30/2019,68
+975,Gap,Lincoln,1/28/2019,
+976,US Bank,Lincoln,1/25/2019,
+977,US Bank,North Platte,1/25/2019,1
+978,Blue Valley Bowl,Hebron,1/17/2019,3
+979,Sears Hometown Store,Beatrice,1/15/2019,5
+980,Shopko Hometown Pharmacy xxxx,Wayne,1/12/2019,9
+981,Shopko Corporate Office,Wayne,1/12/2019,9
+982,Shopko Corporate Office,Lincoln - 4200 South 27th Street Pharmacy,1/9/2019,6
+983,Shopko Corporate Office,Lincoln - 6845 South 27th Street Pharmacy,1/9/2019,4
+984,Shopko Pharmacy xxxx,Lincoln Pine Lake,1/9/2019,4
+985,Shopko Pharmacy xxxx,Lincoln 4200 S. 27th,1/9/2019,6
+986,Shopko Pharmacy xxxx,Lincoln 100 S. 66th,1/8/2019,
+987,Shopko Corporate Office,Lincoln - 100 South 66th Street Pharmacy,1/8/2019,
+988,Diversified Foods & Seasoning,Nebraska City,1/4/2019,54
+989,Quad Graphics,Sidney,1/4/2019,6
+990,Capital One Financial,Lincoln,1/4/2019,45

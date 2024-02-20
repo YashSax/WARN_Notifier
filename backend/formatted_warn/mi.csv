@@ -1,0 +1,564 @@
+,company_name,location,notice_date,employees_affected,Incident Type
+0,Concentrix Corporation,Auburn Hills,1/3/2023,125,Facility Closing
+1,PROSPECT AIRPORT SERVICES INC,Detroit,1/6/2023,516,Layoff
+2,Proper Group Holdings LLC,Warren,1/6/2023,130,Facility Closing
+3,Clover Imaging LLC,Ithaca,1/12/2023,82,Layoff
+4,MONITRONICS INTERNATIONAL INC,Belleville,1/13/2023,1,Layoff
+5,"Inteva Products, Inc.",Adrian,1/13/2023,149,Layoff
+6,Concentrix Corporation,Farmington,1/23/2023,161,Facility Closing
+7,MARSHALL EXCELSIOR CO INC,Marshall,1/30/2023,81,Layoff
+8,FINLANDIA UNIVERSITY,Hancock,3/6/2023,137,Facility Closing
+9,FUNCTION INC,Caledonia,3/15/2023,68,Facility Closing
+10,YELLOW CORPORATION,Taylor,3/16/2023,105,Facility Closing
+11,EYM KING OF MICHIGAN LLC,Detroit,3/23/2023,424,Facility Closing
+12,RAPID FINANCIAL SERVICES LLC,Detroit,3/24/2023,51,Layoff
+13,SANDLER TRAVIS TRADE ADVISORY,Southfield,3/31/2023,82,Facility Closing
+14,FLINT AND GENESEE CHAMBER OF,Flint,4/3/2023,90,Layoff
+15,HOME POINT FINANCIAL,Ann Arbor,4/11/2023,113,Layoff
+16,PHILLIE BRIDALS INC,Statewide,4/14/2023,217,Facility Closing
+17,DAWSON MANUFACTURING COMPANY,Benton Harbor,4/21/2023,90,Facility Closing
+18,LEAR CORP,Detroit,5/3/2023,332,Facility Closing
+19,LEAR CORP,Detroit,5/3/2023,226,Facility Closing
+20,LORDSTOWN MOTORS CORP,Farmington,5/9/2023,149,Layoff
+21,ILLINOIS TOOL WORKS INC,Holland,5/30/2023,171,Facility Closing
+22,TUBULAR METAL SYSTEMS LLC,Pinconning,5/31/2023,65,Facility Closing
+23,Grouper Acquisition Company LLC,Warren,6/2/2023,107,Facility Closing
+24,QUALITY SPRING/TOGO INC,Coldwater,6/12/2023,90,Facility Closing
+25,AUTISM HOME SUPPORT SERVICES,Northville,6/20/2023,116,Layoff
+26,HENRY FOX SALES COMPANY,Grand Rapids,7/13/2023,114,Facility Closing
+27,WEST MICHIGAN MOLDING INC,Grand Haven,7/20/2023,134,Facility Closing
+28,FCA US LLC,Dundee,7/20/2023,611,Layoff
+29,Yellow Corporation,Taylor,8/1/2023,654,Facility Closing
+30,"MINNIE MARIE BAKERS, INC.",Livonia,8/3/2023,93,Facility Closing
+31,Kelsey Hospital,Lakeview,8/7/2023,108,Facility Closing
+32,ALEXANDER & HORNUNG INC,Saint Clair Shores,8/16/2023,132,Facility Closing
+33,THRIVEWORKS ADMINISTRATIVE,Lynchburg,9/15/2023,78,Layoff
+34,NEWCOR INC,STATEWIDE,9/15/2023,293,Layoff
+35,EAGLE INDUSTRIES INC,Wixom,9/21/2023,60,Layoff
+36,SODECIA AUTOMOTIVE DETROIT,Center Line,9/25/2023,143,Layoff
+37,CASCADES ENVIROPAC HPM LLC,Grand Rapids,9/28/2023,35,Facility Closing
+38,MCLAREN HOME MEDICAL EQUIPMENT,Cheboygan,9/29/2023,10,Facility Closing
+39,Central Lake Armor Express Inc,Central Lake,1/11/2022,72,Facility Closing
+40,Penske Logistics LLC,Flint,1/25/2022,146,Facility Closing
+41,Lear Corporation,Roscommon,1/28/2022,71,Layoff
+42,Peloton Inc,Warren,2/18/2022,56,Layoff
+43,Assemble Rite LTD,Detroit,3/16/2022,250,Facility Closing
+44,Pretium Packaging LLC,Ypsilanti,3/25/2022,53,Facility Closing
+45,Robinson Industries,Coleman,4/8/2022,94,Layoff
+46,SodexoMAGIC,Saginaw,4/8/2022,63,Layoff
+47,Mitsubishi Chemical - Performance Polymers Division,Warren,4/13/2022,80*,Facility Closing
+48,Palisades Power Plant,Covert,4/13/2022,184,Facility Closing
+49,DHL Supply Chain (USA),Mount Clemens,4/14/2022,202,Facility Closing
+50,Fluid Routing Solutions LLC,Big Rapids,5/2/2022,60,Layoff
+51,Michigan Public Health,Okemos,5/13/2022,67,Layoff
+52,Penske Logistics LLC,Romulus,5/19/2022,426,Layoff
+53,Dynamic BDC,Troy,5/31/2022,175,Layoff
+54,Jervis B. Webb Company,Harbor Springs/Boyne City,6/1/2022,126,Layoff
+55,Magna Powertrain,Lansing,6/10/2022,92,Layoff
+56,Bon Appetit Management Co.,Hillsdale,7/19/2022,67,Facility Closing
+57,Resonetics,Mount Clemens,8/1/2022,91,Facility Closing
+58,North Lake Correctional Facility,Baldwin,8/3/2022,89,Facility Closing
+59,MV Transportation,Grand Rapids,8/10/2022,49,Facility Closing
+60,NBHX Trim Corporation,Comstock Park,8/26/2022,74,Facility Closing
+61,Homepoint,Ann Arbor,8/31/2022,217,Layoff
+62,Pink Energy,Troy,9/12/2022,Unreported,Facility Closing
+63,Second Samuel Transport Inc.,Statewide,9/15/2022,145,Facility Closing
+64,Dunn Paper,Port Huron,9/23/2022,125,Facility Closing
+65,DETDSP,Plymouth,9/27/2022,98,Layoff
+66,FCA US - Warren Truck Assembly Plant,Warren,10/12/2022,"1,215",Layoff
+67,Wayne Metropolitan Community Action Agency,Detroit,10/26/2022,113,Layoff
+68,"Argo AI, LLC",Allen Park,10/27/2022,173,Facility Closing
+69,Booking.Com,Grand Rapids,10/31/2022,226,Facility Closing
+70,Pace Industries Inc,Muskegon,11/1/2022,389,Facility Closing
+71,Faurecia,Highland Park,12/1/2022,268,Facility Closing
+72,Amerifirst Mortgage,Portage,12/15/2022,59,Layoff
+73,Great Lakes Tissue Company,Cheboygan,12/22/2022,51,Layoff
+74,The Dearborn Inn,Dearborn,1/3/2023,133,Layoff
+75,Sky Chefs,Detroit,2/3/2021,334,Facility Closing
+76,"Pitney Bowes Presort Services, Inc.",Pontiac,2/9/2021,62,Facility Closing
+77,JD NORMAN INDUSTRIES,Leslie,3/8/2021,56,Facility Closing
+78,SodexoMAGIC,Saginaw,4/26/2021,6,Facility Closing
+79,Aramark Food & Supply Service,Mount Pleasant,5/6/2021,174,Layoff
+80,FEDERAL MOGUL PISTON RINGS LLC,Sparta,5/11/2021,78,Facility Closing
+81,"Progenity, Inc",Ann Arbor,6/4/2021,110,Layoff
+82,"Metaldyne Powertrain Components, LLC",Litchfield,6/30/2021,23,Facility Closing
+83,CHERRY CENTRAL COOPERATIVE INC,Shelby,7/2/2021,70,Facility Closing
+84,Great Lakes Coca-Cola Distribution,Detroit,8/3/2021,131,Facility Closing
+85,"FIRST NATION GROUP, LLC",Detroit,10/7/2021,35,Facility Closing
+86,McKesson,Livonia,10/19/2021,86,Facility Closing
+87,Champion Bus Facility,Imlay City,10/19/2021,102,Facility Closing
+88,CHANGE HEALTHCARE,Clinton Township,12/1/2021,108,Layoff
+89,"DST Industries, Inc.",Romulus,1/14/2020,122,Plant Closing
+90,Cameron Valves & Process Systems,Muskegon,1/21/2020,64,Plant Closing
+91,Syncreon,Warren,1/24/2020,84,Plant Closing
+92,Latcha And Associates L.L.C.,Farmington Hills,1/27/2020,66,Mass Layoff
+93,Hemisphere Design Works,Muskegon,1/28/2020,42,Plant Closing
+94,Gill Industries Inc.,Grand Rapids,1/29/2020,59,Plant Closing
+95,GM-UAW Center for Human Resources,Detroit,1/30/2020,71,Mass Layoff
+96,"Exel, Inc. DBA DHL Supply Chain (USA)",Detroit,2/10/2020,144,Plant Closing
+97,Gerdau-Jackson,Jackson,2/10/2020,140,Mass Layoff
+98,"Bear Down Logistics Michigan, Inc.",Walker,2/18/2020,110,Plant Closing
+99,Alticor,Ada,2/19/2020,209,Mass Layoff
+100,Penske Logistics,Coldwater,2/25/2020,121,Plant Closing
+101,Peterson Spring,Madison Heights,2/28/2020,60,Plant Closing
+102,"Shenandoah Growers, Inc.",Shelbyville,3/2/2020,78,Plant Closing
+103,Art Van,Statewide,3/6/2020,979,Plant Closing
+104,"Walmart, Inc.",Ypsilanti,3/5/2020,226,Plant Closing
+105,Alutiiq,Detroit,3/16/2020,117,Plant Closing
+106,DTW North Partners LLC,Detroit,3/20/2020,85,Plant Closing
+107,"HBF APU JV II, LLC",Detroit,3/20/2020,313,Mass Layoff
+108,Worthington Specialty Processing,Canton,3/19/2020,66,Plant Closing
+109,Marriott Auburn Hills Pontiac at Centerpoint,Pontiac,3/23/2020,134,Mass Layoff
+110,Rusty Bucket Restaurant & Tavern,Various,3/23/2020,260,Mass Layoff
+111,"Cameron Mitchell Restaurants, LLC",Troy,3/23/2020,100,Mass Layoff
+112,Mann+Hummel,Portage,3/24/2020,377,Mass Layoff
+113,International Automotive Components (IAC),Mendon,3/24/2020,311,Plant Closing
+114,"IAC Alma, LLC",Alma,3/24/2020,91,Mass Layoff
+115,ZF Chassis Components,Lapeer,3/24/2020,240,Mass Layoff
+116,Detroit Foundation Hotel,Detroit,3/26/2020,111,Mass Layoff
+117,"Faith Plastics, Inc.",Marcellus,3/26/2020,53,Mass Layoff
+118,Bluebell Mattress Company,Roseville,3/26/2020,80,Plant Closing
+119,YMCA of Metropolitan Detroit,Various,3/26/2020,"1,318",Mass Layoff
+120,Kirchhoff Automotive Tecumseh,Tecumseh,3/24/2020,338,Mass Layoff
+121,ZF North America Inc.,Northville,3/26/2020,60,Mass Layoff
+122,The Rapid,Grand Rapids,3/24/2020,270,Mass Layoff
+123,Jacobsen/Daniels,Ypsilanti,3/27/2020,5,Mass Layoff
+124,Fly Away Valet,Ypsilanti,3/27/2020,24,Mass Layoff
+125,HMS Host,Detroit,3/26/2020,202,Mass Layoff
+126,Thetford Corporation,Dexter,3/26/2020,59,Mass Layoff
+127,MNM Entertainment DBA Art and Jakes,Shelby Township,3/26/2020,300,Mass Layoff
+128,Gazelle Sports Inc.,Kalamazoo,3/26/2020,164,Mass Layoff
+129,Paper Source,Birmingham,3/30/2020,27,Mass Layoff
+130,"Trott Law, P.C.",Farmington Hills,3/30/2020,52,Mass Layoff
+131,Convivial Brands,Grand Rapids,3/26/2020,48,Mass Layoff
+132,"Ken Garff Automotive, LLC",Various,3/31/2020,180,Mass Layoff
+133,ZF Axle Drives Marysville,Marysville,3/30/2020,800,Plant Closing
+134,"Collegiate Hotel Group, LLC",Ann Arbor,3/30/2020,113,Mass Layoff
+135,La Grasso Bros. Produce,Detroit,3/30/2020,77,Mass Layoff
+136,On-Board Companies,Mt. Clemens,3/31/2020,56,Mass Layoff
+137,Aludyne,Warren,4/1/2020,115,Plant Closing
+138,Benteler Automotive,Holland,3/31/2020,160,Mass Layoff
+139,Benteler Automotive,Galesburg,3/30/2020,185,Mass Layoff
+140,Benteler Automotive,Grand Rapids,3/31/2020,673,Mass Layoff
+141,Great Wolf Lodge,Traverse City,4/1/2020,317,Mass Layoff
+142,Martin-Brower Company LLC,St. Johns,4/1/2020,109,Mass Layoff
+143,"Trico Products, LLC",Rochester Hills,4/1/2020,108,Mass Layoff
+144,"Fram Group Operations, LLC",Rochester Hills,4/2/2020,35,Mass Layoff
+145,YMCA of Greater Grand Rapids,Grand Rapids,3/30/2020,"1,297",Mass Layoff
+146,Barber Packaging,Bangor,4/3/2020,12,Mass Layoff
+147,"H&R Wood Specialties, Inc.",Gobles,4/3/2020,8,Mass Layoff
+148,"TriStar Molding, Inc",Marcellus,4/3/2020,74,Mass Layoff
+149,Maxwell’s International Inc,Dearborn,4/3/2020,79,Plant Closing
+150,Maxwell's International Inc.,Northville,4/3/2020,64,Plant Closing
+151,Maxwell's International Inc.,Troy,4/3/2020,56,Plant Closing
+152,Spire Hospitality,Livonia,4/6/2020,65,Mass Layoff
+153,Schulte Companies,Grandville,3/31/2020,50,Mass Layoff
+154,DoubleTree Holland,Holland,3/31/2020,55,Mass Layoff
+155,Fluid Routing Solutions,Big Rapids,4/6/2020,150,Mass Layoff
+156,Embassy Suites Auburn Hills,Auburn Hills,3/31/2020,47,Mass Layoff
+157,Fairfield Inn Muskegon,Muskegon,3/31/2020,13,Mass Layoff
+158,Graduate Ann Arbor,Ann Arbor,3/31/2020,106,Mass Layoff
+159,Hampton Inn Ann Arbor North,Ann Arbor,3/31/2020,21,Mass Layoff
+160,Hampton Inn Grand Rapids,Grand Rapids,3/31/2020,13,Mass Layoff
+161,Hampton Inn Muskegon,Muskegon,3/31/2020,13,Mass Layoff
+162,Residence Inn Holland,Holland,3/31/2020,13,Mass Layoff
+163,Springhill Suites Grand Rapids,Grand Rapids,3/31/2020,20,Mass Layoff
+164,Flint West 14,Flint,4/3/2020,38,Plant Closing
+165,Ann Arbor 20,Ypsilanti,4/3/2020,73,Plant Closing
+166,Cinemark Taylor,Taylor,4/3/2020,51,Plant Closing
+167,Double Tree Grand Rapids Airport,Grand Rapids,4/6/2020,95,Mass Layoff
+168,Americhem,Grand Rapids,4/6/2020,17,Mass Layoff
+169,Eagle Industries Inc.,Wixom,4/7/2020,225,Plant Closing
+170,L.O. Eye Care,East Lansing,4/7/2020,73,Mass Layoff
+171,Peak Workforce Solutions,Livonia,4/7/2020,30,Mass Layoff
+172,General Linen and Uniform Service,Detroit,4/7/2020,62,Mass Layoff
+173,SAS Automotive USA,Sterling Heights,4/8/2020,293,Mass Layoff
+174,"Vitro Automotive / Pittsburgh Glass Works, LLC",Evart,4/8/2020,125,Plant Closing
+175,"Prospect Airport Services, Inc",Romulus,4/9/2020,132,Mass Layoff
+176,Precision Vehicle Solutions,Wayne,4/9/2020,180,Mass Layoff
+177,Morbark,Winn,4/9/2020,183,Mass Layoff
+178,"Beasley Media Group, LLC",Ferndale,4/9/2020,26,Mass Layoff
+179,"Quality Air Heating and Cooling, Inc.",Grand Rapids,4/10/2020,212,Mass Layoff
+180,"Agrati, Inc.",Southfield,4/10/2020,15,Mass Layoff
+181,"Pace Industries, Inc.",Muskegon,4/8/2020,456,Mass Layoff
+182,"Yazaki North America, Inc.",Canton,4/10/2020,56,Mass Layoff
+183,"Yazaki North America, Inc.",Canton,4/10/2020,622,Mass Layoff
+184,"Yazaki North America, Inc.",Canton,4/10/2020,45,Mass Layoff
+185,Yazaki North America,Petoskey,4/10/2020,126,Mass Layoff
+186,"ASC Industries, Inc.",Rochester Hills,4/10/2020,5,Mass Layoff
+187,"G2 Secure Staff, LLC",Detroit,4/13/2020,68,Mass Layoff
+188,Ameriwood Industries,Dowagiac,4/13/2020,79,Plant Closing
+189,Pokagon Gaming Authority dba Four Winds Casinos,New Buffalo,4/13/2020,"1,489",Mass Layoff
+190,"Hooters of America, LLC",Atlanta,4/13/2020,85,Mass Layoff
+191,"Gill Industries, Inc.",Walker,4/13/2020,64,Mass Layoff
+192,"Samsung SDI America, Inc.",Auburn Hills,4/13/2020,38,Mass Layoff
+193,Bear Down Logistics Walker East Facility,Walker,4/13/2020,24,Plant Closing
+194,Schafer Woodworks Inc.,Tecumseh,4/14/2020,25,Mass Layoff
+195,Wolverine Corporation,St. Joseph,4/15/2020,58,Mass Layoff
+196,Wolverine Corporation,Stevensville,4/15/2020,12,Mass Layoff
+197,The Tile Shop,Ottawa Lake,4/16/2020,55,Mass Layoff
+198,"AVIS Budget Car Rental, LLC",Detroit,4/17/2020,159,Mass Layoff
+199,"Williams International, LLC.",Pontiac,4/20/2020,224,Mass Layoff
+200,"Williams International, LLC.",Commerce Township,4/20/2020,24,Mass Layoff
+201,Marsh Plating Corp.,Ypsilanti,4/20/2020,73,Mass Layoff
+202,Marsh Plating-Willow Run,Ypsilanti,4/20/2020,15,Mass Layoff
+203,Finishing Services Inc.,Ypsilanti,4/20/2020,9,Mass Layoff
+204,"Avis Budget Car Rental, LLC",Grand Rapids,4/20/2020,28,Mass Layoff
+205,Tilden Mining Company LLC,Ishpeming,4/21/2020,687,Mass Layoff
+206,Founders Grand Rapids Taproom and Company Store,Grand Rapids,4/21/2020,111,Mass Layoff
+207,Founders Detroit Taproom,Detroit,4/21/2020,52,Mass Layoff
+208,"Dura Automotive Systems, LLC - Auburn Hills",Auburn Hills,4/21/2020,212,Plant Closing
+209,"Dura Automotive, LLC - Fremont",Fremont,4/21/2020,118,Plant Closing
+210,Enterprise Holdings,Romulus,4/22/2020,114,Mass Layoff
+211,Beaumont Health,Southfield,4/23/2020,"2,900",Mass Layoff
+212,"Visionworks, Inc. - Taylor",Taylor,4/23/2020,2,Mass Layoff
+213,"Visionworks, Inc. - Rochester Hills",Rochester Hills,4/23/2020,4,Mass Layoff
+214,"Visionworks, Inc. - Roseville",Roseville,4/23/2020,9,Mass Layoff
+215,"Visionworks, Inc. - Sterling Heights",Sterling Heights,4/23/2020,5,Mass Layoff
+216,"Visionworks, Inc. - Novi",Novi,4/23/2020,5,Mass Layoff
+217,"Visionworks, Inc. - Canton",Canton,4/23/2020,3,Mass Layoff
+218,"Visionworks, Inc. - Lake Orion",Lake Orion,4/23/2020,1,Mass Layoff
+219,"Visionworks, Inc. - Allen Park",Allen Park,4/23/2020,3,Mass Layoff
+220,"Visionworks, Inc. - Ann Arbor",Ann Arbor,4/23/2020,4,Mass Layoff
+221,"Visionworks, Inc. - Southfield",Southfield,4/23/2020,3,Mass Layoff
+222,Punchbowl Social LLC,Detroit,4/23/2020,97,Mass Layoff
+223,Michigan Maple Block Company,Petoskey,4/27/2020,56,Plant Closing
+224,"Bloomin Brands, Inc.",Various,4/27/2020,"2,289",Mass Layoff
+225,City of Grand Haven,Grand Haven,4/28/2020,74,Mass Layoff
+226,ArcelorMittal,Southfield,4/28/2020,6,Mass Layoff
+227,Country Fresh LLC,Livonia,4/29/2020,44,Mass Layoff
+228,Hertz,Detroit,4/30/2020,104,Mass Layoff
+229,Aludyne,Benton Harbor,4/30/2020,44,Mass Layoff
+230,Flint Group Packaging Inks North America Holdings,Three Rivers,4/30/2020,58,Plant Closing
+231,AK Steel Dearborn Works,Dearborn,5/4/2020,343,Plant Closing
+232,GPI Midwest LLC,White Pigeon,5/4/2020,100,Plant Closing
+233,Busche Performance Group,Southfield,4/30/2020,89,Mass Layoff
+234,Busche Aluminum Technologies Fruitport,Fruitport,4/30/2020,362,Mass Layoff
+235,Great Lakes Specialty Finance Inc.,Statewide,5/5/2020,62,Mass Layoff
+236,MGM Grand Detroit,Detroit,5/5/2020,"1,561",Mass Layoff
+237,"Aludyne, Inc.",Montague,5/5/2020,82,Mass Layoff
+238,Moiron,Sparta,5/7/2020,96,Mass Layoff
+239,Embassy Suites by Hilton,Troy,5/7/2020,65,Mass Layoff
+240,Marriott Detroit Southfield,Southfield,5/7/2020,61,Mass Layoff
+241,Akwel Automotive - Cadillac,Cadillac,5/8/2020,109,Mass Layoff
+242,Akwel Automotive - Novi,Novi,5/8/2020,12,Mass Layoff
+243,"Sara Lee Frozen Bakery, LLC",Traverse City,5/11/2020,210,Mass Layoff
+244,Pettibone/Traverse Lift LLC,Baraga,5/8/2020,36,Mass Layoff
+245,Atrium Hospitality,Southfield,5/11/2020,142,Mass Layoff
+246,Cox Automotive,Carleton,5/11/2020,144,Mass Layoff
+247,"Norma Group, Inc,",Auburn Hills,5/12/2020,82,Plant Closing
+248,Enterprise Holdings,Farmington Hills,5/12/2020,32,Mass Layoff
+249,Marriott Detroit Livonia Hotel,Livonia,5/12/2020,60,Mass Layoff
+250,Genesis Seating,Grand Rapids,5/11/2020,203,Mass Layoff
+251,Davidson Plyforms,Grand Rapids,5/11/2020,120,Mass Layoff
+252,Grand River Polishing,Spring Lake,5/18/2020,20,Mass Layoff
+253,"Gill Industries, Inc.",Grand Rapids,5/18/2020,84,Mass Layoff
+254,Marriott Auburn Hills Pontiac at Centerpoint,Pontiac,5/22/2020,101,Mass Layoff
+255,Aramark,Warren,5/26/2020,83,Mass Layoff
+256,Walbro LLC,Cass City,5/27/2020,164,Mass Layoff
+257,First Student,Pontiac,5/28/2020,87,Plant Closing
+258,The Townsend Hotel,Birmingham,5/28/2020,60,Mass Layoff
+259,Wireless Vision,Bloomfield Hills,6/1/2020,37,Mass Layoff
+260,Westin Detroit Metropolitan Airport,Detroit,6/2/2020,197,Mass Layoff
+261,Detroit Marriott Troy,Troy,6/3/2020,134,Mass Layoff
+262,Howmet Aerospace,Whitehall,6/3/2020,625,Mass Layoff
+263,The Dearborn Inn,Dearborn,6/4/2020,177,Mass Layoff
+264,The Westin Book Cadillac Detroit,Detroit,6/4/2020,227,Mass Layoff
+265,Courtyard by Mariott Detroit,Detroit,6/9/2020,54,Mass Layoff
+266,Marriott Detroit Renaissance Center,Detroit,6/9/2020,450,Mass Layoff
+267,"Creative Dining Services, Inc.",Grand Rapids,6/8/2020,123,Mass Layoff
+268,Greektown Casino Hotel,Detroit,6/15/2020,912,Mass Layoff
+269,US Steel - Great Lakes Works,Ecorse,6/8/2020,220,Plant Closing
+270,"Glasstender, Inc.",Saginaw,6/8/2020,,Mass Layoff
+271,Marriott Ypsilanti At Eagle Crest,Ypsilanti,6/15/2020,125,Mass Layoff
+272,Jacobsen/Daniels,Ypsilanti,6/15/2020,24,Mass Layoff
+273,Continental,Troy,6/15/2020,72,Mass Layoff
+274,Continental,Van Buren,6/15/2020,72,Mass Layoff
+275,Staples,Livonia,6/18/2020,61,Mass Layoff
+276,B.F. Saul Company Hospitality Group,Auburn Hills,6/15/2020,53,Plant Closing
+277,"Jacobsen Daniels Enterprise, Inc.",Ypsilanti,6/15/2020,6,Mass Layoff
+278,"Swissport SA USA, LLC",Grand Rapids,6/22/2020,55,Mass Layoff
+279,Adesa Flint,Flint,6/25/2020,173,Mass Layoff
+280,Bon Appetit Management,Albion,7/1/2020,129,Mass Layoff
+281,"LG Electronics Vehicle Components USA, LLC",Hazel Park,7/2/2020,79,Plant Closing
+282,McLaren Bay Region,Bay City,7/6/2020,74,Mass Layoff
+283,Delaware North,Detroit,7/13/2020,"1,696",Mass Layoff
+284,Delta Airlines,Detroit,7/9/2020,246,Mass Layoff
+285,MAPAL Inc.,Port Huron,7/14/2020,50,Mass Layoff
+286,Hilton Garden Inn Hotel,Ann Arbor,7/10/2020,39,Mass Layoff
+287,Paradies Lagardere,Detroit,7/16/2020,,Mass Layoff
+288,TownePlace Suites Hotel,Ann Arbor,7/10/2020,14,Mass Layoff
+289,Holiday Inn Grand Rapids Downtown,Grand Rapids,7/13/2020,18,Mass Layoff
+290,Amway Grand Plaza Hotel,Grand Rapids,7/14/2020,355,Mass Layoff
+291,JW Marriott,Grand Rapids,7/14/2020,144,Mass Layoff
+292,Courtyard by Marriott,Grand Rapids,7/14/2020,50,Mass Layoff
+293,AC Hotel,Grand Rapids,7/14/2020,31,Mass Layoff
+294,Doubletree Suites,Detroit,7/22/2020,58,Mass Layoff
+295,"Advance Local Media, LLC",Walker,7/16/2020,71,Plant Closing
+296,Marley Precision,Battle Creek,7/24/2020,57,Plant Closing
+297,Marelli Automotive Lighting,Clarkston,7/27/2020,228,Plant Closing
+298,MotorCity Casino Hotel,Detroit,7/27/2020,"2,554",Mass Layoff
+299,Leadec Corp.,Romulus,7/20/2020,50,Mass Layoff
+300,Spirit Airlines,Detroit,7/30/2020,190,Mass Layoff
+301,Infinity Primary Care,Novi,7/30/2020,57,Plant Closing
+302,VitalCare and VitalCare HME,Cheboygan,7/27/2020,236,Plant Closing
+303,Hudson Group,Detroit,8/3/2020,48,Mass Layoff
+304,Cooper Standard,Oscoda,8/3/2020,197,Mass Layoff
+305,DTW Wine Bar,Detroit,8/11/2020,6,Mass Layoff
+306,"Sky Chefs, Inc.",Detroit,8/11/2020,102,Mass Layoff
+307,Maritz,Southfield,8/13/2020,5,Mass Layoff
+308,HMSHost,Grand Rapids,8/18/2020,82,Mass Layoff
+309,"Vetta, LLC",Fowlerville,8/21/2020,73,Plant Closing
+310,Ascension Technologies,Troy,8/24/2020,223,Plant Closing
+311,Aramark,Warren,8/26/2020,196,Mass Layoff
+312,Orlans PC,Troy,9/2/2020,,Mass Layoff
+313,UAW-Chrysler National Training Center,Warren,9/1/2020,73,Plant Closing
+314,Dave & Buster's,Livonia,9/10/2020,111,Mass Layoff
+315,Domtar,Port Huron,9/23/2020,200,Plant Closing
+316,SP+ Corporation,Detroit,9/24/2020,95,Mass Layoff
+317,P.F. Changs China Bistro,Rochester,9/21/2020,75,Mass Layoff
+318,P.F. Changs China Bistro,Grand Rapids,9/21/2020,75,Mass Layoff
+319,P.F. Changs China Bistro,Troy,9/21/2020,75,Mass Layoff
+320,P.F. Changs China Bistro,Clinton Township,9/21/2020,75,Mass Layoff
+321,P.F. Changs China Bistro,Ann Arbor,9/21/2020,75,Mass Layoff
+322,P.F. Changs China Bistro,Lansing,9/21/2020,75,Mass Layoff
+323,P.F. Changs China Bistro,Livonia,9/21/2020,75,Mass Layoff
+324,P.F. Changs China Bistro,Dearborn,9/21/2020,75,Mass Layoff
+325,Federal Mogul - Tenneco,Sparta,9/17/2020,121,Plant Closing
+326,Kroger Food Stores,Sturgis,10/2/2020,73,Plant Closing
+327,Select Specialty Hospital,Muskegon,10/6/2020,80,Plant Closing
+328,Lansing Entertainment and Public Facilities,Lansing,10/6/2020,24,Mass Layoff
+329,Le Tote Inc.,Novi,10/1/2020,46,Plant Closing
+330,TPL Transition Services/Globe Fire Sprinkler Corp.,Standish,11/4/2020,154,Plant Closing
+331,Eastman Chemical Company,Trenton,11/16/2020,75,Plant Closing
+332,"Eurest (Compass Group USA, INC)",Auburn Hills,11/16/2020,98,Mass Layoff
+333,Keihin Michigan Manufacturing,Capac,11/23/2020,4,Plant Closing
+334,Bartech Staffing,Southfield,12/7/2020,70,Mass Layoff
+335,"Cameron Mitchell Restaurants, LLC",Troy,12/7/2020,76,Mass Layoff
+336,Allied Universal,Statewide,12/8/2020,664,Mass Layoff
+337,Tech Mahindra Americas Inc.,Lansing,12/15/2020,81,Mass Layoff
+338,Rusty Bucket Restaurant & Tavern,Various,12/15/2020,74,Mass Layoff
+339,Booking.com,Grand Rapids,9/21/2020,63,Mass Layoff
+340,NBHX Trim Corporation,Comstock Park,12/22/2020,76,Mass Layoff
+341,Reprise Media,Birmingham,1/10/2019,92,Mass Layoff
+342,Universal McCann Worldwide Inc,Birmingham,1/10/2019,116,Mass Layoff
+343,Mediabrands Worldwide Inc,Birmingham,1/10/2019,5,Mass Layoff
+344,WE Energies,Marquette,1/19/2019,89,Plant Closing
+345,Tribus Services,Lansing,1/29/2019,87,Plant Closing
+346,Tribus Services,Waterford,1/29/2019,97,Plant Closing
+347,Trinity Health Senior Communities,Ypsilanti,1/29/2019,115,Plant Closing
+348,Harsco Rail,Ludington,2/1/2019,151,Plant Closing
+349,Ford Motor Co. - Flat Rock,Flat Rock,2/4/2019,"3,100",Mass Layoff
+350,Monroe Bank & Trust,Monroe,2/4/2019,93,Mass Layoff
+351,PPG Coating Services,Livonia,2/4/2019,46,Plant Closing
+352,General Motors - Technical Center,Warren,2/5/2019,"1,298",Mass Layoff
+353,"Dorma USA, Inc",Madison Heights,2/6/2019,103,Plant Closing
+354,Integrated Manufacturing & Assembly,Detroit,2/6/2019,175,Mass Layoff
+355,Dakkota Integrated Systems,Brownstown,2/19/2019,106,Mass Layoff
+356,The RADGroup,Troy,2/19/2019,9,Mass Layoff
+357,Amstore Corporation,Grand Rapids,2/25/2019,145,Plant Closing
+358,Target,Sterling Heights,2/26/2019,136,Plant Closing
+359,Kerry Incorporated,Kentwood,2/28/2019,107,Plant Closing
+360,AMI Livonia LLC,Livonia,3/12/2019,96,Plant Closing
+361,Lapeer Industries Inc,Lapeer,3/12/2019,160,Mass Layoff
+362,Vibra Hospital,Lincoln Park,3/21/2019,89,Plant Closing
+363,Fifth Third Bank,Ann Arbor,3/22/2019,87,Mass Layoff
+364,Thomson Shore,Dexter,3/25/2019,80,Mass Layoff
+365,Kroger,Mt Pleasant,3/27/2019,91,Plant Closing
+366,Detroit Renewable Power,Detroit,3/27/2019,166,Plant Closing
+367,TreeHouse Private Brands,Battle Creek,3/28/2019,75,Plant Closing
+368,Fiat Chrysler Automobiles (FCA),Detroit,4/1/2019,703,Plant Closing
+369,Falcon Transport Company,Romulus,4/30/2019,84,Plant Closing
+370,Amway,Ada,5/3/2019,115,Mass Layoff
+371,"Concerto of Michigan, Inc",Kalamazoo,5/6/2019,75,Plant Closing
+372,"Concerto of Michigan, Inc",Center Line,5/6/2019,10,Plant Closing
+373,"Concerto of Michigan, Inc",Southfield,5/2/2019,54,Plant Closing
+374,General Motors,Warren,5/23/2019,265,Plant Closing
+375,Durham School Services LP,Ypsilanti,5/28/2019,86,Plant Closing
+376,Lord & Taylor,Sterling Heights,6/5/2019,97,Plant Closing
+377,Lear Corporation,Taylor,6/10/2019,76,Plant Closing
+378,Conifer Health Solutions;,Detroit,6/13/2019,65,Mass Layoff
+379,Concentrix Corporation,Southfield,6/26/2019,100,Plant Closing
+380,Nordstrom,Clinton Township,7/1/2019,106,Plant Closing
+381,"Graham Packaging Company, LP",Holland,7/3/2019,42,Plant Closing
+382,Community Development Institute Head Start,Garden City,7/24/2019,49,Mass Layoff
+383,Alorica,Jackson,7/26/2019,130,Mass Layoff
+384,A123 Systems LLC - Livonia,Livonia,7/30/2019,42,Plant Closing
+385,Presbyterian Villages of Michigan,Southfield,8/5/2019,95,Mass Layoff
+386,US Steel Corporation - Great Lakes Works,Ecorse,8/5/2019,58,Mass Layoff
+387,Venchurs Inc,Adrian,8/16/2019,40,Plant Closing
+388,Venchurs Inc,Adrian,8/16/2019,40,Plant Closing
+389,Venchurs Inc,Adrian,8/16/2019,40,Plant Closing
+390,Venchurs Vehicle Systems LLC,Adrian,8/16/2019,6,Plant Closing
+391,Jack Entertainment,Detroit,9/9/2019,92,Plant Closing
+392,Nestle,Plymouth,9/3/2019,57,Plant Closing
+393,Amway,Ada,9/11/2019,166,Mass Layoff
+394,Barber Steel Foundry,Rothbury,9/20/2019,61,Plant Closing
+395,Tower International,Livonia,10/2/2019,115,Mass Layoff
+396,Alorica,Jackson,10/25/2019,67,Plant Closing
+397,OakWood Worldwide (US) LP,Novi,10/30/2019,3,Mass Layoff
+398,Hemisphere Design Works,Muskegon,10/29/2019,68,Plant Closing
+399,Nestle,Kalamazoo,11/6/2019,7,Mass Layoff
+400,AmCane Sugar,Taylor,11/12/2019,73,Plant Closing
+401,P&F Systems,Auburn Hills,11/21/2019,50,Plant Closing
+402,General Motors Detroit Hamtramck Assembly,Detroit,12/3/2019,,Mass Layoff
+403,Logistics Insight Corp.,Detroit,12/9/2019,,Mass Layoff
+404,"Focus Hope Companies, Inc.",Detroit,12/16/2019,58,Plant Closing
+405,Motus One (ESI),Troy,12/26/2019,37,Mass Layoff
+406,U.S. Steel Corporation,Ecorse,12/23/2019,"1,286",Plant Closing
+407,Sam's Club #8137,Lansing,1/11/2018,172,Plant Closing
+408,Sam's Club #4812,Farmington Hills,1/11/2018,158,Plant Closing
+409,Bosal Industries,Ypsilanti,1/31/2018,142,Mass Layoff
+410,Elder-Beerman,Adrian,2/5/2018,10,Plant Closing
+411,Carson's,Benton Harbor,2/5/2018,50,Plant Closing
+412,Compass Group,Statewide,2/5/2018,396,Plant Closing
+413,Integrated Manufacturing & Assembly,Highland Park,3/5/2018,127,Mass Layoff
+414,"Quest Diagnostics, Inc",Troy,3/8/2018,57,Plant Closing
+415,Envoy,Detroit,3/14/2018,114,Plant Closing
+416,Live Nation - Filmore Detroit,Detroit,4/2/2018,180,Mass Layoff
+417,Younkers,Grandville,4/9/2018,70,Plant Closing
+418,Carson's,Livonia,4/9/2018,204,Plant Closing
+419,Carson's,Rochester Hills,4/9/2018,130,Plant Closing
+420,Carson's,Clinton Twp.,4/9/2018,191,Plant Closing
+421,"Trinity Services Group, Inc.",Statewide,4/19/2018,307,Plant Closing
+422,Izzyplus,Spring Lake,4/23/2018,72,Plant Closing
+423,Carson's,Fort Gratiot,4/19/2018,10,Plant Closing
+424,MB Financial Bank,Ann Arbor,4/26/2018,406,Plant Closing
+425,MB Financial Bank,Milford,4/26/2018,63,Plant Closing
+426,MB Financial Bank,Farmington Hills,4/26/2018,25,Plant Closing
+427,MB Financial Bank,Northville,4/26/2018,25,Plant Closing
+428,MB Financial Bank,Southfield,4/26/2018,25,Plant Closing
+429,MB Financial Bank,Taylor,4/26/2018,25,Plant Closing
+430,MB Financial Bank,West Bloomfield,4/26/2018,25,Plant Closing
+431,New Center Community Services,Detroit,4/30/2018,66,Plant Closing
+432,Sodexo,Detroit,5/3/2018,34,Plant Closing
+433,Microline Technology Corporation,Traverse City,5/22/2018,63,Plant Closing
+434,Edwards Brothers Malloy Printing,Ann Arbor,6/4/2018,140,Plant Closing
+435,Edwards Brothers Malloy Printing,Ann Arbor,6/4/2018,142,Plant Closing
+436,Gardens Alive! Farms,Grand Haven,6/4/2018,295,Plant Closing
+437,SMART,Detroit,6/8/2018,318,Mass Layoff
+438,Country Fresh,Livonia,6/20/2018,85,Plant Closing
+439,Teleperformance USA,Grand Rapids,6/21/2018,91,Mass Layoff
+440,"Dream Center Education Holdings, LLC",Novi,6/29/2018,116,Plant Closing
+441,Kellogg,Battle Creek,7/30/2018,70,Mass Layoff
+442,Charter Communications,Walker,8/1/2018,51,Mass Layoff
+443,Charter Communications,Livonia,8/6/2018,60,Mass Layoff
+444,American Red Cross,Statewide,8/27/2018,284,Mass Layoff
+445,Polly's Country Market,Dexter,8/27/2018,49,Plant Closing
+446,Great Lakes Coca-Cola,Kalamazoo,9/7/2018,102,Plant Closing
+447,Menzies Aviation,Detroit,9/14/2018,189,Mass Layoff
+448,LenderLive,Madison Heights,9/19/2018,56,Plant Closing
+449,StateFarm,Livonia,10/4/2018,62,Plant Closing
+450,"Spectrum Industries Decorative Finishes, Inc",Kentwood,10/8/2018,26,Plant Closing
+451,Ernest Industries,Westland,10/16/2018,70,Plant Closing
+452,Professional Educational Services Group,Caledonia,10/23/2018,18,Plant Closing
+453,Bays Bakery,Detroit,10/24/2018,50,Plant Closing
+454,Lowe's - Store #761,Burton,11/5/2018,129,Plant Closing
+455,Lowe's - Store 669,Flint,11/5/2018,107,Plant Closing
+456,Aunt Millie's,Coldwater,11/5/2018,74,Plant Closing
+457,Hard Rock Cafï¿½ International,Detroit,11/27/2018,60,Plant Closing
+458,Alphi Manufacturing LLC,Jonesville,11/29/2018,60,Mass Layoff
+459,Cracker Barrel Old Country Store,Kalamazoo,11/30/2018,135,Plant Closing
+460,Alutiiq Professional Services,Flint,12/4/2018,25,Mass Layoff
+461,RCO Engineering,Warren,12/5/2018,68,Mass Layoff
+462,GM Detroit Hamtramck,Detroit,12/17/2018,620,Plant Closing
+463,GM Detroit Hamtramck LOC,Detroit,12/17/2018,44,Plant Closing
+464,GM Brownstown,Brownstown Township,12/17/2018,50,Mass Layoff
+465,Adient USA LLC,Charlotte,12/21/2018,212,Plant Closing
+466,Bosal Industries,Ypsilanti,12/21/2018,58,Mass Layoff
+467,American Seating Company,Grand Rapids,1/4/2017,80,Mass Layoff
+468,Macy's,Statewide,1/5/2017,70,Plant Closing
+469,Sears,Statewide,1/5/2017,84,Plant Closing
+470,Kmart,Statewide,1/5/2017,194,Plant Closing
+471,Focus: HOPE Companies Inc.,Detroit,1/9/2017,120,Mass Layoff
+472,Weir Delta Industrial Valves,Niles,1/11/2017,56,Plant Closing
+473,Kellogg's Detroit Distribution Center,New Hudson,5/26/2017,211,Plant Closing
+474,Android,Detroit,1/25/2017,10,Mass Layoff
+475,Yanfeng,Monroe,1/26/2017,321,Mass Layoff
+476,"Inovalon, Inc.",Lansing,1/27/2017,118,Plant Closing
+477,Alamo Drafthouse Cinema,Kalamazoo,2/1/2017,109,Plant Closing
+478,International Specialty Tube,Detroit,2/3/2017,114,Plant Closing
+479,"Penske Vehicle Services, Inc.",Statewide,2/6/2017,166,Mass Layoff
+480,MC Sporting Goods,Grand Rapids,2/8/2017,250,Plant Closing
+481,Yanfeng,Delta Twp.,2/17/2017,285,Plant Closing
+482,Inteva Products,Adrian,2/22/2017,160,Mass Layoff
+483,Family Christian Bookstores,Grand Rapids,2/24/2017,170,Plant Closing
+484,GM - Lansing Ass'y (Delta),Lansing,3/6/2017,"1,146",Mass Layoff
+485,Miner's Inc. (Super One Foods),Escanaba,3/7/2017,75,Plant Closing
+486,AT&T DSL Care Center,Detroit,3/15/2017,53,Plant Closing
+487,Civil & Environmental Consultants (CEC),Novi,3/16/2017,8,Plant Closing
+488,Suniva,Saginaw Twp.,3/30/2017,59,Mass Layoff
+489,RevSpring,Wixom,3/31/2017,52,Mass Layoff
+490,A123 Systems,Romulus,4/3/2017,55,Mass Layoff
+491,A123 Systems,Livonia,4/3/2017,75,Mass Layoff
+492,Sodexo,Detroit,4/3/2017,52,Mass Layoff
+493,CEVA Logistics U.S.,Redford,4/3/2017,188,Mass Layoff
+494,Dollar Express,Statewide,4/3/2017,185,Plant Closing
+495,Linear AMS,Livonia,4/24/2017,40,Mass Layoff
+496,First Student,Flat Rock,4/25/2017,61,Plant Closing
+497,Woodward Academy,Detroit,5/1/2017,65,Plant Closing
+498,Sun Pharmaceutical Industries,Wixom,5/3/2017,25,Mass Layoff
+499,Huntington Bank,Holland,5/12/2017,115,Plant Closing
+500,Durham School Services,Southfield,5/4/2017,118,Mass Layoff
+501,Comcast,Wixom,5/23/2017,72,Plant Closing
+502,Durham School Services,Romulus,5/26/2017,0,Mass Layoff
+503,B&B Bachrach,Auburn Hills,6/1/2017,5,Plant Closing
+504,Dematic,Grand Rapids,7/3/2017,204,Mass Layoff
+505,Fiat Chrysler Automobiles,Detroit,7/3/2017,82,Plant Closing
+506,Kindred Hospital,Detroit,7/20/2017,145,Plant Closing
+507,DEX YP,Madison Heights,7/31/2017,108,Plant Closing
+508,Adient USA,Auburn Hills,7/31/2017,129,Plant Closing
+509,Molina Medical,Dearborn,8/1/2017,120,Plant Closing
+510,Great Lakes Wine & Spirits,Petoskey,8/14/2017,101,Plant Closing
+511,Dairy Fresh Foods (Detroit City Dairy),Taylor,8/15/2017,180,Plant Closing
+512,Genpact,Farmington Hills,8/22/2017,104,Plant Closing
+513,Arvato Digital Services,Farmington Hills,8/23/2017,72,Plant Closing
+514,People's Bank - National Mortgage Business Division,Southfield,9/18/2017,62,Plant Closing
+515,Thrift Books - Detroit Processing Center,Riverview,10/4/2017,,Plant Closing
+516,Home Rehabilitative Services of Michigan,Commerce Twp.,10/16/2017,113,Plant Closing
+517,Automotive Components Carrier,Flint,10/11/2017,60,Plant Closing
+518,Southwest Solutions,Detroit,10/31/2017,,Mass Layoff
+519,Zenith Education Group (Everest Institute),Southfield,11/7/2017,70,Plant Closing
+520,Yanfeng,Highland Park,11/27/2017,345,Mass Layoff
+521,Datapak Services Corporation,Howell,12/7/2017,61,Plant Closing
+522,Dematic,Grand Rapids,1/7/2016,305,Mass Layoff
+523,"ViSalus, Inc.",Troy,1/11/2016,87,Mass Layoff
+524,Minacs Group,Farmington Hills,1/12/2016,385,Mass Layoff
+525,Sam's Club,Waterford,1/15/2016,122,Plant Closing
+526,WalMart,Hartland,1/15/2016,0,Plant Closing
+527,McLaren Medical Group,Statewide,2/2/2016,63,Mass Layoff
+528,Bronson Precision Products,Bronson,2/16/2016,125,Plant Closing
+529,Grand Rapids Plastics,Grand Rapids,2/26/2016,85,Mass Layoff
+530,MidMichigan Health - Gladwin Pines,Gladwin,2/26/2016,85,Plant Closing
+531,MidMichigan Health - Stratford Village,Midland,2/26/2016,143,Plant Closing
+532,Maslow Media Company,Detroit,3/3/2016,1,Plant Closing
+533,WKW Roof Rail Systems,Battle Creek,3/7/2016,160,Plant Closing
+534,Fiat Chrysler Automobiles,Sterling Heights,4/7/2016,505,Mass Layoff
+535,Cliffs Natural Resources,Palmer,4/14/2016,318,Plant Closing
+536,Faurecia Interior Systems,Sterling Heights,4/27/2016,217,Mass Layoff
+537,"Precision Motor Transport Group, LLC",Okemos,4/27/2016,24,Mass Layoff
+538,Faurecia Interior Systems,Fraser,4/29/2016,47,Mass Layoff
+539,Faurecia Interior Systems,Fraser,4/29/2016,193,Mass Layoff
+540,Sodexo,Rochester,5/3/2016,99,Plant Closing
+541,Ryder,Trenton,5/3/2016,160,Mass Layoff
+542,Enviro-Clean,Troy,5/6/2016,94,Mass Layoff
+543,McLaren Flint Food & Nutrition Service,Flint,5/16/2016,22,Mass Layoff
+544,Bosch Emissions Systems US (BESU),Kentwood,5/18/2016,150,Plant Closing
+545,Alphabroder,Niles,5/27/2016,92,Plant Closing
+546,Xalt Energy,Midland,6/1/2016,100,Mass Layoff
+547,Turning Point Youth Center,St. Johns,6/1/2016,120,Plant Closing
+548,Frank W. Kerr,Novi,6/16/2016,60,Plant Closing
+549,Dow Chemical Company,Midland,6/28/2016,700,Mass Layoff
+550,Martinrea Hot Stamping,Detroit,7/1/2016,68,Mass Layoff
+551,Zelenka Farms,Grand Haven,7/12/2016,300,Plant Closing
+552,PAE,Wayne,7/18/2016,58,Mass Layoff
+553,Dialog Direct (Nova 1),Grand Rapids,8/19/2016,106,Plant Closing
+554,"ADP, LLC",Ann Arbor,9/27/2016,79,Plant Closing
+555,Midwest Medical Management Services,Dearborn,9/27/2016,0,Mass Layoff
+556,Midwest Medical Management Services,Detroit,9/27/2016,0,Mass Layoff
+557,Faurecia Automotive Seating,Sterling Heights,10/10/2016,98,Mass Layoff
+558,Experience Works,Statewide,11/7/2016,,Mass Layoff
+559,GM - Lansing Grand River Ass'y Plant,Lansing,11/9/2016,443,Mass Layoff
+560,"GM Subsystems Manufacturing, LLC",Lansing,11/9/2016,24,Mass Layoff
+561,Comprehensive Logistics,"Lansing,",11/30/2016,144,Plant Closing
+562,GM - Detroit Hamtramck Assembly Plant,Detroit,12/19/2016,1270,Mass Layoff

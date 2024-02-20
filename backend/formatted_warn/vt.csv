@@ -1,0 +1,321 @@
+,company_name,location,notice_date,employees_affected,Address,URL
+0,A Johnson lumber,Bristol,"Oct 12, 2023",43.0,"106 s Andrew Johnson Drive; Bristol, Vermont 05443",https://www.vermontjoblink.com/search/warn_lookups/334
+1,FoodScience Corp,Williston,"Jan 05, 2023",21.0,"929 Harvest Lane; Williston, Vermont 05495",https://www.vermontjoblink.com/search/warn_lookups/327
+2,Garnet Transport Medicine dba Garnet Health,Williston,"Jan 12, 2023",76.0,"34 Blair Park Road, Suite 104-PMB327; Williston, Vermont 05495",https://www.vermontjoblink.com/search/warn_lookups/328
+3,"ASB Sports Acquisition, Inc. dba Game One",Rutland,"Jan 11, 2023",20.0,"55 Seward Road; Rutland, Vermont 05701",https://www.vermontjoblink.com/search/warn_lookups/329
+4,Vermont Country Store,Manchester Center,"Jan 12, 2023",32.0,"5650 Main Street; Manchester Center, Vermont 05255",https://www.vermontjoblink.com/search/warn_lookups/330
+5,Momentum Manufacturing Group,Saint Johnsbury,"Mar 17, 2023",21.0,"210 Pierce Road; Saint Johnsbury, Vermont 05819",https://www.vermontjoblink.com/search/warn_lookups/331
+6,"Sherman V Allen, Inc. dba Mac's Market",Rutland,"Mar 31, 2023",14.0,"56 1/2 Merchants Row, PO Box 609; Rutland, Vermont 05702",https://www.vermontjoblink.com/search/warn_lookups/332
+7,Konrad Pre-Fab,North Springfield,"May 23, 2023",6.0,"30 Precision Drive; North Springfield, Vermont 05150",https://www.vermontjoblink.com/search/warn_lookups/333
+8,"Polly Insurance Company, LLC",Williston,"Dec 01, 2022",47.0,"Kate Baltich, 2300 St. George Road; Williston, Vermont 05495",https://www.vermontjoblink.com/search/warn_lookups/325
+9,Global Foundries,Essex Junction,"Dec 16, 2022",148.0,"Jennifer Pickering; Essex Junction, Vermont 05452",https://www.vermontjoblink.com/search/warn_lookups/326
+10,Drinkworks,Williston,"Jan 06, 2022",36.0,"687 Marshall Ave; Williston, Vermont 05495",https://www.vermontjoblink.com/search/warn_lookups/323
+11,Jeld-Wen Windows & Doors,North Springfield,"Jun 20, 2022",80.0,"36 Precision Drive; North Springfield, Vermont 05150",https://www.vermontjoblink.com/search/warn_lookups/324
+12,Koffee Kup Bakery- Brattleboro,Brattleboro,"Apr 26, 2021",91.0,"80 Cotton Mill Hill; Brattleboro, Vermont 05301",https://www.vermontjoblink.com/search/warn_lookups/317
+13,Koffee Kup Bakery-Burlington,Burlington,"Apr 26, 2021",156.0,"436 Riverside Avenue; Burlington, Vermont 05401",https://www.vermontjoblink.com/search/warn_lookups/316
+14,Mylan Technologies (Viatris),Saint Albans,"Feb 18, 2021",30.0,"110 Lake Road; Saint Albans, Vermont 05478",https://www.vermontjoblink.com/search/warn_lookups/315
+15,Keurig Dr. Pepper,Essex Junction,"Mar 05, 2021",78.0,"30 Gauthier Drive; Essex Junction, Vermont 05452",https://www.vermontjoblink.com/search/warn_lookups/318
+16,Albany College of Pharmacy and Health Science,Colchester,"Jun 24, 2021",4.0,"261 Mountain View Drive; Colchester, Vermont 05446",https://www.vermontjoblink.com/search/warn_lookups/319
+17,People's United Bank,Montpelier,"Jul 22, 2021",254.0,"various; Montpelier, Vermont 05601",https://www.vermontjoblink.com/search/warn_lookups/320
+18,"Web Industries, Inc.",Montpelier,"Jul 22, 2021",11.0,"Kira Comstock, 116 Three Mile Bridge Road; Montpelier, Vermont 05602",https://www.vermontjoblink.com/search/warn_lookups/321
+19,RDI Inc.,Newport,"Jul 23, 2021",10.0,"76 Lakemont Road; Newport, Vermont 05855",https://www.vermontjoblink.com/search/warn_lookups/322
+20,Bernstein Display,,"Jan 07, 2020",22.0,,https://www.vermontjoblink.com/search/warn_lookups/296
+21,Natural Provisions,,"Jan 30, 2020",25.0,,https://www.vermontjoblink.com/search/warn_lookups/297
+22,Spire Hospitality/Top Notch Resort,,"Mar 20, 2020",126.0,,https://www.vermontjoblink.com/search/warn_lookups/298
+23,Equinox Golf Resort and Spa,,"Mar 27, 2020",180.0,,https://www.vermontjoblink.com/search/warn_lookups/299
+24,Delta Hotels,,"Mar 27, 2020",57.0,,https://www.vermontjoblink.com/search/warn_lookups/300
+25,Hilton Lake Champlain,,"Mar 23, 2020",154.0,,https://www.vermontjoblink.com/search/warn_lookups/301
+26,Meridian Behaviorial Health,,"Feb 19, 2020",81.0,,https://www.vermontjoblink.com/search/warn_lookups/302
+27,Gannett Publishing Services,,"Feb 27, 2020",24.0,,https://www.vermontjoblink.com/search/warn_lookups/303
+28,Prime Motor Group/White River Subaru,,"Apr 03, 2020",15.0,,https://www.vermontjoblink.com/search/warn_lookups/304
+29,Mount Snow,,"Apr 06, 2020",114.0,,https://www.vermontjoblink.com/search/warn_lookups/305
+30,Howard Center,,"May 08, 2020",271.0,,https://www.vermontjoblink.com/search/warn_lookups/306
+31,Marlboro College,,"May 14, 2020",87.0,,https://www.vermontjoblink.com/search/warn_lookups/307
+32,"Independent Brewers United, LLC",,"Jun 16, 2020",41.0,,https://www.vermontjoblink.com/search/warn_lookups/309
+33,"Energizer Brands, LLC",Bennington,"Nov 04, 2020",24.0,"40 Gage Street; Bennington, Vermont 05201",https://www.vermontjoblink.com/search/warn_lookups/313
+34,Brattleboro Retreat Mental Health and Addiction,Brattleboro,"Oct 22, 2020",85.0,"1 Anna Marsh Lane; Brattleboro, Vermont 05302",https://www.vermontjoblink.com/search/warn_lookups/312
+35,FedEx Freight,Bellows Falls,"Oct 09, 2020",25.0,"Route 103, Transport Park; Bellows Falls, Vermont 05101",https://www.vermontjoblink.com/search/warn_lookups/311
+36,Thomas Dairy,Rutland,"Sep 10, 2020",,,https://www.vermontjoblink.com/search/warn_lookups/310
+37,National Life Insurance Company,Montpelier,"Jun 23, 2020",53.0,"1 National Life Drive; Montpelier, Vermont 05601",https://www.vermontjoblink.com/search/warn_lookups/308
+38,"Sunny Sky Products, LLC",,"Jan 17, 2019",4.0,,https://www.vermontjoblink.com/search/warn_lookups/286
+39,NRG Systems,,"Jan 16, 2019",,,https://www.vermontjoblink.com/search/warn_lookups/287
+40,Springfield Medical Care ystem/Springfield Hospita,,"Feb 01, 2019",17.0,,https://www.vermontjoblink.com/search/warn_lookups/288
+41,"Vermont Custom Gage, LLC",,"Jan 25, 2019",5.0,,https://www.vermontjoblink.com/search/warn_lookups/289
+42,Hobby Lobby,,"Feb 12, 2019",18.0,,https://www.vermontjoblink.com/search/warn_lookups/291
+43,Bertek Systems Inc.,,"Feb 25, 2019",26.0,,https://www.vermontjoblink.com/search/warn_lookups/292
+44,Oryza group,,"Mar 26, 2019",341.0,,https://www.vermontjoblink.com/search/warn_lookups/293
+45,Southern Vermont College,,"Mar 29, 2019",101.0,,https://www.vermontjoblink.com/search/warn_lookups/294
+46,Bentleys Restaurant,,"Apr 12, 2019",22.0,,https://www.vermontjoblink.com/search/warn_lookups/295
+47,Marvell,,"Nov 05, 2019",78.0,,https://www.vermontjoblink.com/search/warn_lookups/314
+48,Kmart Corporation,,"Jan 04, 2018",46.0,,https://www.vermontjoblink.com/search/warn_lookups/263
+49,Macy's,,"Jan 03, 2018",77.0,,https://www.vermontjoblink.com/search/warn_lookups/265
+50,Sisters of Mercy,,"Jan 31, 2018",18.0,,https://www.vermontjoblink.com/search/warn_lookups/266
+51,Melanson Comopany,,"Mar 09, 2018",20.0,,https://www.vermontjoblink.com/search/warn_lookups/267
+52,KMart Corporation,,"Jan 05, 2018",46.0,,https://www.vermontjoblink.com/search/warn_lookups/268
+53,Bath and Body Works,,"Feb 27, 2018",10.0,,https://www.vermontjoblink.com/search/warn_lookups/269
+54,Burlington Meals on Wheels,,"Feb 22, 2018",6.0,,https://www.vermontjoblink.com/search/warn_lookups/271
+55,Entergy and Securitas,,"Mar 20, 2018",,,https://www.vermontjoblink.com/search/warn_lookups/272
+56,Scenic View Community Care Home,,"May 15, 2018",14.0,,https://www.vermontjoblink.com/search/warn_lookups/273
+57,Vermont Life Magazine,,"May 17, 2018",6.0,,https://www.vermontjoblink.com/search/warn_lookups/274
+58,Catamount Solar,,"May 09, 2018",5.0,,https://www.vermontjoblink.com/search/warn_lookups/275
+59,Parker and Stearns,,"May 16, 2018",28.0,,https://www.vermontjoblink.com/search/warn_lookups/276
+60,Castleton University,,"May 21, 2018",31.0,,https://www.vermontjoblink.com/search/warn_lookups/277
+61,Keurig Green Mountain,,"Jun 01, 2018",34.0,,https://www.vermontjoblink.com/search/warn_lookups/278
+62,GlobalFoundries US INc.,,"Jun 20, 2018",116.0,,https://www.vermontjoblink.com/search/warn_lookups/279
+63,Keurig Dr Pepper,Waterbury,"Oct 25, 2018",118.0,"33 Coffee Lane; Waterbury, Vermont 05676",https://www.vermontjoblink.com/search/warn_lookups/280
+64,"Lepage Bakeries Brattleboro, LLC",,"Nov 06, 2018",66.0,,https://www.vermontjoblink.com/search/warn_lookups/281
+65,Neenah Paper,,"Oct 25, 2018",100.0,,https://www.vermontjoblink.com/search/warn_lookups/282
+66,Goddar College,,"Oct 08, 2018",14.0,,https://www.vermontjoblink.com/search/warn_lookups/283
+67,Mondo Mediaworks,,"Dec 05, 2018",14.0,,https://www.vermontjoblink.com/search/warn_lookups/285
+68,D R Power,,"Nov 01, 2018",26.0,,https://www.vermontjoblink.com/search/warn_lookups/290
+69,SOS Metals Inc.,,"Jan 09, 2017",6.0,,https://www.vermontjoblink.com/search/warn_lookups/236
+70,Connor Homes,,"Jan 19, 2017",66.0,,https://www.vermontjoblink.com/search/warn_lookups/237
+71,Lyon's Den,,"Feb 01, 2017",9.0,,https://www.vermontjoblink.com/search/warn_lookups/238
+72,Merchants Bank,,"Mar 10, 2017",76.0,,https://www.vermontjoblink.com/search/warn_lookups/240
+73,Maple Leaf Treatment Center,,"Feb 09, 2017",40.0,,https://www.vermontjoblink.com/search/warn_lookups/241
+74,Dollar Express,,"Mar 30, 2017",7.0,,https://www.vermontjoblink.com/search/warn_lookups/242
+75,Dollar Express,,"Mar 30, 2017",7.0,,https://www.vermontjoblink.com/search/warn_lookups/243
+76,"ALPLA, Inc.",,"Feb 27, 2017",11.0,,https://www.vermontjoblink.com/search/warn_lookups/244
+77,Radio Shack,,"Mar 02, 2017",5.0,,https://www.vermontjoblink.com/search/warn_lookups/245
+78,Perrigo,,"Mar 31, 2017",56.0,,https://www.vermontjoblink.com/search/warn_lookups/246
+79,Franklin County Humane Society,,"Mar 29, 2017",,,https://www.vermontjoblink.com/search/warn_lookups/247
+80,Bond Auto Parts/O'Reilly's Auto Parts,,"Apr 21, 2017",30.0,,https://www.vermontjoblink.com/search/warn_lookups/248
+81,Country Home Products,Winooski,"Jun 06, 2017",66.0,"133 Elm Street; Winooski, Vermont 05404",https://www.vermontjoblink.com/search/warn_lookups/249
+82,Louis Garneau USA,,"Jun 14, 2017",36.0,,https://www.vermontjoblink.com/search/warn_lookups/250
+83,Keurig Green Mountain,,"Jun 15, 2017",40.0,,https://www.vermontjoblink.com/search/warn_lookups/251
+84,"Vermed, Inc.",,"May 18, 2017",37.0,,https://www.vermontjoblink.com/search/warn_lookups/252
+85,North East Precision,,"Jul 17, 2017",38.0,,https://www.vermontjoblink.com/search/warn_lookups/253
+86,Seventh Generation,,"Feb 01, 2017",,,https://www.vermontjoblink.com/search/warn_lookups/254
+87,Dailey Precast,,"Jun 09, 2017",55.0,,https://www.vermontjoblink.com/search/warn_lookups/255
+88,Revision Military,,"Jul 27, 2017",36.0,,https://www.vermontjoblink.com/search/warn_lookups/256
+89,"Spirol, Ascutney",,"Jul 14, 2017",18.0,,https://www.vermontjoblink.com/search/warn_lookups/257
+90,Vermont Smoke & Cure,,"Jul 18, 2017",11.0,,https://www.vermontjoblink.com/search/warn_lookups/258
+91,Advanced Drainage Systems Inc.,,"Oct 13, 2017",32.0,,https://www.vermontjoblink.com/search/warn_lookups/259
+92,Champlain Valley Area Health Education Center,,"Oct 30, 2017",5.0,,https://www.vermontjoblink.com/search/warn_lookups/260
+93,IBEX,,"Nov 03, 2017",12.0,,https://www.vermontjoblink.com/search/warn_lookups/261
+94,Brookside Nursing & Rehabilitation Center LLC,,"Nov 08, 2017",49.0,,https://www.vermontjoblink.com/search/warn_lookups/262
+95,Bon-Ton,,"Oct 01, 2017",25.0,,https://www.vermontjoblink.com/search/warn_lookups/264
+96,Vishay Transistor,,"Jun 26, 2017",,,https://www.vermontjoblink.com/search/warn_lookups/270
+97,L. Perrigo Company,,"Jun 05, 2017",10.0,,https://www.vermontjoblink.com/search/warn_lookups/284
+98,Land Air of New England,,"Jan 28, 2016",19.0,,https://www.vermontjoblink.com/search/warn_lookups/211
+99,Porter Medical Center,,"Jan 29, 2016",7.0,,https://www.vermontjoblink.com/search/warn_lookups/212
+100,New England Woodcraft,,"Jan 29, 2016",8.0,,https://www.vermontjoblink.com/search/warn_lookups/213
+101,Vermont Hard Cider,,"Jan 11, 2016",6.0,,https://www.vermontjoblink.com/search/warn_lookups/214
+102,"Vermont Wood Pellett Company, LLC",,"Jan 25, 2016",15.0,,https://www.vermontjoblink.com/search/warn_lookups/215
+103,Morrison Management Specialists,,"Jan 22, 2016",97.0,,https://www.vermontjoblink.com/search/warn_lookups/216
+104,Open Tempo,,"Feb 05, 2016",12.0,,https://www.vermontjoblink.com/search/warn_lookups/218
+105,Qburke Mountain Resort,,"Mar 18, 2016",162.0,,https://www.vermontjoblink.com/search/warn_lookups/219
+106,Burlington College,,"May 16, 2016",30.0,,https://www.vermontjoblink.com/search/warn_lookups/221
+107,Keurig Green Mountain,,"Jun 07, 2016",110.0,,https://www.vermontjoblink.com/search/warn_lookups/222
+108,VSAC,,"Jun 15, 2016",55.0,,https://www.vermontjoblink.com/search/warn_lookups/223
+109,MBA HealthGroup,,"May 12, 2016",5.0,,https://www.vermontjoblink.com/search/warn_lookups/224
+110,Tilt Classic Arcade and Ale House,,"Jun 16, 2016",10.0,,https://www.vermontjoblink.com/search/warn_lookups/225
+111,Zutano,Cabot,"Jul 11, 2016",9.0,"1785 Coits Poind Road; Cabot, Vermont 05647",https://www.vermontjoblink.com/search/warn_lookups/226
+112,Mylan,,"May 25, 2016",68.0,,https://www.vermontjoblink.com/search/warn_lookups/227
+113,"Dowlings, Inc",,"Aug 01, 2016",44.0,,https://www.vermontjoblink.com/search/warn_lookups/228
+114,Nova Natural Toys,,"Aug 04, 2016",10.0,,https://www.vermontjoblink.com/search/warn_lookups/229
+115,MyWebGrocer,,"Oct 03, 2016",5.0,,https://www.vermontjoblink.com/search/warn_lookups/230
+116,Madera's Restaurante Mexicano & Cantina,,"Sep 30, 2016",15.0,,https://www.vermontjoblink.com/search/warn_lookups/231
+117,Hearthstone QHHP,,"Oct 18, 2016",,,https://www.vermontjoblink.com/search/warn_lookups/232
+118,Dartmouth Hitchcock Medical Center,,"Sep 16, 2016",100.0,,https://www.vermontjoblink.com/search/warn_lookups/233
+119,Manchester Lumber Inc.,,"Nov 25, 2016",14.0,,https://www.vermontjoblink.com/search/warn_lookups/234
+120,FairPoint,,"Dec 16, 2016",28.0,,https://www.vermontjoblink.com/search/warn_lookups/235
+121,Rock of Ages,,"Dec 01, 2016",9.0,,https://www.vermontjoblink.com/search/warn_lookups/239
+122,J. C. Penney,,"Jan 07, 2015",30.0,,https://www.vermontjoblink.com/search/warn_lookups/164
+123,Apollo Diner,,"Jan 26, 2015",14.0,,https://www.vermontjoblink.com/search/warn_lookups/166
+124,Chico's,,"Jan 30, 2015",4.0,,https://www.vermontjoblink.com/search/warn_lookups/167
+125,White House/Black Market,,"Jan 30, 2015",12.0,,https://www.vermontjoblink.com/search/warn_lookups/168
+126,"Plasan North America, Inc.",,"May 04, 2015",57.0,,https://www.vermontjoblink.com/search/warn_lookups/169
+127,JC Penney,,"Jan 07, 2015",35.0,,https://www.vermontjoblink.com/search/warn_lookups/170
+128,AirBoss Defense,,"Jun 04, 2015",,,https://www.vermontjoblink.com/search/warn_lookups/171
+129,Concord High School,,"May 04, 2015",5.0,,https://www.vermontjoblink.com/search/warn_lookups/172
+130,Buttered Noodles (Little Man LLC),,"Jun 12, 2015",19.0,,https://www.vermontjoblink.com/search/warn_lookups/173
+131,emdeon,,"Apr 07, 2015",10.0,,https://www.vermontjoblink.com/search/warn_lookups/174
+132,Creative Habitat,,"Apr 01, 2015",,,https://www.vermontjoblink.com/search/warn_lookups/175
+133,Community National Bank,,"Apr 16, 2015",4.0,,https://www.vermontjoblink.com/search/warn_lookups/176
+134,Fab-Tech - CPS,,"Jul 16, 2015",20.0,,https://www.vermontjoblink.com/search/warn_lookups/177
+135,Zales,,"Jul 21, 2015",5.0,,https://www.vermontjoblink.com/search/warn_lookups/178
+136,Fairpoint Communications,,"May 27, 2015",67.0,,https://www.vermontjoblink.com/search/warn_lookups/179
+137,Lunch Bundles,,"Apr 17, 2015",11.0,,https://www.vermontjoblink.com/search/warn_lookups/180
+138,Windham Child Care Association,,"Apr 28, 2015",6.0,,https://www.vermontjoblink.com/search/warn_lookups/181
+139,Keurig Green Mountain,,"Aug 06, 2015",30.0,,https://www.vermontjoblink.com/search/warn_lookups/182
+140,Keurig Green Mountain,,"Aug 06, 2015",125.0,,https://www.vermontjoblink.com/search/warn_lookups/183
+141,State of Vermont/Public Safety Dispatch Center,,"Mar 18, 2015",11.0,,https://www.vermontjoblink.com/search/warn_lookups/184
+142,Ellison Surface Technologies,,"Aug 19, 2015",15.0,,https://www.vermontjoblink.com/search/warn_lookups/185
+143,Vermont Castings Group,,"Aug 25, 2015",43.0,,https://www.vermontjoblink.com/search/warn_lookups/186
+144,Gildan Garments,Northfield,"Aug 26, 2015",60.0,"127 North Main Street; Northfield, Vermont 05663",https://www.vermontjoblink.com/search/warn_lookups/187
+145,Dailey Precast,,"Aug 24, 2015",21.0,,https://www.vermontjoblink.com/search/warn_lookups/189
+146,G. Housen and Company Inc.,,"Sep 14, 2015",50.0,,https://www.vermontjoblink.com/search/warn_lookups/190
+147,Milagros Mexican Kitchen,,"Feb 18, 2015",19.0,,https://www.vermontjoblink.com/search/warn_lookups/191
+148,The Hermitage Club,,"Apr 07, 2015",200.0,,https://www.vermontjoblink.com/search/warn_lookups/192
+149,Velan Valve Corporation,,"Sep 07, 2015",3.0,,https://www.vermontjoblink.com/search/warn_lookups/195
+150,Vermont Hard Cider,,"Sep 30, 2015",8.0,,https://www.vermontjoblink.com/search/warn_lookups/196
+151,Advanced Auto Parts/CarQuest,,"Oct 05, 2015",4.0,,https://www.vermontjoblink.com/search/warn_lookups/197
+152,Seldon Technologies,,"Sep 28, 2015",32.0,,https://www.vermontjoblink.com/search/warn_lookups/198
+153,Ashgate Publishing,,"Sep 24, 2015",19.0,,https://www.vermontjoblink.com/search/warn_lookups/199
+154,Phelps Engineering Inc.,,"Oct 22, 2015",7.0,,https://www.vermontjoblink.com/search/warn_lookups/201
+155,Bombardier,,"Sep 30, 2015",11.0,,https://www.vermontjoblink.com/search/warn_lookups/202
+156,South End Kitchen,,"Oct 06, 2015",19.0,,https://www.vermontjoblink.com/search/warn_lookups/204
+157,KMart,,"Oct 19, 2015",30.0,,https://www.vermontjoblink.com/search/warn_lookups/205
+158,Gap Inc.,,"Dec 08, 2015",,,https://www.vermontjoblink.com/search/warn_lookups/206
+159,Dynapower,,"Dec 07, 2015",17.0,,https://www.vermontjoblink.com/search/warn_lookups/207
+160,Allscripts Healthcare Solutions,,"May 15, 2015",36.0,,https://www.vermontjoblink.com/search/warn_lookups/208
+161,Energizer Holdings & SMX Leased Workers,,"Oct 01, 2015",25.0,,https://www.vermontjoblink.com/search/warn_lookups/210
+162,Vermont Interactive Technologies,,"Dec 21, 2015",,,https://www.vermontjoblink.com/search/warn_lookups/217
+163,NTT Data Inc.,,"May 11, 2015",40.0,,https://www.vermontjoblink.com/search/warn_lookups/220
+164,Plasan Carbon Composites Inc.,,"Mar 14, 2014",160.0,,https://www.vermontjoblink.com/search/warn_lookups/145
+165,Kennametal,,"Mar 31, 2014",88.0,,https://www.vermontjoblink.com/search/warn_lookups/146
+166,Vermont Technical College,,"Apr 24, 2014",7.0,,https://www.vermontjoblink.com/search/warn_lookups/147
+167,A&S Collections,,"Apr 16, 2014",15.0,,https://www.vermontjoblink.com/search/warn_lookups/148
+168,PCM Image-Tek,,"May 22, 2014",,,https://www.vermontjoblink.com/search/warn_lookups/151
+169,G3K (prev.known as Kiosko),,"May 12, 2014",34.0,,https://www.vermontjoblink.com/search/warn_lookups/152
+170,Century Arms,,"Jun 02, 2014",40.0,,https://www.vermontjoblink.com/search/warn_lookups/153
+171,Austine School/Center for Deaf/Hard of Hearing,,"May 29, 2014",50.0,,https://www.vermontjoblink.com/search/warn_lookups/154
+172,Benway Taxi & Morf Transportation,,"Jun 16, 2014",60.0,,https://www.vermontjoblink.com/search/warn_lookups/155
+173,Being Advanced Memory,,"May 29, 2014",19.0,,https://www.vermontjoblink.com/search/warn_lookups/156
+174,Vermont Circuits,,"Aug 29, 2014",39.0,,https://www.vermontjoblink.com/search/warn_lookups/157
+175,Vermont Center for Deaf & Hard of Hearing,,"Sep 08, 2014",,,https://www.vermontjoblink.com/search/warn_lookups/158
+176,EPS Inc.,,"Sep 03, 2014",20.0,,https://www.vermontjoblink.com/search/warn_lookups/160
+177,Entergy,,"Nov 18, 2014",148.0,,https://www.vermontjoblink.com/search/warn_lookups/161
+178,Canon Solutions,,"Nov 24, 2014",5.0,,https://www.vermontjoblink.com/search/warn_lookups/162
+179,Shelburne Plastics,,"Oct 17, 2014",,,https://www.vermontjoblink.com/search/warn_lookups/163
+180,TE Connectivity,,"May 29, 2014",36.0,,https://www.vermontjoblink.com/search/warn_lookups/209
+181,PACE Healthcare,,"Jan 10, 2013",35.0,,https://www.vermontjoblink.com/search/warn_lookups/120
+182,PACE VT,,"Jan 10, 2013",39.0,,https://www.vermontjoblink.com/search/warn_lookups/121
+183,Vermont Fleece,,"Feb 05, 2013",4.0,,https://www.vermontjoblink.com/search/warn_lookups/122
+184,Vermont Internal Medicine/Landry & BrandesMD's PLC,,"Jan 28, 2013",5.0,,https://www.vermontjoblink.com/search/warn_lookups/123
+185,"MVM, Inc.",,"Mar 08, 2013",,,https://www.vermontjoblink.com/search/warn_lookups/124
+186,Cavendish Game Birds,,"Mar 25, 2013",13.0,,https://www.vermontjoblink.com/search/warn_lookups/125
+187,"Dynapower Company, LLC",,"Apr 15, 2013",14.0,,https://www.vermontjoblink.com/search/warn_lookups/126
+188,"Vermont Circuits, Inc.",,"Jun 06, 2013",12.0,,https://www.vermontjoblink.com/search/warn_lookups/127
+189,North Country Health Systems,,"Jul 09, 2013",,,https://www.vermontjoblink.com/search/warn_lookups/128
+190,McDonalds,,"Aug 22, 2013",45.0,,https://www.vermontjoblink.com/search/warn_lookups/130
+191,Vermont Castings,,"Aug 01, 2013",31.0,,https://www.vermontjoblink.com/search/warn_lookups/131
+192,Ascension Technology Corp.,,"Jun 04, 2013",12.0,,https://www.vermontjoblink.com/search/warn_lookups/132
+193,Burlington Free Press (Gannett),,"Aug 02, 2013",,,https://www.vermontjoblink.com/search/warn_lookups/133
+194,USIS,,"Jul 23, 2013",9.0,,https://www.vermontjoblink.com/search/warn_lookups/134
+195,Hazelett's,,"Sep 09, 2013",18.0,,https://www.vermontjoblink.com/search/warn_lookups/135
+196,General Dynamics,,"Sep 05, 2013",35.0,,https://www.vermontjoblink.com/search/warn_lookups/136
+197,Revision Military,,"Sep 30, 2013",33.0,,https://www.vermontjoblink.com/search/warn_lookups/137
+198,Putney Inn,,"Sep 25, 2013",35.0,,https://www.vermontjoblink.com/search/warn_lookups/138
+199,Semi Probe,,"Sep 16, 2013",2.0,,https://www.vermontjoblink.com/search/warn_lookups/139
+200,Country Curtains,,"Oct 08, 2013",9.0,,https://www.vermontjoblink.com/search/warn_lookups/140
+201,Dynapower,,"Sep 20, 2013",32.0,,https://www.vermontjoblink.com/search/warn_lookups/141
+202,Huber & Suhner,,"Oct 22, 2013",22.0,,https://www.vermontjoblink.com/search/warn_lookups/142
+203,Vermont Brick,,"Sep 13, 2013",,,https://www.vermontjoblink.com/search/warn_lookups/143
+204,Energizer,,"Mar 18, 2013",123.0,,https://www.vermontjoblink.com/search/warn_lookups/144
+205,Entergy Vermont Yankee,,"Aug 27, 2013",250.0,,https://www.vermontjoblink.com/search/warn_lookups/159
+206,IBM,,"Jul 12, 2013",,,https://www.vermontjoblink.com/search/warn_lookups/200
+207,Easter Seals,,"Jan 30, 2012",10.0,,https://www.vermontjoblink.com/search/warn_lookups/84
+208,NBC Solid Surfaces,,"Mar 02, 2012",20.0,,https://www.vermontjoblink.com/search/warn_lookups/85
+209,Eckert Operations Manager,,"Jan 30, 2012",15.0,,https://www.vermontjoblink.com/search/warn_lookups/86
+210,Vermont State Hospital,,"Feb 27, 2012",79.0,,https://www.vermontjoblink.com/search/warn_lookups/92
+211,Prospect Nursing Home,,"Jan 11, 2012",2.0,,https://www.vermontjoblink.com/search/warn_lookups/93
+212,Wendy's Restaurant,,"Jan 25, 2012",2.0,,https://www.vermontjoblink.com/search/warn_lookups/94
+213,Hostess Brands,,"May 04, 2012",12.0,,https://www.vermontjoblink.com/search/warn_lookups/95
+214,Hostess Brands,,"May 04, 2012",2.0,,https://www.vermontjoblink.com/search/warn_lookups/96
+215,USIS-Analytics & Technology Services,Williston,"May 31, 2012",27.0,"P.O. Box 476; Williston, Vermont 05495",https://www.vermontjoblink.com/search/warn_lookups/97
+216,Champlain Valley Office of Economic Opportunity,,"Jun 21, 2012",,,https://www.vermontjoblink.com/search/warn_lookups/98
+217,Heritage Aviation,,"Jun 11, 2012",43.0,,https://www.vermontjoblink.com/search/warn_lookups/99
+218,NRG,,"May 22, 2012",18.0,,https://www.vermontjoblink.com/search/warn_lookups/100
+219,Rutland Regional Medical Center,,"Jun 11, 2012",0.0,,https://www.vermontjoblink.com/search/warn_lookups/101
+220,Bruegger's Bagels,,"Jun 11, 2012",20.0,,https://www.vermontjoblink.com/search/warn_lookups/102
+221,NRG,,"Jul 18, 2012",11.0,,https://www.vermontjoblink.com/search/warn_lookups/103
+222,Resolutions,,"Jun 29, 2012",5.0,,https://www.vermontjoblink.com/search/warn_lookups/104
+223,KayTech,,"Sep 24, 2012",,,https://www.vermontjoblink.com/search/warn_lookups/105
+224,Tuttle Publishing,,"Oct 04, 2012",16.0,,https://www.vermontjoblink.com/search/warn_lookups/106
+225,RetailVision,,"Aug 17, 2012",21.0,,https://www.vermontjoblink.com/search/warn_lookups/107
+226,Plastic Monofil,,"Aug 07, 2012",8.0,,https://www.vermontjoblink.com/search/warn_lookups/108
+227,Heritage Aviation,,"Oct 29, 2012",15.0,,https://www.vermontjoblink.com/search/warn_lookups/110
+228,General Dynamics,,"Oct 01, 2012",34.0,,https://www.vermontjoblink.com/search/warn_lookups/111
+229,Hampton Direct,,"Nov 09, 2012",10.0,,https://www.vermontjoblink.com/search/warn_lookups/112
+230,Brattleboro Retreat,,"Nov 14, 2012",25.0,,https://www.vermontjoblink.com/search/warn_lookups/113
+231,General Dynamics,,"Nov 21, 2012",7.0,,https://www.vermontjoblink.com/search/warn_lookups/114
+232,UTC - Goodrich,,"Oct 29, 2012",24.0,,https://www.vermontjoblink.com/search/warn_lookups/115
+233,Vermont Law School,,"Nov 26, 2012",12.0,,https://www.vermontjoblink.com/search/warn_lookups/116
+234,GE Healthcare,,"Nov 20, 2012",14.0,,https://www.vermontjoblink.com/search/warn_lookups/117
+235,"Fulflex, Inc.",,"Dec 17, 2012",,,https://www.vermontjoblink.com/search/warn_lookups/118
+236,Ben & Jerry's (Unilever),,"Dec 05, 2012",10.0,,https://www.vermontjoblink.com/search/warn_lookups/119
+237,Casey Family Services,,"Jul 10, 2012",35.0,,https://www.vermontjoblink.com/search/warn_lookups/129
+238,Fashion Bug,,"Nov 01, 2011",9.0,,https://www.vermontjoblink.com/search/warn_lookups/76
+239,Flextronics Americas LLC,,"May 25, 2011",3.0,,https://www.vermontjoblink.com/search/warn_lookups/78
+240,Flextronics Americas LLC,,"May 25, 2011",8.0,,https://www.vermontjoblink.com/search/warn_lookups/79
+241,Peoples United Bank,,"Jul 21, 2011",14.0,,https://www.vermontjoblink.com/search/warn_lookups/80
+242,Flextronics Americas LLC,,"Jun 01, 2011",3.0,,https://www.vermontjoblink.com/search/warn_lookups/81
+243,Skyline Corporation,,"Aug 08, 2011",78.0,,https://www.vermontjoblink.com/search/warn_lookups/82
+244,Skyline Corporation,,"Aug 08, 2011",78.0,,https://www.vermontjoblink.com/search/warn_lookups/83
+245,Pfizer,,"Jul 12, 2011",4.0,,https://www.vermontjoblink.com/search/warn_lookups/88
+246,Peregrine Outfitters,,"Nov 18, 2011",22.0,,https://www.vermontjoblink.com/search/warn_lookups/89
+247,"Garmont, USA",,"Jul 22, 2011",11.0,,https://www.vermontjoblink.com/search/warn_lookups/90
+248,Borders,,"Jul 18, 2011",35.0,,https://www.vermontjoblink.com/search/warn_lookups/91
+249,Rutland Mental health,,"Apr 30, 2010",5.0,,https://www.vermontjoblink.com/search/warn_lookups/70
+250,Hutchins & Perreault Inc.,,"Mar 08, 2010",,,https://www.vermontjoblink.com/search/warn_lookups/71
+251,Rutland Mental Health,,"Jul 06, 2010",13.0,,https://www.vermontjoblink.com/search/warn_lookups/73
+252,Northrop Grumman,St. Albans,"Sep 27, 2010",106.0,"U.S. Citizenship & Immigration Services Center; St. Albans, Vermont 05478",https://www.vermontjoblink.com/search/warn_lookups/74
+253,"Stanley Associates, Inc.",St Albans,"Sep 29, 2010",173.0,"30 Houghton Street (75 Lower Welden Street); St Albans, Vermont 05478",https://www.vermontjoblink.com/search/warn_lookups/75
+254,Smith Buick GMC,,"Dec 01, 2010",,,https://www.vermontjoblink.com/search/warn_lookups/77
+255,Monahan Filaments,,"Sep 04, 2009",68.0,,https://www.vermontjoblink.com/search/warn_lookups/68
+256,"Lydall Thermal/Acoustical, Inc.",,"Jan 30, 2009",207.0,,https://www.vermontjoblink.com/search/warn_lookups/48
+257,Plasan Carbon Composites,,"Jan 15, 2009",127.0,,https://www.vermontjoblink.com/search/warn_lookups/50
+258,Orvis,,"Jan 15, 2009",39.0,,https://www.vermontjoblink.com/search/warn_lookups/51
+259,Vermont Composites,,"Jan 02, 2009",28.0,,https://www.vermontjoblink.com/search/warn_lookups/52
+260,Columbo Granite,,"Jan 02, 2009",,,https://www.vermontjoblink.com/search/warn_lookups/53
+261,Saporiti Sandblast,,"Jan 02, 2009",4.0,,https://www.vermontjoblink.com/search/warn_lookups/54
+262,Kennametal Inc.,,"Jan 09, 2009",25.0,,https://www.vermontjoblink.com/search/warn_lookups/56
+263,MSA Gallet,,"Jan 09, 2009",14.0,,https://www.vermontjoblink.com/search/warn_lookups/57
+264,Rutland Mental Health,,"Jan 25, 2009",,,https://www.vermontjoblink.com/search/warn_lookups/58
+265,Rutland Mental Health,,"Feb 06, 2009",12.0,,https://www.vermontjoblink.com/search/warn_lookups/61
+266,"Shard Villa/Columbus Smith Estate, Inc.",,"Feb 17, 2009",15.0,,https://www.vermontjoblink.com/search/warn_lookups/62
+267,Ethan Allen,,"Mar 24, 2009",23.0,,https://www.vermontjoblink.com/search/warn_lookups/63
+268,Ethan Allen,,"Mar 24, 2009",,,https://www.vermontjoblink.com/search/warn_lookups/64
+269,Monahan Filaments,,"Apr 17, 2009",42.0,,https://www.vermontjoblink.com/search/warn_lookups/65
+270,Ethan Allen,,"Jun 24, 2009",238.0,,https://www.vermontjoblink.com/search/warn_lookups/66
+271,Braun Dental,,"Jul 07, 2009",11.0,,https://www.vermontjoblink.com/search/warn_lookups/67
+272,Penn Traffic Company,,"Nov 18, 2009",,,https://www.vermontjoblink.com/search/warn_lookups/69
+273,Alstom Transportation Electronic Systems,,"Nov 24, 2009",15.0,,https://www.vermontjoblink.com/search/warn_lookups/72
+274,Home Depot,,"Jun 03, 2008",69.0,,https://www.vermontjoblink.com/search/warn_lookups/8
+275,CFM Corporation/Vermont Castings,,"Apr 09, 2008",170.0,,https://www.vermontjoblink.com/search/warn_lookups/9
+276,Trident LLC/ClearSource,,"May 15, 2008",76.0,,https://www.vermontjoblink.com/search/warn_lookups/10
+277,Stinehour Press LLC,,"Apr 08, 2008",18.0,,https://www.vermontjoblink.com/search/warn_lookups/20
+278,W T Solutions,,"Apr 25, 2008",,,https://www.vermontjoblink.com/search/warn_lookups/21
+279,Vermont Tubbs,,"Jul 09, 2008",90.0,,https://www.vermontjoblink.com/search/warn_lookups/22
+280,NEO EMS,,"Aug 12, 2008",47.0,,https://www.vermontjoblink.com/search/warn_lookups/23
+281,M J Wood Products/Vermont Precision Woodworks,,"Apr 25, 2008",26.0,,https://www.vermontjoblink.com/search/warn_lookups/24
+282,Rock of Ages - Quarry Division,,"Jan 16, 2008",25.0,,https://www.vermontjoblink.com/search/warn_lookups/26
+283,North Barre Granite Co.,,"Jan 16, 2008",7.0,,https://www.vermontjoblink.com/search/warn_lookups/27
+284,IBM,,"Jun 24, 2008",190.0,,https://www.vermontjoblink.com/search/warn_lookups/29
+285,"Resolution, Inc.",,"Aug 19, 2008",,,https://www.vermontjoblink.com/search/warn_lookups/32
+286,Spectrum Youth & Family Services,Castleton,"Apr 08, 2008",26.0,"Sandhill Project; Castleton, Vermont 05735",https://www.vermontjoblink.com/search/warn_lookups/33
+287,North Barre Granite Co.,,"Oct 15, 2008",19.0,,https://www.vermontjoblink.com/search/warn_lookups/36
+288,"Saputo Cheese USA, Inc.",,"Oct 22, 2008",82.0,,https://www.vermontjoblink.com/search/warn_lookups/37
+289,All Fired Up,,"Oct 15, 2008",35.0,,https://www.vermontjoblink.com/search/warn_lookups/38
+290,Woodbury College,,"Oct 03, 2008",11.0,,https://www.vermontjoblink.com/search/warn_lookups/39
+291,IBM,,"Nov 04, 2008",100.0,,https://www.vermontjoblink.com/search/warn_lookups/40
+292,New England Culinary Institute,,"Nov 18, 2008",10.0,,https://www.vermontjoblink.com/search/warn_lookups/41
+293,Union Institute,,"Nov 19, 2008",7.0,,https://www.vermontjoblink.com/search/warn_lookups/42
+294,Rutland Plywood Corporation,,"Nov 19, 2008",,,https://www.vermontjoblink.com/search/warn_lookups/43
+295,Stanley Tools,,"Dec 17, 2008",25.0,,https://www.vermontjoblink.com/search/warn_lookups/44
+296,NSK Steering Systems America,,"Dec 06, 2008",120.0,,https://www.vermontjoblink.com/search/warn_lookups/46
+297,Columbia Forest Products,,"Dec 03, 2008",57.0,,https://www.vermontjoblink.com/search/warn_lookups/47
+298,"NSA Industries, Inc.",,"Dec 23, 2008",,,https://www.vermontjoblink.com/search/warn_lookups/55
+299,Computer Sciences Corporation,,"Sep 28, 2007",185.0,,https://www.vermontjoblink.com/search/warn_lookups/11
+300,S I international,,"Sep 28, 2007",208.0,,https://www.vermontjoblink.com/search/warn_lookups/12
+301,MetroGroup Marketing Services,,"Oct 11, 2007",207.0,,https://www.vermontjoblink.com/search/warn_lookups/13
+302,Standard Register,,"Jan 26, 2007",112.0,,https://www.vermontjoblink.com/search/warn_lookups/14
+303,Morrisville Center-Genesis Healthcare,,"Jan 02, 2007",80.0,,https://www.vermontjoblink.com/search/warn_lookups/15
+304,Manosh-Hardwoods LLC,,"Dec 27, 2007",15.0,,https://www.vermontjoblink.com/search/warn_lookups/25
+305,Vermont Plywood,,"Sep 04, 2007",35.0,,https://www.vermontjoblink.com/search/warn_lookups/28
+306,Qimonda,,"Dec 18, 2007",125.0,,https://www.vermontjoblink.com/search/warn_lookups/30
+307,Dirigo Paper Company,,"Aug 02, 2007",114.0,,https://www.vermontjoblink.com/search/warn_lookups/31
+308,Sacred Heart School,,"Aug 08, 2007",28.0,,https://www.vermontjoblink.com/search/warn_lookups/35
+309,Capital City Press,,"Jan 03, 2006",189.0,,https://www.vermontjoblink.com/search/warn_lookups/16
+310,Diamond Back Inc.,,"Dec 15, 2006",6.0,,https://www.vermontjoblink.com/search/warn_lookups/34
+311,Capital City Press,,"Sep 14, 2005",,,https://www.vermontjoblink.com/search/warn_lookups/17
+312,"Husky Injection Molding Systems, Inc.",,"Jul 12, 2005",68.0,,https://www.vermontjoblink.com/search/warn_lookups/18
+313,Specialty Filaments Inc.,,"May 13, 2005",138.0,,https://www.vermontjoblink.com/search/warn_lookups/19
+314,Wyeth Nutrition,,"Apr 15, 2004",,,https://www.vermontjoblink.com/search/warn_lookups/1
+315,Moore Wallace/RR Donnelley Company,,"Aug 19, 2004",97.0,P. O. Box 43,https://www.vermontjoblink.com/search/warn_lookups/5
+316,Belden CDT,,"Aug 10, 2004",160.0,,https://www.vermontjoblink.com/search/warn_lookups/6
+317,Wyeth Nutrition,,"Dec 10, 2003",64.0,,https://www.vermontjoblink.com/search/warn_lookups/2
+318,U. S. Tsubaki,,"Dec 02, 2003",69.0,,https://www.vermontjoblink.com/search/warn_lookups/3
+319,Vermont Tubbs Inc.,,"Jul 31, 2003",142.0,,https://www.vermontjoblink.com/search/warn_lookups/7

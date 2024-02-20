@@ -1,0 +1,476 @@
+,company_name,location,notice_date,employees_affected
+0,Renfro LLC,Laurens,3/5/2023,100.0
+1,"MonitronicsInternational, Inc. (dbaBrinks Home)",York,3/5/2023,1.0
+2,HealthHelp NurseTriage 24,York,3/24/2023,1.0
+3,"Footprint SouthCarolina, LLC",Chester,3/29/2023,168.0
+4,Parkdale Mills,Aiken,3/31/2023,102.0
+5,"Phenix EngineeredTextiles, Inc.",Spartanburg,2/10/2023,30.0
+6,"PeerStreet, Inc.",Richland,4/16/2023,2.0
+7,"Fraenkische USA, LP",Anderson,4/1/2023 - 12/31/2023,164.0
+8,TELUS International,Charleston,3/6/2023,266.0
+9,DAK Americas PETResins,Berkeley,3/1/2023,125.0
+10,Radius GlobalSolutions LLC,Richland,4/3/2023,1.0
+11,Timken GaffneyBearing Plant,Cherokee,5/4/2023 - 12/31/2023,187.0
+12,Morrsion Healthcare,Greenville,5/7/2023,72.0
+13,Stanley Black &Decker,Chesterfield,5/19/2023 - 11/10/2023,179.0
+14,"Aspiration Partners,Inc.",York,5/26/2023 - 6/1/2023,1.0
+15,Transdev Servces,Charleston,6/30/2023,180.0
+16,Cascades TissueGroup,Barnwell,7/28/2023,138.0
+17,"WestRock Services,LLC",Charleston,8/30/2023,499.0
+18,BD (C.R. Bard Inc.),Berkeley,5/8/2023,274.0
+19,"Nielsen & Bainbridge,LLC",Berkeley,5/19/2023 - 7/14/2023,108.0
+20,Sodexo,Newberry,5/31/2023,90.0
+21,Transdev FleetServices (First VehicleServices),Beaufort,7/1/2023,13.0
+22,Maysteel,Sumter,8/31/2023,70.0
+23,Caraustar Industrial &,CYoonrskumer Products G,9/3/2023 - 10/30/2023,71.0
+24,PBS Radiology Busine,sSs uEmxpteerrts,9/6/2023,1.0
+25,Prisma Health,Richland,8/31/2023,266.0
+26,Prisma Health,Greenville,8/31/2023,215.0
+27,Prisma Health,Sumter,8/31/2023,61.0
+28,Prisma Health,Oconee,8/31/2023,41.0
+29,Prisma Health,Pickens,8/31/2023,33.0
+30,Prisma Health,Greenville,8/31/2023,29.0
+31,Prisma Health,Laurens,8/31/2023,23.0
+32,Prisma Health,Greenville,8/31/2023,11.0
+33,Prisma Health,Greenville,8/31/2023,10.0
+34,Legacy Supply Chain S,"eCrvhiacrele IsIt o(""nLegacy"")",10/29/2023,47.0
+35,Thiveworks Administra,"tSivtaet eSweridviec -e sM, LuLltiCple",11/30/2023,5.0
+36,Wells Fargo,Richland,6/30/2024,525.0
+37,First Savings Bank,Statewide - Multiple,11/30/2023,1.0
+38,Ryder Integrated Logist,"iGcsre, eInncv i(l""leRyder"")",12/31/2023,185.0
+39,"Cummins, Inc.",Charleston,12/15/2023 - 07/31/2024,72.0
+40,"Rice Industries, LLC",Darlington,12/15/2023,7.0
+41,Innovative Fibers,Spartanburg,12/17/2023,71.0
+42,"DSV Solutions, LLC",Laurens,3/4/2022,117.0
+43,Boyd Corporation,Cherokee,3/15/2022,34.0
+44,Alorica Inc.,Greenville,3/25/2022,174.0
+45,Utility Partners ofAmerica,Greenville,4/1/2022,70.0
+46,Belk FulfillmentCenter,Union,4/30/2022,310.0
+47,Borden Dairy,Charleston,5/31/2022,177.0
+48,Alorica Inc.,Greenville,6/18/2022,12.0
+49,Startek,Horry,5/29/2022,161.0
+50,Avara PharmaceuticalServices,Aiken,7/18/2022,93.0
+51,FirstBank/Real Genius,Richland,7/15/2022,35.0
+52,Sodexo,Charleston,7/31/2022,137.0
+53,Sodexo,Charleston,7/31/2022,63.0
+54,Sodexo,Charleston,7/31/2022,70.0
+55,CEVA Logistics,Chesterfield,8/6/2022,131.0
+56,AeroPure LLC,Berkeley,8/15/2022,2.0
+57,"HireRight, Inc.",Lexington,9/1/2022,57.0
+58,WatsonvilleCommunity Hospital,Richland,8/30/2022,2.0
+59,"(NFI) NationalDistribution Centers,LLC",York,9/16/2022,5.0
+60,Santa CruzNutritionals,Sumter,8/1/2022,155.0
+61,"CommunicationService for the Deaf,Inc.",Richland,9/30/2022,95.0
+62,DHL Supply Chain,Greenville,11/4/2022,250.0
+63,"U.S, Patriot Tactical(Galls, LLC)",Richland,10/28/2022,74.0
+64,BayFirst Financial,York,11/25/2022,1.0
+65,"PreZero US Services,LLC.",Oconee,1/19/2023,57.0
+66,Santa CruzNutritionals,Sumter,12/31/2022,170.0
+67,WB Frozen US LLC(Weston Foods USLLC),Cherokee,12/4/2022,204.0
+68,Kohler Co. - VitreousOperations,Spartanburg,12/12/2022,133.0
+69,Lake City CommunityHospital,Florence,12/31/2022,222.0
+70,Color-Fi (GissingNorth America),Sumter,10/28/2022,108.0
+71,Southeast ServiceCoporation (SSCService Solutions),Charleston,12/31/2022,178.0
+72,Williamsburg RegionalHospital,Williamsburg,1/17/2023,267.0
+73,"The Shyft Group, Inc.",Charleston,1/17/2023,71.0
+74,Fiber Industries,Darlington,1/29/2023,250.0
+75,"ABM Industry Groups,LLC",Pickens,12/31/2022,71.0
+76,Kingston Resorts,Myrtle Beach,07/03/2021,94.0
+77,Walmart,Columbia,04/09/2021,332.0
+78,Cardinal Health,Fort Mill,03/26/2021,29.0
+79,"C & S Wholesales, Inc.",Greenville,03/06/2021,93.0
+80,"C & S Wholesales, Inc.",Greenville,05/07/2021,366.0
+81,Cardinal Health,Fort Mill,04/30/2021,4.0
+82,Cardinal Health,Fort Mill,05/21/2021,128.0
+83,Marriott,Columbia,03/18/2021,99.0
+84,Kobelco ConstructionMachinery,Moore,05/01/2021,102.0
+85,Southeast Frozen Foods,Gaston,03/24/2021,73.0
+86,Cardinal Health,Fort Mill,06/18/2021,11.0
+87,Cardinal Health,Fort Mill,06/30/2021,22.0
+88,DAK Americas,Moncks Corner,12/31/2021,200.0
+89,"WPM Holdings/WheelPros, LLC’s",York,09/15/2021,121.0
+90,"FUJIFILM ManufacturingU.S.A., Inc",Greenwood,10/01/2021,420.0
+91,"Warehouse Services, Inc",Greenville,8/8/2021,176.0
+92,Frontier Communications,Myrtle Beach,10/1/2021,63.0
+93,"Montage Palmetto Bluff,LLC",Bluffton,01/01/2022,132.0
+94,"The Muffin Man, Inc",Laurens,01/07/2022,215.0
+95,Montage Palmetto BluffPaint Box,Bluffton,01/01/2022,7.0
+96,Watsonville CommunityHospital,Columbia,07/14/2022,2.0
+97,Central Freight Lines,Florence,12/17/2021,7.0
+98,Central Freight Lines,Greenville,12/17/2021,20.0
+99,Central Freight Lines,Lexington,12/17/2021,7.0
+100,Central Freight Lines,Knightsville,12/17/2021,8.0
+101,GNC,Anderson,3/1/2020,65.0
+102,Chef’s Pantry,Easley,3/21/2020,240.0
+103,BOSCH,Charleston,7/31/2021,430.0
+104,AECOM,South Carolina,3/14/2020,10.0
+105,WestRock,North Charleston,3/9/2020,23.0
+106,Georgia-Pacific,Darlington,4/1/2020,81.0
+107,"Rockland Industries, Inc",Bamberg,2/24/2020,133.0
+108,Rite Aid DistributionCenter,Spartanburg,3/19/2020,224.0
+109,WestRock,North Charleston,5/8/2020,1.0
+110,"Strongarm, LLC",Marion,4/1/2020,40.0
+111,Kiawah Island Golf Resort,Kiawah Island,4/4/2020,1090.0
+112,Go Rentals,Charleston/JohnsIsland,3/21/2020,275.0
+113,EventHaus Rentals,Hanahan,3/18/2020,18.0
+114,ZF Transmissions,Gray Court,3/20/2020,2300.0
+115,Take 5 Change/DrivenBrands,Charleston/Columbia,3/22/2020,12.0
+116,Benteler,Duncan,3/30/2020,296.0
+117,ZF Chassis Systems,Duncan,3/27/2020,250.0
+118,Carolina Eye Associates,Cheraw,3/20/2020,4.0
+119,ALSCO,Columbia,3/20/2020,3.0
+120,Halls Chophouse(Charleston),Charleston,3/18/2020,181.0
+121,Collegiate Hotel Group,Columbia,3/16/2020,59.0
+122,America’s Auto Auction,Greer,3/17/2020,
+123,MAU,Greer,3/29/2020,315.0
+124,IHG Army Hotels,Fort Jackson,4/3/2020,52.0
+125,Ahern Rentals,North Charleston,3/30/2020,1.0
+126,MetaCoastal,North Myrtle Beach,3/20/2020,12.0
+127,C-H-Guenther & Son,Prosperity,3/27/2020,120.0
+128,SCHULTE Companies,Columbia,3/16/2020,27.0
+129,Advanced MechanicalServices,Columbia,3/27/2020,53.0
+130,Hamrick Mills,Gaffney,3/30/2020,405.0
+131,Grace Management Group,Spartanburg,3/26/2020,72.0
+132,Sunshine Fitness Mgmtdba Planet Fitness,Statewide,4/5/2020,264.0
+133,"Hooters of America, LLC",Statewide,3/16/2020,283.0
+134,Asbury Automotive Group(JLPV),Greenville,4/3/2020,14.0
+135,Asbury Automotive Groupdba Lexus of Greenville,Greenville,4/3/2020,23.0
+136,Asbury Automotive GroupToyoto/Scion,Greenville,4/3/2020,36.0
+137,Asbury Automotive GroupCrown Nissan,Greenville,4/3/2020,23.0
+138,MAU – BMW,Greer,3/31/2020,744.0
+139,MAU – BMW,Greer,4/6/2020,359.0
+140,"Cinemark USA, Inc",SC,3/26/2020,118.0
+141,Halls on the Beach,Folly Beach,3/18/2020,53.0
+142,Halls Chophouse Columbia,Columbia,3/18/2020,150.0
+143,High Cotton,Charleston,3/18/2020,81.0
+144,Halls Signature Events,Charleston,3/18/2020,27.0
+145,Halls on Exchange,Charleston,3/18/2020,83.0
+146,Halls on the Creek,Greenville,3/18/2020,132.0
+147,Halls Chophouse Nexton,Summerville,3/18/2020,151.0
+148,Husqvarna ConsumerOutdoor,Orangeburg,3/30/2020,850.0
+149,Beach House Resort,Hilton Head Island,3/23/2020,57.0
+150,GITI Tire Manufacturing,Richburg,4/4/2020,636.0
+151,Palmetto Brewing,Charleston,3/21/2020,9.0
+152,Peak Workforce Solutions,York,4/8/2020,38.0
+153,Newbold Services,Graniteville,4/8/2020,38.0
+154,Peak Workforce Solutions,Seneca,4/8/20/20,65.0
+155,Newbold Services,Gray Court,4/8/2020,32.0
+156,IHG Army Hotels,Fort Jackson,4/10/2020,70.0
+157,Medieval TimesMedieval Knights,Myrtle Beach,4/12/2020,131.0
+158,Kravet Inc,Anderson,4/8/2020,54.0
+159,Peak Workforce Solutions,Manning,4/8/2020,27.0
+160,Fiber Industries LLC,Darlington,4/6/2020,136.0
+161,John Manville,Spartanburg,4/10/2020,6.0
+162,The YMCA,Barnwell/Graniteville/North Augusta,4/24/2020,
+163,Alupress,Laurens,4/10/2020,125.0
+164,Invista Sarl,Lugoff,6/16/2020,71.0
+165,HGC Port Royal LLC,Hilton Head,3/25/2020,31.0
+166,HGC Shipyard LLC,Hilton Head,3/25/2020,25.0
+167,HGC Oyster Reef,Hilton Head,3/25/2020,17.0
+168,Southern Specialty FinanceInc,Statewide,5/1/2020,26.0
+169,Peak Workforce Solutions,Manning,4/15/2020,26.0
+170,Peak Workforce Solutions,Lake City,4/15/2020,39.0
+171,TTX Company,North Augusta,4/22/2020,80.0
+172,Visionworks,Greenville,4/4/2020,7.0
+173,Visionworks,Mrytle Beach,4/4/2020,5.0
+174,Arauco NA,Bennettsville,5/18/2020,126.0
+175,Liberty Steel GeorgetownInc,Georgetown,5/15/2020,130.0
+176,OS Restaurant ServicesLLC,Statewide,04/27/2020,2476.0
+177,Enterprise,Columbia/Greer,4/30/2020,359.0
+178,Hard Rock Cafe,Myrtle Beach,4/13/2020,82.0
+179,Charleston Embassy Suites,Charleston,3/12/2020,140.0
+180,Embassy SuitesBy Hilton,Columbia,3/12/2020,117.0
+181,Alsco,Charleston,3/18/2020,36.0
+182,Asbury dba Lexus ofGreenville,Greenville,5/1/2020,2.0
+183,Asbury dba JLPV ofGreenville,Greenville,5/1/2020,2.0
+184,Kravet Inc,Anderson,5/1/2020,21.0
+185,Hilton Greenville,Greenville,3/14/2020,67.0
+186,Interfor – Company Facility,Georgetown,4/27/2020,114.0
+187,Cox Automotive,Darlington,5/17/2020,75.0
+188,Greenville Embassy Suites,Greenville,3/12/2020,137.0
+189,TTX,North Augusta,5/12/2020,97.0
+190,Transdev,Midlands,6/30/2020,147.0
+191,Transport Care Services,Midlands,6/30/2020,57.0
+192,Mayville EngineeringCompany,Greenwood,7/6/2020,165.0
+193,Preserve at Verdae,Greenville,3/12/2020,52.0
+194,Hotel Bennett,Charleston,5/31/2020,153.0
+195,James Hardie BuildingProducts Inc,Summerville,7/3/2020,60.0
+196,North Charleston EmbassySuites,North Charleston,3/12/2020,118.0
+197,TC TranscontinentalPackaging,Spartanburg,7/31/2020,106.0
+198,Oppermann,Anderson,8/1/2020,20.0
+199,The State Media Company,Columbia,7/26/2020,135.0
+200,Akebono BrakeCorporation,West Columbia,8/1/2020,351.0
+201,Wild Dunes Resort,Isle of Palms,6/15/2020,88.0
+202,King Charles Inn,Charleston,5/14/2020,50.0
+203,Toray CMA,Moore,6/7/2020,90.0
+204,"Warehouse Services, Inc",Woodruff,3/22/2020,79.0
+205,"Warehouse Services, Inc",Liberty,3/22/2020,89.0
+206,Renaissance Charleston,Charleston,3/21/2020,60.0
+207,Wild Dunes Resort,Isle of Palms,6/1/2020,70.0
+208,Durham School Services,Charleston County,6/30/2020,465.0
+209,Flex,West Columbia,8/31/2020,188.0
+210,WestRock,North Charleston,8/16/2020,21.0
+211,"Tyson Prepared Foods, Inc.",Columbia,8/14/2020,146.0
+212,John Manville,Spartanburg,6/16/2020,10.0
+213,John Manville,Spartanburg,5/15/2020,30.0
+214,Amentum,Statewide,8/28/2020,10.0
+215,Renaissance CharlestonHistoric District Hotel,Charleston,8/26/2020,60.0
+216,Wyndham Mills House,Charleston,7/1/2020,77.0
+217,Hilton Grand Vacations,Myrtle Beach,7/1/2020,112.0
+218,Delaware North,Charleston,7/1/2020,120.0
+219,Beneteau Boat Plant,Marion,9/16/2020,180.0
+220,DoubleTree by Hilton,Myrtle Beach,7/22/2020,6.0
+221,Shadwell Farm,Camden,8/31/2020,50.0
+222,Cooper Standard,Spartanburg,3/20/2020,520.0
+223,ARD Logistics,Ladson,9/30/2020,106.0
+224,HMSHost,Myrtle Beach,10/15/2020,3.0
+225,Avis Budget Group,Myrtle Beach,8/28/2020,3.0
+226,Avis Budget Group,North Charleston,8/28/2020,12.0
+227,Avis Budget Group,Greer,8/28/2020,19.0
+228,Renaissance CharlestonHistoric District Hotel,Charleston,9/22/2020,60.0
+229,SYKES,Kingstree,10/31/2020,99.0
+230,VISTANA MBMANAGEMENT INCSheraton BroadwayPlanation,Myrtle Beach,11/13/2020,1.0
+231,"VSE Myrtle Beach, LLCSheraton BroadwayPlanation",Myrtle Beach,11/13/2020,67.0
+232,PCA of America,Newberry,11/16/2020,81.0
+233,Elevate Textiles,Carlisle,11/15/2020,120.0
+234,Wild Dunes,Isle of Palms,9/26/2020,24.0
+235,P.F. Chang’s China Bistro,Greenville,9/17/2020,75.0
+236,P.F. Chang’s China Bistro,Mt. Pleasant,9/17/2020,75.0
+237,P.F. Chang’s China Bistro,Myrtle Beach,9/17/2020,75.0
+238,Sodexo – Lexington TwoDistrict Education Center,West Columbia,9/21/2020,89.0
+239,"VSE Myrtle Beach, LLCSheraton BroadwayPlantation",Myrtle Beach,11/13/2020,69.0
+240,Mann+Hummel,Dillon,12/24/2020,196.0
+241,Century Aluminum,Goose Creek,12/31/2020,289.0
+242,"ABM Janitorial, Inc",Kershaw,11/1/2020,
+243,Terex USA LLC,Rock Hill,1/1/2021,144.0
+244,Liberty Steel GeorgetownInc,Georgetown,12/28/2020,104.0
+245,"C & S Wholesale Services,Inc",Greenville,1/8/2021,287.0
+246,"Sodexo, Inc. – NewberryCollege",Newberry,3/1/2020,51.0
+247,DISH Network(RemanufacturingOperations),Spartanburg,3/5/2021,150.0
+248,"VSE Myrtle Beach, LLCSheraton Broadway",Myrtle Beach,1/22/2021,1.0
+249,Cardinal Health,Fort Mill,1/29/2021,66.0
+250,Mundy Service Corporation,Gaston,3/31/2021,132.0
+251,"LSC Communications US,LLC",Spartanburg,2/18/2021,401.0
+252,"C & S Wholesale Services,Inc",Greenville,2/19/2021,56.0
+253,Cardinal Health,Fort Mill,2/26/2021,66.0
+254,The Westin Hilton HeadIsland Resort & Spa,Hilton Head Island,3/21/2020,276.0
+255,CB&I Project ServicesGroup,Aiken,3/4/2019,105.0
+256,Orano Federal Services,Aiken,3/4/2019,13.0
+257,"Lowe’s Companies, Inc",Charleston,3/25/2019,80.0
+258,CB&I Project ServicesGroup,Aiken,4/1/2019,369.0
+259,Orano Federal Services,Aiken,4/1/2019,38.0
+260,Invista,Lugoff,4/12/2019,62.0
+261,"Saulsbury Industries, Inc",Jenkinsville,3/14/2019,80.0
+262,VF Jeanswear Limited,Greenville,4/13/2019,108.0
+263,Masonite Corporations,Denmark,7/31/2019,95.0
+264,Spectrum Pharmaceuticals,Bluffton,4/12/2019,1.0
+265,"Thesys CAT, LLC",Charleston,4/15/2019,41.0
+266,The RADGroup,Gaffney,4/16/2019,126.0
+267,Walmart,Columbia,3/29/2019,
+268,CB&I Project ServicesGroup,Aiken,4/1/2019,19.0
+269,Hire Right,Chapin,5/31/2019,15.0
+270,Hire Right,Columbia,5/31/2019,30.0
+271,"ACS Industries, Inc",Manning,4/1/2019,31.0
+272,HBD/Thermoid,Elgin,6/1/2019,59.0
+273,Bon Secours Mercy Health,Greenville,5/31/2019,60.0
+274,"Shaw Industries Group, Inc",Central,4/26/2019,249.0
+275,"Plastic Omnium AutoExteriors, LLC",Anderson,6/28/2019,290.0
+276,Vesuvius USA Corporation,Dillon,7/31/2019,
+277,SCHAEFFLER,Fort Mill,7/31/2020,189.0
+278,CB&I Project ServicesGroup,Aiken,6/10/2019,7.0
+279,Gear Design &Manfacturing –AAM Charleston,North Charleston,8/01/2019,85.0
+280,"United Sporting CompaniesEllett Brothers, LLC",Chapin,9/5/2019,173.0
+281,Invista,Lugoff,9/2/2019,51.0
+282,"Shaw Industries Group, Inc",Clinton,6/24/2019,113.0
+283,CB&I Project ServicesGroup,Aiken,8/23/2019,29.0
+284,Continental Powertrain,Fountain Inn,12/13/2019,40.0
+285,AECOM (CTTR),South Carolina,9/30/2019,10.0
+286,Pain ManagementAssociates,Statewide,08/20/2019,257.0
+287,TFE LogisticsCedar Crest Rd,Spartanburg,10/30/2019,812.0
+288,TFE LogisticsFalling Creek Rd,Spartanburg,10/30/2019,663.0
+289,NAPA,Cayce,12/31/2019,46.0
+290,Hydro,Belton,11/15/2019,172.0
+291,"Amcor Rigid PackagingUSA, LLC",Blythewood,11/24/2019,39.0
+292,TTEC Services Corporation,UnitedStates/Statewide,10/5/2019,13.0
+293,Hire Right,Columbia,12/6/2019,38.0
+294,BKI,Simpsonville,12/28/2019,80.0
+295,Georgia-Pacific WoodProducts LLC,McCormick,12/21/2019,97.0
+296,Georgia-PacificAllendale Facility,Fairfax,12/21/2019,142.0
+297,Charter Communications,Greenville,9/12/2019,80.0
+298,"DSV Solutions, LLC",Charleston,2/2/2020,69.0
+299,Nippon Electric Glass,Chester,2/14/2020,145.0
+300,"On Demand Publishing,LLC (1)",North Charleston,7/3/2018,58.0
+301,Dish,Spartanburg,3/18/2018,60.0
+302,Wellman (1),Johnsonville,3/6/2018,92.0
+303,Kongsberg Automotive,Easley,3/17/2018,61.0
+304,Walmart,Laurens,4/27/2018,86.0
+305,Reliable ManagementSolutions,Lexington,3/31/2018,237.0
+306,Coats & Clark,Greer,,61.0
+307,BAE Systems,Summerville,9/27/2018,233.0
+308,Lippert ComponentsManufacturing,Chester,6/30/2018,134.0
+309,Family Medicine Centers ofSouth Carolina,Columbia/Irmo/West Columbia,5/31/2018,114.0
+310,Sitel,SC – statewide,4/6/2018,8.0
+311,"Warehouse Services, Inc",Graniteville,6/12/2018,180.0
+312,ALICE Manufacturing,Easley,7/16/2018,182.0
+313,GILDAN,Hamer,7/27/2018,54.0
+314,ESAB Group,Union,5/25/2018,63.0
+315,AFCO,Anderson,12/31/2018,395.0
+316,KENCO,Summerville,8/31/2018,100.0
+317,Wells Fargo,Fort Mill,8/20/2018,77.0
+318,DHL,Spartanburg,9/15/2018,576.0
+319,SYKES,Greenwood,9/13/2018,213.0
+320,Aramark,Rock Hill,7/31/2018,182.0
+321,Element TV Company,Winnsboro,10/5/2018,126.0
+322,Verizon,North Charleston,9/29/2018,92.0
+323,IHG,North Charleston,11/2/2018,626.0
+324,BCBS,Florence,11/7/2018,133.0
+325,BCBS,Surfside,11/7/2018,111.0
+326,MPW Industrial Services,Greer,12/1/2018,75.0
+327,"CB&I Project ServicesGroup, LLC",Aiken,1/7/2019,502.0
+328,Orano Federal Services,Aiken,1/7/2019,114.0
+329,Wells Fargo,Fort Mill,1/15/2019,111.0
+330,"CB&I Project ServicesGroup, LLC",Aiken,2/4/2019,372.0
+331,Orano Federal Services,Aiken,2/4/2019,70.0
+332,Saulsbury Industries,Jenkensville,2/8/2019,110.0
+333,Clarus Linen Systems,Spartanburg,2/17/2019,88.0
+334,Apex Tool Group,Sumter,03/31/2017,161.0
+335,Coveris High Performance,Anderson,04/06/2017,100.0
+336,Dayco,Walterboro,06/30/2017,122.0
+337,Dupont,Moncks Corner,06/30/2017,106.0
+338,Sodexo,Columbia,06/30/2017,525.0
+339,Aramark,Charleston,06/30/2017,151.0
+340,Staples,Columbia,07/07/2017,221.0
+341,JCPenney,Charleston,07/31/2017,58.0
+342,Resolute Forest Products,CatawbaLancasterJonesville,07/31/2017,222.0
+343,Providence Health`,Columbia,09/03/2017,112.0
+344,Faiveley Phase I,Greenville,08/31/2017,1.0
+345,Duracell,Lancaster,12/31/2018,345.0
+346,Durafiber,Winnsboro,09/11/2017,240.0
+347,PMC Corp,Clinton,09/29/2017,47.0
+348,Fisher Barton,Fountain Inn,09/15/2017,100.0
+349,BH Media Group,Florence,09/10/2017,63.0
+350,Fluor Corporation,Jenkinsville,08/01/2017,4003.0
+351,SCANA,Jenkinsville,09/30/2017,617.0
+352,"CBI Services, LLC",Jenkinsville,07/31/2017,75.0
+353,Westinghouse Electric,Jenkinsville,08/31/2017,561.0
+354,Westinghouse Electric,Rock Hill,8/31/2017,113.0
+355,Kongsberg Automotive,Easley,01/01/2018,97.0
+356,APEX Tool Group,Sumter,11/03/2017,115.0
+357,Faiveley Transport (PhaseII),Greenville,11/05/2017,6.0
+358,Wells Fargo & Co,Fort Mill,07/13/2017,120.0
+359,CB&I,Laurens,03/20/2018,250.0
+360,Faiveley (Phase III),Greenville,11/30/2017,6.0
+361,Faiveley (Final Phase),Greenville,12/30/2017,11.0
+362,Cardinal LogisticsManagement,Blythewood,01/08/2018,102.0
+363,"Frederick J. Hanna &Associates, PC",Greenville,02/10/2016,
+364,ADS Logistics,Gaffney,02/15/2016,105.0
+365,Husqvarna Group,Orangeburg,03/06/2016,84.0
+366,CHEP Recycled,Simpsonville,01/16/2016,
+367,Century Aluminum,Goose Creek,07/31/2016,250.0
+368,Dial America,N. Charleston,01/11/2016,150.0
+369,Dillard’s Inc.,Aiken,03/20/2016,73.0
+370,Walmart,Winnsboro,04/15/2016,165.0
+371,Wells Fargo,Fort Mill,04/03/2016,66.0
+372,Honeywell,Goose Creek,03/03/2016,180.0
+373,CoreLogic,Columbia,05/16/2016,77.0
+374,Amarak,Greenville,05/31/2016,172.0
+375,Wells Fargo,Fort Mill,06/15/2016,1.0
+376,Baldor Electric,Clio,06/09/2016,60.0
+377,Wells Fargo,Fort Mill,07/16/2016,9.0
+378,Southern Season,Mount Pleasant,07/02/2016,96.0
+379,Sealed Air,Greenville,08/26/2016,62.0
+380,Spartan Foods,Greenville,10/14/2016,123.0
+381,Citi,Mount Pleasant,09/15/2016,28.0
+382,Wells Fargo,Fort Mill,07/13/2016,6.0
+383,Baldor Electric,Clio,09/19/2016,4.0
+384,JPS Composites,Slater,09/30/2016,103.0
+385,SoPakCo,Mullins,08/26/2016,116.0
+386,Caterpillar,Newberry,11/11/2016,10.0
+387,Hubbell,Cowpens,12/01/2016,55.0
+388,WestRock,Latta,11/01/2016,99.0
+389,Baldor Electric,Clio,11/30/2016,7.0
+390,JPS Composites,Slater,10/31/2016,69.0
+391,Stryker Communications,N. Charleston,12/31/2016,88.0
+392,Impresa Aerospace,Goose Creek,12/31/2016,20.0
+393,Amazon,North Charleston,02/15/2017,149.0
+394,CB&I Shaw Constructors,Jenkinsville,01/29/2015,176.0
+395,Bank of America,Columbia,01/31/2015,68.0
+396,Tyonek Services Group,Beaufort,03/31/2015,11.0
+397,Milliken & Company,Judson,04/13/2015,199.0
+398,Jacobs,Goose Creek,07/10/2015,60.0
+399,Sodexo,Florence,06/30/2015,54.0
+400,Worthington,Florence,06/01/2015,308.0
+401,UTI,N. Charleston,07/31/2015,100.0
+402,Bose,Blythewood,09/18/2015,300.0
+403,"DTZ, Inc.",Orangeburg,06/30/2015,100.0
+404,Piedmont Health Group,Greenwood,07/01/2015,129.0
+405,Wells Fargo & Co.,Columbia,04/29/2015,51.0
+406,Honeywell,Goose Creek,07/15/2015,337.0
+407,Mohawk Industries,Landrum,12/31//2015,150.0
+408,ArcelorMital,Georgetown,07/24/2015,198.0
+409,ESAB,Florence,03/31/2016,319.0
+410,Aiken/Barnwell CountiesCommunity Action Agcy.,Aiken,06/30/2015,82.0
+411,Urban Outfitters,Trenton,08/18/2015,327.0
+412,First Citizens,Columbia,09/01/2015,77.0
+413,Pillar Hotels & Resorts,Charleston,09/01/2015,52.0
+414,Sodexo,Orangeburg,08/03/2015,94.0
+415,Hill-Rom Holdings Inc.,Charleston,09/15/2015,70.0
+416,UTi,Lugoff,08/24/2015,120.0
+417,CTS (Coyne TextileServices),Greenville,10/31/2015,66.0
+418,UnitedHealth Group,Duncan,10/31/2015,85.0
+419,Wells Fargo & Co,Fort Mill,11/15/2015,103.0
+420,Belk,Union,01/15/2016,28.0
+421,Maxim Healthcare Services,Columbia,12/15/2015,130.0
+422,Century Aluminum,Mount Holly,12/22/2015,487.0
+423,Consumers Choice,"Columbia,Greenville, NorthCharleston",11/30/2015,82.0
+424,Carolina Furniture,Sumter,01/06/2014,68.0
+425,"American LaFrance, LLC",Moncks Corner,02/04/2014,101.0
+426,Gannett Publishing Services,Greenville,05/05/2014,117.0
+427,"Champion Laboratories,Inc. (Fram)",York,07/18/2014,229.0
+428,Bi-Lo Holdings,Orangeburg,05/31/2014,54.0
+429,"SSP America, Inc.",Charleston,05/31/2014,63.0
+430,Metrolina Greenhouses,Pendleton,05/31/2014,57.0
+431,Amcor Rigid Plastics,Blythewood,06/09/2014,41.0
+432,"Jostens, Inc",Laurens,09/30/2014,67.0
+433,Pepsi Beverages Company,Columbia,05/12/2014,104.0
+434,General Dynamics,Ladson,07/01/2014,153.0
+435,Caterpillar,107 Fountain Inn,12/31/2014,235.0
+436,Caterpillar,111 Fountain Inn,12/31/2014,120.0
+437,Nevamar,Hampton,10/12/2014,236.0
+438,Mundy Maintenance,Greenwood,10/26/2014,136.0
+439,Belk,Columbia,01/15/2015,92.0
+440,Faurecia,Spartanburg,12/05/2014,99.0
+441,ResMed,Spartanburg,06/30/2015,49.0
+442,Bank of America,Columbia,01/31/2015,68.0
+443,"HGM, Haile Gold Mine,Inc.",Kershaw,02/13/2015,50.0
+444,Fast Lane of Rock Hill,Rock Hill,2/25/2013,31.0
+445,SafeAuto InsuranceCompany,Hemingway,3/19/2013,164.0
+446,Titanium Holdings,Fort Mill,3/31/2013,95.0
+447,Bi-Lo,Greenville,4/17/2013,130.0
+448,"DSE Systems, Inc.",Gaffney,5/31/2013,42.0
+449,Mortgage Bank,Florence,6/4/2013,573.0
+450,"Newman Technology SouthCarolina, Inc.",Aiken,6/7/2013,214.0
+451,"Jostens, Inc.",Laurens,6/24/2013,63.0
+452,"Spartanburg Steel Products,Inc.",Spartanburg,7/1/2013,64.0
+453,Sunland Logistics Solutions,Greenville,7/1/2013,47.0
+454,Sunland Staffing,Greenville,7/1/2013,52.0
+455,"Capitol ManagementServices, LP",Greenville,07/29/2013,36.0
+456,"First Center, LLC",Greenville,07/29/2013,85.0
+457,Joy Global,Belton,8/1/2013,77.0
+458,Shaw Project ServicesGroup,Aiken,8/6/2013,485.0
+459,AREVA Federal ServicesLLC,Aiken,8/6/2013,
+460,Filtration Group,York,8/16/2013,96.0
+461,Palmetto GBA,Columbia,8/23/2013,126.0
+462,Stacy’s Greenhouses,York,9/8/2013,656.0
+463,Stacy’s Greenhouses,Pendleton,9/8/2013,61.0
+464,"Pepperidge Farm, Inc.",Aiken,9/27/2013,115.0
+465,"International AutomotiveComponents, LLC",Greenville,12/20/2013,164.0
+466,"General NutritionCompanies, Inc.",Anderson,10/11/2013,50.0
+467,CGI Federal,North Charleston,11/30/2013,88.0
+468,Piggly Wiggly,Summerville,03/31/2014,85.0
+469,Piggly Wiggly,North Charleston,03/31/2014,64.0
+470,SCE&G,Walterboro,12/31/2013,67.0
+471,Mortgage Bank,Florence,,23.0
+472,"Caterpillar, Inc.",Summerville,,250.0
+473,Harvey Industries DieCasting LLC,Aiken,11/21/2013,150.0
+474,Heinz,Florence,03/21/2014,198.0

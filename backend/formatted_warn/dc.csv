@@ -1,0 +1,115 @@
+,company_name,notice_date,layoff_date,employees_affected
+0,Walmart,"March 2, 2023","June 2, 2023",267
+1,"Cityblock Health, Inc and Cityblock Medical Practice, P.A.","May 9, 2023","July 10, 2023",60
+2,Yellow Corporation and Affiliates,"August 1, 2023","July 30, 2023",TBD
+3,Constellis dba Omniplex World Services Corp,"September 29, 2023","November 30, 2023",50
+4,"ABM Industry Group, LLC","January 14, 2022","February 28, 2022 March 31, 2022",42
+5,Aramark at Georg Washington University,"May 31, 2022","July 31, 2022",192
+6,"Golden Services, LLZC","July 27, 2022","September 30, 2022",82
+7,Democratic Congressional Committee,"September 15, 2022","November 15 - December 16, 2022",385
+8,Democratic Congressional Committee (DNC),"September 15, 2022","November 30, 2022",291
+9,Democratic Senatorial Campaign Committee,"October 3, 2022","December 3 - December 17, 2022",121
+10,"Curative, Inc.","October 31, 2022","December 30, 2022",66
+11,"CAMRIS International, LLC","October 31, 2022","December 30, 2022",140
+12,"CACI Technologies, Inc.","March 2, 2021","April, 30, 2021",77
+13,"Curative, Inc","March 16, 2021","May 15, 2021",187
+14,Washington Metropolitan Area Transit Authority,"October 22, 2020","December 25, and Feb - Jun 2021","1,604"
+15,Cosmos Club,"October 22, 2020","May 4, 2020",70
+16,Aramark at Capital One Area,"October 16, 2020",TBD,738
+17,Aramark at Washington Convention Center,"October 16, 2020",TBD,123
+18,Aramark at Georgetown Hotel and Conference Center,"October 12, 2020",TBD,55
+19,"LeTote, Inc.","October 1, 2020","December 1, 2020",33
+20,Kimpton Hotel Palomar,"September 30, 2020",TBD,55
+21,Marriot Washington Metro Center,"September 14, 2020","November 20, 2020",91
+22,Neiman Marcus Group,"August 23, 2020","October 23, 2020",78
+23,Phoenix Park Hotel,"August 20, 2020","October 7, 2020",57
+24,Compass Group USA Inc. dba Chartwells,"August 20, 2020","August 20, 2020",220
+25,"Rose Restaurant Group, LLC and affiliates (Rose’s Luxury, Pineapple and Pearl, Little Pearl)","August 19, 2020","September 15, 2020 and March 18, 2020",72
+26,Restaurant Associates (Kennedy Center),"August 17, 2020","August 15, 2020",88
+27,Monumental Sports and Entertainment,"August 17, 2020","October 16, 2020",175
+28,HMS Hosts - DCA,"August 11, 2020","March 16, 2020",79
+29,Embassy Suites Hilton- DC Convention Center,"August 6, 2020","March 20, 2020",106
+30,"Compass Group USA, Inc. d/b/a/ Restaurant Associates @ CVC","July 30, 2020","August 1, 2020",48
+31,"Compass Group USA, Inc. d/b/a/ Restaurant Associates @ Senate","July 30, 2020","October 1, 2020",199
+32,"Compass Group USA, Inc. d/b/a/ Restaurant Associates @ World Bank","July 29, 2020","October 1, 2020",261
+33,Washington Hilton,"July 24, 2020","March 19, 2020",533
+34,Conrad Hotel,"July 23, 2020","March 20, 2020",359
+35,Omni Shoreham Hotel,"July 23, 2020","March 27, 2020",599
+36,Dupont Circle Hotel,"July 21, 2020","March 22, 2020",157
+37,Pret A Manger,"July 17, 2020","March 16, 2020",152
+38,Park Hyatt/Blue Duck Tavern Washington,"June 26, 2020","March 21, 2020",152
+39,Hyatt Regency Hotel,"June 17, 2020","April 4, 2020",178
+40,Hay-Adams Hotel,"June 11, 2020","March 21, 2020",182
+41,JW Marriott Washington DC,"June 9, 2020","March 16, 2020",376
+42,"Residence Inn Washington DC, Downtown","June 9, 2020","March 13, 2020",56
+43,Marriott Washington Wardman Park,"June 8, 2020","March 14, 2020",731
+44,The W Hotel,"June 8, 2020","March 14, 2020",351
+45,Washington Marriott Georgetown,"June 5, 2020","March 16, 2020",176
+46,The Ritz,"June 5, 2020","March 16, 2020",361
+47,The Mayflower Hotel,"June 4, 2020","March 20, 2020",426
+48,St. Regis,"June 2, 2020","March 7, 2020",2020
+49,Westin Georgetown,"June 1, 2020","March 16, 2020",96
+50,Embassy Suites Chevy Chase,"May 21, 2020","March 16, 2020",60
+51,Medical Facility Associates,"May 6, 2020","July 5, 2020",136
+52,"Barcelona Restaurants, LLC","May 2 and 5, 2020","March 26, 2020",151
+53,Visionworks,"April 23, 2020","April 4, 2020",18
+54,MomoFuku,"April 6, 2020","April 6, 2020",67
+55,Trump Interational Hotel,"April 3, 2020","April 3, 2020",237
+56,Thunder Grill,"March 30, 2020","March 16, 2020",41
+57,Sequoia,"March 30, 2020","March 16, 2020",128
+58,Le Diplomate,"March 27, 2020","March 16, 2020",244
+59,Boquiera,"March 23, 2020","March 20,2020",152
+60,Embassy Row,"March 26, 2020","March 26, 2020",67
+61,Four Seasons Hotel,"March 20, 2020","March 23, 2020",413
+62,Mynd Salon and Spa,"March 20, 2020","March 19, 2020",82
+63,St. Anselm,"March, 20, 2020","March 23, 2020",96
+64,Gregorys Coffee Management LLC,"March 19, 2020","March 19, 2020",30
+65,Carmines DC LLC,"March 18, 2020","March 16, 2020",152
+66,Sydell Hotel LLC,"March 14, 2020","March 16, 2020",58
+67,Hooters,"March 20, 2019","May 19, 2019",55
+68,Co-Star Group,"July 10, 2019","September 27, 2019",96
+69,Dean & DeLuca,"July 26, 2019","July 26, 2019",53
+70,OMNISEC,"July 26, 2019","September 30, 2019",167
+71,GDIT,"July 31, 2019","September 30, 2019",62
+72,"Centerra Group, LLC","August 30, 2019","September 30, 2019",72
+73,GDIT,"September 17, 2019","November 18, 2019",64
+74,"Freedom Forum, INC","October 25, 2019","December 31, 2019",88
+75,Capitol Hill Hotel,"October 22, 2019","January 3, 2020",160
+76,Wolfgang Puck Catering and Newseum,"31, 2019","December 31, 2019",60
+77,"Centerra Group, LLC","March 2, 2018","March 31, 2018",243
+78,"PESystems, INC.","June 8, 2018","August 10, 2018",89
+79,"Warner Media, LLC","August 9, 2018","November 9, 2018",14
+80,Providence Hospital,"October 12, 2018","December 14, 2018",898
+81,Providence Hospital,"August 17, 2017","October 16, 2017",268
+82,First Potomac Realty Trust,"July 28, 2017","October 1, 2017",24
+83,Black Entertainment Television,"July 7, 2017","September 5, 2017",55
+84,Groupon Inc.,"February 23, 2017","April 24, 2017",95
+85,Gap Solution,"February 2, 2017","February 11, 2017",85
+86,Core Civic Association,11/29/16,1/31/17,243
+87,GAP Solutions,9/15/16,9/28/16,85
+88,Double Tree Hotel,8/23/16,10/24/16,67
+89,BAE Systems,6/1/16,7/29/16,56
+90,BAE Systems,4/29/16,6/30/16,13
+91,Cessation of Restaurant Associates of National Gallery,6/20/16,9/30/16,71
+92,AECOM,6/17/16,8/2/16,52
+93,Sodexo,4/26/16,7/31/16,30
+94,AECOM,4/12/16,6/14/16,120
+95,Living Social,3/16/16,5/16/16,88
+96,"AL Jazeera, LLC",1/16/16,4/30/16,67
+97,Holiday Inn- Georgetown,8/14/15,11/20/15,72
+98,Restaurant Associates at the US House of Representatives,6/7/15,8/7/15,All
+99,Centerra Group,4/13/15,4/30/15,66
+100,General Dynamics Information Technology,1/28/15,5/31/15,96
+101,"The Washington Newspaper Publishing Company, LLC (dba The Washington Examiner)","March 19, 2013","June 15, 2013",20
+102,Howard Road Academy,"May 9, 2013","June 23,2013",50
+103,"Chimes, Inc.","June 13, 2013","June 30, 2013",50
+104,AARP,August 2013,"December 31, 2013",73
+105,Davidson Hotels and Resorts/L’Enfant Plaza,October 2013,"December 3, 2013",200
+106,Dewey & Le Boeuf,"May 7,14 & 31, 2012","May 31, 2012 June 15, 2012",29
+107,IAP World Services,"June 4, 2012","June 18, 2012",99
+108,IAP World Services,"June 4, 2012","June 29, 2012 & August 3, 2012",185
+109,Interstate Hotels and Resorts,"July 13, 2012","September 13, 2012",114
+110,Lockheed Martin Electronic Systems,"July 24, 2012","July 31, 2012",103
+111,G4S Government Solutions,"August 2, 2012","February 8, 2013",143
+112,Democratic National Committee,"September 10, 2012","November 30, 2012",83
+113,American Geophysical Union,"September 14, 2012","December 14, 2012",61

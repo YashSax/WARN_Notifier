@@ -1,0 +1,1219 @@
+,company_name,location,notice_date,layoff_date,employees_affected,Closure or Layoff,Type of Layoff
+0,Americal Medical Response Moses Lake,Moses Lake,11/1/2023,1/2/2024,17,Closure,Permanent
+1,Convoy Inc.,"Seattle, WA",10/24/2023,10/19/2023,533,Closure,Permanent
+2,Magnum Venus Products,Kent,10/23/2023,12/30/2023,47,Closure,Permanent
+3,HMSHost,Seattle,10/20/2023,12/31/2023,65,Layoff,Permanent
+4,"Crothall Healthcare, Inc.",Seattle,10/13/2023,12/14/2023,41,Layoff,Permanent
+5,"Flexport, Inc.",Bellevue,10/13/2023,10/13/2023,165,Layoff,Permanent
+6,"Cygnus Home Service, LLC, d/b/a Yelloh",Various locations in Washington,10/9/2023,10/20/2023,58,Closure,Permanent
+7,"Epic Games, Inc.",Bellevue,10/5/2023,10/2/2023,39,Layoff,Permanent
+8,"Hard Rock International (USA), Inc.",Seattle,10/2/2023,12/1/2023,66,Closure,Permanent
+9,Target,Seattle,9/28/2023,12/30/2023,39,Closure,Permanent
+10,Target,Seattle,9/28/2023,12/30/2023,51,Closure,Permanent
+11,"American Nursery Services, Inc.",Statewide,9/28/2023,12/31/2023,45,Closure,Permanent
+12,"Flexe, Inc.",Seattle,9/26/2023,11/27/2023,131,Layoff,Permanent
+13,WestRock Company,Tacoma,9/13/2023,9/30/2023,408,Closure,Permanent
+14,"Divvy Homes, Inc.",King County,9/8/2023,11/7/2023,4,Layoff,Permanent
+15,"SkyKick, Inc.",Seattle,8/30/2023,10/31/2023,181,Layoff,Permanent
+16,"Agilent Technologies, Inc.",Kirkland,8/28/2023,10/31/2023,64,Closure,Permanent
+17,"T-Mobile USA, Inc.",Bellevue,8/25/2023,10/24/2023,401,Layoff,Permanent
+18,"Crothall Healthcare, Inc.",Seattle,8/22/2023,10/20/2023,174,Layoff,Permanent
+19,"ImmunityBio, Inc.",San Juan County,8/21/2023,10/17/2023,1,Layoff,Permanent
+20,Cognizant Technology Solutions U.S. Corporation,Bothell,8/17/2023,9/29/2023,93,Layoff,Permanent
+21,Yellow Corporation,"Everett, Seattle, Tacoma, E. Wenatchee, Union Gap, Pasco, Spokane",8/14/2023,7/30/2023,437,Closure,Permanent
+22,"Centerra, a Constellis Company","Seattle, Tacoma, Yakima, Spokane, Richland",8/11/2023,9/30/2023,92,Layoff,Permanent
+23,"KeHE Distributors, Inc",Statewide,8/7/2023,10/6/2023,42,Layoff,Permanent
+24,"Columbia Valley Fruit, LLC",Union Gap,7/31/2023,9/28/2023,131,Closure,Permanent
+25,"Universal Protection Service, LP d/b/a Allied Universal Security Services",Redmond,7/17/2023,10/5/2023,71,Layoff,Permanent
+26,Microsoft,Redmond and Bellevue,7/10/2023,9/8/2023,276,Layoff,Permanent
+27,"Dawn Food Products, Inc.",Seattle,7/5/2023,9/1/2023,55,Closure,Permanent
+28,"Aramark Campus, LLC",Bellingham,6/28/2023,8/31/2023,386,Layoff,Permanent
+29,"BWRD, LLC (Stria)",King County,6/15/2023,6/14/2023,1,Layoff,Permanent
+30,"Bitwise Industries, Inc.","Island, King, Spokane, Okanogan Counties",6/14/2023,6/14/2023,4,Layoff,Permanent
+31,Los Angeles Times Communications LLC,Seattle,6/9/2023,8/14/2023,1,Layoff,Permanent
+32,Microsoft,Redmond,6/5/2023,8/4/2023,22,Layoff,Permanent
+33,Cascade Behavioral Health Hospital LLC,Tukwila,6/1/2023,7/31/2023,288,Closure,Permanent
+34,Amentum,Everett,5/31/2023,7/30/2023,3,Layoff,Permanent
+35,Microsoft,Redmond,5/9/2023,5/26/2023,158,Layoff,Permanent
+36,Summit Public Schools Washington,"Seattle, Tacoma",4/28/2023,6/30/2023,17,Layoff,Permanent
+37,"Elkay Interior Systems, Inc",Spokane,4/26/2023,7/28/2023,6,Closure,Permanent
+38,Durham School Services,Spokane,4/25/2023,6/30/2023,226,Closure,Permanent
+39,David's Bridal LLC,Nationwide,4/17/2023,4/14/2023,9266,Closure,Permanent
+40,Phoenix Processor Limited Partnership,Seattle,4/12/2023,6/7/2023,115,Closure,Permanent
+41,Q2 Solutions,Seattle,4/3/2023,6/15/2023,43,Closure,Permanent
+42,Microsoft,Redmond and Bellevue,3/27/2023,5/26/2023,559,Layoff,Permanent
+43,"Aspiration Partners, Inc",King and Snohomish Counties,3/24/2023,5/26/2023,3,Layoff,Permanent
+44,Walmart,Everett,3/23/2023,6/30/2023,198,Closure,Permanent
+45,"Blue Nile, Inc.",Seattle,3/23/2023,7/14/2023,119,Closure,Permanent
+46,Ace Hardware Corporation,Spokane,3/17/2023,5/17/2023,86,Layoff,Permanent
+47,Astound Broadband,Bothell,3/17/2023,5/19/2023,90,Layoff,Permanent
+48,"Compass Group USA, Inc.",Redmond,3/8/2023,3/24/2023,68,Layoff,Permanent
+49,Ingersoll Rand,Kent,3/7/2023,5/8/2023,69,Closure,Permanent
+50,Microsoft,"Redmond, Bellevue, Issaquah",3/6/2023,5/5/2023,689,Layoff,Permanent
+51,"Novo Nordisk Research Center Seattle, Inc",Seattle,3/1/2023,5/1/2023,86,Layoff,Permanent
+52,"FleetLogix, Inc","SeaTac, Tukwila",2/28/2023,4/28/2023,120,Closure,Permanent
+53,Rume Medical Group,"Seattle, Lynden",2/24/2023,2/26/2023,2,Layoff,Permanent
+54,"American Medical Response, Pierce County",Fife,2/17/2023,4/19/2023,43,Closure,Permanent
+55,"Critical Ideas, Inc. dba Chipper Cash","Vancouver, Spokane",2/16/2023,2/17/2023,2,Layoff,Permanent
+56,"Peer Street, Inc.",Liberty Lake,2/15/2023,4/16/2023,1,Layoff,Permanent
+57,Microsoft,"Redmond, Bellevue, Issaquah",2/9/2023,4/10/2023,617,Layoff,Permanent
+58,"NC Interactive, LLC",Bellevue,2/2/2023,2/1/2023,23,Layoff,Permanent
+59,"Bittrex, Inc.",Bellevue,2/1/2023,4/2/2023,83,Layoff,Permanent
+60,"Compass Group USA, Inc.",Redmond,1/30/2023,3/28/2023,110,Layoff,Permanent
+61,Microsoft,"Redmond, Bellevue, Issaquah",1/18/2023,3/20/2023,878,Layoff,Permanent
+62,Amazon,"Seattle, Bellevue",1/18/2023,3/19/2023,2320,Layoff,Permanent
+63,"SIGMA DESIGN, Inc","Camas, Vancouver",1/17/2023,1/31/2023,42,Layoff,Permanent
+64,"Specialized Bicycle Components, Inc","Seattle, Spokane",1/11/2023,1/13/2023,9,Layoff,Permanent
+65,"Brinker International Payroll Co LP, Maggiano's Little Italy Restaurant",Bellevue,1/3/2023,3/4/2023,147,Closure,Permanent
+66,"Triple Canopy, a Constellis Co",Tukwila,12/29/2022,2/28/2023,122,Layoff,Permanent
+67,Pioneer Human Services,Sedro Woolley,12/5/2022,1/31/2023,50,Closure,Permanent
+68,The Lobster Shop,Tacoma,12/1/2022,1/15/2023,70,Layoff,Temporary
+69,"American Medical Response, Pierce County",Fife,11/29/2022,1/28/2023,130,Layoff,Permanent
+70,"Meta Platforms, Inc",Bellevue,11/11/2022,1/13/2023,307,Layoff,Permanent
+71,"Meta Platforms, Inc",Seattle,11/11/2022,1/13/2023,419,Layoff,Permanent
+72,"Astra Space, Inc",Olympia,11/9/2022,11/9/2022,1,Layoff,Permanent
+73,"Twitter, Inc",Seattle,11/4/2022,1/4/2023,257,Layoff,Permanent
+74,Amentum,Oak Harbor,10/31/2022,12/31/2022,194,Layoff,Permanent
+75,Conestoga Wood Specialties Corp.,Kent,10/25/2022,12/31/2022,51,Closure,Permanent
+76,"Universal Protection Service, LLC dba Allied Universal Security Services","Seattle, Kent",10/21/2022,12/19/2022,1203,Layoff,Permanent
+77,Stadelman Fruit Company,Zillah,10/17/2022,11/15/2022,381,Closure,Permanent
+78,Montesano Health and Rehabilitation Center,Montesano,9/26/2022,9/14/2022,49,Layoff,Temporary
+79,"Compass, Inc",Seattle,9/21/2022,11/19/2022,271,Layoff,Permanent
+80,Falck Northwest Corporation,"Mountlake Terrace, Fife",9/16/2022,12/15/2022,123,Closure,Permanent
+81,Amazon Health Services,Seattle,9/7/2022,12/1/2022,159,Closure,Permanent
+82,Care Medical,Seattle,9/7/2022,12/1/2022,236,Closure,Permanent
+83,"Royal Ridge Fruit and Cold Storage, LLC",Royal City,8/17/2022,8/17/2022,45,Layoff,Permanent
+84,Imaginetics LLC,Auburn,7/28/2022,7/27/2022,83,Closure,Permanent
+85,VSPOne Olympia,Lacey,6/29/2022,7/29/2022,55,Closure,Permanent
+86,"Shining Ocean, Inc. d/b/a Aquamar",Sumner,6/13/2022,8/12/2022,116,Closure,Permanent
+87,Kershaw Fruit and Cold Storage,Yakima,6/6/2022,6/10/2022,125,Layoff,Permanent
+88,"Soli Organic, Inc",Duvall,5/31/2022,7/31/2022,102,Closure,Permanent
+89,Hawthorne Gardening Company,Vancouver,5/25/2022,8/1/2022,42,Layoff,Permanent
+90,Service Response Partners LLC,Auburn,5/23/2022,7/17/2022,1,Closure,Permanent
+91,"Ideoclick, Inc",Seattle,5/3/2022,7/2/2022,38,Layoff,Permanent
+92,"Funko, LLC","Everett, Puyallup",4/7/2022,6/9/2022,258,Closure,Permanent
+93,Walmart,Bellevue,4/4/2022,7/15/2022,147,Closure,Permanent
+94,"Kings Command Foods, LLC",Kent,4/1/2022,4/1/2022,92,Closure,Permanent
+95,Wesley Homes,"Des Moines, Auburn, Puyallup",3/11/2022,5/14/2022,119,Layoff,Permanent
+96,Norgren GT Development LLC,Auburn,3/3/2022,7/1/2022,181,Closure,Permanent
+97,Valiant Integrated Services,Joint Base Lewis McChord,2/14/2022,3/31/2022,59,Layoff,Permanent
+98,Hawthorne Gardening Company,Vancouver,1/26/2022,4/1/2022,150,Layoff,Permanent
+99,Outdoor Research,Seattle,1/6/2022,3/7/2022,55,Layoff,Temporary
+100,"Monitronics International, Inc. d/b/a Brinks Home","Seattle, Tacoma, Snoqualmie, Spokane",12/16/2021,12/17/2021,4,Layoff,Permanent
+101,Watsonville Community Hospital,Prosser,11/26/2021,1/28/2022,1,Closure,Permanent
+102,"BitTitan, Inc",Bellevue,11/17/2021,1/14/2022,70,Layoff,Permanent
+103,Zillow Group,Seattle,11/4/2021,1/3/2022,96,Layoff,Permanent
+104,Foss Maritime Company,Seattle,10/29/2021,12/29/2021,115,Closure,Permanent
+105,Stadelman Fruit Company,Zillah,7/26/2021,8/31/2021,120,Closure,Permanent
+106,"Xevo, Inc",Bellevue,7/7/2021,7/7/2021,173,Layoff,Permanent
+107,Katerra,Seattle,7/2/2021,7/8/2021,1,Closure,Permanent
+108,Katerra,Seattle,6/1/2021,6/4/2021,117,Closure,Permanent
+109,"Electronic Transaction Consultants, LLC",Seattle,5/27/2021,7/30/2021,65,Closure,Permanent
+110,Durham School Services,Spokane,5/20/2021,7/1/2021,22,Layoff,Permanent
+111,Collins Aerospace,Everett,5/19/2021,7/23/2021,65,Closure,Permanent
+112,"Rosetta Stone, LLC",Seattle,5/11/2021,7/11/2021,16,Layoff,Permanent
+113,Yakima Herald-Republic,Yakima,5/4/2021,7/8/2021,40,Closure,Permanent
+114,"Hydro Systems USA, Inc.",Kent,4/22/2021,7/31/2021,46,Layoff,Permanent
+115,"DSU-Peterbilt & GMC, Inc.",Kelso,4/16/2021,5/31/2021,67,Layoff,Permanent
+116,YMCA of Greater Seattle,Seattle,4/6/2021,3/23/2021,1213,Layoff,Permanent
+117,Plastics Extrusion Machinery LLC,Tumwater,3/18/2021,4/30/2021,21,Closure,Permanent
+118,Saalex Solutions Inc,Keyport,3/9/2021,4/30/2021,50,Layoff,Permanent
+119,Keyword Studios US Inc.,Bothell,3/1/2021,5/9/2021,42,Layoff,Permanent
+120,Keyword Studios US Inc.,Bothell,2/25/2021,4/30/2021,10,Layoff,Permanent
+121,"XPO Logistics Supply Chain, Inc",Everett,2/22/2021,4/19/2021,104,Layoff,Permanent
+122,"Quality Food Centers, Inc",Seattle,2/18/2021,4/24/2021,109,Closure,Permanent
+123,Keyword Studios / VMC Consulting Corporation,Bothell,2/12/2021,4/16/2021,18,Layoff,Permanent
+124,"Flying Food Group, LLC",SeaTac,2/11/2021,4/1/2021,65,Layoff,Permanent
+125,Triumph Aerospace Structures,Spokane,2/11/2021,3/30/2021,136,Closure,Permanent
+126,Washington Potato Company,Warden,2/5/2021,2/5/2021,62,Layoff,Permanent
+127,Panasonic Avionics,Bothell,2/4/2021,4/5/2021,135,Layoff,Permanent
+128,Aramark,Bellingham,1/15/2021,3/15/2020,183,Layoff,Permanent
+129,Museum of Pop Culture,Seattle,1/12/2021,1/18/2021,7,Layoff,Temporary
+130,"Double Down Interactive, LLC",Seattle,1/7/2021,3/8/2021,55,Layoff,Permanent
+131,Global Life Sciences Solutions USA LLC / cytiva,Issaquah,12/29/2020,2/28/2021,61,Closure,Permanent
+132,Saalex Solutions Inc,Keyport,12/29/2020,2/28/2021,48,Layoff,Permanent
+133,Durham School Services,Lakewood,12/21/2020,2/25/2021,44,Closure,Permanent
+134,Progress Rail Services Corporation,Tacoma,12/10/2020,2/9/2021,54,Closure,Permanent
+135,"Soundair Repair Group, LLC",Snohomish,12/4/2020,12/4/2020,6,Layoff,Permanent
+136,Life Cycle Engineering Inc,Bremerton,12/4/2020,12/19/2020,60,Layoff,Temporary
+137,Hyatt Corporation / Hyatt Regency Lake Washington,Renton,12/4/2020,12/4/2020,1,Layoff,Permanent
+138,Southwest Airlines Co.,SeaTac,12/3/2020,3/15/2021,42,Layoff,Temporary
+139,Seattle Theater Group,Seattle,11/23/2020,12/5/2020,93,Layoff,Permanent
+140,"Elmer's Restaurants, Inc","Vancouver, Tacoma",11/18/2020,11/18/2020,94,Layoff,Temporary
+141,Museum of Pop Culture,Seattle,11/18/2020,11/18/2020,12,Layoff,Temporary
+142,Boston Scientific Corporation,"Bothell, WA",11/6/2020,12/6/2020,230,Closure,Permanent
+143,Aramark,Tacoma,10/30/2020,3/16/2020,96,Layoff,Temporary
+144,Aramark,Tacoma,10/30/2020,3/16/2020,3,Layoff,Permanent
+145,Aramark,Tacoma,10/30/2020,4/7/2020,52,Layoff,Temporary
+146,Aramark,Tacoma,10/30/2020,4/7/2020,2,Layoff,Permanent
+147,Aramark,Seattle,10/30/2020,3/16/2020,407,Layoff,Temporary
+148,Aramark,Seattle,10/30/2020,3/16/2020,16,Closure,Permanent
+149,"SPIN Seattle, LLC",Seattle,10/30/2020,3/17/2020,40,Closure,Temporary
+150,TransAlta,Centralia,10/29/2020,1/4/2021,64,Layoff,Permanent
+151,"Carlson Paving Products, Inc",Tacoma,10/22/2020,12/31/2021,63,Closure,Permanent
+152,"Sonoco Products Yakima, WA - Plastics Operation",Yakima,10/20/2020,12/20/2020,133,Closure,Permanent
+153,"Transom Highlights Holdings Corp dba Gene Juarez Salons, Spas, and Academies",Seattle,10/16/2020,10/14/2020,71,Closure,Permanent
+154,"Transom Highlights Holdings Corp dba Gene Juarez Salons, Spas, and Academies",Puget Sound Area,10/16/2020,3/17/2020,166,Layoff,Temporary
+155,Southrest Inc. dba The Woodmark,Kirkland,10/7/2020,10/5/2020,86,Layoff,Permanent
+156,"Compass Group USA, Inc.",Seattle,9/25/2020,11/22/2020,105,Layoff,Permanent
+157,Hyatt Corporation Motif Seattle,Seattle,9/24/2020,9/25/2020,60,Layoff,Permanent
+158,Boeing,Puget Sound Area,9/21/2020,11/20/2020,530,Layoff,Permanent
+159,Hyatt Corporation / Hyatt Regency Bellevue,Bellevue,9/21/2020,9/18/2020,148,Layoff,Permanent
+160,P.F. Chang's China Bistro,Bellevue,9/18/2020,3/19/2020,75,Layoff,Temporary
+161,P.F. Chang's China Bistro,Lynnwood,9/18/2020,3/19/2020,75,Layoff,Temporary
+162,P.F. Chang's China Bistro,Spokane,9/18/2020,3/19/2020,75,Layoff,Temporary
+163,Sodexo,Redmond,9/18/2020,3/12/2020,122,Layoff,Temporary
+164,National Railroad Passenger Corporation (Amtrak),Seattle,9/16/2020,9/30/2020,2,Layoff,Permanent
+165,National Railroad Passenger Corporation (Amtrak),Seattle,9/16/2020,10/1/2020,141,Layoff,Temporary
+166,"Lags Spine and Sportscare Medical Centers, Inc. d/b/a Lags Medical Centers",Vancouver,9/15/2020,11/2/2020,5,Closure,Permanent
+167,Booking.com (USA) Inc,Bellevue,9/10/2020,9/12/2020,235,Closure,Permanent
+168,"Dave & Buster's, Inc",Auburn,9/8/2020,11/8/2020,85,Layoff,Permanent
+169,"Avis Budget Car Rental, LLC",Tukwila,9/2/2020,9/5/2020,1,Layoff,Permanent
+170,Hudson Group,Seattle,9/1/2020,8/31/2020,89,Layoff,Permanent
+171,Big Fish Games,Seattle,9/1/2020,9/1/2020,217,Layoff,Permanent
+172,Boeing,Puget Sound Area,8/31/2020,10/30/2020,592,Layoff,Permanent
+173,"thyssenkrupp Materials, LLC",Auburn,8/31/2020,10/30/2020,60,Layoff,Permanent
+174,"Sandvik Special Metals, LLC",Kennewick,8/31/2020,10/30/2020,50,Layoff,Permanent
+175,Bon Appetit Management Company,Seattle,8/27/2020,9/30/2020,116,Layoff,Permanent
+176,"Arctic Circle Enterprises, LLC",Kent,8/24/2020,8/31/2020,66,Layoff,Permanent
+177,"Stellar Partners, Inc",SeaTac,8/21/2020,10/15/2020,12,Layoff,Permanent
+178,Museum of Pop Culture,Seattle,8/21/2020,8/21/2020,32,Layoff,Permanent
+179,YMCA of Greater Seattle,Seattle,8/19/2020,8/3/2020,66,Layoff,Permanent
+180,Washington State Convention Center,Seattle,8/17/2020,3/31/2020,148,Layoff,Temporary
+181,Carlisle Interconnect Technologies,Kent,8/12/2020,8/12/2020,595,Closure,Permanent
+182,HMSHost,SeaTac,8/12/2020,10/15/2020,251,Layoff,Permanent
+183,HMSHost,Spokane,8/12/2020,10/15/2020,46,Layoff,Permanent
+184,"MV Transportation, Inc","Seattle, Woodinville",8/12/2020,10/12/2020,145,Layoff,Permanent
+185,"Argosy LP, DBA Argosy Cruises",Seattle,8/11/2020,8/3/2020,49,Layoff,Permanent
+186,"Argosy LP, DBA Argosy Cruises",Seattle,8/11/2020,8/3/2020,9,Layoff,Temporary
+187,Embassy Suites Employer LLC,Tukwila,8/10/2020,3/20/2020,27,Layoff,Temporary
+188,Embassy Suites Employer LLC,Tukwila,8/10/2020,8/27/2020,6,Layoff,Permanent
+189,"IPIC Theaters, LLC",Redmond,8/6/2020,8/3/2020,65,Layoff,Permanent
+190,"Sky Chefs, Inc",SeaTac,8/4/2020,10/1/2020,360,Layoff,Permanent
+191,Neiman Marcus Group,Bellevue,8/3/2020,10/2/2020,95,Closure,Permanent
+192,Hudson Group,Seattle,7/31/2020,7/31/2020,91,Layoff,Permanent
+193,Hilton Hotel Employer LLC,Vancouver,7/31/2020,3/22/2020,125,Layoff,Temporary
+194,Hilton Hotel Employer LLC,Vancouver,7/31/2020,7/31/2020,6,Layoff,Permanent
+195,Boeing,Puget Sound Area,7/31/2020,10/2/2020,940,Layoff,Permanent
+196,Alaska Airlines,"Seatac, Seattle",7/31/2020,10/1/2020,1583,Layoff,Permanent
+197,Hilton Hotel Employer LLC,Seattle,7/29/2020,3/8/2020,88,Layoff,Temporary
+198,Doubletree Management LLC,Seattle,7/29/2020,3/8/2020,88,Layoff,Temporary
+199,"Worthy Hotels, Inc",Spokane,7/29/2020,3/12/2020,115,Layoff,Permanent
+200,"Worthy Hotels, Inc",Spokane,7/29/2020,3/12/2020,159,Layoff,Temporary
+201,NatureBridge,Port Angeles,7/29/2020,8/15/2020,21,Layoff,Permanent
+202,DoubleTree Employer LLC,Spokane,7/28/2020,3/20/2020,90,Layoff,Temporary
+203,GE Healthcare,Seattle,7/28/2020,9/30/2020,66,Closure,Permanent
+204,Guest Services,Mt. Rainier,7/27/2020,9/25/2020,5,Layoff,Permanent
+205,"PCC Aerostructures Protective Coatings, Inc",Kent,7/27/2020,7/31/2020,34,Layoff,Permanent
+206,SSP America,Seattle,7/24/2020,9/24/2020,228,Layoff,Temporary
+207,American Queen Steamboat Company,Vancouver,7/24/2020,9/24/2020,250,Layoff,Permanent
+208,"Nordstrom, Inc",Seattle,7/17/2020,5/8/2020,521,Layoff,Permanent
+209,American Airlines,SeaTac,7/15/2020,10/1/2020,3,Layoff,Permanent
+210,American Airlines,Seattle,7/15/2020,10/1/2020,111,Layoff,Temporary
+211,DynCorp International LLC,Joint Base Lewis McChord,7/10/2020,7/9/2020,51,Layoff,Permanent
+212,Triumph Aerospace Structures,Spokane,7/10/2020,7/20/2020,10,Layoff,Permanent
+213,"United Airlines, Inc",Seattle,7/9/2020,10/1/2020,259,Layoff,Temporary
+214,Katerra,Seattle,7/7/2020,7/1/2020,41,Layoff,Permanent
+215,"Delta Air Lines, Inc.",Seattle,7/7/2020,10/1/2020,74,Layoff,Temporary
+216,KHRG Alexis LLC (Kimpton Alexis Hotel),Seattle,7/6/2020,3/20/2020,83,Layoff,Permanent
+217,Amentum,Whidbey Island,6/30/2020,8/28/2020,13,Layoff,Permanent
+218,Coca Cola / Odwalla's,Tukwila,6/30/2020,8/31/2020,32,Closure,Permanent
+219,Boeing,Puget Sound Area,6/29/2020,8/28/2020,668,Layoff,Permanent
+220,Ponderay Newsprint Company,Usk,6/26/2020,6/25/2020,148,Closure,Permanent
+221,Spire Hospitality,"Lynnwood, Seattle",6/26/2020,7/1/2020,187,Layoff,Permanent
+222,"Safran Cabin Materials, LLC",Marysville and Newport,6/24/2020,6/23/2020,85,Layoff,Permanent
+223,Sodexo,SeaTac,6/24/2020,4/17/2020,41,Closure,Permanent
+224,KHRG Vintage Park LLC (Kimpton Hotel Vintage Seattle),Seattle,6/23/2020,3/20/2020,97,Layoff,Permanent
+225,KHRG Employer LLC (Kimpton Hotel Monaco Seattle),Seattle,6/23/2020,3/20/2020,120,Layoff,Permanent
+226,Swissport Fueling,SeaTac,6/19/2020,5/8/2020,69,Layoff,Permanent
+227,"Swissport USA, Inc",SeaTac,6/19/2020,5/22/2020,62,Layoff,Permanent
+228,"Swissport USA, Inc",SeaTac,6/19/2020,3/20/2020,167,Layoff,Temporary
+229,"Jacobsen Daniel's Enterprise, Inc",Tacoma,6/18/2020,6/12/2020,1,Layoff,Permanent
+230,Tool Gauge and Machine Works,Tacoma,6/18/2020,6/17/2020,59,Layoff,Permanent
+231,Hyatt Corporation Motif Seattle,Seattle,6/18/2020,3/14/2020,91,Layoff,Temporary
+232,"Benchmark Stevenson, LLC d/b/a Skamania Lodge",Stevenson,6/17/2020,3/18/2020,185,Layoff,Temporary
+233,Seattle Art Museum,Seattle,6/16/2020,7/5/2020,76,Layoff,Temporary
+234,Chihuly Garden & Glass,Seattle,6/16/2020,3/21/2020,97,Layoff,Temporary
+235,Seattle Center,Seattle,6/16/2020,3/21/2020,182,Layoff,Temporary
+236,Sekisui Aerospace,Renton and Sumner,6/15/2020,6/12/2020,111,Layoff,Permanent
+237,Pioneer Human Services,Seattle,6/15/2020,8/14/2020,59,Layoff,Permanent
+238,Crista Senior Living,Shoreline,6/15/2020,8/16/2020,156,Closure,Permanent
+239,Hyatt Corporation / Hyatt Regency Bellevue,Bellevue,6/15/2020,3/15/2020,223,Layoff,Temporary
+240,"Toray Composite Materials America, Inc",Tacoma,6/12/2020,8/8/2020,146,Layoff,Permanent
+241,Embassy Suites Seattle Bellevue,Seattle,6/12/2020,6/1/2020,57,Layoff,Temporary
+242,Triumph Aerospace Structures,Spokane,6/11/2020,6/15/2020,12,Layoff,Permanent
+243,Hyatt Corporation / Hyatt Regency Lake Washington,Renton,6/9/2020,6/30/2020,129,Layoff,Temporary
+244,Boeing,Puget Sound Area,6/8/2020,7/31/2020,5798,Layoff,Permanent
+245,"Lamb Weston, Inc","Connell, WA",6/8/2020,6/15/2020,360,Layoff,Temporary
+246,"Lamb Weston, Inc",Warden,6/8/2020,6/15/2020,300,Layoff,Temporary
+247,"Cadence Aerospace, Giddence Industries",Everett,6/5/2020,4/24/2020,72,Layoff,Permanent
+248,"W Hotel Management, Inc., dba W Bellevue",Bellevue,6/4/2020,3/16/2020,105,Layoff,Temporary
+249,"WHC Payroll, dba The Westin Bellevue",Bellevue,6/4/2020,3/16/2020,155,Layoff,Temporary
+250,Fairmont Olympic Hotel,Seattle,6/4/2020,6/1/2020,58,Layoff,Permanent
+251,Fairmont Olympic Hotel,Seattle,6/4/2020,6/1/2020,278,Layoff,Temporary
+252,Mitsubishi Aircraft Corporation,"Moses Lake, Renton",6/4/2020,6/1/2020,240,Layoff,Permanent
+253,"Marriott International, Inc dba Seattle Redmond Marriott",Redmond,6/3/2020,3/21/2020,105,Layoff,Temporary
+254,"WHC Payroll Company, dba The Westin Seattle",Seattle,6/3/2020,3/14/2020,498,Layoff,Temporary
+255,"KS Tacoma Hotel, LLC dba Hotel Murano",Tacoma,6/3/2020,3/13/2020,133,Layoff,Temporary
+256,SHG Hotel SPE LLC,Seattle,6/2/2020,5/15/2020,119,Layoff,Permanent
+257,Aviation Technical Services,Everett,6/2/2020,6/4/2020,142,Layoff,Permanent
+258,"Marriott Hotel Services, Inc., dba Seattle Marriott Bellevue",Bellevue,6/1/2020,3/21/2020,129,Layoff,Temporary
+259,WHC Payroll Co Sheraton Grand Seattle,Seattle,6/1/2020,3/21/2020,503,Layoff,Temporary
+260,"Coast Wenatchee, LLC",Wenatchee,6/1/2020,6/1/2020,58,Layoff,Permanent
+261,WHC Payroll Company / W Seattle,Seattle,6/1/2020,3/21/2020,203,Layoff,Temporary
+262,"Marriott International Inc., dba Seattle Marriott Waterfront",Seattle,6/1/2020,3/21/2020,166,Layoff,Temporary
+263,Happy Guests International d/b/a Salty's,"Seattle, Des Moines",5/29/2020,3/15/2020,282,Layoff,Temporary
+264,Hyatt Corporation / Thompson Seattle,Seattle,5/29/2020,6/1/2020,49,Layoff,Temporary
+265,Hyatt Corporation / Thompson Seattle,Seattle,5/29/2020,6/1/2020,50,Layoff,Permanent
+266,"Loews Seattle Operating Company, LLC",Seattle,5/29/2020,5/27/2020,12,Layoff,Permanent
+267,"Loews Seattle Operating Company, LLC",Seattle,5/29/2020,5/27/2020,55,Layoff,Temporary
+268,Saint-Gobain,Puyallup,5/28/2020,6/30/2020,96,Closure,Permanent
+269,Service Labs Inc. dba Pro.com,Seattle,5/27/2020,5/22/2020,52,Layoff,Permanent
+270,Holland America Line NV,Seattle,5/27/2020,6/2/2020,583,Layoff,Permanent
+271,Princess Cruise Lines Ltd,Seattle,5/27/2020,6/2/2020,122,Layoff,Permanent
+272,Hyatt Corporation / Hyatt Regency Seattle,Seattle,5/27/2020,5/31/2020,135,Layoff,Permanent
+273,Hyatt Corporation / Hyatt Regency Seattle,Seattle,5/27/2020,5/31/2020,276,Layoff,Temporary
+274,Hyatt Corporation / Grand Hyatt Seattle,Seattle,5/27/2020,5/30/2020,152,Layoff,Temporary
+275,Hyatt Corporation / Grand Hyatt Seattle,Seattle,5/27/2020,5/30/2020,58,Layoff,Permanent
+276,Hyatt Corporation / Hyatt at Olive 8,Seattle,5/27/2020,5/29/2020,123,Layoff,Temporary
+277,Hyatt Corporation / Hyatt at Olive 8,Seattle,5/27/2020,5/29/2020,29,Layoff,Permanent
+278,"Gate Gourmet, Inc",Seattle,5/20/2020,5/20/2020,207,Layoff,Permanent
+279,YMCA of Greater Seattle,Seattle,5/19/2020,5/9/2020,122,Layoff,Temporary
+280,Renaissance Seattle Hotel,Seattle,5/19/2020,6/1/2020,190,Layoff,Permanent
+281,"WeDriveU, Inc",Renton and Mukilteo,5/15/2020,5/15/2020,73,Closure,Permanent
+282,Saalex Solutions Inc,Keyport,5/15/2020,7/31/2020,51,Layoff,Permanent
+283,"Flying Food Group, LLC",Seattle,5/14/2020,4/17/2020,153,Layoff,Permanent
+284,Electro Rent Corporation,Redmond,5/13/2020,5/13/2020,1,Layoff,Temporary
+285,Cox Automotive,Kent,5/11/2020,5/17/2020,123,Layoff,Temporary
+286,"Crest Logistics, LLC","Burbank, WA",5/11/2020,5/11/2020,68,Closure,Permanent
+287,Lee Johnson Auto Family,"Everett, Kirkland, and Monroe",5/8/2020,3/30/2020,169,Layoff,Temporary
+288,"Visionworks, Inc","Spokane, Vancouver, and Renton",5/7/2020,4/4/2020,28,Layoff,Temporary
+289,"HDI Landing Gear USA, Inc",Everett,5/5/2020,5/5/2020,3,Layoff,Permanent
+290,"Crescent Hotels & Resorts, LLC",Bellevue,5/4/2020,3/11/2020,42,Layoff,Temporary
+291,"Cosmo Specialty Fibers, Inc",Cosmopolis,5/1/2020,5/1/2020,132,Layoff,Temporary
+292,Regal Cinemas,Mountlake Terrace,4/29/2020,3/16/2020,84,Layoff,Temporary
+293,Karcher North America,Camas,4/29/2020,5/29/2020,95,Closure,Permanent
+294,IVI Hotel Management of Washington,Various locations in Washington,4/29/2020,3/20/2020,337,Layoff,Permanent
+295,IVI Hotel Management of Washington,Various locations in Washington,4/29/2020,3/20/2020,20,Layoff,Temporary
+296,Alcoa Intalco Works,Ferndale,4/29/2020,6/21/2020,700,Layoff,Permanent
+297,The Hertz Corporation,Seattle,4/28/2020,4/14/2020,111,Layoff,Permanent
+298,"Magic Leap, Inc",Seattle,4/27/2020,6/21/2020,39,Closure,Permanent
+299,"Northwest Aerospace Technologies, Inc",Everett,4/24/2020,4/24/2020,10,Layoff,Permanent
+300,"Safran Cabin Bellingham, Inc",Bellingham,4/23/2020,4/23/2020,314,Layoff,Permanent
+301,"Hard Rock Cafe International STP, Inc",Seattle,4/22/2020,4/13/2020,62,Layoff,Temporary
+302,Seattle Tennis Club,Seattle,4/21/2020,5/1/2020,112,Layoff,Temporary
+303,Hexcel Corporation,Burlington,4/20/2020,4/20/2020,128,Layoff,Permanent
+304,Hexcel Corporation,Kent,4/20/2020,4/20/2020,160,Layoff,Permanent
+305,"G2 Secure Staff, LLC",Seattle,4/17/2020,3/27/2020,232,Layoff,Temporary
+306,"IKO Pacific, Inc",Sumas,4/17/2020,4/6/2020,37,Layoff,Temporary
+307,"Pier 1 Imports, Inc",DuPont,4/15/2020,6/1/2020,49,Closure,Permanent
+308,"Guess, Inc",Tulalip,4/14/2020,4/2/2020,30,Layoff,Temporary
+309,FS US Services Limited,Seattle,4/14/2020,4/13/2020,2,Layoff,Permanent
+310,"Leggett & Platt, Inc",Kirkland,4/13/2020,4/13/2020,50,Layoff,Temporary
+311,"PSF Mechanical, Inc",Seattle,4/13/2020,3/25/2020,124,Layoff,Temporary
+312,"Warwick Corp, dba Warwick Seattle Hotel",Seattle,4/13/2020,4/6/2020,106,Layoff,Temporary
+313,Spokane Eye Clinic,Spokane,4/10/2020,3/23/2020,1,Layoff,Temporary
+314,"Integrated Technologies, Inc dba LMI Aerospace",Everett,4/10/2020,4/13/2020,25,Layoff,Temporary
+315,"Leonard's Metal Inc, dba LMI Aerospace",Auburn,4/10/2020,4/13/2020,74,Layoff,Temporary
+316,"Soundair Repair Group, LLC",Snohomish,4/10/2020,4/12/2020,51,Layoff,Temporary
+317,Prospect International Airport Services Corp,Seattle,4/9/2020,3/21/2020,125,Layoff,Temporary
+318,Oki Developments Inc,Various locations in Washington,4/9/2020,3/17/2020,416,Layoff,Temporary
+319,"Toray Composite Materials America, Inc",Tacoma,4/9/2020,4/9/2020,361,Layoff,Temporary
+320,"Superior Linen Service, Inc",,4/9/2020,4/9/2020,57,Layoff,Temporary
+321,Tool Gauge and Machine Works,Tacoma,4/9/2020,4/16/2020,1,Layoff,Temporary
+322,Pacific Northwest Ballet,Seattle,4/9/2020,4/6/2020,733,Layoff,Temporary
+323,VSPOne Olympia,Lacey,4/9/2020,4/10/2020,78,Layoff,Temporary
+324,Olympic Sports & Spine,King and Pierce Counties,4/9/2020,4/13/2020,100,Layoff,Temporary
+325,Sellen Construction,Seattle,4/8/2020,4/8/2020,262,Layoff,Temporary
+326,Suit Supply (USA),Bellevue,4/8/2020,3/29/2020,18,Layoff,Temporary
+327,"Avis Budget Car Rental, LLC","Seattle, Tukwila",4/8/2020,3/10/2020,173,Layoff,Temporary
+328,"Renaissance Marine Group, Inc",Clarkston,4/8/2020,4/13/2020,97,Layoff,Temporary
+329,"Foushee and Associates Company, Inc",Bellevue,4/8/2020,4/8/2020,83,Layoff,Temporary
+330,Seattle Goodwill Industries,Western Washington,4/8/2020,4/3/2020,2192,Layoff,Temporary
+331,"Cinemark USA, Inc","Federal Way, Olympia, Tacoma, Walla Walla, and Bellevue",4/7/2020,3/26/2020,303,Closure,Permanent
+332,Spokane Industries,Spokane Valley,4/7/2020,4/8/2020,113,Layoff,Temporary
+333,YMCA of Greater Seattle,Seattle,4/7/2020,3/28/2020,2222,Layoff,Temporary
+334,"Northwest Aerospace Technologies, Inc",Everett,4/6/2020,4/6/2020,92,Layoff,Temporary
+335,"Universal Aerospace Co, Inc",Arlington,4/3/2020,3/27/2020,150,Layoff,Temporary
+336,"Pac-12 Enterprises, dba Pac-12 Networks","Seattle, Pullman",4/3/2020,3/14/2020,531,Layoff,Temporary
+337,"Riverence Brood, LLC",Rochester,4/3/2020,4/3/2020,5,Layoff,Temporary
+338,Wendle Motors Incorporated,Spokane,4/2/2020,3/20/2020,59,Layoff,Temporary
+339,"Western Tile & Marble Contractors, Inc",Redmond,4/2/2020,3/26/2020,157,Layoff,Temporary
+340,Rover.com,Seattle,4/2/2020,4/1/2020,163,Layoff,Permanent
+341,King & Prince Seafood,Bellingham,4/1/2020,4/6/2020,31,Layoff,Temporary
+342,Open Square LLC,Seattle,4/1/2020,4/1/2020,70,Layoff,Temporary
+343,Rebound Orthopedics & Neurosurgery,Vancouver,4/1/2020,2/25/2020,163,Layoff,Temporary
+344,Bethlehem Construction,Cashmere,3/31/2020,3/25/2020,67,Layoff,Temporary
+345,"Northwest Aerospace Technologies, Inc",Everett,3/31/2020,3/30/2020,73,Layoff,Permanent
+346,"Eye Associates Northwest, PC","Seattle, Kirkland",3/31/2020,3/21/2020,106,Layoff,Temporary
+347,YMCA of Snohomish County,Everett,3/31/2020,3/30/2020,38,Layoff,Temporary
+348,"ALSCO, Inc",Kent,3/30/2020,3/23/2020,84,Layoff,Temporary
+349,"Collegiate Hotel Group, LLC",Seattle,3/30/2020,3/16/2020,45,Layoff,Temporary
+350,RL Hotel Olympia,Olympia,3/30/2020,3/12/2020,35,Layoff,Temporary
+351,"Big Al's, Inc",Vancouver,3/30/2020,3/18/2020,117,Layoff,Temporary
+352,Paper Source,"Seattle, Bellevue",3/30/2020,3/29/2020,52,Layoff,Temporary
+353,"Kirkland Automotive Holdings I, LLC",Kirkland,3/30/2020,3/25/2020,46,Layoff,Temporary
+354,"Kirkland Automotive Holdings II, LLC",Kirkland,3/30/2020,3/25/2020,75,Layoff,Temporary
+355,"Gee Automotive Liberty Lake, LLC",Liberty Lake,3/30/2020,3/25/2020,97,Layoff,Temporary
+356,"Ahern Rentals, Inc","Arlington, Fife",3/30/2020,3/30/2020,2,Layoff,Permanent
+357,"365 Hospitality Associates, LLC",Seattle,3/27/2020,3/16/2020,84,Layoff,Temporary
+358,"National Products, Inc",Seattle,3/27/2020,3/27/2020,169,Layoff,Permanent
+359,King & Prince Seafood,Redmond,3/27/2020,3/30/2020,116,Layoff,Temporary
+360,Electronic Recyclers International Inc,Sumner,3/27/2020,3/23/2020,15,Layoff,Temporary
+361,"Earl's Restaurants USA, Inc",Bellevue,3/26/2020,3/25/2020,114,Layoff,Permanent
+362,YMCA of the Inland Northwest,Spokane,3/26/2020,3/29/2020,509,Layoff,Temporary
+363,"Contemporary Home Services, Inc",Auburn,3/26/2020,3/26/2020,124,Layoff,Permanent
+364,SHG Hotel SPE LLC,Seattle,3/26/2020,3/18/2020,310,Layoff,Temporary
+365,Ascend Hospitality Group,"Everett, Tukwila, Tacoma, Bellevue, Seattle",3/26/2020,3/12/2020,401,Layoff,Temporary
+366,Quarry Tile Company,Spokane,3/25/2020,3/25/2020,116,Layoff,Temporary
+367,Pineapple Hospitality Company,Seattle,3/25/2020,3/15/2020,156,Layoff,Temporary
+368,HMSHost,Spokane,3/24/2020,3/18/2020,71,Layoff,Temporary
+369,HMSHost,SeaTac,3/24/2020,3/18/2020,354,Layoff,Temporary
+370,Four Points by Sheraton,Des Moines,3/24/2020,3/23/2020,60,Layoff,Temporary
+371,"onni Properties, LLC",Seattle,3/24/2020,3/31/2020,7,Layoff,Permanent
+372,Leafly Holdings Inc,Seattle,3/23/2020,3/23/2020,71,Layoff,Permanent
+373,"Westport, LLC","Westport, Port Angeles, Seattle",3/23/2020,3/23/2020,335,Layoff,Permanent
+374,Edgewater Hotel,Seattle,3/23/2020,3/22/2020,227,Layoff,Temporary
+375,"Feast Restaurants, LLC","Wenatchee, Spokane, Sunnyside",3/20/2020,3/17/2020,147,Layoff,Temporary
+376,Service Linen,Renton,3/20/2020,3/20/2020,106,Layoff,Temporary
+377,Harbor Foodservice of Seattle LLC,Kent,3/20/2020,3/22/2020,200,Layoff,Temporary
+378,Crowne Plaza,Seattle,3/19/2020,3/19/2020,70,Layoff,Temporary
+379,Schwartz Brothers Restaurants,"Seattle, Bellevue",3/18/2020,3/11/2020,297,Layoff,Temporary
+380,"Elmer's Restaurants, Inc","Vancouver, Tacoma, Poulsbo",3/18/2020,3/17/2020,83,Layoff,Temporary
+381,Amentum,Whidbey Island,3/13/2020,5/12/2020,13,Layoff,Permanent
+382,Oakwood Worldwide (US) LP,Tukwila,3/5/2020,5/4/2020,8,Layoff,Permanent
+383,"Compass Airlines, LLC","Seattle, WA",3/4/2020,5/1/2020,197,Closure,Permanent
+384,"Expedia, Inc.","Seattle, Bellevue",2/27/2020,5/1/2020,442,Layoff,Permanent
+385,Saalex Solutions Inc,Keyport,2/25/2020,4/30/2020,59,Layoff,Permanent
+386,Dash Delivery LLC,King and Snohomish Counties,2/24/2020,4/23/2020,106,Closure,Permanent
+387,"Transportation Brokerage Specialists, Inc","King, Pierce, and Snohomish Counties",2/18/2020,4/16/2020,230,Layoff,Permanent
+388,Delivery Force,King and Snohomish Counties,2/14/2020,4/16/2020,272,Layoff,Permanent
+389,Senior Aerospace AMT,Arlington,2/4/2020,4/7/2020,72,Layoff,Permanent
+390,Dynacraft,Algona,2/4/2020,5/1/2020,140,Closure,Permanent
+391,Oakwood Worldwide (US) LP,Tukwila,1/29/2020,3/30/2020,8,Layoff,Permanent
+392,Comcast,Puyallup,1/21/2020,4/3/2020,52,Closure,Permanent
+393,AECOM,Pacific Beach and Whidbey Island,1/17/2020,3/14/2020,11,Layoff,Permanent
+394,Astria Regional Medical Center,Yakima,1/8/2020,1/13/2020,463,Closure,Permanent
+395,"Zume, Inc",Seattle,1/8/2020,3/13/2020,78,Closure,Permanent
+396,Macy's,Burlington,1/6/2020,3/17/2020,114,Closure,Permanent
+397,Seattle Times - North Creek,Bothell,12/31/2019,3/2/2020,42,Closure,Permanent
+398,"Northwestern Industries, Inc",Seattle,12/30/2019,2/28/2020,133,Closure,Permanent
+399,"VICIS, Inc",Seattle,12/30/2019,12/20/2019,84,Layoff,Permanent
+400,Macy's,Seattle,12/17/2019,2/16/2020,236,Closure,Permanent
+401,"Vanguard Int'l Group, dba Pride Packing Co LLC",Wapato,12/17/2019,1/31/2020,201,Closure,Permanent
+402,CEVA Logistics,Auburn,11/22/2019,2/28/2020,13,Layoff,Permanent
+403,Honeywell Aerospace,Renton,11/18/2019,1/24/2020,82,Closure,Permanent
+404,Ida Culver House Broadview,Seattle,11/7/2019,1/5/2020,148,Layoff,Permanent
+405,"Merchant e-Solutions, Inc",Spokane Valley,11/6/2019,1/8/2020,71,Closure,Permanent
+406,CXT / LB Foster Company,Spokane,11/4/2019,12/31/2019,77,Closure,Permanent
+407,Clarisonic (aka Pacific Bioscience Laboratories and Pacific Bioscience Laboratories Products Inc),Redmond,10/29/2019,12/31/2019,92,Closure,Permanent
+408,"MV Transportation, Inc",Spokane Valley,10/29/2019,12/31/2019,59,Closure,Permanent
+409,Oakwood Worldwide (US) LP,Tukwila,10/29/2019,12/30/2019,7,Layoff,Permanent
+410,Backflip Studios,Renton,10/23/2019,12/23/2019,1,Closure,Permanent
+411,Applus Technologies Inc,Statewide,10/23/2019,12/31/2019,118,Layoff,Permanent
+412,School Specialty Inc / Premier Agendas LLC,Bellingham,10/15/2019,12/31/2019,40,Closure,Permanent
+413,Zirkle Fruit Company,Prosser,10/11/2019,12/6/2019,164,Layoff,Permanent
+414,Katerra,Seattle,10/10/2019,10/9/2019,58,Layoff,Permanent
+415,FleetPride,Tacoma,10/7/2019,12/6/2019,7,Closure,Permanent
+416,Wyndham Vacation Clubs,Redmond,10/3/2019,12/6/2019,103,Closure,Permanent
+417,CHI Franciscan Health,Burien,9/30/2019,12/31/2019,86,Closure,Permanent
+418,Trident Seafoods Corporation,Seattle,9/16/2019,11/15/2019,63,Closure,Permanent
+419,Food Services of America,Kent,9/13/2019,10/14/2019,200,Closure,Permanent
+420,Northwest Hardwoods,Mount Vernon,9/12/2019,11/11/2019,66,Layoff,Permanent
+421,Univar Solutions,Redmond,9/11/2019,11/15/2019,65,Layoff,Permanent
+422,Premier XD,Everett,9/11/2019,9/11/2019,99,Closure,Permanent
+423,Premier XD,Everett,9/11/2019,9/11/2019,7,Closure,Permanent
+424,"Transdev Services, Inc",Kent,9/3/2019,10/31/2019,340,Layoff,Permanent
+425,Brinderson,Anacortes,8/29/2019,9/5/2019,61,Closure,Permanent
+426,First Transit,Seattle,8/22/2019,10/25/2019,86,Closure,Permanent
+427,Zirkle Fruit Company,Prosser,8/16/2019,10/17/2019,95,Layoff,Permanent
+428,Nestle,Kent,8/16/2019,10/18/2019,67,Closure,Permanent
+429,Conifer,Tacoma,8/14/2019,11/15/2019,169,Closure,Permanent
+430,Seneca Foods Corporation,Yakima,8/6/2019,10/5/2019,300,Closure,Permanent
+431,United Natural Foods/SUPERVALU,Tacoma,8/2/2019,9/28/2019,280,Closure,Permanent
+432,AECOM,Pacific Beach and Whidbey Island,7/31/2019,9/30/2019,10,Layoff,Permanent
+433,HMS Host,SeaTac,7/30/2019,9/30/2019,21,Closure,Permanent
+434,Futurewei,Bellevue,7/23/2019,9/23/2019,41,Closure,Permanent
+435,Salvation Army,Seattle,7/23/2019,9/27/2019,58,Closure,Permanent
+436,Sky Chefs,Seattle,7/16/2019,9/15/2019,49,Closure,Permanent
+437,"REC Silicon, Inc.",Moses Lake,7/16/2019,7/15/2019,100,Closure,Temporary
+438,United Natural Foods/SUPERVALU,Auburn,7/15/2019,9/8/2019,116,Closure,Permanent
+439,Community Psychiatric Clinic,Seattle,7/3/2019,8/31/2019,26,Closure,Permanent
+440,Keiro Northwest,Seattle,6/28/2019,10/1/2019,259,Closure,Permanent
+441,Capital One,Seattle,6/26/2019,9/1/2019,146,Closure,Permanent
+442,Whole Foods Market,Vancouver,6/21/2019,8/18/2019,121,Closure,Permanent
+443,Kindred Hospital,Seattle,6/13/2019,8/9/2019,166,Closure,Permanent
+444,Nordstrom,Seattle,6/10/2019,8/9/2019,167,Closure,Permanent
+445,Ostrom's Mushroom Farms,Olympia,6/3/2019,8/5/2019,239,Closure,Permanent
+446,Teck,Metaline Falls,5/30/2019,7/31/2019,210,Layoff,Temporary
+447,Macy's,Seattle,5/28/2019,7/23/2019,134,Closure,Permanent
+448,"Security Industry Specialists, Inc.",Seattle,5/28/2019,7/26/2019,1066,Layoff,Permanent
+449,idX West,Puyallup,4/16/2019,6/14/2019,61,Closure,Permanent
+450,McKesson,Everett,4/3/2019,6/7/2019,67,Closure,Permanent
+451,Web.com,Spokane,3/29/2019,6/1/2019,64,Layoff,Permanent
+452,Walmart,"Vancouver, Washington",3/25/2019,4/19/2019,80,Closure,Permanent
+453,"ABM Aviation, Inc.",SeaTac,3/8/2019,5/13/2019,176,Layoff,Permanent
+454,Brooks,Sumner,3/5/2019,5/3/2019,67,Closure,Permanent
+455,JCPenney,Seattle,3/1/2019,5/3/2019,113,Closure,Permanent
+456,Lowes,KIRKLAND,2/27/2019,4/27/2019,175,Closure,Permanent
+457,ArenaNet,Bellevue,2/25/2019,3/1/2019,143,Layoff,Permanent
+458,"Legacy Fruit Packers, LLC",Wapato,2/6/2019,2/6/2019,199,Closure,Permanent
+459,"Larson Orchard Management, Inc.",Selah,2/6/2019,2/6/2019,807,Closure,Permanent
+460,"Valley Fruit III, LLC",Wapato,2/6/2019,2/6/2019,1009,Closure,Permanent
+461,HMS Host,SeaTac,2/1/2019,3/31/2019,202,Layoff,Permanent
+462,JELD WEN,Yakima,2/1/2019,4/5/2019,179,Closure,Permanent
+463,Skagit Bank,Burlington,1/22/2019,3/1/2019,60,Closure,Permanent
+464,Julep Beauty,"Seattle, Bellevue",12/21/2018,12/19/2018,102,Closure,Permanent
+465,Employee Transportation Services,Everett and Renton,12/18/2018,2/28/2019,75,Layoff,Permanent
+466,Thomson Reuters,Bellevue,12/6/2018,2/8/2019,58,Closure,Permanent
+467,Providence,Lacey,12/3/2018,2/25/2019,26,Closure,Permanent
+468,Tacoma News Tribune,Tacoma,11/29/2018,2/3/2019,67,Layoff,Permanent
+469,QualChoice Health Plan Services,Federal Way,10/31/2018,12/31/2018,164,Closure,Permanent
+470,ZymoGenetics,Seattle,10/31/2018,12/31/2018,63,Closure,Permanent
+471,"Twin City Foods, Inc.",Stanwood,10/4/2018,12/1/2018,65,Closure,Permanent
+472,Vertafore,Bothell,9/21/2018,12/31/2018,53,Closure,Permanent
+473,State Farm,Tacoma,9/5/2018,10/31/2018,269,Closure,Permanent
+474,Arvato,Yakima,7/12/2018,9/28/2018,168,Closure,Permanent
+475,Conduent,Federal Way,6/1/2018,7/31/2018,304,Closure,Permanent
+476,Wargaming (Seattle) Inc.,Redmond,5/24/2018,7/22/2018,155,Closure,Permanent
+477,Menzies Aviation,SeaTac,5/11/2018,7/8/2018,63,Layoff,Permanent
+478,Sears,Redmond,4/25/2018,7/8/2018,68,Closure,Permanent
+479,Jorgensen Forge,Tukwila,4/20/2018,6/18/2018,101,Closure,Permanent
+480,A.O. Smith,Renton,4/13/2018,6/15/2018,57,Closure,Permanent
+481,Lionbridge,Vancouver,4/6/2018,6/10/2018,119,Layoff,Permanent
+482,Flow International,Kent,3/29/2018,6/30/2018,110,Closure,Permanent
+483,CHI Franciscan Health,Tacoma,3/20/2018,5/27/2018,51,Closure,Permanent
+484,"Twin City Foods, Inc.",Stanwood,3/20/2018,5/18/2018,92,Closure,Permanent
+485,Hitachi,Bellevue,3/2/2018,5/1/2018,61,Closure,Permanent
+486,Pacific Seafood,Federal Way,2/26/2018,4/30/2018,69,Closure,Permanent
+487,Marine View Beverage,Port Angeles,2/22/2018,4/27/2018,5,Closure,Permanent
+488,Marine View Beverage,Poulsbo,2/22/2018,4/27/2018,70,Closure,Permanent
+489,Marine View Beverage,Sumner,2/22/2018,4/27/2018,138,Closure,Permanent
+490,Marine View Beverage,Sumner,2/22/2018,4/27/2018,9,Closure,Permanent
+491,Marine View Beverage,Tumwater,2/22/2018,4/27/2018,56,Closure,Permanent
+492,Cenveo Corporation,Kent,2/21/2018,2/21/2018,62,Layoff,Permanent
+493,ASM Research,Lakewood,2/1/2018,3/27/2018,7,Layoff,Permanent
+494,Georgia Pacific Corporation,Camas,1/30/2018,5/1/2018,243,Closure,Permanent
+495,Sam's Club,Auburn,1/11/2018,3/16/2018,168,Closure,Permanent
+496,Sam's Club,Renton,1/11/2018,3/16/2018,179,Closure,Permanent
+497,Sam's Club,Seattle,1/11/2018,3/16/2018,148,Closure,Permanent
+498,Northrop Grumman,Lakewood,11/14/2017,1/12/2018,43,Closure,Permanent
+499,"ABM Aviation, Inc.",SeaTac,11/9/2017,1/1/2018,171,Closure,Permanent
+500,Zenith Education Group,Everett,11/7/2017,1/8/2018,29,Layoff,Permanent
+501,Zenith Education Group,Tacoma,11/7/2017,1/8/2018,45,Layoff,Permanent
+502,Boeing,Puget Sound Area,11/2/2017,1/1/2018,2,Layoff,Permanent
+503,The Hacker Group,Seattle,11/1/2017,12/31/2017,17,Layoff,Permanent
+504,The Hacker Group,Seattle,10/31/2017,12/4/2017,65,Layoff,Permanent
+505,"Northwest Trustee Services, Inc.",Bellevue,10/13/2017,12/12/2017,25,Layoff,Permanent
+506,"Foreclosure Expeditors Initiators, LLC",Bellevue,10/13/2017,12/12/2017,4,Layoff,Permanent
+507,"RCO Legal, PS",Bellevue,10/13/2017,12/12/2017,12,Layoff,Permanent
+508,"Realty in Motion, LLC",Bellevue,10/13/2017,12/12/2017,27,Layoff,Permanent
+509,Providence Medical Center,Everett,10/10/2017,12/8/2017,62,Layoff,Permanent
+510,"Associated Materials, Inc.",Bothell,9/26/2017,11/27/2017,87,Closure,Permanent
+511,Boeing,Puget Sound Area,9/18/2017,11/17/2017,18,Layoff,Permanent
+512,Boeing,Puget Sound Area,8/24/2017,10/20/2017,74,Layoff,Permanent
+513,Wells Fargo Home Mortgage Servicing,Vancouver,8/10/2017,10/9/2017,72,Closure,Permanent
+514,Boeing,Puget Sound,7/27/2017,9/22/2017,220,Layoff,Permanent
+515,APM Terminals,Tacoma,7/25/2017,9/22/2017,12,Closure,Permanent
+516,Le Eco,Bellevue,7/24/2017,9/18/2017,25,Closure,Permanent
+517,Vertafore,"Bothell, WA",7/17/2017,10/1/2017,121,Layoff,Permanent
+518,"KIK Tacoma, Inc.","Tacoma, WA",7/12/2017,8/11/2017,20,Closure,Permanent
+519,Boeing,Puget Sound Area,6/30/2017,8/25/2017,89,Layoff,Permanent
+520,K-Mart,Tacoma,6/29/2017,9/10/2017,67,Closure,Permanent
+521,Adventist Health,Walla Walla,6/21/2017,8/24/2017,371,Closure,Permanent
+522,Space Needle,Seattle,6/15/2017,9/5/2017,153,Closure,Permanent
+523,Boeing,Puget Sound Area,5/23/2017,7/21/2017,337,Layoff,Permanent
+524,Electronic Arts Inc,"Seattle, WA",5/8/2017,7/3/2017,45,Layoff,Permanent
+525,Boeing,Puget Sound Area,5/8/2017,6/23/2017,580,Layoff,Permanent
+526,Spectrum Glass Company,Woodinville,5/1/2017,6/30/2017,14,Closure,Permanent
+527,Railex,"Burbank, WA",4/12/2017,6/30/2017,88,Layoff,Permanent
+528,Caradigm LLC,"Bellevue, WA",4/12/2017,6/14/2017,39,Layoff,Permanent
+529,Ostrom's Mushroom Farms,Everson,3/30/2017,6/1/2017,65,Layoff,Permanent
+530,Boeing,Puget Sound Area,3/23/2017,5/19/2017,245,Layoff,Permanent
+531,"Nippon Paper Indsutries USA, Co. Ltd.",Port Angeles,3/6/2017,3/6/2017,151,Layoff,Permanent
+532,Menzies Aviation,SeaTac,3/3/2017,5/1/2017,949,Layoff,Permanent
+533,Harman (Harman International Industries),"Cheney, WA",3/2/2017,5/4/2017,86,Closure,Permanent
+534,PeaceHealth,Various locations in Washington,2/16/2017,4/30/2017,142,Layoff,Permanent
+535,Crown Resources Corporation/Echo Bay Minerals Company (KRB),Ferry and Okanogan Counties,2/10/2017,4/10/2017,95,Closure,Permanent
+536,Hearth and Home Technologies,Colville,2/9/2017,5/18/2017,90,Closure,Permanent
+537,BAE Systems,"Keyport, WA",1/31/2017,3/31/2017,59,Layoff,Permanent
+538,Glu Mobile Washington Inc.,"Bellevue, WA",1/10/2017,3/11/2017,58,Layoff,Permanent
+539,Macy's,Everett,1/5/2017,3/6/2017,135,Closure,Permanent
+540,Voicebox Technologies Corporation,Bellevue,1/5/2017,1/5/2017,115,Layoff,Permanent
+541,Spectrum Health Systems Inc,Nineteen locations across Washington State,1/3/2017,12/31/2016,79,Closure,Permanent
+542,Seattle Sportservice Inc,Seattle,12/16/2016,2/14/2017,761,Closure,Permanent
+543,Omak Wood Products,Omak,12/8/2016,1/29/2017,217,Closure,Permanent
+544,Garco,Airway Heights,11/15/2016,1/14/2017,112,Closure,Permanent
+545,Intel Corporation,DuPont,11/15/2016,12/31/2016,77,Closure,Permanent
+546,"Ocean Beauty Seafoods, Inc",Seattle,10/31/2016,12/30/2016,69,Closure,Permanent
+547,Hearthstone Cottages,Ellensburg,10/31/2016,11/30/2016,48,Closure,Permanent
+548,Hearthstone Cottages,East Wenatchee,10/31/2016,11/30/2016,36,Closure,Permanent
+549,Colonial Vista Retirement Centers,Wenatchee,10/31/2016,11/30/2016,70,Closure,Permanent
+550,Colonial Vista Retirement Centers,Wenatchee,10/31/2016,11/30/2016,149,Closure,Permanent
+551,"Healthy Options, LLC",Wenatchee,10/28/2016,1/1/2017,66,Closure,Permanent
+552,"Healthways SC, LLC",Bellevue,10/18/2016,12/31/2016,68,Closure,Permanent
+553,Boeing,Puget Sound,10/18/2016,12/16/2016,56,Layoff,Permanent
+554,Jorgensen Forge,Tukwila,10/14/2016,10/31/2016,111,Closure,Permanent
+555,"Hollander Investments, Inc.",Everett,10/12/2016,12/5/2016,84,Layoff,Temporary
+556,"Capital One Investing, LLC",Seattle,10/3/2016,10/1/2016,239,Layoff,Permanent
+557,Spectrum Glass Company,Woodinville,9/26/2016,11/14/2016,7,Closure,Permanent
+558,L'Oreal USA,Redmond & Kent,9/20/2016,11/21/2016,120,Layoff,Permanent
+559,Disney Social Games,Bellevue,9/14/2016,12/20/2016,61,Closure,Permanent
+560,W.G. Cells,Bellevue,8/24/2016,10/22/2016,64,Closure,Permanent
+561,Boeing,Puget Sound,8/24/2016,10/21/2016,116,Layoff,Permanent
+562,Spectrum Glass Company,Woodinville,7/18/2016,9/14/2016,6,Closure,Permanent
+563,Trading Company Stores,Cheney,7/13/2016,9/10/2016,53,Closure,Permanent
+564,Trading Company Stores,Spokane Valley,7/13/2016,9/10/2016,76,Closure,Permanent
+565,Trading Company Stores,Spokane,7/13/2016,9/10/2016,83,Closure,Permanent
+566,Triumph Structures-Everett,Everett,7/11/2016,9/30/2016,99,Closure,Permanent
+567,DCS Facility Services,Statewide,7/1/2016,8/31/2016,220,Closure,Permanent
+568,Minerallac,Seattle,6/23/2016,9/1/2016,9,Closure,Permanent
+569,Boeing,Puget Sound,6/22/2016,8/19/2016,99,Layoff,Permanent
+570,Boeing,Puget Sound,6/1/2016,7/22/2016,211,Layoff,Permanent
+571,Forever 21 Retail,Tacoma,5/25/2016,6/22/2016,70,Closure,Permanent
+572,Olympic Panel Products,Shelton,5/23/2016,7/22/2016,217,Closure,Permanent
+573,Broadspectrum,Anacortes,5/20/2016,6/9/2016,57,Closure,Permanent
+574,Summit Management Company,Winlock,5/18/2016,7/14/2016,3,Layoff,Permanent
+575,Spectrum Glass Company,Woodinville,5/18/2016,7/14/2016,124,Closure,Permanent
+576,CRF Frozen Foods,Pasco,5/12/2016,5/3/2016,250,Closure,Temporary
+577,Washington Closure Hanford,Richland,5/10/2016,7/1/2016,435,Closure,Permanent
+578,Cablecraft Motion Controls,Tacoma,4/21/2016,6/16/2016,38,Layoff,Permanent
+579,Cascade Valley Hospital & Clinics,Arlington,4/1/2016,5/31/2016,418,Closure,Permanent
+580,Xerox Commercial Solutioins,Kent,4/1/2016,5/31/2016,98,Layoff,Permanent
+581,Mycom North America,Redmond,3/22/2016,3/31/2016,2,Closure,Permanent
+582,Wells Fargo Home Mortgage Servicing,Vancouver,3/17/2016,4/3/2016,1,Layoff,Permanent
+583,Sterling Life Insurance Company,Bellingham,3/16/2016,5/11/2016,55,Closure,Permanent
+584,Haggen Food & Pharmacy,Puyallup,3/11/2016,5/10/2016,78,Closure,Permanent
+585,Haggen Food & Pharmacy,Port Angeles,3/11/2016,5/10/2016,67,Closure,Permanent
+586,Haggen Food & Pharmacy,Federal Way,3/9/2016,5/9/2016,71,Closure,Permanent
+587,Haggen Food & Pharmacy,Burien,3/9/2016,5/9/2016,54,Closure,Permanent
+588,Locating Inc.,Lakewood,3/8/2016,5/1/2016,60,Closure,Permanent
+589,Xerox Commercial Solutioins,Redmond,3/7/2016,5/6/2016,325,Closure,Permanent
+590,Albertson's LLC,Bellingham,3/7/2016,5/7/2016,65,Closure,Permanent
+591,University of Phoenix,Seattle,3/2/2016,4/29/2016,4,Closure,Permanent
+592,"Apollo Education Group, Inc. (AEG)",Seattle,3/2/2016,4/29/2016,72,Closure,Permanent
+593,Maslow Media Group,Seattle,2/26/2016,4/30/2016,8,Closure,Permanent
+594,Concentrix,Bremerton,2/3/2016,3/4/2016,520,Closure,Permanent
+595,Wells Fargo Home Mortgage Servicing,Vancouver,2/3/2016,4/3/2016,59,Closure,Permanent
+596,Cardinal Health,Auburn,2/1/2016,3/31/2016,59,Layoff,Permanent
+597,Haggen Food & Pharmacy,Puyallup,1/8/2016,3/8/2016,87,Closure,Permanent
+598,Macy's,Spokane,1/7/2016,3/14/2016,94,Closure,Permanent
+599,Hoquiam Plywood Products,Hoquiam,12/18/2015,2/15/2016,90,Layoff,Temporary
+600,Omak Wood Products,Omak,12/15/2015,2/12/2016,184,Closure,Permanent
+601,Aramark Sports & Entertainment,Seattle,12/10/2015,12/31/2015,78,Closure,Permanent
+602,Management & Training Corporation,Sedro Woolley,12/2/2015,1/31/2016,90,Closure,Permanent
+603,JACO Environmental,Bothell/Everett,11/24/2015,11/23/2015,154,Layoff,Permanent
+604,Alcoa Intalco Works,Ferndale,11/19/2015,1/18/2016,465,Layoff,Temporary
+605,Alcoa Inc.,Malaga,11/9/2015,1/5/2016,415,Layoff,Temporary
+606,CH2M,Bellingham,10/20/2015,12/7/2015,128,Closure,Permanent
+607,Graphic Packaging,Renton,10/8/2015,12/3/2015,108,Closure,Permanent
+608,Haggen Food & Pharmacy,Statewide,9/25/2015,11/24/2015,1073,Closure,Permanent
+609,CH2M,Bellingham,9/23/2015,11/20/2015,128,Layoff,Permanent
+610,Red Lion Hotel,Vancouver,8/26/2015,10/31/2015,82,Closure,Permanent
+611,HTC America,Bellevue,8/24/2015,8/25/2015,85,Layoff,Permanent
+612,Boeing,Puget Sound,8/24/2015,10/23/2015,39,Layoff,Permanent
+613,Interfor,Tacoma,8/24/2015,8/24/2015,127,Closure,Permanent
+614,Haggen Food & Pharmacy,Spanaway,8/14/2015,10/13/2015,62,Closure,Permanent
+615,HTC America,Bellevue,8/10/2015,8/10/2015,23,Layoff,Permanent
+616,HTC America Innovation,Seattle,8/10/2015,8/10/2015,24,Layoff,Permanent
+617,Boeing,Puget Sound,7/22/2015,9/18/2015,172,Layoff,Permanent
+618,Mount Baker Vapor,Bellingham,7/13/2015,9/15/2015,92,Closure,Permanent
+619,Sodexo,Snohomish,6/30/2015,8/31/2015,63,Closure,Permanent
+620,Boeing,Puget Sound,6/22/2015,8/21/2015,23,Layoff,Permanent
+621,Bags,Seattle,6/17/2015,8/14/2015,190,Layoff,Permanent
+622,Boeing,Puget Sound,6/11/2015,7/14/2015,18,Layoff,Permanent
+623,Interfor,Tacoma,5/28/2015,5/22/2015,90,Layoff,Temporary
+624,Emeritus Senior Living,Seattle,4/27/2015,6/24/2015,10,Layoff,Permanent
+625,Golden Nugget Tukwila Casino,Tukwila,4/27/2015,6/26/2015,69,Closure,Permanent
+626,Simpson Lumber Company,Shelton,4/27/2015,6/25/2015,275,Closure,Permanent
+627,Boeing,Puget Sound,4/23/2015,6/19/2015,153,Layoff,Permanent
+628,Federal Home Loan Bank,Seattle,4/2/2015,6/1/2015,109,Layoff,Permanent
+629,Triumph Composite Systems,Spokane,3/9/2015,5/11/2015,25,Layoff,Permanent
+630,Valeant Pharmaceuticals,Seattle,3/2/2015,2/23/2015,77,Layoff,Permanent
+631,"Ambassador Programs, Inc.",Spokane,2/26/2015,4/27/2015,60,Layoff,Permanent
+632,Trulia,Bellevue,2/26/2015,4/20/2015,157,Layoff,Permanent
+633,Boeing,Puget Sound,2/26/2015,4/24/2015,319,Layoff,Permanent
+634,Emeritus Senior Living,"Seattle, WA",2/3/2015,4/2/2015,41,Layoff,Permanent
+635,Great American Casino,Kent,1/26/2015,3/15/2015,93,Closure,Permanent
+636,Bradken Foundry,Chehalis,1/15/2015,3/16/2015,89,Closure,Permanent
+637,United Airlines,Seattle,1/7/2015,3/7/2015,41,Closure,Permanent
+638,Group Health,Seattle,12/29/2014,3/1/2015,15,Closure,Permanent
+639,Boeing,Puget Sound,12/2/2014,1/23/2015,83,Layoff,Permanent
+640,United Airlines,Seattle,12/1/2014,1/30/2015,264,Closure,Permanent
+641,Swiift Transportation,Pasco,12/1/2014,1/30/2015,180,Layoff,Permanent
+642,Avamere Georgian House of Lakewood,Lakewood WA,11/12/2014,1/16/2015,69,Closure,Permanent
+643,JCPenney,"Sumner, WA",11/12/2014,1/16/2015,112,Closure,Permanent
+644,Nordstrom,Vancouver,10/31/2014,1/10/2015,142,Closure,Permanent
+645,Group Health,Seattle,10/31/2014,12/31/2014,102,Closure,Permanent
+646,Microsoft,Redmond,10/30/2014,12/28/2014,635,Layoff,Permanent
+647,Amgen,Seattle,10/22/2014,12/31/2014,274,Closure,Permanent
+648,Cobalt Mortgage,Kirkland,10/13/2014,12/16/2014,10,Closure,Permanent
+649,"Metrie, Inc.",Monroe,10/9/2014,11/27/2014,54,Closure,Permanent
+650,Emeritus Senior Living,"Seattle, WA",10/6/2014,12/1/2014,29,Layoff,Permanent
+651,Hightail,Not Provided,9/18/2014,9/17/2014,1,Layoff,Permanent
+652,Macro Technologies,Kirkland,9/18/2014,11/21/2014,64,Layoff,Permanent
+653,Cobalt Mortgage,Kirkland,9/18/2014,11/21/2014,148,Layoff,Permanent
+654,Microsoft,Redmond,9/18/2014,11/17/2014,747,Layoff,Permanent
+655,Staples,Auburn,9/17/2014,11/17/2014,50,Layoff,Permanent
+656,Niagara Bottling,"Burlington, WA",9/5/2014,11/13/2014,73,Closure,Permanent
+657,Novo Nordisk,Seattle,9/4/2014,11/3/2014,63,Layoff,Permanent
+658,JCPenney,Bellevue,9/3/2014,11/1/2014,141,Closure,Permanent
+659,Boeing,Puget Sound,8/25/2014,10/24/2014,70,Layoff,Permanent
+660,Employment Security Department,Statewide,8/22/2014,10/15/2014,149,Layoff,Permanent
+661,G4S Government Solutions,"Bangor, Silverdale",8/12/2014,9/30/2014,93,Closure,Temporary
+662,Emeritus Senior Living,"Seattle, WA",8/6/2014,10/6/2014,6,Layoff,Permanent
+663,Elliott's Oyster House,"Seattle, WA",8/6/2014,10/1/2014,200,Closure,Temporary
+664,Interfor,"Beaver & Forks, WA",8/1/2014,7/31/2014,87,Closure,Permanent
+665,Boeing,Puget Sound,7/21/2014,9/19/2014,95,Layoff,Permanent
+666,Microsoft,Redmond,7/17/2014,9/15/2014,1351,Layoff,Permanent
+667,Waste Management,"Oak Harbor, WA",6/27/2014,9/19/2014,125,Closure,Permanent
+668,CenturyLink,"Seattle, WA",6/11/2014,8/11/2014,158,Closure,Permanent
+669,Eagle Marine Services,"Seattle, WA",6/3/2014,7/31/2014,94,Closure,Permanent
+670,Emeritus Senior Living,"Seattle, WA",5/29/2014,7/31/2014,4,Layoff,Permanent
+671,Eager Beaver Computers,"Spokane Valley, WA",5/5/2014,6/30/2014,1,Closure,Permanent
+672,PerkinElmer,"Spokane, WA",5/2/2014,6/27/2014,80,Closure,Permanent
+673,Express Scripts,"Liberty Lake, WA",4/29/2014,6/29/2014,203,Closure,Permanent
+674,Chasing Fireflies,Seattle,3/4/2014,5/1/2014,92,Layoff,Permanent
+675,Pepsi,Seattle,2/25/2014,4/22/2014,52,Closure,Permanent
+676,Sears,Seattle,2/20/2014,6/1/2014,13,Closure,Permanent
+677,Sears,"Seattle, WA",2/20/2014,6/1/2014,66,Layoff,Permanent
+678,Boeing,Puget Sound,2/18/2014,4/18/2014,79,Layoff,Permanent
+679,Zynga Inc.,Seattle,2/11/2014,1/30/2014,52,Closure,Permanent
+680,N-Store Merchandising,"Statewide, WA",2/11/2014,2/3/2014,35,Closure,Permanent
+681,Sprint,"Bellevue & Kirkland, WA",2/11/2014,3/1/2014,91,Layoff,Permanent
+682,Boeing,Puget Sound,2/3/2014,4/4/2014,9,Layoff,Permanent
+683,"Mettler-Toledo AutoChem, Inc.","Redmond, WA",1/24/2014,6/30/2014,21,Closure,Permanent
+684,Boeing,Puget Sound,1/21/2014,3/21/2014,8,Layoff,Permanent
+685,General Dynamics/Electric Boat,"Silverdale, WA",1/17/2014,3/14/2014,29,Layoff,Permanent
+686,Oldcastle Building Envelope,Everett,1/13/2014,3/12/2014,56,Closure,Permanent
+687,Boeing,Puget Sound,12/23/2013,2/21/2014,11,Layoff,Permanent
+688,Transfield Services Rersource & Energy,"Ferndale, WA",12/10/2013,12/31/2013,49,Closure,Permanent
+689,Boeing,Puget Sound,11/25/2013,1/24/2014,71,Layoff,Permanent
+690,Berry Plastics Corporation,Kent,11/20/2013,1/19/2014,118,Closure,Permanent
+691,Sprint,Bellevue,11/18/2013,12/31/2013,17,Layoff,Permanent
+692,Boeing,Puget Sound,11/6/2013,1/1/2014,39,Layoff,Permanent
+693,Electric Boat,Bremerton,11/1/2013,1/3/2014,6,Layoff,Permanent
+694,Pacific Rail Services,Seattle,10/22/2013,12/31/2013,75,Closure,Permanent
+695,Boeing,Puget Sound,10/15/2013,12/13/2013,200,Layoff,Permanent
+696,Visiting Nurse Home Care,"Whatcom, County",10/1/2013,11/30/2013,150,Closure,Permanent
+697,RockTenn,Renton,9/30/2013,11/22/2013,58,Closure,Permanent
+698,Boeing,Puget Sound,9/23/2013,11/22/2013,266,Layoff,Permanent
+699,Mike Campbell & Associates,Lacey,9/10/2013,11/12/2013,76,Closure,Permanent
+700,Sprint,Bellevue & Kirkland,9/9/2013,9/20/2013,161,Closure,Permanent
+701,RoadLink Workforce Solutions,Chehalis,9/3/2013,9/15/2013,86,Closure,Permanent
+702,AREVA Federal Services LLC,Richland,8/1/2013,7/31/2013,3,Layoff,Permanent
+703,Boeing,Puget Sound,7/29/2013,9/27/2013,3,Layoff,Permanent
+704,Boeing,Puget Sound,7/25/2013,9/20/2013,143,Layoff,Permanent
+705,Medical Center Pharmacy,Olympia,7/24/2013,6/30/2013,4,Closure,Permanent
+706,Pacific Construction Systems,Bellevue,7/18/2013,12/31/2013,103,Closure,Permanent
+707,Andrews International Inc.,Seattle,7/15/2013,9/1/2013,35,Layoff,Permanent
+708,"Fluor Federal Services, Inc.",Richland,7/8/2013,9/26/2013,150,Layoff,Permanent
+709,Boeing,Puget Sound,6/25/2013,8/23/2013,266,Layoff,Permanent
+710,Zynga Inc.,Seattle,6/7/2013,6/3/2013,2,Layoff,Permanent
+711,Boeing,Puget Sound,5/21/2013,7/19/2013,253,Layoff,Permanent
+712,RoadLink Workforce Solutions,Chehalis,5/16/2013,5/18/2013,150,Layoff,Permanent
+713,EPIC,Yakima County,5/8/2013,5/31/2013,328,Layoff,Permanent
+714,Boeing,Puget Sound,4/23/2013,6/21/2013,99,Layoff,Permanent
+715,Comprehensive Clinical Development NW,Tacoma,4/17/2013,4/17/2013,43,Closure,Permanent
+716,Sargento,Bellingham,4/11/2013,5/3/2013,34,Closure,Permanent
+717,First A.M.E. Child Development Center,Seattle,4/10/2013,6/30/2013,45,Closure,Permanent
+718,Boeing,Puget Sound,4/8/2013,6/7/2013,939,Layoff,Permanent
+719,"Sykes Enterprises, Incorporated",Spokane Valley,3/26/2013,5/26/2013,148,Closure,Permanent
+720,"Semiahmoo Resort Company, LLC",Blaine,3/6/2013,5/3/2013,107,Closure,Permanent
+721,Central Parking,Bellevue,2/21/2013,2/28/2013,102,Closure,Permanent
+722,Levy Premium Foodservice LP,Seattle,1/30/2013,2/26/2013,363,Closure,Permanent
+723,Briggs Nursery,Porter,1/28/2013,1/25/2013,150,Closure,Permanent
+724,Katana Summit,Ephrata,1/18/2013,12/31/2012,81,Closure,Permanent
+725,Kmart,Seattle,1/15/2013,3/10/2013,85,Closure,Permanent
+726,American Suzuki Motor Corporation,Snohomish and Spokane Counties,1/14/2013,3/14/2013,2,Closure,Permanent
+727,"Pacific Physicians' Laboratory, Inc.",Lynnwood,1/9/2013,3/9/2013,59,Closure,Permanent
+728,Skookum,Ft. Lewis,12/27/2012,2/28/2013,54,Layoff,Temporary
+729,Life Care Center of West Seattle,Seattle,12/20/2012,1/31/2013,99,Closure,Permanent
+730,TriWest Healthcare Alliance Corporation,Pierce County,12/18/2012,2/15/2013,127,Closure,Permanent
+731,TriWest Healthcare Alliance Corporation,Yakima,12/18/2012,2/15/2013,1,Closure,Permanent
+732,TriWest Healthcare Alliance Corporation,Seattle,12/18/2012,2/15/2013,1,Closure,Permanent
+733,TriWest Healthcare Alliance Corporation,Port Angeles,12/18/2012,2/15/2013,2,Closure,Permanent
+734,TriWest Healthcare Alliance Corporation,Bremerton,12/18/2012,2/15/2013,5,Closure,Permanent
+735,TriWest Healthcare Alliance Corporation,Everett,12/14/2012,2/15/2013,2,Closure,Permanent
+736,TriWest Healthcare Alliance Corporation,Oak Harbor,12/14/2012,2/15/2013,4,Closure,Permanent
+737,TriWest Healthcare Alliance Corporation,Fairchild AFB,12/14/2012,2/15/2013,3,Closure,Permanent
+738,BAE Systems,Keyport,10/31/2012,12/27/2012,57,Closure,Permanent
+739,"Semiahmoo Resort Company, LLC",Blaine,10/30/2012,12/31/2012,224,Closure,Permanent
+740,"Clopay Building Products Company, Inc.",Auburn,10/25/2012,1/25/2013,55,Closure,Permanent
+741,Draper Valley Holdings LLC,Renton,10/8/2012,12/7/2012,66,Closure,Permanent
+742,URS Federal Services,Oak Harbor,9/25/2012,10/31/2012,236,Layoff,Permanent
+743,Dendreon Corporation,Seattle,9/20/2012,11/20/2012,145,Layoff,Permanent
+744,American Airlines,Seattle,9/18/2012,11/16/2012,66,Layoff,Permanent
+745,Berry Plastics Corporation,Kent,9/10/2012,8/24/2012,59,Layoff,Permanent
+746,AREVA Federal Services LLC,Richland,8/21/2012,8/15/2012,5,Layoff,Permanent
+747,Harland Clarke Holdings Corp.,Milton,8/6/2012,10/9/2012,35,Closure,Permanent
+748,Auburn Regional Medical Center,Auburn,8/1/2012,9/28/2012,827,Layoff,Permanent
+749,Universal Lumpers,Auburn,7/19/2012,9/24/2012,97,Closure,Permanent
+750,"Thales Avionics, Inc.",Seattle,7/16/2012,9/14/2012,42,Closure,Permanent
+751,Seattle Hilton Hotel,Seattle,7/5/2012,9/3/2012,141,Closure,Permanent
+752,National Food Corporation,Everett,6/22/2012,8/24/2012,75,Layoff,Permanent
+753,Parsons,Pasco,6/20/2012,8/19/2012,103,Closure,Permanent
+754,Sterling Bank (First Independent Bank),Vancouver,6/4/2012,8/3/2012,63,Layoff,Permanent
+755,Delta Air Lines Reservation Call Center,SeaTac,5/22/2012,9/1/2012,189,Closure,Permanent
+756,"Amonix, Inc.",Langley,5/7/2012,6/30/2012,1,Layoff,Permanent
+757,Hostess Brands,Bellingham,5/7/2012,7/3/2012,6,Closure,Permanent
+758,Hostess Brands,Everett,5/7/2012,7/3/2012,15,Closure,Permanent
+759,Hostess Brands,Seattle,5/7/2012,7/3/2012,111,Closure,Permanent
+760,Hostess Brands,Kent,5/7/2012,7/3/2012,17,Closure,Permanent
+761,Hostess Brands,Bremerton,5/7/2012,7/3/2012,6,Closure,Permanent
+762,Hostess Brands,Lakewood,5/7/2012,7/3/2012,53,Closure,Permanent
+763,Hostess Brands,Tacoma,5/7/2012,7/3/2012,3,Closure,Permanent
+764,Hostess Brands,Tumwater,5/7/2012,7/3/2012,8,Closure,Permanent
+765,Hostess Brands,Longview,5/7/2012,7/3/2012,6,Closure,Permanent
+766,Hostess Brands,Moses Lake,5/7/2012,7/3/2012,2,Closure,Permanent
+767,Hostess Brands,Yakima,5/7/2012,7/3/2012,9,Closure,Permanent
+768,Hostess Brands,Spokane,5/7/2012,7/3/2012,14,Closure,Permanent
+769,Verizon Wireless,Bellevue,5/2/2012,6/30/2012,814,Closure,Permanent
+770,Davis Wire Corporation,Kent,4/27/2012,6/19/2012,57,Layoff,Permanent
+771,BAE Systems,Keyport,4/27/2012,6/30/2012,61,Layoff,Permanent
+772,Cardiac Science Corporate,Bothell,4/10/2012,6/5/2012,60,Closure,Permanent
+773,Harland Clarke Holdings Corp.,Milton,4/10/2012,6/2/2012,74,Layoff,Permanent
+774,"Zipper Interactive, Inc.",Redmond,4/2/2012,6/1/2012,86,Closure,Permanent
+775,Boeing,Puget Sound,3/26/2012,5/28/2012,39,Layoff,Permanent
+776,Swedish Visiting Nurse Services,"Seattle, Mountlake Terrace",2/28/2012,4/27/2012,216,Closure,Permanent
+777,CenturyLink,Gig Harbor,2/23/2012,4/27/2012,52,Layoff,Permanent
+778,Heinz North America,Kent,2/10/2012,4/13/2012,79,Closure,Permanent
+779,"Sykes Enterprises, Incorporated",Spokane Valley,1/10/2012,3/12/2012,167,Layoff,Permanent
+780,Snokist Growers,Yakima,12/9/2011,2/5/2012,607,Closure,Permanent
+781,"Emerald Shared Services DBA K&L Distributors, Inc.",Renton,11/21/2011,1/20/2012,215,Closure,Permanent
+782,Washington State Employment Security Department,Statewide,10/21/2011,1/16/2012,222,Layoff,Permanent
+783,"Lowe's HIW, Inc.",Tacoma,10/20/2011,12/16/2011,92,Closure,Permanent
+784,Kimberly-Clark Corporation,Everett,10/19/2011,1/1/2012,760,Closure,Permanent
+785,"BlueScope Buildings North America, Inc.",Arlington,10/13/2011,12/12/2011,67,Closure,Permanent
+786,Kerry Ingredients & Flavours,Kent,10/13/2011,12/16/2011,58,Closure,Permanent
+787,Hampton Lumber Mills,Darrington,10/12/2011,12/12/2011,76,Layoff,Permanent
+788,Stimson Lumber,Colville,9/15/2011,11/11/2011,67,Closure,Permanent
+789,TeleTech,Bremerton,8/31/2011,10/30/2011,240,Closure,Permanent
+790,"Woodinville Lumber, Inc.",Woodinville,8/23/2011,8/26/2011,76,Closure,Permanent
+791,"Woodinville Construction Services, L.L.C.",Woodinville,8/23/2011,8/26/2011,38,Closure,Permanent
+792,Tri-County Truss,Burlington,8/23/2011,8/26/2011,94,Closure,Permanent
+793,Kmart,Spokane,8/17/2011,11/6/2011,68,Closure,Permanent
+794,Hampton Affiliates,Randle,8/9/2011,10/31/2011,80,Layoff,Temporary
+795,Lockheed Martin Corporation,5 Puget Sound military locations,8/1/2011,9/30/2011,41,Layoff,Permanent
+796,CH2MHill Plateau Remediation Company,Richland,7/29/2011,9/29/2011,750,Layoff,Permanent
+797,Materials & Energy Corporation,Richland,7/29/2011,9/29/2011,141,Layoff,Permanent
+798,Wells Fargo Home Mortgage Servicing,Bellevue,6/22/2011,8/21/2011,113,Closure,Permanent
+799,Monterey Gormet Foods,Kent,6/20/2011,8/17/2011,75,Closure,Permanent
+800,Penguin Windows,"Lynnwood, Vancouver",6/15/2011,6/10/2011,121,Closure,Permanent
+801,Petermann Northwest LLC,Seattle,5/27/2011,6/22/2011,109,Closure,Permanent
+802,"Grays Harbor Paper, LLC",Hoquiam,5/27/2011,5/25/2011,231,Closure,Permanent
+803,"Insight Schools, Inc.",Bellevue,5/26/2011,7/18/2011,168,Closure,Permanent
+804,BAE Systems,Keyport,5/10/2011,6/30/2011,90,Closure,Permanent
+805,Cardiac Science Corporate,Bothell,4/29/2011,7/1/2011,54,Layoff,Permanent
+806,Pinnacle Foods Group,Tacoma,4/26/2011,6/23/2011,139,Closure,Permanent
+807,"Radia, Inc. P. S.",Everett,4/14/2011,6/30/2011,51,Layoff,Permanent
+808,Whirlpool Corporation,Yakima,4/12/2011,6/13/2011,140,Closure,Permanent
+809,"Union Bank, N.A.",Everett,3/11/2011,3/31/2011,72,Layoff,Permanent
+810,CompuCom Application Services,Bellevue,2/15/2011,2/8/2011,60,Layoff,Permanent
+811,Harland Clarke Holdings Corp.,Milton,2/9/2011,4/9/2011,53,Closure,Permanent
+812,Penguin Windows,"Lynwood, Mukilteo, Lakewood",2/1/2011,2/1/2011,210,Closure,Permanent
+813,DAL Global Services,Seattle,1/31/2011,2/23/2011,168,Layoff,Permanent
+814,"Pilchuck Contractors, Inc.",Puget Sound,1/28/2011,3/28/2011,300,Layoff,Permanent
+815,"Semiahmoo Resort Company, LLC",Blaine,12/20/2010,2/15/2011,321,Closure,Permanent
+816,"ZipRealty, Inc.",Kirkland,12/6/2010,1/31/2011,129,Layoff,Permanent
+817,International Paper,Bellevue,11/15/2010,1/14/2011,78,Closure,Permanent
+818,Exel,Auburn,11/2/2010,1/29/2011,146,Closure,Permanent
+819,"Icicle Seafoods, Inc.",Seattle,10/21/2010,12/20/2010,83,Closure,Permanent
+820,CDM Long-Term Care Services,Vancouver,10/19/2010,11/1/2010,100,Layoff,Permanent
+821,AHP (Associated Hygienic Products LLC),Vancouver,9/30/2010,11/27/2010,101,Closure,Permanent
+822,Xanodyne,Western Washington,9/21/2010,11/21/2010,3,Layoff,Permanent
+823,"The Men's Wearhouse, Inc.",Fife,9/13/2010,11/12/2010,42,Closure,Permanent
+824,Cruise West,Seattle,9/9/2010,9/8/2010,65,Closure,Permanent
+825,Skookum Fleet Management,Fort Lewis,8/20/2010,10/18/2010,50,Layoff,Temporary
+826,"Icicle Seafoods, Inc.",Bellingham,8/2/2010,10/18/2010,71,Closure,Permanent
+827,Skookum Fleet Management,Fort Lewis,7/16/2010,7/12/2010,176,Layoff,Permanent
+828,Commercial Vehicle Group,Vancouver,7/16/2010,9/1/2010,12,Closure,Permanent
+829,Mason County Forest Products,Shelton,6/2/2010,7/31/2010,130,Layoff,Permanent
+830,Columbia Valley Community Health,Wenatchee,6/2/2010,7/1/2010,53,Layoff,Permanent
+831,AlliedBarton Security Services LLC,"Seattle, Bellevue",5/27/2010,6/17/2010,128,Layoff,Permanent
+832,Boeing,Puget Sound,5/21/2010,7/23/2010,17,Layoff,Permanent
+833,Boeing,Puget Sound,4/19/2010,6/18/2010,125,Layoff,Permanent
+834,"ConAgra Foods, Inc.",Prosser,3/30/2010,5/30/2010,218,Closure,Permanent
+835,Boeing,Puget Sound,3/19/2010,5/21/2010,65,Layoff,Permanent
+836,"AB Car Rental Services, Inc.",Tukwila,3/17/2010,5/19/2010,206,Layoff,Permanent
+837,"Olympic Security Services, Inc.",Tukwila,3/11/2010,4/16/2010,54,Layoff,Permanent
+838,Zumiez Inc.,Everett,2/22/2010,4/23/2010,172,Closure,Permanent
+839,Boeing,Puget Sound,2/19/2010,4/23/2010,527,Layoff,Permanent
+840,Kmart,Bremerton,2/5/2010,5/17/2010,55,Closure,Permanent
+841,BCI Coca Cola Bottling Company,Woodland,1/29/2010,4/1/2010,56,Closure,Permanent
+842,Boeing,Puget Sound,1/22/2010,3/26/2010,9,Layoff,Permanent
+843,Auto Warehousing Co.,Tacoma,1/20/2010,3/22/2010,55,Layoff,Permanent
+844,Boeing,Puget Sound,1/15/2010,3/19/2010,20,Layoff,Permanent
+845,International Paper,Auburn,1/14/2010,3/6/2010,2,Closure,Permanent
+846,Bank of America,Bellevue,1/14/2010,3/12/2010,50,Closure,Permanent
+847,CPC International Apple Company,Tieton,12/31/2009,2/22/2010,75,Layoff,Permanent
+848,Boeing,Puget Sound,12/18/2009,2/19/2010,56,Layoff,Permanent
+849,Walter Meier Inc.,Auburn,12/18/2009,2/15/2010,5,Closure,Permanent
+850,Boeing,Puget Sound,11/20/2009,1/22/2010,49,Layoff,Permanent
+851,Kmart,Vancouver,11/18/2009,1/18/2010,68,Closure,Permanent
+852,"Sun Microsystems, Inc",Bellevue,11/4/2009,1/3/2010,3,Layoff,Permanent
+853,BD Diagnostics,Redmond,11/3/2009,12/23/2009,15,Closure,Permanent
+854,Boeing,Puget Sound,10/30/2009,1/1/2010,48,Layoff,Permanent
+855,"Expedia, Inc.",Tacoma,10/22/2009,10/21/2009,171,Closure,Permanent
+856,Boeing,Puget Sound,10/9/2009,12/11/2009,53,Layoff,Permanent
+857,Wells Fargo Mortgage,Kirkland,10/8/2009,12/7/2009,60,Closure,Permanent
+858,Brandrud,Auburn,10/5/2009,12/4/2009,104,Closure,Permanent
+859,Boeing,Puget Sound,9/18/2009,11/20/2009,126,Layoff,Permanent
+860,"SumTotal Systems, Inc.",Bellevue,9/15/2009,9/15/2009,59,Layoff,Permanent
+861,Adaptis Inc.,Seattle,9/14/2009,11/2/2009,138,Closure,Permanent
+862,Microsoft,Redmond,9/3/2009,11/1/2009,27,Layoff,Permanent
+863,"CROSSMARK Home Improvements, LCC",Statewide,8/31/2009,10/31/2009,77,Layoff,Permanent
+864,"Northwest Territorial Mint, LCC",Auburn,8/28/2009,10/24/2009,109,Closure,Permanent
+865,Philips Electronics,Snoqualmie,8/28/2009,10/30/2009,75,Closure,Permanent
+866,Boeing,Puget Sound,8/21/2009,10/23/2009,279,Layoff,Permanent
+867,"Crossroads Services, Inc.",Statewide,8/14/2009,10/18/2009,45,Layoff,Permanent
+868,Boeing,Puget Sound,7/31/2009,10/2/2009,45,Layoff,Permanent
+869,"Stemilt Growers, Inc.",Orondo,7/27/2009,9/24/2009,94,Closure,Permanent
+870,"Stemilt Growers, Inc.",Orondo,7/20/2009,9/17/2009,67,Closure,Permanent
+871,Boeing,Puget Sound,7/17/2009,9/18/2009,104,Layoff,Permanent
+872,Electric Boat,Silverdale,7/17/2009,9/25/2009,8,Layoff,Permanent
+873,Johnson Outdoors Watercraft Inc.,Ferndale,7/1/2009,9/4/2009,90,Closure,Permanent
+874,"Sun Microsystems, Inc",Bellevue,6/26/2009,8/24/2009,2,Layoff,Permanent
+875,Boeing,Puget Sound,6/19/2009,8/21/2009,157,Layoff,Permanent
+876,Saint-Gobain Crystals,Washougal,6/12/2009,8/10/2009,58,Closure,Permanent
+877,"Merck & Co., Inc.",Seattle,6/8/2009,7/31/2009,40,Closure,Permanent
+878,KeyCorp,Tacoma,6/4/2009,8/3/2009,240,Closure,Permanent
+879,Shaw Industries,Algona,6/1/2009,7/31/2009,62,Closure,Permanent
+880,Ruan Transportation,Seattle,5/28/2009,7/31/2009,81,Closure,Permanent
+881,Weyerhaeuser Forest Operation,Cosmopolis,5/22/2009,7/21/2009,53,Layoff,Permanent
+882,Boeing,Puget Sound,5/22/2009,7/24/2009,117,Layoff,Permanent
+883,Johnson Controls Inc,Bellevue,5/18/2009,7/31/2009,45,Closure,Permanent
+884,CDG Management,Olympia,5/15/2009,5/29/2009,41,Closure,Permanent
+885,Amgen,Bothell,5/14/2009,7/13/2009,101,Layoff,Permanent
+886,Microsoft,Redmond,5/5/2009,7/4/2009,1200,Layoff,Permanent
+887,Spring Air,Lacey,5/4/2009,5/1/2009,45,Layoff,Permanent
+888,Coast Engine & Equipment,Tacoma,5/4/2009,7/3/2009,111,Closure,Permanent
+889,ZymoGenetics,Seattle,4/30/2009,6/30/2009,170,Layoff,Permanent
+890,Boeing,Puget Sound,4/21/2009,6/19/2009,119,Layoff,Permanent
+891,Liberty Mutual Insurance,Bothell,4/17/2009,6/16/2009,100,Layoff,Permanent
+892,Hampton Affiliates,Morton,4/8/2009,6/6/2009,124,Layoff,Permanent
+893,Hampton Affiliates,Darrington,4/8/2009,6/6/2009,118,Layoff,Permanent
+894,JP Morgan Chase,Tukwila,4/7/2009,6/15/2009,45,Closure,Permanent
+895,Guy Bennett Lumber,Clarkston,4/3/2009,6/5/2009,74,Closure,Temporary
+896,Microsoft,Seattle,4/1/2009,6/30/2009,2,Layoff,Permanent
+897,"Sun Microsystems, Inc",Bellevue,3/31/2009,5/30/2009,24,Layoff,Permanent
+898,Exide Technologies,Sumner,3/31/2009,3/31/2009,43,Closure,Permanent
+899,Commercial Vehicle Group,Vancouver,3/20/2009,4/30/2009,70,Closure,Permanent
+900,Boeing,Puget Sound,3/20/2009,5/22/2009,710,Layoff,Permanent
+901,Weyerhaeuser Sawmill,Toutle,3/5/2009,5/1/2009,1,Closure,Permanent
+902,Weyerhaeuser Lumbermill,Raymond,3/4/2009,3/9/2009,50,Layoff,Permanent
+903,General Dynamics,Spokane Valley,2/25/2009,4/24/2009,353,Closure,Permanent
+904,Boeing,Puget Sound,2/25/2009,4/24/2009,781,Layoff,Permanent
+905,Best Buy,Kent,2/12/2009,4/14/2009,82,Closure,Permanent
+906,Results Bellingham,Bellingham,2/12/2009,4/12/2009,150,Closure,Permanent
+907,TTM Technologies,Redmond,2/5/2009,3/16/2009,369,Closure,Permanent
+908,Boeing,Puget Sound,2/5/2009,3/20/2009,668,Layoff,Permanent
+909,SolarWorld Industries,Vancouver,1/30/2009,3/13/2009,63,Layoff,Permanent
+910,Allied Waste,Seattle,1/28/2009,3/31/2009,203,Layoff,Permanent
+911,Weyerhaeuser Sawmill,Aberdeen,1/27/2009,1/26/2009,128,Closure,Permanent
+912,Pacific Veneer Weyerhaeuser,Aberdeen,1/27/2009,1/26/2009,93,Closure,Permanent
+913,"Sun Microsystems, Inc",Bellevue,1/23/2009,3/23/2009,4,Layoff,Permanent
+914,Microsoft,Redmond,1/23/2009,3/23/2009,872,Layoff,Permanent
+915,Seattle Post-Intelligencer,Seattle,1/21/2009,3/18/2009,181,Closure,Permanent
+916,Qwest,Seattle,1/21/2009,4/15/2009,235,Closure,Permanent
+917,Philips Electronics,Auburn,1/20/2009,3/20/2009,96,Closure,Permanent
+918,Teck,Metaline Falls,1/6/2009,2/16/2009,165,Layoff,Permanent
+919,Agilent Technologies,Liberty Lake,12/30/2008,1/30/2009,120,Layoff,Permanent
+920,ABX Air,Chehalis,12/26/2008,2/13/2009,4,Closure,Permanent
+921,North Sky Communications,Woodinville,12/23/2008,12/11/2008,57,Layoff,Permanent
+922,Hunter Douglas,Renton,12/3/2008,2/2/2009,166,Layoff,Permanent
+923,CDG Management,Tacoma,11/24/2008,12/21/2008,34,Closure,Permanent
+924,CDG Management,Olympia,11/24/2008,12/21/2008,18,Closure,Permanent
+925,DHL Express,Seattle,11/19/2008,1/18/2009,68,Layoff,Permanent
+926,American Airlines,Seattle,11/19/2008,1/16/2009,1,Layoff,Permanent
+927,DHL Express,"Kent, Bothell, Bellevue, Fife",11/19/2008,1/18/2009,187,Closure,Permanent
+928,ABX Air,Chehalis,11/14/2008,1/13/2009,52,Closure,Permanent
+929,Kenworth Trucking,Renton,11/14/2008,1/16/2009,430,Layoff,Permanent
+930,Washington Mutual,Seattle,11/12/2008,1/31/2009,3400,Layoff,Permanent
+931,BAE Systems,Bremerton,11/7/2008,12/19/2008,31,Closure,Permanent
+932,"Sun Microsystems, Inc",Bellevue,11/6/2008,1/5/2009,9,Layoff,Permanent
+933,Seattle Times,Seattle,11/5/2008,12/12/2008,145,Layoff,Permanent
+934,Solid Ground,Seattle,10/31/2008,12/31/2008,114,Layoff,Permanent
+935,"IntelliTax Software Solutions, Inc.",Bellevue,10/27/2008,10/24/2008,150,Closure,Permanent
+936,Morning Sun,Tacoma,10/23/2008,12/22/2008,162,Closure,Permanent
+937,Meridian Yacht/US Marine,Arlington,10/16/2008,10/16/2008,276,Closure,Permanent
+938,Milgard Windows,Marysville,10/14/2008,10/24/2008,80,Closure,Permanent
+939,Meridian Yacht/US Marine,Arlington,10/10/2008,10/10/2008,445,Closure,Permanent
+940,Stimson Lumber,Colville,10/8/2008,12/8/2008,109,Closure,Permanent
+941,Heller Ehrman,Seattle,9/29/2008,11/28/2008,139,Closure,Permanent
+942,"Johnson Controls, Inc.",DuPont,9/18/2008,12/7/2008,13,Closure,Permanent
+943,Vivendi Games,Issaquah,9/8/2008,11/7/2008,1,Layoff,Permanent
+944,Rosario Resort,Eastsound (Orcas Island),8/21/2008,10/20/2008,195,Closure,Permanent
+945,Cenveo Corporation,Tukwila,8/15/2008,10/3/2008,15,Closure,Permanent
+946,Alaska Distributors,"Kent, Everett, Spokane",8/13/2008,10/3/2008,600,Closure,Permanent
+947,GMAC ResCap,Bellevue,8/12/2008,10/31/2008,60,Closure,Permanent
+948,Seattle Times,North Creek & Fairview,8/12/2008,8/27/2008,75,Layoff,Permanent
+949,Syntax Brillian,White Salmon,8/11/2008,9/2/2008,1,Layoff,Permanent
+950,Columbia Lighting,Spokane,8/7/2008,9/26/2008,211,Closure,Permanent
+951,Titus Tool Company,Kent,8/6/2008,11/30/2008,50,Layoff,Permanent
+952,Seattle Sonics,Seattle,8/6/2008,9/30/2008,117,Closure,Permanent
+953,Starwood Resorts & Hotels,Seattle,7/29/2008,9/1/2008,87,Layoff,Permanent
+954,Vivendi Games,Issaquah,7/28/2008,9/13/2008,53,Layoff,Permanent
+955,Indymac Bank,Bellevue,7/21/2008,9/5/2008,51,Layoff,Permanent
+956,All-Woods Components,Union Gap,7/17/2008,7/23/2008,29,Layoff,Permanent
+957,Mt. Hood Beverage,Yakima & Kennewick,7/17/2008,1/1/2009,110,Layoff,Permanent
+958,Columbia Distributing,4 sites,7/15/2008,9/15/2008,933,Layoff,Permanent
+959,"Sun Microsystems, Inc",Bellevue,7/10/2008,9/8/2008,9,Layoff,Permanent
+960,Intermec Technologies,Everett,7/10/2008,10/3/2008,184,Layoff,Permanent
+961,American Airlines,Seattle,7/7/2008,9/5/2008,22,Layoff,Permanent
+962,"Sun Microsystems, Inc",Bellevue,5/22/2008,7/21/2008,2,Layoff,Permanent
+963,Ball Corporation,Kent,5/19/2008,8/31/2008,112,Closure,Permanent
+964,Washington Mutual,Bellevue,5/1/2008,8/31/2008,84,Closure,Temporary
+965,Educational Opportunities for Children and Family,Vancouver,4/25/2008,6/30/2008,19,Closure,Permanent
+966,Simpson Timber,Tacoma/Shelton,4/15/2008,4/28/2008,111,Layoff,Permanent
+967,Wilcox Farms,Cheney,4/3/2008,4/30/2008,47,Closure,Permanent
+968,Weyerhaeuser Company,Toutle,3/10/2008,5/1/2008,81,Closure,Permanent
+969,Nastech Pharmaceutical,Bothell,3/5/2008,2/29/2008,70,Layoff,Permanent
+970,Pactiv Corporation,Yakima,3/3/2008,5/9/2008,51,Closure,Permanent
+971,Macy's,Seattle,3/3/2008,5/2/2008,697,Layoff,Permanent
+972,"K Ply, Inc.",Port Angeles,2/29/2008,11/2/2007,132,Closure,Temporary
+973,Group Health,Redmond,2/25/2008,4/30/2008,363,Closure,Permanent
+974,Anesthesiologists Associated,Spokane Valley,2/20/2008,2/20/2008,63,Closure,Permanent
+975,J.R. Simplot,Pasco,2/15/2008,4/18/2008,335,Closure,Permanent
+976,Pristina Pine,Spokane Valley,2/13/2008,2/6/2008,98,Closure,Permanent
+977,ICOS Corporation,Bothell,2/6/2008,3/29/2008,1,Layoff,Permanent
+978,Seattle Times - North Creek,Bothell,2/4/2008,3/31/2008,7,Layoff,Permanent
+979,Wilcox Farms,Roy,2/4/2008,3/31/2008,130,Closure,Permanent
+980,Sun Microsystems Inc,Bellevue,1/31/2008,3/31/2008,1,Layoff,Permanent
+981,Panasonic,Vancouver,1/29/2008,3/29/2008,89,Closure,Permanent
+982,DIGIO,KIRKLAND,1/24/2008,3/18/2008,69,Layoff,Permanent
+983,Seattle Times - North Creek,Bothell,1/16/2008,2/29/2008,71,Layoff,Permanent
+984,Holy Family Hospital,Deer Park,1/11/2008,3/15/2008,79,Closure,Permanent
+985,"Portac, Inc.",Tacoma,12/26/2007,2/25/2008,71,Closure,Permanent
+986,ICOS Corporation,Bothell,12/24/2007,2/29/2008,6,Layoff,Permanent
+987,Washington Mutual,Bellevue,12/17/2007,2/15/2008,105,Layoff,Permanent
+988,Xantrex Technology,Arlington,12/14/2007,3/1/2008,55,Closure,Permanent
+989,BAE Systems,Keyport,12/13/2007,2/19/2008,55,Closure,Permanent
+990,FloorServe,"Seattle, Tacoma and Vancouver",12/5/2007,1/31/2008,3,Closure,Permanent
+991,DAL Global Services,SeaTac,11/19/2007,12/12/2007,132,Layoff,Permanent
+992,Benchmark Electronics,Redmond,11/15/2007,1/15/2008,150,Closure,Permanent
+993,Levitz Furniture,Tukwila,11/9/2007,1/9/2008,60,Closure,Permanent
+994,Tree Top,Cashmere,11/5/2007,1/4/2008,73,Layoff,Temporary
+995,ICOS Corporation,Bothell,10/31/2007,12/29/2007,13,Layoff,Permanent
+996,Georgia Pacific Corporation,Bellingham,10/8/2007,12/8/2007,210,Closure,Permanent
+997,"Sun Microsystems, Inc",Bellevue,9/27/2007,11/26/2007,9,Layoff,Permanent
+998,VAE Nortrack North America Inc.,Seattle,9/26/2007,12/1/2007,58,Layoff,Permanent
+999,American Port Services,Sumner,9/13/2007,12/31/2007,217,Closure,Permanent
+1000,Fleetwood Housing,Woodland,9/12/2007,9/12/2007,135,Closure,Permanent
+1001,Welco Lumber,Marysville,8/30/2007,10/26/2007,57,Closure,Permanent
+1002,ICOS Corporation,Bothell,8/28/2007,10/29/2007,12,Layoff,Permanent
+1003,"Liquidation World USA, Inc.",Nine Locations - WA,8/28/2007,10/31/2007,0,Closure,Permanent
+1004,"GreenPoint Mortgage Funding, Inc.",Bellevue,8/24/2007,8/23/2007,41,Closure,Permanent
+1005,Heritage Health & Rehab. Center,Vancouver,8/23/2007,10/22/2007,50,Closure,Permanent
+1006,Cenveo Corporation,Tukwila,8/21/2007,10/19/2007,68,Closure,Permanent
+1007,ICOS Corporation,Bothell,8/17/2007,10/15/2007,1,Layoff,Permanent
+1008,Associated Grocers. Inc.,Seattle-Renton,8/6/2007,10/1/2007,684,Closure,Permanent
+1009,ICOS Corporation,Bothell,7/31/2007,9/29/2007,1,Layoff,Permanent
+1010,Swedish Sleep Medicine Institute,Seattle,7/18/2007,9/16/2007,67,Closure,Permanent
+1011,Electronic Data Systems,Federal Way,7/12/2007,8/24/2007,147,Layoff,Permanent
+1012,Aleut Global Solutions,Tacoma,7/2/2007,7/30/2007,7,Closure,Permanent
+1013,ARAMARK Healthcare,Spokane,6/29/2007,8/28/2007,245,Closure,Permanent
+1014,SK Food Group,Seattle,6/7/2007,8/1/2007,90,Closure,Permanent
+1015,"Commercial Vehicle Group, Inc.",Seattle-Tacoma,6/6/2007,7/30/2007,115,Closure,Permanent
+1016,ICOS Corporation,Bothell,6/4/2007,8/1/2007,1,Layoff,Permanent
+1017,ICOS Corporation,Bothell,5/14/2007,8/29/2007,5,Layoff,Permanent
+1018,New Century Financial Corporation,Bellevue,5/10/2007,5/4/2007,41,Closure,Permanent
+1019,ICOS Corporation,Bothell,5/9/2007,7/8/2007,2,Layoff,Permanent
+1020,Millenium Funding Group,Vancouver,5/1/2007,4/26/2007,72,Layoff,Temporary
+1021,"King County Publications, Ltd.",Kent,4/30/2007,6/29/2007,109,Closure,Permanent
+1022,ICOS Corporation,Bothell,4/30/2007,6/29/2007,1,Layoff,Permanent
+1023,Bethlehem Construction,Cashmere,4/25/2007,5/24/2007,76,Closure,Permanent
+1024,ICOS Corporation,Redmond,4/17/2007,6/22/2007,1,Layoff,Permanent
+1025,ICOS Corporation,Bothell,4/17/2007,6/17/2007,1,Layoff,Permanent
+1026,Alltel,Issaquah,4/16/2007,6/16/2007,260,Closure,Permanent
+1027,ICOS Corporation,Bothell,4/2/2007,5/29/2007,17,Layoff,Permanent
+1028,Cosmo Store Services,Statewide,4/2/2007,5/27/2007,17,Layoff,Permanent
+1029,ICOS Corporation,Bothell,3/22/2007,5/1/2007,1,Layoff,Permanent
+1030,Bank of America,Spokane,3/15/2007,6/29/2007,205,Layoff,Permanent
+1031,ICOS Corporation,Bothell,3/6/2007,5/5/2007,1,Layoff,Permanent
+1032,Millenium Funding Group,Vancouver,3/6/2007,3/2/2007,76,Layoff,Temporary
+1033,Electric Boat,Bremerton,3/2/2007,6/1/2007,2,Closure,Permanent
+1034,"Sun Microsystems, Inc",Bellevue,3/1/2007,4/30/2007,2,Closure,Permanent
+1035,ICOS Corporation,Bothell/Redmond/Bellevue,2/28/2007,4/29/2007,61,Layoff,Permanent
+1036,Sealed Air,Kent,2/28/2007,3/30/2007,99,Closure,Permanent
+1037,"U.S. Foodservice, Inc.",Ridgefield,2/22/2007,5/25/2007,43,Closure,Permanent
+1038,Electric Boat,Bremerton,2/16/2007,5/4/2007,6,Closure,Permanent
+1039,ICOS Corporation,Bothell,1/29/2007,3/29/2007,10,Layoff,Permanent
+1040,"Sun Microsystems, Inc",Bellevue,1/25/2007,3/26/2007,1,Layoff,Permanent
+1041,AgriNorthwest,Kennewick,1/18/2007,3/31/2007,106,Closure,Permanent
+1042,"Portac, Inc.",Tacoma,1/17/2007,4/1/2007,45,Layoff,Permanent
+1043,ICOS Corporation,Bothell,1/12/2007,1/31/2007,268,Layoff,Permanent
+1044,Trident Seafoods Corporation,Fife,1/12/2007,3/30/2007,106,Closure,Permanent
+1045,Bessie Burton Sullivan Nursing Residence,Seattle,1/8/2007,3/15/2007,196,Closure,Permanent
+1046,ICOS Corporation,Bothell/Redmond/Bellevue,12/14/2006,2/12/2007,11,Layoff,Permanent
+1047,ICOS Corporation,Bothell/Redmond/Bellevue,12/11/2006,2/5/2007,111,Layoff,Permanent
+1048,ICOS Corporation,Bothell/Redmond,12/5/2006,1/29/2007,15,Layoff,Permanent
+1049,Electric Boat,Bremerton,12/1/2006,2/2/2007,50,Layoff,Permanent
+1050,TransAlta,Centralia,11/27/2006,11/27/2006,568,Layoff,Permanent
+1051,Georgia Pacific Corporation,Camas,11/22/2006,1/27/2006,32,Layoff,Permanent
+1052,ICOS Corporation,Bothell,11/17/2006,1/16/2007,20,Layoff,Permanent
+1053,UPS Supply Chain Solutions,Auburn,11/17/2006,11/15/2006,57,Layoff,Permanent
+1054,"Sun Microsystems, Inc",Bellevue,11/16/2006,1/15/2007,3,Layoff,Permanent
+1055,ICOS Corporation,Bothell,11/9/2006,1/8/2007,56,Layoff,Permanent
+1056,ICOS Corporation,Bothell,11/2/2006,1/2/2007,197,Layoff,Permanent
+1057,"Marine Industries Northwest, Inc",Tacoma,10/27/2006,12/27/2006,75,Layoff,Permanent
+1058,Glaxo Smith Kline,Bothell,10/27/2006,10/25/2006,63,Closure,Permanent
+1059,Leavenworth Wood Products,Leavenworth,10/11/2006,12/12/2006,102,Closure,Permanent
+1060,Washington Mutual,Lynnwood,10/9/2006,12/5/2006,140,Layoff,Permanent
+1061,Electric Boat,Bremerton,10/6/2006,12/8/2006,56,Layoff,Permanent
+1062,Spherion,Redmond,10/3/2006,11/27/2006,141,Layoff,Permanent
+1063,Chelan Fruit,Pateros,9/28/2006,10/15/2006,84,Closure,Permanent
+1064,"Sun Microsystems, Inc",Bellevue,9/28/2006,11/27/2006,2,Layoff,Permanent
+1065,Trammell Crow Company,Bellevue,9/15/2006,11/15/2006,64,Layoff,Permanent
+1066,Electric Boat,Bremerton,9/15/2006,11/17/2006,15,Layoff,Permanent
+1067,DMX Music,Seattle,9/1/2006,10/30/2006,120,Layoff,Permanent
+1068,Star Manufacturing,Everett,8/28/2006,1/1/2007,107,Closure,Permanent
+1069,"Tyson's Fresh Meats, Inc",Pasco,8/17/2006,10/16/2006,590,Layoff,Permanent
+1070,Electric Boat,Bremerton,8/11/2006,10/13/2006,44,Layoff,Permanent
+1071,"Sun Microsystems, Inc",Bellevue,8/3/2006,10/2/2006,4,Layoff,Permanent
+1072,Bank of America,Richland,7/31/2006,10/1/2006,121,Closure,Permanent
+1073,Bank of America,Seattle,7/31/2006,10/1/2006,255,Closure,Permanent
+1074,Shurgard Self Storage,Seattle,7/28/2006,8/25/2006,175,Layoff,Permanent
+1075,Pony Lumber Company,Tacoma,7/17/2006,9/14/2006,125,Layoff,Temporary
+1076,Bank of America,Seattle,7/14/2006,10/1/2006,89,Closure,Permanent
+1077,"Ocean Beauty Seafoods, Inc",Seattle,7/10/2006,9/1/2006,120,Layoff,Permanent
+1078,Electric Boat,Bremerton,7/7/2006,9/8/2006,24,Layoff,Permanent
+1079,"Sun Microsystems, Inc",Bellevue,6/22/2006,8/21/2006,3,Layoff,Permanent
+1080,Yakima Resources,Yakima,6/2/2006,8/5/2006,250,Closure,Permanent
+1081,Washington Mutual,Bothell,6/1/2006,7/30/2006,900,Closure,Permanent
+1082,Larry's Markets,"Bellevue, Kirkland, Redmond, Seattle, Tukwila",5/30/2006,8/30/2006,545,Closure,Permanent
+1083,K-Mart,Wenatchee,5/9/2006,7/12/2006,60,Closure,Permanent
+1084,Food Services of America,Seattle,5/2/2006,6/30/2006,125,Closure,Permanent
+1085,Mega Foods,Tacoma,4/28/2006,7/8/2006,80,Closure,Permanent
+1086,Amtech Corp,Yelm,4/6/2006,6/30/2006,47,Closure,Permanent
+1087,"Wackenhut Services, Inc",Bangor,4/3/2006,6/30/2006,100,Layoff,Permanent
+1088,American Airlines,SeaTac,4/3/2006,5/29/2006,28,Layoff,Permanent
+1089,Ossur Generation II USA,Bothell,3/20/2006,3/8/2006,49,Closure,Permanent
+1090,"Sun Microsystems, Inc",Bellevue,3/13/2006,5/8/2006,2,Layoff,Permanent
+1091,Cingular Wireless,Redmond,3/13/2006,5/9/2006,2,Layoff,Permanent
+1092,Cingular Wireless,"Bothell, Redmond",3/2/2006,4/25/2006,17,Layoff,Permanent
+1093,Defense Logistics Agency,Fort Lewis,2/27/2006,3/13/2006,1,Layoff,Permanent
+1094,Cingular Wireless,"Bothell, Redmond",2/17/2006,4/11/2006,6,Layoff,Permanent
+1095,Panasonic,Vancouver,2/2/2006,1/30/2006,104,Layoff,Permanent
+1096,Cingular Wireless,"Bothell, Redmond",1/31/2006,3/28/2006,34,Layoff,Permanent
+1097,Sinnett's MarketPlace,Longview,1/25/2006,2/11/2006,65,Closure,Permanent
+1098,Virginia Mason Clinics,Port Angeles,1/23/2006,3/31/2006,98,Closure,Permanent
+1099,Cingular Wireless,"Bothell, Redmond",1/17/2006,3/14/2006,2,Layoff,Permanent
+1100,UNICCO,Federal Way,1/16/2006,3/31/2006,90,Closure,Permanent
+1101,OfficeMax home Plate,Elma,1/9/2006,3/11/2006,63,Closure,Permanent
+1102,"Bechtel National, Inc.",Richland,1/6/2006,2/6/2006,275,Layoff,Permanent
+1103,"Schoeller Arca Systems, Inc",Tacoma,1/3/2006,3/1/2006,86,Layoff,Permanent
+1104,Cingular Wireless,"Bothell, Redmond",12/20/2005,2/14/2006,1,Layoff,Permanent
+1105,Cingular Wireless,"Bothell, Redmond",12/6/2005,1/31/2006,16,Layoff,Permanent
+1106,Delta Airlines,Seattle,12/6/2005,2/1/2006,68,Layoff,Permanent
+1107,Bank of America,Seattle,12/6/2005,3/3/2006,115,Layoff,Permanent
+1108,Getronics,Blaine,11/29/2005,1/13/2006,2,Layoff,Permanent
+1109,Metro One,Tukwila,11/16/2005,1/9/2006,45,Closure,Permanent
+1110,Delaware North Companies,Spokane,11/14/2005,12/28/2005,80,Closure,Permanent
+1111,Ridpath Hotel,Spokane,11/10/2005,1/7/2006,74,Layoff,Permanent
+1112,Cingular Wireless,"Bothell, Redmond",11/7/2005,1/3/2006,7,Layoff,Permanent
+1113,"Welch Foods, Inc.",Kennewick,11/2/2005,1/18/2006,163,Closure,Permanent
+1114,"Woodbridge Gardens, Inc",Winlock,11/1/2005,12/30/2005,4,Closure,Permanent
+1115,First Hill Care Center,Seattle,10/26/2005,12/27/2005,103,Closure,Permanent
+1116,Weyerhaeuser Company,Cosmopolis,10/24/2005,10/1/2006,245,Closure,Permanent
+1117,Weyerhaeuser Company,Aberdeen,10/24/2005,12/19/2005,97,Closure,Permanent
+1118,Cingular Wireless,"Bothell, Redmond",10/21/2005,12/20/2005,25,Layoff,Permanent
+1119,Interstate Brands Corp,Lakewood,10/19/2005,12/17/2005,185,Closure,Permanent
+1120,Cingular Wireless,"Bothell, Redmond",10/11/2005,12/6/2005,24,Layoff,Permanent
+1121,Electronic Data Systems,Tacoma,10/7/2005,12/9/2005,122,Layoff,Permanent
+1122,GB Enterprises,Arlington,10/4/2005,11/29/2005,138,Closure,Permanent
+1123,Cingular Wireless,"Bothell, Redmond",9/27/2005,11/22/2005,15,Layoff,Permanent
+1124,"Phillips Ultrasound, Inc",Bothell,9/23/2005,11/18/2005,1,Layoff,Permanent
+1125,Getronics,Blaine,9/14/2005,11/15/2005,2,Layoff,Permanent
+1126,Cingular Wireless,"Bothell, Redmond",9/13/2005,11/8/2005,7,Layoff,Permanent
+1127,Kinross Gold Corp,Republic,9/9/2005,11/14/2005,65,Layoff,Permanent
+1128,TreeSource,Tumwater,9/6/2005,11/6/2005,124,Closure,Permanent
+1129,"Maxon Furniture, Inc",Kent,8/25/2005,12/2/2005,73,Closure,Permanent
+1130,Jeld Wen,Everett,8/24/2005,10/25/2005,85,Layoff,Permanent
+1131,TFS Electronic Manufacturing,Redmond,8/23/2005,10/22/2005,171,Layoff,Permanent
+1132,"Phillips Ultrasound, Inc",Bothell,8/15/2005,10/7/2005,2,Layoff,Permanent
+1133,Cingular Wireless,"Bothell, Redmond",8/14/2005,10/11/2005,9,Layoff,Permanent
+1134,Cingular Wireless,"Bothell, Redmond",8/2/2005,9/27/2005,6,Layoff,Permanent
+1135,IAP World Services,Bangor,7/25/2005,10/1/2005,787,Layoff,Permanent
+1136,Cingular Wireless,"Bothell, Redmond",7/22/2005,9/14/2005,10,Layoff,Permanent
+1137,"Phillips Ultrasound, Inc",Bothell,7/15/2005,9/16/2005,33,Layoff,Permanent
+1138,PhotoWorks.com,Seattle,7/13/2005,7/22/2005,3,Layoff,Permanent
+1139,Corixa Corp.,Seattle,7/13/2005,7/15/2005,70,Layoff,Permanent
+1140,Jeld Wen,Everett,6/23/2005,8/23/2005,75,Layoff,Permanent
+1141,Cingular Wireless,"Bothell, Redmond",6/21/2005,8/16/2005,4,Layoff,Permanent
+1142,"Monolith Productions, Inc",Kirkland,6/16/2005,8/15/2005,80,Layoff,Permanent
+1143,"Phillips Ultrasound, Inc",Bothell,6/10/2005,8/12/2005,13,Layoff,Permanent
+1144,"Cell Therapeutics, Inc",Seattle,6/3/2005,8/2/2005,92,Layoff,Permanent
+1145,"Contec, LLC",Seattle,6/2/2005,7/15/2005,70,Closure,Permanent
+1146,Durham School Services,Seattle,5/27/2005,7/31/2005,98,Closure,Permanent
+1147,Cingular Wireless,"Bothell, Redmond",5/23/2005,7/19/2005,15,Layoff,Permanent
+1148,"Rockwell Collins, Inc",Kirkland,5/20/2005,8/26/2005,135,Layoff,Permanent
+1149,American Commercial Security Services,Bellevue,5/20/2005,6/30/2005,155,Closure,Permanent
+1150,Alaska Airlines,Seattle,5/19/2005,7/17/2005,477,Layoff,Permanent
+1151,Laidlaw Transit Services,Redmond,5/13/2005,6/30/2005,75,Layoff,Permanent
+1152,Cingular Wireless,"Bothell, Redmond",5/9/2005,7/5/2005,12,Layoff,Permanent
+1153,Sanmina-SCI,Bothell,5/2/2005,4/22/2005,53,Closure,Permanent
+1154,"Bechtel National, Inc.",Richland,4/25/2005,6/24/2005,350,Layoff,Permanent
+1155,Cingular Wireless,Redmond,4/25/2005,6/21/2005,4,Layoff,Permanent
+1156,Qwest,Seattle,4/19/2005,6/8/2005,23,Closure,Permanent
+1157,United Airlines,Kent,4/11/2005,6/5/2005,426,Closure,Permanent
+1158,Cingular Wireless,"Bothell, Redmond",4/11/2005,5/13/2005,26,Layoff,Permanent
+1159,Lennox Hearth Products,Burlington,4/4/2005,6/3/2005,72,Closure,Permanent
+1160,Qwest,Seattle,3/25/2005,6/8/2005,144,Closure,Permanent
+1161,"Phillips Ultrasound, Inc",Bothell,3/17/2005,5/20/2005,43,Layoff,Permanent
+1162,Brown & Cole Stores,Pasco,3/8/2005,5/6/2005,64,Closure,Permanent
+1163,Brown & Cole Stores,Smokey Point,3/8/2005,5/6/2005,65,Closure,Permanent
+1164,Brown & Cole Stores,Yakima,3/8/2005,5/6/2005,67,Closure,Permanent
+1165,Yakima Resources,Yakima,3/2/2005,4/30/2005,118,Closure,Permanent
+1166,Cingular Wireless,"Bothell, Redmond",3/1/2005,4/29/2005,73,Layoff,Permanent
+1167,Cingular Wireless,"Bothell, Redmond",2/14/2005,4/15/2005,182,Layoff,Permanent
+1168,Cingular Wireless,"Bothell, Redmond",2/1/2005,4/4/2005,160,Layoff,Permanent
+1169,"Sallie Mae, Inc",Seattle,2/1/2005,3/28/2005,74,Layoff,Permanent
+1170,Masonic Retirement Center of WA,Des Moines,1/31/2005,3/27/2005,125,Closure,Permanent
+1171,Pacific Marine Maintenance Co.,Tacoma,1/27/2005,3/31/2005,72,Layoff,Permanent
+1172,PhotoWorks.com,Seattle,1/20/2005,3/31/2005,67,Layoff,Permanent
+1173,Cingular Wireless,"Bothell, Redmond",1/18/2005,3/18/2005,88,Layoff,Permanent
+1174,"Phillips Ultrasound, Inc",Bothell,1/18/2005,3/18/2005,17,Layoff,Permanent
+1175,Cingular Wireless,"Bothell, Redmond",1/3/2005,3/7/2005,155,Layoff,Permanent
+1176,Capital One,Federal Way,12/22/2004,1/3/2005,256,Closure,Permanent
+1177,Corixa Corp.,Seattle,12/13/2004,12/13/2004,60,Layoff,Permanent
+1178,Panasonic,Kent,11/16/2004,1/21/2005,63,Layoff,Permanent
+1179,Trinity Universal Insurance Co.,Spokane,10/29/2004,1/1/2005,47,Layoff,Permanent
+1180,HMS Host,SeaTac,10/18/2004,12/13/2004,103,Layoff,Permanent
+1181,Alcoa-Wenatchee,Malaga,9/27/2004,12/12/2004,59,Layoff,Temporary
+1182,Plexus Corp,Bothell,9/21/2004,11/20/2004,163,Closure,Permanent
+1183,Alaska Airlines,Seattle,9/14/2004,12/1/2004,189,Layoff,Permanent
+1184,Microsoft,Redmond,8/23/2004,10/25/2004,67,Layoff,Permanent
+1185,Guidant Sales Corp,Redmond,8/9/2004,10/8/2004,2,Layoff,Permanent
+1186,SuperValue,Tacoma,8/4/2004,10/3/2004,220,Layoff,Permanent
+1187,Alcoa-Wenatchee,Malaga,7/30/2004,10/1/2004,400,Layoff,Temporary
+1188,Target,Federal Way,7/30/2004,10/5/2004,134,Closure,Permanent
+1189,Guidant Sales Corp,Kirkland,7/29/2004,9/27/2004,2,Layoff,Permanent
+1190,Premera Blue Cross,Mountlake Terrace,7/28/2004,9/30/2004,82,Closure,Permanent
+1191,Johnson Controls,Silverdale,7/22/2004,10/1/2004,35,Layoff,Permanent
+1192,Brown & Williamson Tobacco,Bellevue,7/6/2004,8/31/2004,31,Closure,Permanent
+1193,Sacred Heart Hospital,Spokane,6/30/2004,8/31/2004,174,Layoff,Permanent
+1194,"Qualex, Inc.",Chehalis,6/16/2004,8/23/2004,80,Closure,Permanent
+1195,"Ericsson, Inc",Redmond,6/10/2004,7/30/2004,3,Layoff,Permanent
+1196,IBM,Redmond,6/3/2004,8/17/2004,63,Closure,Permanent
+1197,Washington Mutual,Seattle,5/24/2004,4/1/2004,170,Layoff,Permanent
+1198,Selkirk Industries,Lynnwood,5/12/2004,7/11/2004,52,Closure,Permanent
+1199,GE Osmonics,Kent,4/28/2004,7/1/2004,27,Closure,Permanent
+1200,GMAC Financial Services,Bellevue,4/27/2004,6/30/2004,43,Closure,Permanent
+1201,Terabeam Corporation,Redmond,4/22/2004,6/22/2004,13,Layoff,Permanent
+1202,HealthNet Federal Services,Tacoma,4/19/2004,5/28/2004,82,Layoff,Permanent
+1203,Evergreen Vista Convalescent Center,Kirkland,4/15/2004,6/30/2004,131,Closure,Permanent
+1204,Terabeam Corporation,Redmond,4/14/2004,6/13/2004,87,Layoff,Permanent
+1205,Custom Apple Packers,Brewster,4/14/2004,6/11/2004,73,Closure,Permanent
+1206,Airborne Express,Seattle,3/30/2004,3/31/2004,1000,Closure,Permanent
+1207,Todd Pacific Shipyards Corp,Seattle,3/26/2004,3/26/2004,500,Layoff,Temporary
+1208,Wells Fargo Bank,Oak Harbor,3/26/2004,4/28/2004,84,Closure,Permanent
+1209,Peter Pan Seafoods,Seattle,3/25/2004,5/26/2004,63,Closure,Permanent
+1210,J.R. Simplot Company,Quincy,3/19/2004,5/18/2004,606,Closure,Permanent
+1211,GL&V,Vancouver,3/9/2004,5/7/2004,46,Closure,Permanent
+1212,Merrill Lynch Howard Johnson's,Seattle,3/8/2004,4/30/2004,92,Closure,Permanent
+1213,"Fujicolor Processing, Inc",Tukwila,3/1/2004,2/26/2004,49,Closure,Permanent
+1214,USCO Logistics,Sumner,2/5/2004,4/3/2004,212,Closure,Permanent
+1215,Swedish Medical Center,Seattle,1/23/2004,3/22/2004,161,Closure,Permanent
+1216,Experience Music Project,Seattle,1/20/2004,3/15/2004,150,Layoff,Permanent
+1217,Software Spectrum,Liberty Lake,1/12/2004,2/5/2004,60,Layoff,Permanent

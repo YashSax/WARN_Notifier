@@ -1,0 +1,251 @@
+,company_name,location,layoff_date,employees_affected,Industry,Type
+0,North America Savings Bank,CottlevilleGarden CityLawsonLexingtonOzarkPeculiarRollaSpringfieldWaverlyWentzville,03/07/2023,85.0,Financial Services,Layoff
+1,HealthHelp,Independence,03/24/2023,1.0,Healthcare,Closing
+2,Christian Horizon Living LLC,Joplin,04/22/2023,63.0,Healthcare,Closing
+3,"CHEP Services, LLC",Kansas City,05/02/2023,100.0,Logistics,Loss of Contract
+4,Bon Appetit Management Company,St. Louis (city),05/18/2023,342.0,Food Service,Loss of Contract
+5,DHL eCommerce,St. Louis (city),06/03/2023,75.0,Logistics,Closing
+6,Orscheln / Tractor Supply,Moberly,05/21/2023,122.0,Retail,Closing
+7,Aspiration,BallwinSt. PetersMaryland Heights,05/26/2023,4.0,Information Technology,Company Restructure
+8,Cardinal Health,Moberly,05/31/2023,131.0,Manufacturing,Closing
+9,David's Bridal,St. PetersBlue SpringsSpringfieldSunset HillsKansas CityColumbia,06/12/2023,,Retail,Closing
+10,Salt & Smoke,St. CharlesSt. Louis (city),06/28/2023,,Food Service,Company Restructure
+11,Revere Plastics Systems LLC,Poplar Bluff,07/02/2023,79.0,Manufacturing,Closing
+12,Deluxe Corporation,Maryville,07/28/2023,57.0,Corporate Services,Closing
+13,MPW Industrial Services,Claycomo,06/15/2023,84.0,Maintenance Services,Loss of Contract
+14,"EDP Enterprises, INC",Fort Leonard Wood,06/15/2023,948.0,Food Service,Loss of Contract
+15,Windsor Estates,St. Charles,07/31/2023,85.0,Healthcare,Closing
+16,Bitwise Industries,Kansas City,06/14/2023,1.0,Information Technology,Layoff
+17,GKN Aerospace,Hazelwood,08/25/2023 10/06/2023 12/31/2024,715.0,Aerospace Product/Parts Manufacturing,Closing
+18,PBS Radiology,Kansas CityHigh Ridge,09/06/2023,2.0,Healthcare,Layoff
+19,WestRock Company,St. Louis (city),09/15/2023,52.0,Manufacturing,Closing
+20,Soft Surroundings,Mexico,09/01/2023,80.0,Clothing Distribution,Closing
+21,Smithfield Foods,LucernePrincetonNewtown,10/08/2023,92.0,Meat Processing,Closing
+22,Tyson Foods,Noel,10/20/2023,1513.0,Poultry Processing,Closing
+23,Tyson Foods,Dexter,10/13/2023,683.0,Poultry Processing,Closing
+24,South City Hospital,St. Louis (city),08/03/2023,563.0,Healthcare,Closing
+25,Divvy Homes,,11/07/2023,1.0,Real Estate,Company Restructure
+26,Soft Surroundings,St. Louis (city),11/18/2023,181.0,Clothing Distribution,Closing
+27,First Savings Bank,Liberty,11/30/2023,1.0,Financial Services,Layoff
+28,"Propak Logistics, LLC",Jackson,12/08/2023,93.0,Warehouse Logistics,Closing
+29,CareFusion Corporation,St. Louis (city),12/18/2023,148.0,Surgical/Medical Instrument Manufacturing,Layoff
+30,"Nestle Regional GLOBE Office North America, INC (NRGONA)",St. Louis (city),03/18/2022,138.0,Manufacturing,Layoff
+31,"Premier Glass USA, LLC",Park Hills,03/31/2022,243.0,Manufacturing,Closing
+32,Noble Health - Callaway Community Hospital,Fulton,04/01/2022,68.0,Healthcare,Furlough
+33,Noble Health - Audrain Community Hospital,Mexico,04/01/2022,113.0,Healthcare,Furlough
+34,StarTek,Farmington,05/29/2022,472.0,Call Center,Layoff
+35,Pretium Packaging LLC,Hermann,05/20/2022,73.0,Manufacturing,Closing
+36,Amentum PAE NBC,Lee’s Summit,08/13/2022,537.0,Business Services,Loss of Contract
+37,CDI Head Start,Clinton,09/30/2022,66.0,Education,Loss of Contract
+38,Allied Healthcare Products,St. Louis (city),02/21/2023 07/08/2023,160.0,Manufacturing,Closing
+39,HMS Host - Kansas City,Kansas City,02/27/2023,170.0,Food Service,Loss of Contract
+40,Wyndham Vacation Ownership,Branson,01/08/2021,12.0,Travel - Vacation Rental,Layoff
+41,ABM Aviation,St. Louis (city),02/28/2021,85.0,,Layoff
+42,American Airlines,St. Louis (city),04/01/2021,1173.0,Travel - Airline,Layoff
+43,Graham Packaging,North Kansas City,06/03/2021,67.0,Manufacturing,Layoff
+44,Great Circle,Webster Groves,05/01/2021,117.0,Residential Treatment,Layoff
+45,Pomeroy,,04/30/2021,16.0,,Closing
+46,National Express LLC DBA Durham School Services,Wright City,07/14/2021,47.0,Transportation,Layoff
+47,Pacific Architects and Engineers (PAE),Lee’s Summit,05/31/2021 11/30/2021,521.0,Government Services Contractor,Layoff
+48,"ABM Industry Groups, LLC WARN notice 04/2021",St. Louis (city),05/31/2021,100.0,Facilities Services/Janitorial,Layoff
+49,Ascension Technologies,St. Louis (city),08/08/2021,651.0,Healthcare IT Services,Layoff
+50,Masonite Corporation,Springfield,07/02/2021,63.0,Manufacturing,Layoff
+51,Associated Couriers,Hazelwood,07/09/2021,67.0,Delivery Services,Layoff
+52,Leadec Corp.,Wentzville,08/01/2021,146.0,Manufacturing Services Support,Layoff
+53,Adient,Riverside,02/05/2021,213.0,Automotive Manufacturing,Layoff
+54,"Yanfeng USA Automotive Trim Systems, Inc",Riverside,02/08/2021,427.0,Automotive Manufacturing,Layoff
+55,TIMET,Wentzville,09/14/2021,42.0,Metal Processing,Layoff
+56,Nesher Pharmaceutical,Maryland HeightsBridgeton,08/20/2021,111.0,Pharmaceutical Production,Layoff
+57,Rise Baking,Mexico,09/30/2021,124.0,Bakery,Layoff
+58,Ascension Technologies,St. Louis (city),11/19/2021,18.0,Healthcare Information Technology Services,Layoff
+59,PAE - Overland Park,"Overland Park, KS",11/30/2021,12.0,Government Contractor,Layoff
+60,Challenge Manufacturing Company,Bridgeton,12/01/2021,52.0,Automotive Manufacturing,Layoff
+61,American Botanicals,Eolia,01/05/2022,25.0,Nature and Organic Materials Manufacturing,Layoff
+62,Concentrix CVG Corporation (formerly Convergys),Arnold,04/04/2020,168.0,,Closing
+63,"FedEx Ground Package System, Inc. (Earth City)",Earth City,05/02/2020,125.0,,Closing
+64,Hy-Vee Fulfillment Center (Kansas City),Kansas City,05/06/2020,583.0,,Closing
+65,J W Aluminum Inc. (St. Louis),St. Louis (city),05/15/2020,185.0,,Closing
+66,"Major Custom Assemblies, Inc.",Hazelwood,03/13/2020,95.0,,Closing
+67,"Schmidt Restaurant Group LLC d/b/a Salt + Smoke (St. Louis - 75, University City - 84 & St. Charles - 59)",St. Louis (city)University CitySt. Charles,03/23/2020,218.0,,Layoff
+68,Lidia's Kansas City LLC,Kansas City,03/16/2020,94.0,,Layoff
+69,"Trans State Airlines, LLC",BridgetonHazelwoodSpringfield,04/02/2020,718.0,,Closing
+70,"Amcor Rigid Packaging USA, LLC",Hazelwood,07/17/2020,93.0,,Closing
+71,Aimbridge Hospitality - Hilton Branson Convention Center,Branson,03/20/2020,127.0,,Layoff
+72,Alamo Drafthouse Cinema - Springfield,Springfield,03/16/2020,207.0,,Layoff
+73,"TEI (STLH), LLC (Four Seasons Hotel St. Louis)",St. Louis (city),03/25/2020,368.0,,Layoff
+74,Schulte Companies and its affiliated companies including Schulte Hospitality Group,St. Louis (city),03/16/2020,229.0,,Layoff
+75,"PLE Enterprises, Inc d/b/a Rolling Hills Auto Plaza",St. Joseph,03/23/2020,52.0,,Layoff
+76,Crossroads Hotel - Kansas City (managed by Aparium Hospitality Services LTD,Kansas City,03/17/2020,173.0,,Layoff
+77,Adams Mark Hotel & Conference Center - Kansas City,Kansas City,03/17/2020,138.0,,Layoff
+78,"Alsco, Inc Linen & Uniform Rental Services - St. Louis",St. Louis (city),03/26/2020,39.0,,Layoff
+79,Spartan Light Metal Products - Mexico,Mexico,03/26/2020,332.0,,Layoff
+80,Spartan Light Metal Products - Hannibal,Hannibal,03/26/2020,72.0,,Layoff
+81,America's Auto Auction - Kansas City,Kansas City,03/17/2020,62.0,,Layoff
+82,Gaming Partners International,Blue Springs,05/26/2020,112.0,,Closing
+83,HGI - Mark Twain LLC,La Grange,04/01/2020 04/06/2020,139.0,,Layoff
+84,Paper Source - St. Louis,St. Louis (city),03/29/2020,13.0,,Layoff
+85,Paper Source - Kansas City,Kansas City,03/29/2020,9.0,,Layoff
+86,Robinson Construction,Bloomfield,03/27/2020,80.0,,Layoff
+87,HGI - St. Jo LLC (St. Jo Frontier Casino),St. Joseph,04/01/2020 04/06/2020,150.0,,Layoff
+88,Rembrandt Enterprises,Neosho,06/01/2020,52.0,,Closing
+89,Welk Resorts,Branson,03/20/0202,94.0,,Layoff
+90,Rawlings Group,Washington,03/27/2020,130.0,,Layoff
+91,"AutoAlert, LLC",Kansas City,03/26/2020,200.0,,Layoff
+92,Justin Brands Facilities,Cassville,04/01/2020,321.0,,Layoff
+93,Justin Retail,Monett,04/01/2020,14.0,,Layoff
+94,"Legget & Platt, Branch One",Carthage,04/03/2020,422.0,,Layoff
+95,Red Wing Shoe Company,Potosi,04/07/2020,198.0,,Layoff
+96,"Innkeeper Hospitality Services, LLC",St. Louis (city),03/20/2020,136.0,,Layoff
+97,Wellbridge Athletic Club & Spa,Clayton,03/22/2020,213.0,,Layoff
+98,"Hooters of America, LLC (multiple locations)",,03/20/2020,321.0,,Layoff
+99,Isle of Capri Casino Kansas City,Kansas City,04/11/2020,209.0,,Layoff
+100,"Isle of Capri Casino Boonville d/b/a IOC-Boonville, Inc",Boonville,04/11/2020,350.0,,Layoff
+101,Lumiere Place Casino and Hotels,St. Louis (city),04/11/2020,646.0,,Layoff
+102,"Caleres, Inc.",Clayton,03/28/2020,368.0,,Layoff
+103,SuitSupply St. Louis Inc.,St. Louis (city),03/29/2020,6.0,,Layoff
+104,Asbury Automotive Group - Audi Creve Coeur,St. Louis (city),04/03/2020,24.0,,Layoff
+105,Asbury Automotive Group - Landrover Jaguar Creve Coeur,Creve Coeur,04/03/2020,43.0,,Layoff
+106,Asbury Automotive Group - Mercedes Benz O'Fallon,O'Fallon,04/03/2020,11.0,,Layoff
+107,Asbury Automotive Group - Plaza BMW Creve Coeur,Creve Coeur,04/03/2020,39.0,,Layoff
+108,Asbury Automotive Group - Plaza Infiniti Creve Coeur,Creve Coeur,04/03/2020,20.0,,Layoff
+109,Asbury Automotive Group - Plaza Lexus Creve Coeur,Creve Coeur,04/03/2020,51.0,,Layoff
+110,Asbury Automotive Group - Mercedes Benz/Smart Creve Coeur,Creve Coeur,04/03/2020,54.0,,Layoff
+111,"Leonard’s Metal, Inc. d/b/a LMI Aerospace - Fountain Lakes",St. Charles,04/13/2020,140.0,,Layoff
+112,"Leonard’s Metal, Inc. d/b/a LMI Aerospace - Highway 94",St. Charles,04/13/2020,52.0,,Layoff
+113,"Ozark Mountain Technologies, LLC",Cuba,04/13/2020,87.0,,Layoff
+114,"Valent Aerostructures, LLC",Washington,04/13/2020,80.0,,Layoff
+115,Kansas City Area Transportation Authority,Kansas City,04/13/2020,11.0,,Layoff
+116,Frontenac Property Owner LLC d/b/a Hilton St. Louis Frontenac Hotel,Frontenac,04/13/2020,128.0,,Layoff
+117,"Silver Dollar City Theme Park, Silver Dollar City Campground, the Showboat Branson Belle, and White Water",Branson,04/20/2020,257.0,,Layoff
+118,Scholastic Book Fairs,Fenton,03/27/2020,111.0,,Layoff
+119,Marriott Kansas City Country Club Plaza,Kansas City,04/30/2020,114.0,,Layoff
+120,RR Donnelley,St. Louis (city),04/16/2020,72.0,,Closing
+121,"Avis Budget Car Rental, LLC and its subsidiaries",,03/02/2020,163.0,,Layoff
+122,Black Bear Diner - St. Charles,St. Charles,04/09/2020,38.0,,Layoff
+123,Black Bear Diner - Independence,Independence,04/09/2020,65.0,,Layoff
+124,"Guitar Center, Inc. (GTRC Services, Inc.)",Kansas City,04/10/2020,291.0,,Layoff
+125,"Pinnacle Healthcare System, Inc.",,04/10/2020,125.0,,Closing
+126,Recovery Management Corporation d/b/a Cargo Largo,Kansas City,04/10/2020,177.0,,Layoff
+127,"Dura Automotive Systems, LLC",Moberly,05/01/2020,72.0,,Layoff
+128,"Greater KC LINC, INC - Caring Community Before and After School Program",Kansas City,05/01/2020,471.0,,Layoff
+129,Leggett & Platt Automotive,Carthage,03/23/2020,215.0,,Layoff
+130,Visionworks,,04/04/2020,94.0,,Layoff
+131,"Dental Arts Laboratories, Inc.",St. Louis (city),04/09/2020,33.0,,Layoff
+132,Legget & Platt Wire Mill,Carthage,04/09/2020,83.0,,Layoff
+133,"Great Plains Specialty Finance, Inc.",,04/21/2020,12.0,,Layoff
+134,"EAN Services, LLC - St. Louis Contact Center d/b/a Enterprise",St. Louis (city),04/20/2020,820.0,,Layoff
+135,"OS Restaurant Services LLC (Blooming Brands, d/b/a: Bonefish, Carrabba’s, Flemings, & Outback)",,03/20/2020,935.0,,Layoff
+136,"C.R. Metal Products, Inc.",Creve Coeur,04/22/2020,106.0,,Layoff
+137,"EAN Services, LLC",,04/30/2020,59.0,,Layoff
+138,Enterprise Holdings - Contact Center,,04/30/2020,366.0,,Layoff
+139,Enterprise Holdings - Corporate,,04/30/2020,377.0,,Layoff
+140,Enterprise Transport - Various,,03/23/2020,447.0,,Layoff
+141,Enterprise Holdings-Enterprise Rent A Car - KC,Kansas City,04/03/2020,56.0,,Layoff
+142,Enterprise Holdings - National and Alamo Rent A Car,Kansas City,04/30/2020,84.0,,Layoff
+143,Atrium Hospitality: Chateau on the Lake Resort Spa & Convention Center,Branson,03/12/2020,115.0,,Layoff
+144,First Student - House Springs,House Springs,06/30/2020,127.0,,Layoff
+145,Cox Automotive - Bridgeton,Bridgeton,05/17/2020,141.0,,Layoff
+146,Cox Automotive - Kansas City,Kansas City,05/17/2020,174.0,,Layoff
+147,TriWest Healthcare Alliance,Kansas City,04/20/2020,191.0,,Layoff
+148,Atrium Hospitality - St. Charles Embassy Suites,St. Charles,03/12/2020,87.0,,Layoff
+149,Atrium Hospitality - Springfield University Plaza,Springfield,03/12/2020,112.0,,Layoff
+150,Leggett & Platt - Corporate Offices,Carthage,03/09/2020,200.0,,Layoff
+151,Atrium Hospitality - Jefferson City Capitol Plaza,Jefferson City,03/12/2020,108.0,,Layoff
+152,Atrium Hospitality - Kansas City Embassy Suites,Kansas City,03/12/2020,92.0,,Layoff
+153,Exide Technologies: Canon Hollow Facility,Forest City,08/21/2020,84.0,,Layoff
+154,Kellwood Apparel,Chesterfield,04/01/2020,2.0,,Layoff
+155,21c Museum Hotel,Kansas City,05/29/2020,18.0,,Layoff
+156,Ameristar Casino Resort Spa - St. Charles,St. Charles,07/01/2020,947.0,,Layoff
+157,Ameristar Casino Hotel - Kansas City,Kansas City,07/01/2020,578.0,,Layoff
+158,Mercy Hospital - Springfield,Springfield,07/01/2020,696.0,,Layoff
+159,Mercy Hospital - St. Louis,,07/01/2020,663.0,,Layoff
+160,Pacific Architects and Engineers (PAE),Lee’s Summit,11/29/2020,697.0,,Layoff
+161,"Merritt Hospitality, LLC - Hilton KC Airport",Kansas City,05/27/2020,86.0,,Layoff
+162,Piramal Glass USA Inc.,Park Hills,07/31/2020,165.0,,Layoff
+163,"LM Services Corporation d/b/a: Hilton Garden Inn-O'Fallon, Hilton Garden Inn-Chesterfield, Hilton Garden Inn-St. Louis Airport, Hilton St. Louis at the Ballpark, Holiday Inn Forest Park, Homewood Suites by Hilton-Maryland Heights, Embassy Suites by Hilton",,06/12/2020,1488.0,,Layoff
+164,Westin Crown Plaza Hotel Co. - Sheraton Kansas City Hotel at Crown Center & The Westin Kansas City at Crown Center,Kansas City,03/21/2020,435.0,,Layoff
+165,The Ritz Carlton,Clayton,03/21/2020,307.0,,Layoff
+166,Argosy Casino Hotel and Spa,Riverside,08/15/2020,354.0,,Layoff
+167,Marriott International Inc. d/b/a Marriott St. Louis Grand,Kansas City,03/21/2020,384.0,,Layoff
+168,Hyatt Corporation d/b/a Hyatt Regency St. Louis at the Arch,St. Louis (city),03/21/2020,245.0,,Layoff
+169,LMI Aerospace,St. Charles,06/22/2020,60.0,,Layoff
+170,"STL Gaming Ventures, LLC d/b/a Hollywood Casino St. Louis",Maryland Heights,08/12/2020,616.0,,Layoff
+171,PNK River City d/b/a River City Casino and Hotel,Lemay,08/15/2020,480.0,,Layoff
+172,"Kansas City Downtown Hotel Group, LLC - Marriott Downtown",Kansas City,03/20/0202,280.0,,Layoff
+173,"Jacobsen Daniels Enterprises, LLC",St. Louis (city),06/12/2020,1.0,,Layoff
+174,Cerner Corporation,,08/25/2020,94.0,,Layoff
+175,Enterprise Holdings - IT,,06/30/2020,23.0,,Layoff
+176,Levy,St. Louis (city),08/01/2020,210.0,,Layoff
+177,Towne Suites Hotel,Liberty,06/30/2020,10.0,,Layoff
+178,Hampton Inn Hotel - Kansas City,Kansas City,06/30/2020,14.0,,Layoff
+179,Hampton Inn Hotel - St. Louis,St. Louis (city),06/30/2020,24.0,,Layoff
+180,Hampton Inn Hotel - Forrest Park,St. Louis (city),06/30/2020,18.0,,Layoff
+181,"Delaware North, DBA: St. Louis Sportservice, Springfield Sportservice",,03/01/2020,1810.0,,Layoff
+182,Compass Group,Kansas City,07/15/2020,67.0,,Layoff
+183,"J. C. Penney Corporation, Inc.",Independence,10/18/2020,69.0,,Layoff
+184,Northrop Grumman,Independence,09/30/2020,1700.0,,Layoff
+185,Heartland Poker Tour,St. Louis (city),09/20/2020,3.0,,Layoff
+186,American Queen Steamboat Company,St. Louis (city),09/24/2020,250.0,,Layoff
+187,"Carlson Wagonlit Travel Agency, LLC",Maryland Heights,04/01/2020,58.0,,Layoff
+188,Embassy Suites by Hilton - St. Louis,St. Louis (city),03/20/2020,31.0,,Layoff
+189,GoJet Airlines,Bridgeton,10/01/2020,525.0,,Layoff
+190,Republic Airways,Kansas City,10/01/2020,104.0,,Layoff
+191,Wyndham Vacation Ownership,Branson,04/01/2020,191.0,,Layoff
+192,Remington Outdoor Company,Lexington,09/29/2020,64.0,,Closing
+193,"XPO Logistics Supply Chain, Inc.",Independence,09/30/2020,70.0,,Layoff
+194,Embassy Suites by Hilton - Kansas City,Kansas City,03/18/2020,40.0,,Layoff
+195,Lozier Corporation,Joplin,10/06/2020,127.0,,Layoff
+196,HMSHost - Kansas City,Kansas City,10/15/2020,229.0,,Layoff
+197,Maritz,Fenton,04/16/2020,631.0,,Layoff
+198,HMSHost - St. Louis,Bridgeton,10/15/2020,353.0,,Layoff
+199,Aramark,Florissant,09/30/2020,81.0,,Layoff
+200,Mountain View Fabricators/Royal/Coin Acceptors d/b/a Royal Remanufacturing,Mountain View,06/10/2020,120.0,,Layoff
+201,Alamo Drafthouse Cinema - Kansas City,Kansas City,03/17/2020,75.0,,Layoff
+202,"Avis Budget Car Rental, LLC",,04/01/2020,7.0,,Layoff
+203,InterContinental Kansas City at the Plaza,Kansas City,08/29/2020,114.0,,Layoff
+204,Airport Management Services/Hudson Group,St. Louis (city),07/31/2020,84.0,,Layoff
+205,Chase Park Plaza Royal Sonesta Hotel,St. Louis (city),11/10/2020,208.0,,Layoff
+206,PF Chang's China Bistro - Chesterfield,Chesterfield,03/15/2020,75.0,,Layoff
+207,PF Chang's China Bistro - St. Charles,St. Charles,03/15/2020,75.0,,Layoff
+208,PF Chang's China Bistro - Kansas City,Kansas City,03/15/2020,75.0,,Layoff
+209,Kindred Healthcare,St. Louis (city),12/20/2020,60.0,,Layoff
+210,Missouri Walnut,Neosho,12/15/2020,60.0,,Layoff
+211,Aramark-Convention Center,Kansas City,10/16/2020,57.0,,Layoff
+212,Aramark-Kauffman Stadium,Kansas City,10/16/2020,523.0,,Layoff
+213,The Fontaine Hotel,Kansas City,06/05/2020,63.0,,Layoff
+214,Aimbridge Hospitality (Hilton Branson Convention Center Hotel),Branson,12/30/2020,102.0,,Layoff
+215,Sodexo - University of Missouri Kansas City,Kansas City,03/01/2020,71.0,,Layoff
+216,"The McClatchy Company, LLC (Kansas City Star)",Kansas City,01/16/2021,124.0,,Layoff
+217,Meridian Medical Technologies,St. Louis (city),11/13/2020,63.0,,Layoff
+218,State Farm Mutual Automobile Insurance Company,Earth City,01/31/2021,111.0,,Layoff
+219,Automobile Club of Missouri,Hazelwood,02/05/2021,95.0,,Layoff
+220,Anesthesia Associates of Kansas City,Kansas City,01/31/2021,68.0,,Layoff
+221,"Southwest Airlines, Co.",,01/11/2021,0.0,,Layoff
+222,Journagan Construction,Springfield,03/05/2021,121.0,,Layoff
+223,CEVA Logistics,Liberty,02/28/2021,63.0,,Layoff
+224,Beauty Brands,Kansas City,01/18/2019,81.0,,Closing
+225,DB Schenker,St. Peters,03/10/2019,144.0,,Closing
+226,"Durham Schools Services, L.P.",Florissant,06/30/2019,254.0,,Closing
+227,"TreeHouse Foods, Inc & its subsidiaries Bay Valley Foods LLC & TreeHouse Private Brands",St. Louis (city),06/28/2019,131.0,,Closing
+228,Spectrum Pharmaceuticals,,04/12/2019,5.0,,Closing
+229,"Receivable Solutions, Inc. (RSi)",Town & Country,03/29/2019,50.0,,Closing
+230,Crane Freight and Cartage,Kansas City,05/30/2019,28.0,,Closing
+231,"The Results Companies, LLC",Kansas City,05/03/2019,82.0,,Closing
+232,"CVS Health subsidiary companies Aetna Resources LLC and CVS Pharmacy, Inc.",Kansas City,05/20/2019,138.0,,Closing
+233,"PepsiCo, Inc. (Kansas City)",Kansas City,05/17/2019,57.0,,Closing
+234,"Laird Technologies, Inc.",Chesterfield,06/14/2019,5.0,,Closing
+235,"Aramark Services Inc. and Aramark Sports and Entertainment Services, LLC (St. Louis)",St. Louis (city),06/30/2019,95.0,,Closing
+236,First Student Inc. (Kansas City),Kansas City,06/30/2019,293.0,,Closing
+237,Parker Hannifin Hose Products Division (Kennett),Kennett,09/30/2019,92.0,,Closing
+238,Pioneer Services,Kansas City,09/01/2019,89.0,,Closing
+239,Sheraton Clayton Plaza Hotel St. Louis,Clayton,10/01/2019 10/14/2019,82.0,,Layoff
+240,Silgan Containers Manufacturing Corporation,Mount Vernon,10/04/2019,20.0,,Closing
+241,"Nestle USA, Inc. & Nestle Dreyers Ice Cream Company",Earth City,12/31/2019,56.0,,Closing
+242,"Sodexo, Inc., and Affiliates (Kansas City - Children's Mercy Hospital)",Kansas City,11/08/2019,96.0,,Closing
+243,Cerner Corporation,,12/13/2019,154.0,,Closing
+244,Haldex Brake Products Corporation,Blue Springs,12/13/2019,154.0,,Closing
+245,Union Pacific Neff Diesel Locomotive Shop,Kansas City,12/17/2019,89.0,,Closing
+246,Thrift Books,Maryland Heights,11/01/2019,65.0,,Closing
+247,"Cowley Distributing, Inc. (Cape Girardeau, Jefferson City, Maryland Heights, Springfield)",,12/31/2019,115.0,,Closing
+248,Regal Beloit America Inc.,West Plains,05/21/2020,204.0,,Closing
+249,"ExlService.com, LLC",Lee’s Summit,01/31/2020,82.0,,Closing

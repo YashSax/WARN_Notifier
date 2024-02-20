@@ -1,0 +1,414 @@
+,company_name,location,notice_date,employees_affected,URL
+0,Yellow Corporation,Phoenix,"Aug 01, 2023",0.0,https://www.azjobconnection.gov/search/warn_lookups/723
+1,OLDE TOWN GRILL,Winslow,"Aug 04, 2023",18.0,https://www.azjobconnection.gov/search/warn_lookups/724
+2,"LECLERC FOODS NUTRITION ARIZONA, LLC",Phoenix,"Oct 04, 2023",93.0,https://www.azjobconnection.gov/search/warn_lookups/742
+3,Centerra,Multiple,"Aug 11, 2023",,https://www.azjobconnection.gov/search/warn_lookups/725
+4,Mediterra Bakery,Coolidge,"Aug 17, 2023",20.0,https://www.azjobconnection.gov/search/warn_lookups/726
+5,"ImmunityBio, Inc.",El Segundo,"Aug 21, 2023",1.0,https://www.azjobconnection.gov/search/warn_lookups/729
+6,Nature's Medicines,Show Low,"Aug 08, 2023",18.0,https://www.azjobconnection.gov/search/warn_lookups/728
+7,Transdev Services,Tempe,"Oct 20, 2023",829.0,https://www.azjobconnection.gov/search/warn_lookups/744
+8,La Fonda Restaurant,Yuma,"Oct 23, 2023",20.0,https://www.azjobconnection.gov/search/warn_lookups/745
+9,"COR Restaurant Services, LLC",Surprise,"Feb 02, 2023",130.0,https://www.azjobconnection.gov/search/warn_lookups/687
+10,ttec,Phoenix,"Jan 09, 2023",,https://www.azjobconnection.gov/search/warn_lookups/680
+11,"Cygnus Home Service, LLC",Minneapolis,"Oct 25, 2023",,https://www.azjobconnection.gov/search/warn_lookups/746
+12,S & A Industries,Yuma,"Mar 24, 2023",6.0,https://www.azjobconnection.gov/search/warn_lookups/698
+13,"Monitronics International, Inc., d/b/a Brinks Home",Dallas,"Jan 05, 2023",81.0,https://www.azjobconnection.gov/search/warn_lookups/678
+14,"Aspiration Partners, Inc.",Marina Del Rey,"Mar 24, 2023",3.0,https://www.azjobconnection.gov/search/warn_lookups/699
+15,eegee's LLC Commissary Department,Tucson,"Apr 19, 2023",44.0,https://www.azjobconnection.gov/search/warn_lookups/705
+16,"Progrexion Teleservices, Inc.",Phoenix,"Apr 28, 2023",203.0,https://www.azjobconnection.gov/search/warn_lookups/706
+17,Norton Environmental Inc.,Flagstaff,"May 01, 2023",9.0,https://www.azjobconnection.gov/search/warn_lookups/708
+18,Tuesday Morning,Flagstaff,"May 02, 2023",13.0,https://www.azjobconnection.gov/search/warn_lookups/709
+19,General Motors LLC facility (Arizona IT Innovation Center),Chandler,"Aug 23, 2023",936.0,https://www.azjobconnection.gov/search/warn_lookups/730
+20,CVS Health,Scottsdale,"Aug 18, 2023",134.0,https://www.azjobconnection.gov/search/warn_lookups/727
+21,North American Savings Bank,Kansas City,"Jan 05, 2023",10.0,https://www.azjobconnection.gov/search/warn_lookups/679
+22,McKesson Corporation,Scottsdale,"Mar 29, 2023",252.0,https://www.azjobconnection.gov/search/warn_lookups/700
+23,Honeywell,Phoenix,"Mar 31, 2023",6.0,https://www.azjobconnection.gov/search/warn_lookups/703
+24,"KeHE Distributors, INC",Naperville,"Aug 23, 2023",,https://www.azjobconnection.gov/search/warn_lookups/731
+25,"Lucid USA, Inc.",Casa Grande,"Mar 31, 2023",968.0,https://www.azjobconnection.gov/search/warn_lookups/702
+26,Michael Foods,Yuma,"Apr 04, 2023",20.0,https://www.azjobconnection.gov/search/warn_lookups/704
+27,Sion Power Corporation,Tucson,"Mar 30, 2023",14.0,https://www.azjobconnection.gov/search/warn_lookups/701
+28,"Specialized Bicycle Components, Inc.",Morgan Hill,"Jan 11, 2023",1.0,https://www.azjobconnection.gov/search/warn_lookups/681
+29,State Farm Mutual Automobile Insurance Company,Tempe,"Jan 24, 2023",186.0,https://www.azjobconnection.gov/search/warn_lookups/682
+30,The CLUB for YOUth,Kingman,"May 01, 2023",12.0,https://www.azjobconnection.gov/search/warn_lookups/707
+31,Solari Crisis and Human Services,Tempe,"Jan 27, 2023",27.0,https://www.azjobconnection.gov/search/warn_lookups/684
+32,ttec,Tempe,"Jan 30, 2023",308.0,https://www.azjobconnection.gov/search/warn_lookups/685
+33,NextCare Urgent Care,Yuma,"Feb 01, 2023",12.0,https://www.azjobconnection.gov/search/warn_lookups/686
+34,"UPS Supply Chain Solutions, Inc.",Goodyear,"Feb 02, 2023",98.0,https://www.azjobconnection.gov/search/warn_lookups/688
+35,"Vitacost, Inc.",Tempe,"Feb 06, 2023",57.0,https://www.azjobconnection.gov/search/warn_lookups/689
+36,"Critical Ideas, Inc. dba Chipper Cash",San Francisco,"Feb 16, 2023",,https://www.azjobconnection.gov/search/warn_lookups/690
+37,Cardinal Glass,Casa Grande,"Feb 14, 2023",10.0,https://www.azjobconnection.gov/search/warn_lookups/691
+38,Divvy Homes Inc.,San Francisco,"Sep 08, 2023",2.0,https://www.azjobconnection.gov/search/warn_lookups/735
+39,"Microtech Southwest, Inc./ Westfall Technik, Inc.",Las Vegas,"Feb 23, 2023",60.0,https://www.azjobconnection.gov/search/warn_lookups/692
+40,"Integrity Molds, Inc./ Westfall Technik, Inc.",Las Vegas,"Feb 23, 2023",,https://www.azjobconnection.gov/search/warn_lookups/693
+41,"RPM Logistics, LLC",Phoenix,"Feb 27, 2023",,https://www.azjobconnection.gov/search/warn_lookups/694
+42,TaskUs,Chandler,"Mar 01, 2023",91.0,https://www.azjobconnection.gov/search/warn_lookups/695
+43,Mural Consulting Corporation,Tucson,"Mar 02, 2023",100.0,https://www.azjobconnection.gov/search/warn_lookups/696
+44,Yuma Hospitality LLC DBA Rivers Edge Assisted Living,Yuma,"Mar 13, 2023",30.0,https://www.azjobconnection.gov/search/warn_lookups/697
+45,Flex LTD,Tempe,"Aug 29, 2023",50.0,https://www.azjobconnection.gov/search/warn_lookups/733
+46,"TuSimple, Inc.",Tucson,"May 22, 2023",108.0,https://www.azjobconnection.gov/search/warn_lookups/710
+47,Dole Fresh Vegetables Inc.,Yuma,"Aug 30, 2023",64.0,https://www.azjobconnection.gov/search/warn_lookups/734
+48,"Ipro Tech, LLC",Scottsdale,"Aug 29, 2023",,https://www.azjobconnection.gov/search/warn_lookups/732
+49,OnPoint Laboratories LLC,Snowflake,"Sep 12, 2023",5.0,https://www.azjobconnection.gov/search/warn_lookups/736
+50,Sky High Crane & Rigging Inc,Lake Havasu City,"May 24, 2023",5.0,https://www.azjobconnection.gov/search/warn_lookups/711
+51,YMCA - Yuma,Yuma,"Jun 12, 2023",29.0,https://www.azjobconnection.gov/search/warn_lookups/712
+52,"Thriveworks Administrative Services, LLC",Phoenix,"Sep 15, 2023",78.0,https://www.azjobconnection.gov/search/warn_lookups/737
+53,Levy Premium Foodservice Limited Partnership,Chicago,"Jun 26, 2023",335.0,https://www.azjobconnection.gov/search/warn_lookups/713
+54,Sunrun (Broadway Rd.  Phoenix),Phoenix,"Jun 30, 2023",,https://www.azjobconnection.gov/search/warn_lookups/714
+55,Sunrun (Mesa),Mesa,"Jun 30, 2023",80.0,https://www.azjobconnection.gov/search/warn_lookups/715
+56,Sunrun (19th Ave. Phoenix),Phoenix,"Jun 30, 2023",75.0,https://www.azjobconnection.gov/search/warn_lookups/716
+57,Sunrun (Sweetwater Ave. Phoenix),Phoenix,"Jun 30, 2023",117.0,https://www.azjobconnection.gov/search/warn_lookups/717
+58,"PBS West, LLC",Reno,"Jul 07, 2023",,https://www.azjobconnection.gov/search/warn_lookups/718
+59,Owens Corning,Eloy,"Jul 19, 2023",63.0,https://www.azjobconnection.gov/search/warn_lookups/720
+60,BMO Harris Bank N.A.,Tempe,"Jul 10, 2023",81.0,https://www.azjobconnection.gov/search/warn_lookups/719
+61,TransDev Services (Valley Metro Phoenix Paratransit 549),Phoenix,"Jul 25, 2023",135.0,https://www.azjobconnection.gov/search/warn_lookups/721
+62,TD SYNNEX,Chandler,"Sep 18, 2023",,https://www.azjobconnection.gov/search/warn_lookups/738
+63,Bank of the West - BMO Bank,Tempe,"Sep 19, 2023",112.0,https://www.azjobconnection.gov/search/warn_lookups/740
+64,Novemball USA Inc,Peoria,"Jul 28, 2023",100.0,https://www.azjobconnection.gov/search/warn_lookups/722
+65,Shaw Industries Group Inc.,Dalton,"Sep 19, 2023",250.0,https://www.azjobconnection.gov/search/warn_lookups/739
+66,First Savings Bank,Jeffersonville,"Sep 29, 2023",,https://www.azjobconnection.gov/search/warn_lookups/741
+67,Hyatt Corporation,Scottsdale,"Jan 13, 2022",152.0,https://www.azjobconnection.gov/search/warn_lookups/652
+68,Bed Bath Beyond California Limited,Yuma,"Jan 26, 2022",17.0,https://www.azjobconnection.gov/search/warn_lookups/653
+69,Peloton,New York,"Feb 08, 2022",52.0,https://www.azjobconnection.gov/search/warn_lookups/655
+70,Habitat for Humanity - ReStore,Yuma,"Feb 28, 2022",3.0,https://www.azjobconnection.gov/search/warn_lookups/656
+71,Jordan Manufacturing,Yuma,"Jun 14, 2022",33.0,https://www.azjobconnection.gov/search/warn_lookups/657
+72,Honeywell Chandler,Chandler,"May 13, 2022",40.0,https://www.azjobconnection.gov/search/warn_lookups/658
+73,Kirkland's Home,Yuma,"Jun 22, 2022",6.0,https://www.azjobconnection.gov/search/warn_lookups/660
+74,Hunter Douglas,Phoenix,"Feb 03, 2022",111.0,https://www.azjobconnection.gov/search/warn_lookups/654
+75,Home Point Financial Corporation d/b/a Homepoint,Chandler,"Nov 17, 2022",,https://www.azjobconnection.gov/search/warn_lookups/673
+76,Santa Cruz Valley Regional Hospital (SCVRH),Green Valley,"Jun 20, 2022",315.0,https://www.azjobconnection.gov/search/warn_lookups/661
+77,Ross Innovative Employment Solutions Corp.,Yuma,"Jun 28, 2022",1.0,https://www.azjobconnection.gov/search/warn_lookups/663
+78,Factory 2U (Fallas Paredes),San Luis,"Jun 30, 2022",9.0,https://www.azjobconnection.gov/search/warn_lookups/664
+79,"AMMA Investment Group, LLC",Amado,"Aug 18, 2022",103.0,https://www.azjobconnection.gov/search/warn_lookups/670
+80,Community Health Associates,Yuma,"Dec 19, 2022",11.0,https://www.azjobconnection.gov/search/warn_lookups/676
+81,Davis Custom Welding & Steel Supply,Yuma,"Aug 01, 2022",5.0,https://www.azjobconnection.gov/search/warn_lookups/666
+82,"Robinhood Markets, Inc",Tempe,"Aug 03, 2022",,https://www.azjobconnection.gov/search/warn_lookups/667
+83,eegee’s LLC,Tucson,"Aug 09, 2022",23.0,https://www.azjobconnection.gov/search/warn_lookups/668
+84,Ball Corp.,Phoenix,"Aug 03, 2022",120.0,https://www.azjobconnection.gov/search/warn_lookups/669
+85,"Holsum Bakery, Inc.",Phoenix,"Sep 01, 2022",213.0,https://www.azjobconnection.gov/search/warn_lookups/672
+86,Home Point Financial Corporation d/b/a Homepoint,Chandler,"Sep 01, 2022",113.0,https://www.azjobconnection.gov/search/warn_lookups/671
+87,Honeywell Phoenix (Buckeye),Phoenix,"Jul 14, 2022",133.0,https://www.azjobconnection.gov/search/warn_lookups/665
+88,Cardenas Markets LLC,Tucson,"Dec 16, 2022",63.0,https://www.azjobconnection.gov/search/warn_lookups/675
+89,"Freshly, LLC.",Phoenix,"Dec 05, 2022",500.0,https://www.azjobconnection.gov/search/warn_lookups/674
+90,"NE AZ LWDB Show Low, AZ: Native Wings Complex Fire",Show Low,"Feb 04, 2022",60.0,https://www.azjobconnection.gov/search/warn_lookups/659
+91,"TuSimple, Inc.",Tucson,"Dec 22, 2022",135.0,https://www.azjobconnection.gov/search/warn_lookups/677
+92,Bed Bath & Beyond,Tucson,"Sep 22, 2022",120.0,https://www.azjobconnection.gov/search/warn_lookups/683
+93,EQUUS Workforce Solutions,Yuma,"Jun 27, 2022",4.0,https://www.azjobconnection.gov/search/warn_lookups/662
+94,XPO Logistics,Phoenix,"Jan 29, 2021",85.0,https://www.azjobconnection.gov/search/warn_lookups/635
+95,XPO Logistics,Phoenix,"Jan 29, 2021",85.0,https://www.azjobconnection.gov/search/warn_lookups/636
+96,AeroGuard,,"Feb 12, 2021",92.0,https://www.azjobconnection.gov/search/warn_lookups/637
+97,Collins Aerospace,Phoenix,"Mar 15, 2021",95.0,https://www.azjobconnection.gov/search/warn_lookups/638
+98,Chapel Haven Schleifer Center,Tucson,"Mar 12, 2021",,https://www.azjobconnection.gov/search/warn_lookups/639
+99,SPS N95 Manufacturing,Phoenix,"May 26, 2021",727.0,https://www.azjobconnection.gov/search/warn_lookups/640
+100,Farmers Investment Co / The Green Valley Pecan Company,Sahuarita,"Sep 24, 2021",137.0,https://www.azjobconnection.gov/search/warn_lookups/645
+101,"Toca Madera Management LLC dba/aka The Madera Group, LLC",Scottsdale,"Sep 09, 2021",153.0,https://www.azjobconnection.gov/search/warn_lookups/646
+102,National Education Partners,Scottsdale,"Nov 04, 2021",423.0,https://www.azjobconnection.gov/search/warn_lookups/648
+103,Katerra Inc.,Scottsdale,"Jun 01, 2021",251.0,https://www.azjobconnection.gov/search/warn_lookups/641
+104,"Central Freight Lines, Inc.",Phoenix,"Dec 14, 2021",100.0,https://www.azjobconnection.gov/search/warn_lookups/649
+105,"Monitronics International, Inc. d/b/a Brinks Home",Phoenix,"Dec 17, 2021",,https://www.azjobconnection.gov/search/warn_lookups/650
+106,EQUUS Workforce Solutions,Yuma,"Jun 02, 2021",9.0,https://www.azjobconnection.gov/search/warn_lookups/643
+107,Ironwood Assisted Living,Yuma,"Jun 02, 2021",10.0,https://www.azjobconnection.gov/search/warn_lookups/642
+108,Honeywell,Chandler,"Nov 17, 2021",81.0,https://www.azjobconnection.gov/search/warn_lookups/651
+109,"Centurion Detention Health Services, LLC",Tucson,"Aug 17, 2021",,https://www.azjobconnection.gov/search/warn_lookups/644
+110,"ZILLOW GROUP, Inc.",Scottsdale,"Nov 04, 2021",61.0,https://www.azjobconnection.gov/search/warn_lookups/647
+111,Grand Canyon Scenic Airlines,Grand Canyon,"Sep 03, 2020",105.0,https://www.azjobconnection.gov/search/warn_lookups/621
+112,Sam Levits,,"Mar 25, 2020",628.0,https://www.azjobconnection.gov/search/warn_lookups/427
+113,Onni Properties,,"Mar 25, 2020",240.0,https://www.azjobconnection.gov/search/warn_lookups/425
+114,Go Rentals,Phoenix,"Mar 23, 2020",275.0,https://www.azjobconnection.gov/search/warn_lookups/416
+115,Passport Health,Scottsdale,"Mar 23, 2020",65.0,https://www.azjobconnection.gov/search/warn_lookups/417
+116,CMA CGM (America) LLC,Scottsdale,"Jan 03, 2020",100.0,https://www.azjobconnection.gov/search/warn_lookups/394
+117,"Macy's Credit and Customer Services, Inc.",Tempe,"Jan 06, 2020",843.0,https://www.azjobconnection.gov/search/warn_lookups/395
+118,Constant Aviation,Mesa,"Jan 10, 2020",50.0,https://www.azjobconnection.gov/search/warn_lookups/396
+119,Denny's (Beshay Enterprises),Casa Grande,"Mar 23, 2020",63.0,https://www.azjobconnection.gov/search/warn_lookups/418
+120,MAPFRE Insurance - Enterprise Contact Center,Gilbert,"Jan 13, 2020",68.0,https://www.azjobconnection.gov/search/warn_lookups/397
+121,TMI Acquisitions LLC,Tucson,"Jan 10, 2020",,https://www.azjobconnection.gov/search/warn_lookups/398
+122,Aecom,Glendale,"Jan 17, 2020",62.0,https://www.azjobconnection.gov/search/warn_lookups/399
+123,Dyncorp,Tuscon,"Jan 15, 2020",200.0,https://www.azjobconnection.gov/search/warn_lookups/400
+124,Bella Fresh,Phoenix,"Feb 05, 2020",125.0,https://www.azjobconnection.gov/search/warn_lookups/402
+125,Transportation Brokerage Specialists Inc (TBS),Chandler,"Feb 20, 2020",110.0,https://www.azjobconnection.gov/search/warn_lookups/403
+126,Transportation Brokerage Specialists Inc (TBS),Phoenix,"Feb 20, 2020",110.0,https://www.azjobconnection.gov/search/warn_lookups/404
+127,HotChalk,Phoenix,"Feb 25, 2020",75.0,https://www.azjobconnection.gov/search/warn_lookups/405
+128,Northrop Grumman,Sierra Vista,"Mar 09, 2020",,https://www.azjobconnection.gov/search/warn_lookups/406
+129,Dani Dental Studio,Tempe,"Mar 25, 2020",80.0,https://www.azjobconnection.gov/search/warn_lookups/426
+130,Amentum,Yuma,"Mar 13, 2020",62.0,https://www.azjobconnection.gov/search/warn_lookups/407
+131,Enclos,Phoenix,"Mar 16, 2020",25.0,https://www.azjobconnection.gov/search/warn_lookups/408
+132,Embassy Suites Tempe,Tempe,"Mar 18, 2020",47.0,https://www.azjobconnection.gov/search/warn_lookups/409
+133,Roadhouse cinemas,Tucson,"Mar 18, 2020",109.0,https://www.azjobconnection.gov/search/warn_lookups/410
+134,Pima Valve,Chandler,"Mar 18, 2020",,https://www.azjobconnection.gov/search/warn_lookups/411
+135,Punch Bowl social,Phoenix,"Mar 18, 2020",123.0,https://www.azjobconnection.gov/search/warn_lookups/412
+136,KDC Construction,Tempe,"Mar 20, 2020",20.0,https://www.azjobconnection.gov/search/warn_lookups/413
+137,Ares Collective Restaurants,Tucson,"Mar 23, 2020",180.0,https://www.azjobconnection.gov/search/warn_lookups/414
+138,Four Seasons Resort,Scottsdale,"Mar 20, 2020",422.0,https://www.azjobconnection.gov/search/warn_lookups/415
+139,Islands Restaurants,Phoenix,"Mar 23, 2020",250.0,https://www.azjobconnection.gov/search/warn_lookups/419
+140,Sub-Zero Group Inc,Goodyear,"Mar 20, 2020",446.0,https://www.azjobconnection.gov/search/warn_lookups/420
+141,International Cruise & Excursion Gallery,Scottsdale,"Mar 24, 2020",203.0,https://www.azjobconnection.gov/search/warn_lookups/421
+142,"Cameron Mitchell Restaurants, LLC",Phoenix,"Mar 24, 2020",75.0,https://www.azjobconnection.gov/search/warn_lookups/422
+143,Movement for Life Inc.,Multiple,"Mar 25, 2020",,https://www.azjobconnection.gov/search/warn_lookups/423
+144,Surprise Honda,,"Mar 25, 2020",16.0,https://www.azjobconnection.gov/search/warn_lookups/424
+145,Denny's (Beshay Enterprises),Phoenix,"Mar 23, 2020",66.0,https://www.azjobconnection.gov/search/warn_lookups/428
+146,Denny's (Beshay Enterprises),Phoenix,"Mar 23, 2020",65.0,https://www.azjobconnection.gov/search/warn_lookups/429
+147,Denny's (Beshay Enterprises),Glendale,"Mar 23, 2020",49.0,https://www.azjobconnection.gov/search/warn_lookups/430
+148,Denny's (Beshay Enterprises),Thatcher,"Mar 23, 2020",62.0,https://www.azjobconnection.gov/search/warn_lookups/431
+149,Denny's (Beshay Enterprises),Eloy,"Mar 23, 2020",54.0,https://www.azjobconnection.gov/search/warn_lookups/432
+150,Best Western Hotels & Resorts,,"Mar 25, 2020",31.0,https://www.azjobconnection.gov/search/warn_lookups/433
+151,Phoenix Glendale Renaissance,Glendale,"Mar 26, 2020",140.0,https://www.azjobconnection.gov/search/warn_lookups/435
+152,Tucson Marriott University park,Tucson,"Mar 26, 2020",86.0,https://www.azjobconnection.gov/search/warn_lookups/436
+153,Drive Time,Phoenix,"Mar 27, 2020",,https://www.azjobconnection.gov/search/warn_lookups/437
+154,Surprise Honda,Surprise,"Mar 24, 2020",16.0,https://www.azjobconnection.gov/search/warn_lookups/438
+155,Tanque Verde Ranch,,"Mar 27, 2020",147.0,https://www.azjobconnection.gov/search/warn_lookups/439
+156,piana Nonwovens,Yuma,"Mar 31, 2020",7.0,https://www.azjobconnection.gov/search/warn_lookups/440
+157,Holiday Inn Hotels,Yuma,"Mar 31, 2020",,https://www.azjobconnection.gov/search/warn_lookups/441
+158,McCormick Scottsdale,Scottsdale,"Mar 30, 2020",65.0,https://www.azjobconnection.gov/search/warn_lookups/442
+159,King's Seafood Company LLC,Tempe,"Mar 24, 2020",50.0,https://www.azjobconnection.gov/search/warn_lookups/443
+160,Saddle Ranch Chop House,Glendale,"Mar 27, 2020",84.0,https://www.azjobconnection.gov/search/warn_lookups/444
+161,TENET Healthcare Corp.,Phoenix,"Mar 04, 2019",1.0,https://www.azjobconnection.gov/search/warn_lookups/277
+162,Conifer Health Solutions,Phoenix,"Feb 28, 2019",2.0,https://www.azjobconnection.gov/search/warn_lookups/290
+163,Alorica,Tucson,"Jan 25, 2019",227.0,https://www.azjobconnection.gov/search/warn_lookups/314
+164,Hot Rods & Beer,Yuma,"Jan 01, 2019",15.0,https://www.azjobconnection.gov/search/warn_lookups/330
+165,Concentrix Corporation,Tucson,"Apr 05, 2019",785.0,https://www.azjobconnection.gov/search/warn_lookups/319
+166,Safeway #1985,Tucson,"Jan 04, 2019",,https://www.azjobconnection.gov/search/warn_lookups/322
+167,Invitation Homes,Scottsdale,"Jan 16, 2019",51.0,https://www.azjobconnection.gov/search/warn_lookups/324
+168,Sodexo,Phoenix,"Jan 18, 2019",49.0,https://www.azjobconnection.gov/search/warn_lookups/325
+169,Tesla,Phoenix,"Jan 29, 2019",58.0,https://www.azjobconnection.gov/search/warn_lookups/326
+170,Web.com group Inc,Scottsdale,"Feb 01, 2019",11.0,https://www.azjobconnection.gov/search/warn_lookups/327
+171,Combat Tactical Training Range,,"Feb 07, 2019",52.0,https://www.azjobconnection.gov/search/warn_lookups/328
+172,Convey Health Solutions,Yuma,"Jan 01, 2019",100.0,https://www.azjobconnection.gov/search/warn_lookups/331
+173,Western Refining,Tempe,"Apr 10, 2019",37.0,https://www.azjobconnection.gov/search/warn_lookups/333
+174,Systems Solutions of Kentucky,,"Feb 19, 2019",,https://www.azjobconnection.gov/search/warn_lookups/334
+175,Valassis,Phoenix,"Oct 23, 2019",92.0,https://www.azjobconnection.gov/search/warn_lookups/374
+176,General Dynamics Information Technology,Sierra Vista,"Feb 26, 2019",201.0,https://www.azjobconnection.gov/search/warn_lookups/337
+177,Target Corporation,Tucson,"Mar 01, 2019",113.0,https://www.azjobconnection.gov/search/warn_lookups/339
+178,Spectrum Pharmaceuticals,Henderson,"Mar 01, 2019",,https://www.azjobconnection.gov/search/warn_lookups/340
+179,Family dry Cleaners,,"Feb 01, 2019",40.0,https://www.azjobconnection.gov/search/warn_lookups/341
+180,DialAmerica Marketing,Phoenix,"Mar 04, 2019",182.0,https://www.azjobconnection.gov/search/warn_lookups/342
+181,Dexcom,Mesa,"Feb 26, 2019",160.0,https://www.azjobconnection.gov/search/warn_lookups/343
+182,Arizona Daily Star,Tucson,"Mar 21, 2019",,https://www.azjobconnection.gov/search/warn_lookups/344
+183,Raytheon,Sierra Vista,"Mar 28, 2019",176.0,https://www.azjobconnection.gov/search/warn_lookups/345
+184,Radisson Suites Hotel Tucson,Tucson,"Mar 29, 2019",82.0,https://www.azjobconnection.gov/search/warn_lookups/346
+185,Spectra -Blue Water Resort & Casino,Parker,"Apr 01, 2019",128.0,https://www.azjobconnection.gov/search/warn_lookups/347
+186,Albertsons,Phoenix,"Jan 05, 2018",76.0,https://www.azjobconnection.gov/search/warn_lookups/284
+187,Sams Club,Chandler,"Jan 11, 2018",150.0,https://www.azjobconnection.gov/search/warn_lookups/285
+188,Sams Club,Prescott Valley,"Jan 11, 2018",137.0,https://www.azjobconnection.gov/search/warn_lookups/287
+189,Sams Club,Scottsdale,"Jan 11, 2018",129.0,https://www.azjobconnection.gov/search/warn_lookups/288
+190,National Residential Mortgage,Scottsdale,"Feb 07, 2018",54.0,https://www.azjobconnection.gov/search/warn_lookups/289
+191,Western Refining,Tempe,"Feb 28, 2018",,https://www.azjobconnection.gov/search/warn_lookups/291
+192,Boyd Coffee Company,Tempe,"Mar 22, 2018",4.0,https://www.azjobconnection.gov/search/warn_lookups/292
+193,Rockwell Collins,Tucson,"Mar 26, 2018",413.0,https://www.azjobconnection.gov/search/warn_lookups/293
+194,Marriott,Phoenix,"Apr 03, 2018",414.0,https://www.azjobconnection.gov/search/warn_lookups/294
+195,"ACS, LLC",Yuma,"Feb 21, 2018",,https://www.azjobconnection.gov/search/warn_lookups/295
+196,Schletter Inc.,Tucson,"Apr 25, 2018",16.0,https://www.azjobconnection.gov/search/warn_lookups/296
+197,Direct Energy,Tempe,"Apr 30, 2018",195.0,https://www.azjobconnection.gov/search/warn_lookups/297
+198,TSI corporation,Las Vegas,"May 29, 2018",110.0,https://www.azjobconnection.gov/search/warn_lookups/298
+199,UBER,Tempe,"May 29, 2018",,https://www.azjobconnection.gov/search/warn_lookups/299
+200,Hawrhorne Gardening,,"Jun 06, 2018",76.0,https://www.azjobconnection.gov/search/warn_lookups/300
+201,AT&T,Phoenix,"Jun 14, 2018",85.0,https://www.azjobconnection.gov/search/warn_lookups/301
+202,Interagency Council,Lake havasu City,"Jun 13, 2018",15.0,https://www.azjobconnection.gov/search/warn_lookups/302
+203,Albertsons Store 959,Tucson,"Jun 18, 2018",,https://www.azjobconnection.gov/search/warn_lookups/303
+204,Safeway 1636,Glendale,"Jun 18, 2018",61.0,https://www.azjobconnection.gov/search/warn_lookups/304
+205,Safeway 1202,Pheonix,"Jun 18, 2018",55.0,https://www.azjobconnection.gov/search/warn_lookups/305
+206,Marvell Semiconductors Inc.,Chandler,"Jul 09, 2018",2.0,https://www.azjobconnection.gov/search/warn_lookups/306
+207,C & W Services,Phoenix,"Jul 03, 2018",,https://www.azjobconnection.gov/search/warn_lookups/307
+208,Abrazo Scottsdale Campus,Phoenix,"Jul 13, 2018",49.0,https://www.azjobconnection.gov/search/warn_lookups/308
+209,World Pay (Bantiv),Chandler,"Aug 29, 2018",15.0,https://www.azjobconnection.gov/search/warn_lookups/309
+210,GenRx Phamacy,Scottsdale,"Sep 19, 2018",123.0,https://www.azjobconnection.gov/search/warn_lookups/310
+211,Suddenlink Communications,Lake Havasu,"Aug 03, 2017",50.0,https://www.azjobconnection.gov/search/warn_lookups/276
+212,Phoenix Health Plans,Phoenix,"May 15, 2017",33.0,https://www.azjobconnection.gov/search/warn_lookups/257
+213,Conifer Health Solutions,Phoenix,"Jul 14, 2017",29.0,https://www.azjobconnection.gov/search/warn_lookups/258
+214,Albertson Company #1026,,"Jan 06, 2017",77.0,https://www.azjobconnection.gov/search/warn_lookups/260
+215,Albertson Company #966,,"Jan 06, 2017",77.0,https://www.azjobconnection.gov/search/warn_lookups/261
+216,Albertson Company #969,,"Jan 06, 2017",,https://www.azjobconnection.gov/search/warn_lookups/262
+217,Zenefits,Tempe,"Feb 09, 2017",165.0,https://www.azjobconnection.gov/search/warn_lookups/263
+218,Whole Foods,,"Feb 10, 2017",55.0,https://www.azjobconnection.gov/search/warn_lookups/264
+219,Fortune Plactics,Glendale,"Feb 21, 2017",39.0,https://www.azjobconnection.gov/search/warn_lookups/266
+220,American Airlines,Phoenix,"Mar 24, 2017",,https://www.azjobconnection.gov/search/warn_lookups/267
+221,Manpower Group,Tempe,"Mar 17, 2017",53.0,https://www.azjobconnection.gov/search/warn_lookups/268
+222,Dollar Express Stores LLC #5993,Tucson,"Mar 30, 2017",8.0,https://www.azjobconnection.gov/search/warn_lookups/269
+223,Dollar Express Store LLC #5172,Lake Havasu,"Mar 30, 2017",5.0,https://www.azjobconnection.gov/search/warn_lookups/271
+224,Da Vita Rx,Chandler,"Apr 19, 2017",83.0,https://www.azjobconnection.gov/search/warn_lookups/272
+225,"Royal Remanufacturing, LLC",Glendale,"Apr 25, 2017",52.0,https://www.azjobconnection.gov/search/warn_lookups/273
+226,Kellogg's,Phoenix,"May 26, 2017",180.0,https://www.azjobconnection.gov/search/warn_lookups/274
+227,"SCA Tissue NA, LLC",,"Jun 08, 2017",,https://www.azjobconnection.gov/search/warn_lookups/275
+228,Western Refining,Tempe,"Aug 02, 2017",23.0,https://www.azjobconnection.gov/search/warn_lookups/278
+229,Rockwell collins,,"Oct 19, 2017",28.0,https://www.azjobconnection.gov/search/warn_lookups/279
+230,Unitedhealth Group,,"Nov 02, 2017",381.0,https://www.azjobconnection.gov/search/warn_lookups/280
+231,Cornbread Ventures DBA T Zejas,,"Oct 23, 2017",58.0,https://www.azjobconnection.gov/search/warn_lookups/282
+232,Marriott,Scottsdale,"Nov 29, 2017",20.0,https://www.azjobconnection.gov/search/warn_lookups/283
+233,Xchange Leasing LLC (XCL),,"Oct 31, 2017",228.0,https://www.azjobconnection.gov/search/warn_lookups/281
+234,Dolar Express Store LLC #5172,Lake Havasu,"Apr 13, 2017",,https://www.azjobconnection.gov/search/warn_lookups/270
+235,"Philidor Rx Services, LLC",Phoenix,"Jan 05, 2016",264.0,https://www.azjobconnection.gov/search/warn_lookups/225
+236,"Golden EagleDistributors, Inc.",Tucson,"Jan 11, 2016",229.0,https://www.azjobconnection.gov/search/warn_lookups/226
+237,"Golden EagleDistributors, Inc.",Buckeye,"Jan 11, 2016",47.0,https://www.azjobconnection.gov/search/warn_lookups/228
+238,"Golden EagleDistributors, Inc.",Flagstaff,"Jan 11, 2016",50.0,https://www.azjobconnection.gov/search/warn_lookups/229
+239,"Golden EagleDistributors, Inc.",Show Low,"Jan 11, 2016",16.0,https://www.azjobconnection.gov/search/warn_lookups/230
+240,"Golden EagleDistributors, Inc.",Tempe,"Jan 11, 2016",,https://www.azjobconnection.gov/search/warn_lookups/231
+241,ASARCO Grupo Mexico,Hayden,"Feb 11, 2016",,https://www.azjobconnection.gov/search/warn_lookups/232
+242,Aeroturbine,Phoenix,"Jan 27, 2016",61.0,https://www.azjobconnection.gov/search/warn_lookups/233
+243,Intel Corporation,Chandler,"Apr 25, 2016",248.0,https://www.azjobconnection.gov/search/warn_lookups/234
+244,Intel Corporation,Chandler,"Apr 25, 2016",312.0,https://www.azjobconnection.gov/search/warn_lookups/235
+245,"ACS, LLC",Yuma,"May 04, 2016",25.0,https://www.azjobconnection.gov/search/warn_lookups/236
+246,"ACS, LLC",Yuma,"May 04, 2016",25.0,https://www.azjobconnection.gov/search/warn_lookups/237
+247,GENCO,Phoenix,"Mar 29, 2016",73.0,https://www.azjobconnection.gov/search/warn_lookups/238
+248,ZMC,Scottsdale,"May 02, 2016",,https://www.azjobconnection.gov/search/warn_lookups/239
+249,livingsocial,Tucson,"Mar 16, 2016",122.0,https://www.azjobconnection.gov/search/warn_lookups/240
+250,Vitron manufacturing solutions,,"Jan 06, 2016",87.0,https://www.azjobconnection.gov/search/warn_lookups/241
+251,DataSphere Technologies,Tempe,"May 30, 2016",84.0,https://www.azjobconnection.gov/search/warn_lookups/242
+252,"Advantage Logistics Southwest, Inc.",,"Jun 06, 2016",507.0,https://www.azjobconnection.gov/search/warn_lookups/243
+253,ABB Inc.,,"May 31, 2016",89.0,https://www.azjobconnection.gov/search/warn_lookups/244
+254,Select Medical Corporation,Scottsdale,"Aug 03, 2016",90.0,https://www.azjobconnection.gov/search/warn_lookups/245
+255,ManpowerGroup,Tempe,"Aug 04, 2016",,https://www.azjobconnection.gov/search/warn_lookups/246
+256,ARRIS Group Inc.,Phoenix,"Aug 24, 2016",20.0,https://www.azjobconnection.gov/search/warn_lookups/247
+257,ARRIS Group Inc.,Tempe,"Aug 24, 2016",139.0,https://www.azjobconnection.gov/search/warn_lookups/248
+258,ARRIS Group Inc.,Mesa,"Aug 24, 2016",36.0,https://www.azjobconnection.gov/search/warn_lookups/249
+259,RICOH USA Inc.,Tempe,"Sep 01, 2016",,https://www.azjobconnection.gov/search/warn_lookups/250
+260,Theranos,Scottsdale,"Oct 06, 2016",194.0,https://www.azjobconnection.gov/search/warn_lookups/251
+261,AT&T,,"Nov 29, 2016",50.0,https://www.azjobconnection.gov/search/warn_lookups/252
+262,GO Digital,Phoenix,"Nov 17, 2016",153.0,https://www.azjobconnection.gov/search/warn_lookups/253
+263,Theranos,,"Oct 06, 2016",194.0,https://www.azjobconnection.gov/search/warn_lookups/254
+264,"Hanjin Shipping America, LLC",,"Oct 12, 2016",181.0,https://www.azjobconnection.gov/search/warn_lookups/255
+265,Marriott/Starwood Scottsdale Office,Scottsdale,"Nov 29, 2016",76.0,https://www.azjobconnection.gov/search/warn_lookups/256
+266,OTG Management Tucson LLC,,"Dec 27, 2016",107.0,https://www.azjobconnection.gov/search/warn_lookups/259
+267,"Golden EagleDistributors, Inc.",Casa Grande,"Jan 11, 2016",,https://www.azjobconnection.gov/search/warn_lookups/227
+268,"Transworld Systems, Inc (TSI)",,"Mar 26, 2015",62.0,https://www.azjobconnection.gov/search/warn_lookups/176
+269,Todds (Div of H.J. Heinz Co. L.P.,,"Apr 01, 2015",82.0,https://www.azjobconnection.gov/search/warn_lookups/177
+270,United Recovery systems,Tempe,"Mar 31, 2015",99.0,https://www.azjobconnection.gov/search/warn_lookups/178
+271,Intercontinental Exchange NYSE,Phoenix,"Mar 23, 2015",56.0,https://www.azjobconnection.gov/search/warn_lookups/180
+272,Captial Group Companies Global,,"Apr 22, 2015",173.0,https://www.azjobconnection.gov/search/warn_lookups/181
+273,"Prospect Enterprises, Inc.",Phoenix,"Apr 27, 2015",13.0,https://www.azjobconnection.gov/search/warn_lookups/182
+274,Zenith Education Group,Tempe,"Apr 27, 2015",213.0,https://www.azjobconnection.gov/search/warn_lookups/183
+275,Safeway,,"May 04, 2015",,https://www.azjobconnection.gov/search/warn_lookups/185
+276,"Marriott International, Inc.",Phoenix,"May 18, 2015",197.0,https://www.azjobconnection.gov/search/warn_lookups/186
+277,"Philosophy, Inc.",Phoenix,"Apr 17, 2015",145.0,https://www.azjobconnection.gov/search/warn_lookups/187
+278,"Philosophy, Inc.",Phoenix,"Apr 17, 2015",60.0,https://www.azjobconnection.gov/search/warn_lookups/188
+279,"Enterprise Recovery Systems, Inc",Tempe,"Mar 31, 2015",,https://www.azjobconnection.gov/search/warn_lookups/179
+280,Life Care Centers of America,Mesa,"Apr 30, 2015",147.0,https://www.azjobconnection.gov/search/warn_lookups/190
+281,Life Care Centers of America,Tucson,"Apr 30, 2015",156.0,https://www.azjobconnection.gov/search/warn_lookups/191
+282,Life Care Centers of America,Tucson,"Apr 30, 2015",157.0,https://www.azjobconnection.gov/search/warn_lookups/192
+283,Life Care Centers of America,Prescott,"Apr 30, 2015",,https://www.azjobconnection.gov/search/warn_lookups/193
+284,Life Care Centers of America,Scottsdale,"Apr 30, 2015",60.0,https://www.azjobconnection.gov/search/warn_lookups/194
+285,Life Care Centers of America,Peoria,"Apr 30, 2015",133.0,https://www.azjobconnection.gov/search/warn_lookups/195
+286,Life Care Centers of America,Phoenix,"Apr 30, 2015",144.0,https://www.azjobconnection.gov/search/warn_lookups/196
+287,Life Care Centers of America,Mesa,"Apr 30, 2015",65.0,https://www.azjobconnection.gov/search/warn_lookups/197
+288,Life Care Centers of America,Mesa,"Apr 30, 2015",31.0,https://www.azjobconnection.gov/search/warn_lookups/198
+289,Life Care Centers of America,Prescott,"Apr 30, 2015",95.0,https://www.azjobconnection.gov/search/warn_lookups/199
+290,Life Care Centers of America,Tucson,"Apr 30, 2015",102.0,https://www.azjobconnection.gov/search/warn_lookups/200
+291,Staples,Tolleson,"Jun 26, 2015",60.0,https://www.azjobconnection.gov/search/warn_lookups/201
+292,Quality Care Network,Phoenix,"Jul 28, 2015",107.0,https://www.azjobconnection.gov/search/warn_lookups/202
+293,"Ameron International, Inc.",Phoenix,"Jul 31, 2015",82.0,https://www.azjobconnection.gov/search/warn_lookups/203
+294,Community Partners Inc,Tuscon,"Jul 27, 2015",93.0,https://www.azjobconnection.gov/search/warn_lookups/204
+295,Atkore International,Phoenix,"Aug 06, 2015",60.0,https://www.azjobconnection.gov/search/warn_lookups/205
+296,Calvery Staffing,Phoenix,"Aug 04, 2015",411.0,https://www.azjobconnection.gov/search/warn_lookups/208
+297,"Haggen, Inc.",Tucson,"Aug 14, 2015",51.0,https://www.azjobconnection.gov/search/warn_lookups/209
+298,"Haggen, Inc.",Tucson,"Aug 14, 2015",35.0,https://www.azjobconnection.gov/search/warn_lookups/211
+299,"Haggen, Inc.",Anthem,"Aug 14, 2015",,https://www.azjobconnection.gov/search/warn_lookups/212
+300,"Haggen, Inc.",Flagstaff,"Aug 14, 2015",44.0,https://www.azjobconnection.gov/search/warn_lookups/213
+301,"Haggen, Inc.",Prescott Valley,"Aug 14, 2015",51.0,https://www.azjobconnection.gov/search/warn_lookups/214
+302,ATSCO Remanufacturing Inc.,Phoenix,"Aug 26, 2015",155.0,https://www.azjobconnection.gov/search/warn_lookups/215
+303,ASARCO Grupo Mexico,Hayden,"Aug 21, 2015",170.0,https://www.azjobconnection.gov/search/warn_lookups/216
+304,Littler Employment & labor Solutiions Worldwide,Mesa,"Aug 14, 2015",84.0,https://www.azjobconnection.gov/search/warn_lookups/217
+305,"Beck, Chaet, Bamberger,& Polsky, S.C.",Phoenix,"Aug 14, 2015",22.0,https://www.azjobconnection.gov/search/warn_lookups/218
+306,Freeport-McMoRan,Claypool,"Aug 27, 2015",,https://www.azjobconnection.gov/search/warn_lookups/219
+307,Freeport-McMoRan Sierrita Inc.,Green Valley,"Oct 22, 2015",580.0,https://www.azjobconnection.gov/search/warn_lookups/220
+308,"Marvell Semiconductor, Inc.",Chandler,"Oct 16, 2015",29.0,https://www.azjobconnection.gov/search/warn_lookups/221
+309,Management & Training Corporation,Golden Valley,"Oct 28, 2015",467.0,https://www.azjobconnection.gov/search/warn_lookups/222
+310,Walter Investment Managment Corp,Tempe,"Oct 28, 2015",96.0,https://www.azjobconnection.gov/search/warn_lookups/223
+311,"DAL Global Services, LLC",,"Nov 16, 2015",162.0,https://www.azjobconnection.gov/search/warn_lookups/224
+312,Safeway,Globe,"May 04, 2015",44.0,https://www.azjobconnection.gov/search/warn_lookups/184
+313,CenturyLink,Phoenix,"Feb 26, 2014",52.0,https://www.azjobconnection.gov/search/warn_lookups/115
+314,General Dynamics Information Technology,Phoenix,"Mar 06, 2014",187.0,https://www.azjobconnection.gov/search/warn_lookups/116
+315,PaperWorks,Phoenix,"Jan 31, 2014",100.0,https://www.azjobconnection.gov/search/warn_lookups/117
+316,Magellan Health Services,,"Jan 27, 2014",247.0,https://www.azjobconnection.gov/search/warn_lookups/118
+317,Magellan,,"Jan 27, 2014",247.0,https://www.azjobconnection.gov/search/warn_lookups/119
+318,GE Capital,,"Jan 15, 2014",,https://www.azjobconnection.gov/search/warn_lookups/120
+319,"Blue Chip southwest, LLC",Tolleson,"Jan 24, 2014",85.0,https://www.azjobconnection.gov/search/warn_lookups/121
+320,Albertsons LLC,Phoenix,"Jan 13, 2014",68.0,https://www.azjobconnection.gov/search/warn_lookups/122
+321,Macy'S,,"Jan 08, 2014",92.0,https://www.azjobconnection.gov/search/warn_lookups/131
+322,Lockheed Martin Corporation Information Systems,Goodyear,"Apr 11, 2014",402.0,https://www.azjobconnection.gov/search/warn_lookups/153
+323,Maricopa Integrated Health System (CCC),Phoenix,"Apr 25, 2014",641.0,https://www.azjobconnection.gov/search/warn_lookups/154
+324,"US Airways, Inc.",Tempe,"Apr 07, 2014",13.0,https://www.azjobconnection.gov/search/warn_lookups/155
+325,Acosta Sales & Marketing,Phoenix,"Jun 19, 2014",,https://www.azjobconnection.gov/search/warn_lookups/156
+326,TRX Managment LLCdba Zona Hotel & Suites,,"Jun 20, 2014",82.0,https://www.azjobconnection.gov/search/warn_lookups/157
+327,Sodexo,,"Jul 30, 2014",58.0,https://www.azjobconnection.gov/search/warn_lookups/158
+328,Davidson Hotels & Resorts,Scottsdale,"Jun 26, 2014",51.0,https://www.azjobconnection.gov/search/warn_lookups/159
+329,Arizona Neurological Institute,,"Aug 01, 2014",,https://www.azjobconnection.gov/search/warn_lookups/160
+330,Anthem,Phoenix,"Jul 15, 2014",21.0,https://www.azjobconnection.gov/search/warn_lookups/161
+331,Anthem Education,Phoenix,"Jul 15, 2014",21.0,https://www.azjobconnection.gov/search/warn_lookups/162
+332,"NewStar Fresh Foods, LLC",Yuma,"Aug 15, 2014",41.0,https://www.azjobconnection.gov/search/warn_lookups/163
+333,Rural Metro,Scottsdale,"Aug 27, 2014",255.0,https://www.azjobconnection.gov/search/warn_lookups/164
+334,"Marcolin USA, Inc",Scottsdale,"Sep 30, 2014",105.0,https://www.azjobconnection.gov/search/warn_lookups/165
+335,Primary Financial Services,,"Oct 06, 2014",122.0,https://www.azjobconnection.gov/search/warn_lookups/166
+336,GT Advanced Technologies,,"Oct 16, 2014",727.0,https://www.azjobconnection.gov/search/warn_lookups/167
+337,Walgreen Co.,,"Oct 20, 2014",348.0,https://www.azjobconnection.gov/search/warn_lookups/168
+338,"SYKES Enterprises, Incorporated",,"Jan 24, 2012",85.0,https://www.azjobconnection.gov/search/warn_lookups/3
+339,VT Services,,"Jan 31, 2012",107.0,https://www.azjobconnection.gov/search/warn_lookups/4
+340,Wells Fargo,Chandler,"Mar 26, 2012",76.0,https://www.azjobconnection.gov/search/warn_lookups/5
+341,"Chevron Mining, Inc. McKinley Mine",,"Feb 08, 2012",103.0,https://www.azjobconnection.gov/search/warn_lookups/6
+342,Schuff Steel Company,,"Feb 24, 2012",89.0,https://www.azjobconnection.gov/search/warn_lookups/7
+343,SCAN Health Plan Arizona,,"Feb 29, 2012",,https://www.azjobconnection.gov/search/warn_lookups/8
+344,Armor Works,,"Mar 12, 2012",124.0,https://www.azjobconnection.gov/search/warn_lookups/9
+345,The Great Indoors  #1901,,"Apr 18, 2012",75.0,https://www.azjobconnection.gov/search/warn_lookups/10
+346,The Great Indoors #1913,,"Apr 18, 2012",61.0,https://www.azjobconnection.gov/search/warn_lookups/11
+347,"American Airlines, Inc.",,"May 01, 2012",,https://www.azjobconnection.gov/search/warn_lookups/40
+348,Covance Laboratories Inc.,,"May 02, 2012",133.0,https://www.azjobconnection.gov/search/warn_lookups/63
+349,MetLife,,"May 01, 2012",64.0,https://www.azjobconnection.gov/search/warn_lookups/64
+350,"O.P.E.N. America, Inc. dba: OpenWorks",,"May 01, 2012",144.0,https://www.azjobconnection.gov/search/warn_lookups/65
+351,"Hostess Brands, Inc.",,"May 04, 2012",2.0,https://www.azjobconnection.gov/search/warn_lookups/66
+352,Hostess Brand Inc.,,"May 04, 2012",9.0,https://www.azjobconnection.gov/search/warn_lookups/67
+353,"Hostess Brands, Inc.",,"May 04, 2012",1.0,https://www.azjobconnection.gov/search/warn_lookups/70
+354,"Hostess Brands, Inc.",,"May 04, 2012",,https://www.azjobconnection.gov/search/warn_lookups/71
+355,"Hostess Brands, Inc.",,"May 04, 2012",,https://www.azjobconnection.gov/search/warn_lookups/72
+356,"Hostess Brands, Inc.",,"May 04, 2012",38.0,https://www.azjobconnection.gov/search/warn_lookups/73
+357,"Hostess Brand, Inc.",,"May 04, 2012",43.0,https://www.azjobconnection.gov/search/warn_lookups/74
+358,"Hostess Brands, Inc.",,"May 04, 2012",1.0,https://www.azjobconnection.gov/search/warn_lookups/75
+359,"Hostess Brands, Inc.",,"May 04, 2012",,https://www.azjobconnection.gov/search/warn_lookups/76
+360,"Hostess Brand, Inc.",,"May 04, 2012",5.0,https://www.azjobconnection.gov/search/warn_lookups/77
+361,"Hostess Brands, Inc.",,"May 04, 2012",6.0,https://www.azjobconnection.gov/search/warn_lookups/78
+362,"Hostess Brands, Inc.",,"May 04, 2012",1.0,https://www.azjobconnection.gov/search/warn_lookups/79
+363,"Hostess Brands, Inc.",,"May 04, 2012",38.0,https://www.azjobconnection.gov/search/warn_lookups/80
+364,"Hostess Brands, Inc.",,"May 04, 2012",3.0,https://www.azjobconnection.gov/search/warn_lookups/82
+365,"Hostess Brands, Inc.",,"May 04, 2012",8.0,https://www.azjobconnection.gov/search/warn_lookups/83
+366,"Bada Bing Bakery LLC, dba Chompie's Baking Co.",,"Mar 16, 2012",70.0,https://www.azjobconnection.gov/search/warn_lookups/84
+367,"Bada Bing Bakery LLC, dba Chompie's Baking Co.",,"Mar 16, 2012",74.0,https://www.azjobconnection.gov/search/warn_lookups/85
+368,"Bada Bing Bakery LLC, dba Chompie's Baking Co.",,"Mar 16, 2012",,https://www.azjobconnection.gov/search/warn_lookups/86
+369,"Mojave Desert Minerals, LLC",Oatman,"Jul 12, 2012",56.0,https://www.azjobconnection.gov/search/warn_lookups/87
+370,"THQ, Inc.",Phoenix,"Jul 19, 2012",57.0,https://www.azjobconnection.gov/search/warn_lookups/88
+371,Catalyst Paper Inc.,,"Jul 30, 2012",266.0,https://www.azjobconnection.gov/search/warn_lookups/89
+372,The Apache Railway Company Inc.,,"Jul 30, 2012",,https://www.azjobconnection.gov/search/warn_lookups/90
+373,"Global Solar Energy, Inc.",,"Jul 19, 2012",39.0,https://www.azjobconnection.gov/search/warn_lookups/91
+374,"Asset Acceptance, LLC",Tempe,"Sep 10, 2012",84.0,https://www.azjobconnection.gov/search/warn_lookups/92
+375,Kmart Corporation,Peoria,"Oct 04, 2012",56.0,https://www.azjobconnection.gov/search/warn_lookups/93
+376,AAA Club Partners,Glendale,"Oct 09, 2012",104.0,https://www.azjobconnection.gov/search/warn_lookups/94
+377,Guardian Building Products,Kingman,"Oct 15, 2012",89.0,https://www.azjobconnection.gov/search/warn_lookups/95
+378,"marriott International, Inc.",Marana,"Aug 30, 2012",44.0,https://www.azjobconnection.gov/search/warn_lookups/96
+379,HMSHost,,"Oct 29, 2012",,https://www.azjobconnection.gov/search/warn_lookups/97
+380,"Wyndam Vaction ownerhsip, Inc. (Company)",Scottsdale,"Nov 07, 2012",99.0,https://www.azjobconnection.gov/search/warn_lookups/98
+381,Hawker Beechcraft Corporation,Mesa,"Nov 14, 2012",38.0,https://www.azjobconnection.gov/search/warn_lookups/99
+382,Valeant Pharmaceuticals North America LLC,Scottsdale,"Dec 10, 2012",319.0,https://www.azjobconnection.gov/search/warn_lookups/100
+383,"VWR International, Rodnor Corporate Center",Chandler,"Dec 17, 2012",50.0,https://www.azjobconnection.gov/search/warn_lookups/101
+384,TriWest Healthcare Alliance,,"Dec 10, 2012",904.0,https://www.azjobconnection.gov/search/warn_lookups/102
+385,Michaels Arts and Crafts,,"Jan 11, 2012",23.0,https://www.azjobconnection.gov/search/warn_lookups/107
+386,Albertson's Store #968,,"Jan 06, 2012",73.0,https://www.azjobconnection.gov/search/warn_lookups/2
+387,"Hostess Brands, Inc.",,"May 04, 2012",1.0,https://www.azjobconnection.gov/search/warn_lookups/68
+388,"Hostess Brand, Inc.",,"May 04, 2012",,https://www.azjobconnection.gov/search/warn_lookups/69
+389,"Hostess Brands, Inc.",,"May 04, 2012",2.0,https://www.azjobconnection.gov/search/warn_lookups/81
+390,Cementation,Superior,"Dec 10, 2012",400.0,https://www.azjobconnection.gov/search/warn_lookups/103
+391,SSI,Casa Grande,"Dec 18, 2012",135.0,https://www.azjobconnection.gov/search/warn_lookups/104
+392,International Window Arizona,,"Dec 30, 2010",64.0,https://www.azjobconnection.gov/search/warn_lookups/12
+393,Kaplan University,,"Dec 07, 2010",56.0,https://www.azjobconnection.gov/search/warn_lookups/13
+394,John C. Lincoln Health Network's North Mountain,,"Dec 06, 2010",99.0,https://www.azjobconnection.gov/search/warn_lookups/14
+395,ZipRealty,,"Nov 29, 2010",195.0,https://www.azjobconnection.gov/search/warn_lookups/15
+396,CEMEX,,"Nov 22, 2010",49.0,https://www.azjobconnection.gov/search/warn_lookups/16
+397,Palm Harbor Homes,,"Nov 19, 2010",86.0,https://www.azjobconnection.gov/search/warn_lookups/17
+398,Plastican division of BWAY Corporation,,"Nov 17, 2010",54.0,https://www.azjobconnection.gov/search/warn_lookups/18
+399,Pulte Building Services (PBS),,"Nov 12, 2010",351.0,https://www.azjobconnection.gov/search/warn_lookups/19
+400,Hines Nurseries,,"Oct 06, 2010",133.0,https://www.azjobconnection.gov/search/warn_lookups/20
+401,"AB Car Rental Services, Inc.",,"Sep 28, 2010",70.0,https://www.azjobconnection.gov/search/warn_lookups/21
+402,Xanodyne Pharamaceuticals,,"Sep 21, 2010",,https://www.azjobconnection.gov/search/warn_lookups/22
+403,"O'Reilly Automotive, Inc.",,"Sep 09, 2010",45.0,https://www.azjobconnection.gov/search/warn_lookups/23
+404,"Dole Fresh Vegetables, Inc.",,"Aug 27, 2010",652.0,https://www.azjobconnection.gov/search/warn_lookups/24
+405,Whirlaway Corporation,,"Aug 10, 2010",150.0,https://www.azjobconnection.gov/search/warn_lookups/25
+406,"Citigroup, Inc.",,"Jul 30, 2010",,https://www.azjobconnection.gov/search/warn_lookups/26
+407,Coach-Net Services Group,,"Jul 27, 2010",160.0,https://www.azjobconnection.gov/search/warn_lookups/27
+408,Microsemi Corporation,,"Jul 12, 2010",255.0,https://www.azjobconnection.gov/search/warn_lookups/28
+409,Crowne Plaza Hotel,,"Jun 30, 2010",79.0,https://www.azjobconnection.gov/search/warn_lookups/29
+410,Embassy Suites Hotel (Phoenix),,"Jun 14, 2010",,https://www.azjobconnection.gov/search/warn_lookups/30
+411,Marketfare Foods,,"Jun 11, 2010",84.0,https://www.azjobconnection.gov/search/warn_lookups/31
+412,ATC/Vancom of Arizona L.P. dba Veolia Tranport.,,"Apr 28, 2010",953.0,https://www.azjobconnection.gov/search/warn_lookups/32

@@ -1,0 +1,1079 @@
+,company_name,location,notice_date,layoff_date,employees_affected,Type
+0,Price Rite,"3104 Queens Chapel Rd Chillum, MD 20782",1/5/2023,2/28/2023,40,Plant Closure
+1,Macy's,"710 Russell Avenue Ste 5 Gaithersburg, MD 20877",1/5/2023,3/18/2023,111,Plant Closure
+2,"AptarGroup, Inc.","1450 S. Rolling Road Halethorpe, MD 21227",1/26/2023,3/27/2023,19,Plant Closure
+3,"The Joseph A. Bank Mfg. Co., Inc.","500 Hanover Pike Hampstead, MD 21074",1/31/2023,4/4/2023,51,Plant Closure
+4,"American Medical Response, Mid-Atlantic Inc.","1900 Landsdowne Road Halethorpe, MD 21227",2/1/2023,3/27/2023,90,Plant Closure
+5,EagleBank,"6010 Executive Boulevard Rockville, MD 20852",2/15/2023,4/7/2023,36,Mass Layoff
+6,"Skyworks Solutions, Inc.","5520 Adamstown Road Adamstown, MD 21710",2/16/2023,4/17/2023,129,Plant Closure
+7,Continuum Global Solutions,"10701 New Georges Creek Road SW Suite 16 Frostburg, MD 21532",2/17/2023,4/18/2023,51,Mass Layoff - No Recall
+8,Hunter Douglas,"1 Hunter Douglas Dr. SE Cumberland, MD 21502",2/22/2023,2/13/2023,60,Mass Layoff - No Recall
+9,Continuum Global Solutions,"10701 New Georges Creek Rd SW Suite 16 Frostburg, MD 21532",2/24/2023,4/24/2023,51,Mass Layoff - No Recall
+10,Sikorsky (a Lockheed Martin Company),"47765 Ranch Road HGR 101 Patuxent River, MD 20670",2/28/2023,4/27/2023,176,Mass Layoff - No Recall
+11,Hunter Douglas,"1 Hunter Douglas Dr. SE Cumberland, MD 21502",3/8/2023,7/28/2023,361,Plant Closure
+12,"Adaptive Phage Therapeutics, Inc.","708 Quince Orchard Road Suite 205 Gaithersburg, MD 20878",3/10/2023,5/9/2023,22,Mass Layoff - No Recall
+13,Target,"7501 Baltimore Avenue STE1 Store T3211 College Park, MD 20740",3/14/2023,5/13/2023,51,Plant Closure
+14,Whole Foods Market Mid-Atlantic Seafood Facility,"1521 Cabin Branch Drive Landover, MD 20785",3/21/2023,5/20/2023,65,Plant Closure
+15,Honeywell Intelligrated,"10331 S. Dolfield Road Owings Mills, MD 21117",3/29/2023,5/21/2023,18,Plant Closure
+16,Nutramax Laboratories,"2208 Lakeside Blvd. Edgewood, MD 21040",3/29/2023,6/30/2023,43,Plant Closure
+17,"Diageo North America, Inc.","5001 Washington Blvd. Relay, MD 21227",3/31/2023,6/9/2023,108,Plant Closure
+18,CDF Corporation,"3701 Southwestern Blvd Baltimore, MD 21229",4/4/2023,6/30/2023,22,Plant Closure
+19,"HMR of Maryland, LLC Charlotte Hall Veterans Home","29449 Charlotte Hall Rd. Charlotte Hall, MD 20622",4/11/2023,6/6/2023,233,Mass Layoff - No Recall
+20,WestRock,"725 Pittman Road Curtis Bay, MD 21226",4/25/2023,7/3/2023,75,Plant Closure
+21,"Bacchus Importers, LLC","1817 Portal Street Baltimore, Md 21224",4/27/2023,6/30/2023,73,Plant Closure
+22,Shoppers,"1955 East Joppa Road Parkville, MD 21234",5/1/2023,7/15/2023,49,Plant Closure
+23,"Triple Canopy, Inc.","1315 East West Highway Silver Spring, MD 20910",5/4/2023,5/31/2023,55,Mass Layoff - No Recall
+24,"Bindagraphics, Inc.","2701 Wilmarco Avenue Baltimore, MD 21223",5/10/2023,7/9/2023,60,Plant Closure
+25,Heartland Pharmacy of Maryland,"9070 Junction Drive, Suite E Annapolis Junction, MD 20701",5/12/2023,7/14/2023,40,Plant Closure
+26,General Dynamics Information Technology,"6555 Rock Spring Drive Bethesda, MD 20817",5/22/2023,7/21/2023,60,Mass Layoff - No Recall
+27,Flying Dog Brewery,"4607 Wedgewood Boulevard Frederick, MD 21703",5/24/2023,8/5/2023,63,Mass Layoff - No Recall
+28,"Quantem Aviation Services (QAS), LLC","1007 Air Cargo Drive Baltimore, MD 21240",5/24/2023,7/16/2023,55,Mass Layoff - No Recall
+29,Webb Mason Commercial,"10820 Gilroy Road Hunt Valley, MD 21031",6/1/2023,7/31/2023,21,Mass Layoff - No Recall
+30,Monte Nido & Associates,"3100 Roxbury Mills Rd Glenwood, Maryland 21738",6/5/2023,6/30/2023,31,Plant Closure
+31,"Ingram Entertainment, Inc.","8779 Greenwood Place Savage, MD 20763",6/6/2023,8/18/2023,14,Plant Closure
+32,Watermark Retirement Communities,"55 W. Gude Drive Rockville, MD 20850",6/12/2023,8/8/2023,117,Mass Layoff - No Recall
+33,"Sodexo, Inc and Affiliates","ProMedica Ruxton 7001 N Charles Street Towson, MD 21204",6/13/2023,8/8/2023,16,Plant Closure
+34,"Sodexo, Inc and Affiliates","ProMedica Chevy Chase 8700 Jones Mill Rd Chevy Chase, MD 20815",6/13/2023,8/8/2023,17,Plant Closure
+35,"Sodexo, Inc and Affiliates","ProMedica Silver Spring 2501 Musgrove Rd Silver Spring, MD 20904",6/13/2023,8/8/2023,14,Plant Closure
+36,"Ellume USA, LLC","4930 Executive Court Frederick, MD 21703",6/16/2023,7/3/2023,37,Mass Layoff
+37,"Medifast, Inc.","601 Sunrise Avenue Ridgely, MD 21660",6/20/2023,8/13/2023,83,Mass Layoff
+38,EchoPark Automotive,"6001 Reisterstown Road Baltimore, MD 21215",6/20/2023,8/21/2023,34,Plant Closure
+39,EchoPark Automotive,"8751 Freestate Drive Suite 100 Laurel, MD 20723",6/20/2023,8/21/2023,17,Plant Closure
+40,"Ventech Solutions, Inc.","21 Governors Court Suite 250 Windsor Mill, MD 21244",7/12/2023,9/15/2023,168,Mass Layoff - No Recall
+41,Autumn Lake Healthcare at South Haven,"2700 South Haven Road Annapolis, MD 21401",7/17/2023,7/7/2023,92,Plant Closure
+42,"Ventra Health, Inc.","5100 Buckeystown Pike Suite 250 Frederick, MD 21704",7/19/2023,10/9/2023,34,Mass Layoff
+43,General Dynamics Information Technology,"1430 Veterans Drive Frederick, MD 21702",8/1/2023,"09/29/23, 11/30/2023","9, 50",Mass Layoff - No Recall
+44,"YRC, Inc. d/b/a YRC Freight","6311 East Lombard St. Baltimore, MD 21224",8/1/2023,7/30/2023,64,Plant Closure
+45,"YRC, Inc. d/b/a YRC Freight","311 East Oak Ridge Dr. Hagerstown, MD 21740",8/1/2023,7/30/2023,98,Plant Closure
+46,"YRC, Inc. d/b/a New Penn Motor Express, LLC","6351 S. Hanover St. Elkridge, MD 21075",8/1/2023,7/30/2023,42,Plant Closure
+47,"YRC, Inc. d/b/a YRC Freight","7600 Preston Dr. Landover, MD 20785",8/1/2023,7/30/2023,27,Plant Closure
+48,"Emergent Biosolutions, Inc.","5901 E. Lombard St. Baltimore, MD 21224",8/8/2023,10/7/2023,211,Mass Layoff - No Recall
+49,"Emergent Biosolutions, Inc.","9920 Medical Center Dr. Rockville, MD 20850",8/8/2023,10/7/2023,20,Mass Layoff - No Recall
+50,"Matheson Flight Extenders, Inc.","14301 Mattawoman Drive Brandywine, MD 20613",8/16/2023,10/15/2023,327,Mass Layoff - No Recall
+51,"WayForth, LLC","7020 Dorsey Road Suite C Hanover, MD 21076",8/16/2023,8/18/2023,76,Mass Layoff - No Recall
+52,"GXO Logistics Supply Chain, Inc.","610 Chelsea Road Aberdeen, MD 21001",8/17/2023,9/30/2023,176,Plant Closure
+53,Tesla,"336 Clubhouse Road Hunt Valley, MD 21031",8/18/2023,10/16/2023,55,Mass Layoff - No Recall
+54,Price Rite Marketplace,"1753 Chesaco Avenue Rosedale, MD 21237",8/22/2023,10/22/2023,25,Plant Closure
+55,Giant Delivers,"1020A Airport 100 Way Hanover, MD 21076",8/28/2023,10/21/2023,362,Plant Closure
+56,"Perfected Logistics, LLC","10406 Tucker Street Beltsville, MD 20707",9/7/2023,11/7/2023,65,Mass Layoff - No Recall
+57,Management & Training Corporation,"10900 Old Court Road Woodstock, MD 21163",9/11/2023,9/30/2023,174,Mass Layoff - No Recall
+58,"Money Map Press, LLC","1125 N. Charles Street Baltimore, MD 21201",9/20/2023,11/14/2023,63,Mass Layoff - No Recall
+59,"Exemplis, LLC","8221 Preston Court Suite D Jessup, MD 20794",9/22/2023,11/19/2023,47,Mass Layoff - No Recall
+60,"T-Mobile USA, Inc.","12050 Baltimore Avenue Beltsville, MD 20705",9/20/2023,11/2/2023,40,Mass Layoff - No Recall
+61,"Oracle America, Inc.","12200-12211 Plum Orchard Dr. Silver Spring, MD 20904",9/29/2023,11/30/2023,102,Mass Layoff - No Recall
+62,"Leisure Care, LLc d/b/a The Landing of Silver Spring","13908 New Hamshire Ave. Silver Spring, MD 20904",10/3/2023,12/2/2023,75,Plant Closure
+63,"Northrop Grumman Systems Corporation, Defense Systems Sector","701 Wilson Point Road Middle River, MD 21220",10/5/2023,12/4/2023,16,Mass Layoff - No Recall
+64,"Northrop Grumman Systems Corporation, Defense Systems Sector","2828 Strawberry Point Road Middle River, MD 21220",10/5/2023,12/4/2023,16,Mass Layoff - No Recall
+65,"Ventech Solutions, Inc.","21 Governors Court Suite 250 Windsor Mill, MD 21244",10/16/2023,12/15/2023,60,Mass Layoff - No Recall
+66,Old Town Pour House,"212 Ellington Blvd. Gaithersburg, MD 20878",10/20/2023,10/24/2023,58,Mass Layoff - No Recall
+67,Sleep Number,"1710 Crossroads Drive Odenton, MD 21113",10/230/2023,12/29/2023,24,Mass Layoff - No Recall
+68,Leidos,"3300 Lord Baltimore Drive Baltimore, MD 21244",11/1/2023,12/31/2023,130,Mass Layoff - No Recall
+69,"ABM Industry Group, LLC","888 Bestgate Road #111 Annapolis, MD 21401",1/21/2022,2/28/2022,9,2
+70,"ABM Industry Group, LLC","7670 Quarterfield Road Glen Burnie, MD 21061",1/21/2022,2/28/2022,9,2
+71,"ABM Industry Group, LLC","815 E. Pratt Street Baltimore, MD 21202",1/21/2022,2/28/2022,9,2
+72,"ABM Industry Group, LLC","1701 Twin Springs Road Halethorpe, MD 21227",1/21/2022,2/28/2022,13,2
+73,"ABM Industry Group, LLC","1447 York Road #100 Lutherville, MD 21093",1/21/2022,2/28/2022,9,2
+74,"ABM Industry Group, LLC","4920 Campbell Blvd. Nottingham, MD 21236",1/21/2022,2/28/2022,9,2
+75,"ABM Industry Group, LLC","7141 Security Boulevard Windsor Mill, MD 21244",1/21/2022,2/28/2022,9,2
+76,"ABM Industry Group, LLC","7190 Crestwood Blvd. Frederick, MD 21703",1/21/2022,2/28/2022,9,2
+77,"ABM Industry Group, LLC","7070 Samuel Morse Dr. Columbia, MD 21046",1/21/2022,2/28/2022,9,2
+78,"ABM Industry Group, LLC","2106 Jefferson Street Rockville, MD 20852",1/21/2022,2/28/2022,9,2
+79,"ABM Industry Group, LLC","1500 Forest Glen Road Silver Spring, MD 20910",1/21/2022,2/28/2022,9,2
+80,"ABM Industry Group, LLC","2221 Broadbirch Drive Silver Spring, MD 20904",1/21/2022,2/28/2022,9,2
+81,"ABM Industry Group, LLC","12201 Plum Orchard Drive Silver Spring, MD 20904",1/21/2022,2/28/2022,15,2
+82,"ABM Industry Group, LLC","10810 Connecticut Ave. Kensington, MD 20895",1/21/2022,2/28/2022,6,2
+83,"ABM Industry Group, LLC","10812 Connecticut Ave. Kensington, MD 20895",1/21/2022,2/28/2022,7,2
+84,"ABM Industry Group, LLC","655 Watkins Mill Road Gaithersburg, MD 20879",1/21/2022,2/28/2022,9,2
+85,"ABM Industry Group, LLC","6111 Executive Boulevard Rockville, MD 20852",1/21/2022,2/28/2022,9,2
+86,"ABM Industry Group, LLC","1396 Piccard Drive Rockville, MD 20850",1/21/2022,2/28/2022,9,2
+87,"ABM Industry Group, LLC","4000 Garden City Drive Hyattsville, MD 20785",1/21/2022,2/28/2022,9,2
+88,"ABM Industry Group, LLC","1021 Bacon Drive Beltsville, MD 20705",1/21/2022,2/28/2022,9,2
+89,"ABM Industry Group, LLC","6104 Old Paint Branch Ave Temple Hills, MD 20748",1/21/2022,2/28/2022,9,2
+90,"ABM Industry Group, LLC","1221 Mercantile Lane Upper Marlboro, MD 20774",1/21/2022,2/28/2022,9,2
+91,"ABM Industry Group, LLC","5100 Auth Way Camp Springs, MD 20746",1/21/2022,2/28/2022,9,2
+92,"ABM Industry Group, LLC","6525 Belcrest Road Hyattsville, MD 20782",1/21/2022,2/28/2022,9,2
+93,"ABM Industry Group, LLC","3400 Box Hill South Pkwy Abingdon, MD 21009",1/21/2022,2/28/2022,9,2
+94,Royal Farms Arena/ASM Global,"201 W. Baltimore Street Baltimore, MD 21202",2/2/2022,3/4/2022,"1,492",1
+95,"District Photo, Inc.","10501 Rhode Island Avenue Beltsville, MD 20705",2/4/2022,4/4/2022,11,2
+96,"Staples, Inc.","9327 Washington Road Laurel, MD 20723",2/18/2022,4/22/2022,16,1
+97,Radisson Baltimore,"101 W. Fayette Street Baltimore, MD 21201",3/2/2022,4/8/2022,83,1
+98,Holiday Inn,"105 W. Fayette Street Baltimore, MD 21201",3/2/2022,4/8/2022,17,1
+99,Peninsula Endoscopy Center (PEC),"9315 Ocean Highway Delmar, Maryland 21875",3/8/2022,5/9/2022,13,1
+100,Peninsula Gastroenterology Associates (PEC),"9315 Ocean Highway Delmar, Maryland 21875",3/8/2022,5/9/2022,9,1
+101,GenOn Morgantown Generating Station,"12620 Crain Highway Newburg, MD 20664",3/15/2022,6/1/2022,73,1
+102,"District Photo, Inc.","10501 Rhode Island Avenue Beltsville, MD 20705",3/15/2022,5/14/2022,34,2
+103,"Golden Services, LLC","19901 Germantown Road Germantown, MD 20875",3/21/2022,5/17/2022,74,1
+104,WestRock,"725 Pittman Road Curtis Bay, Md 21226",3/31/2022,5/31/2022,30,2
+105,"CACI, Inc.","1681 Nelson Street Fort Detrick, MD 21702",4/1/2022,5/31/2022,94,2
+106,"Ready Responders, Inc.","8201 Corporate Drive Suite 650 Landover, MD 20785",4/6/2022,2/16/2022,4,2
+107,DFA Dairy Brands,"7631 Jefferson Avenue Hyattsville, MD 20785",4/12/2022,6/12/2022,42,1
+108,Toyota Motor Credit Corporation d/b/a Toyota Financial Services,"500 Red Brook Boulevard Owings Mills, MD 21117",5/2/2022,7/1/2022,196,1
+109,Bon Appetit,"3400 N. Charles Street Baltimore, MD 21218",6/1/2022,7/31/2022,190,1
+110,"ABM Industry Group, LLC","633 Research Drive Frederick, MD 21703",6/6/2022,8/1/2022,69,2
+111,"Insurance Auto Auctions, Inc.","7131 Virginia Manor Court, Laurel MD 20707",6/7/2022,8/5/2022,7,1
+112,"Commercial Vehicle Group, Inc.","6650 Business Parkway Elkridge, MD 21075",6/13/2022,8/9/2022,57,2
+113,WesTech,"1001 Cathedral Street Baltimore, MD 21201",6/13/2022,8/8/2022,34,2
+114,WesTech,"702 Cathedral Street Baltimore, MD 21201",6/13/2022,8/8/2022,9,2
+115,"Guardian of Georgia, LLC","12240 Kiln Court Beltsville, MD 20705",6/13/2022,7/1/2022,21,1
+116,Lockheed Martin Corporation,"911 Elkridge Landing Rd Linthicum, MD 21090",6/28/2022,8/26/2022,35,2
+117,"ReOpen Diagnostics, LLC d/b/a Pandemic Response Lab","9605 Medical Center Dr. Suite 220, Rockville, MD 20850",6/30/2022,8/28/2022,24,2
+118,"DynCorp International, LLC","47123 Buse Rd. #540 Patuxent River, MD 20670",7/1/2022,9/2/2022,937,2
+119,MATRIX,"500 Red Brook Blvd. Owings Mills, MD 21117",7/1/2022,8/31/2022,1,1
+120,AMPCUS,"500 Red Brook Boulevard Owings Mills, MD 21117",7/5/2022,8/31/2022,1,1
+121,"Clear One Advantage, LLC","1501 S. Clinton Street Baltimore, MD 21224",7/5/2022,6/21/2022,84,2
+122,"One Loan Direct, LLC","1501 S. Clinton Street Baltimore, MD 21224",7/5/2022,6/24/2022,5,2
+123,WELLS FARGO,"7860 Wormans Mill Road Frederick, MD 21701",7/15/2022,7/14/2022,100,2
+124,"Collabera, Inc.","500 Red Brook Boulevard Owings Mills, MD 21117",7/18/2022,8/31/2022,4,1
+125,Workforce Logiq,"500 Red Brook Boulevard Owings Mills, MD 21117",7/28/2022,8/31/2022,5,1
+126,ATA Aerospace,"7474 Greenway Center Drive Greenbelt, MD 20770",8/4/2022,9/13/2022,253,1
+127,Miller's Ale House,"1471 Rockville Pike Rockville, MD 20852",8/9/2022,9/25/2022,52,1
+128,"Money Map Press, LLC","1125 N. Charles Street Baltimore, Maryland 21201",8/16/2022,10/10/2022,51,2
+129,Amazon,"7458 New Ridge Road Hanover, MD 21076",8/26/2022,10/25/2022,190,1
+130,Amazon,"8411 Kelson Drive Essex, MD 21221",8/26/2022,10/25/2022,163,1
+131,"Jason Pharmaceuticals d/b/a Medifast, Inc.","601 Sunrise Avenue Ridgely, MD 21660",8/29/2022,9/25/2022,134,2
+132,Unique Stores,"10141 New Hampshire Avenue Silver Spring, MD 20903",9/7/2022,10/28/2022,17,2
+133,Value Village,"10121 New Hampshire Avenue Silver Spring, MD 20903",9/7/2022,10/28/2022,16,2
+134,Value Village,"2277 University Blvd Adelphi, MD 20783",9/7/2022,10/28/2022,13,2
+135,Value Village,"6611 Annapolis Road Landover Hill, MD 20784",9/7/2022,10/28/2022,12,2
+136,Walden Security,"6401 Security Blvd. Baltimore, MD 21207",9/8/2022,11/11/2022,30,2
+137,"Collabera, Inc.","500 Red Brook Boulevard Owings Mills, MD 21117",9/12/2022,10/31/2022,5,1
+138,Peregrine Express,"7458 New Ridge Road Hanover, MD 21076",9/13/2022,10/23/2022,107,1
+139,Employment Background Investigations,"700 Red Brook Blvd Owings Mills, MD 21117",9/16/2022,11/15/2022,82,2
+140,Tessemae's LLC,"9101 Yellowbrick Road Rosedale, MD 21237",9/19/2022,11/19/2022,1,2
+141,Tessemae's LLC,"8805 Kelso Drive Essex, MD 21221",9/19/2022,11/18/2022,34,2
+142,"Lydia Security Monitoring, Inc.","235 Schilling Circle Suite 108 Hunt Valley, MD 21031",9/19/2022,11/19/2022,73,1
+143,Pearson,"509 S. Exeter Street Baltimore, MD 21202",9/28/2022,09/28/2022,152,2
+144,BayFirst Financial,"2028 Liberty Road Suite 202 Eldersburg, MD 21784",9/30/2022,11/25/2022,20,1
+145,"Maryland Sportservice, Inc.","333 W. Camden Street Baltimore, MD 21201",9/30/2022,12/1/2022,649,2
+146,Jubilant Cadista Pharmaceuticals Inc.,"207 Kiley Drive Salisbury, MD 21801",10/6/2022,11/23/2022,80,2
+147,Jacobs Technology,"Aberdeen Test Center Building 402, Suite 200 Aberdeen Proving Ground, MD 21005",10/27/2022,8/11/2023,89,2
+148,"Fila USA, Inc.","7630 Gambrills Cove Curtis Bay, MD 21226",11/1/2022,12/31/2022,54,2
+149,"Fila USA, Inc.","930 Ridgebrook Road Sparks, MD 21152",11/1/2022,12/31/2022,7,2
+150,"New Rez, LLC","6250 Old Dobbin Lane Suites 100 & 110 Columbia, MD 21045",11/4/2022,1/1/2023,24,2
+151,Price Rite Store,"1205 West Pratt Street Baltimore, MD 21223",11/10/2022,12/31/2022,31,1
+152,"NexImmune, Inc.","9119 Gaither Road Gaithersburg, MD 20877",11/15/2022,1/16/2023,22,2
+153,"Catalent Maryland, Inc.","20 Firstfield Road Gaithersburg, Maryland 20878",11/16/2022,1/14/2023,82,1
+154,"Catalent Maryland, Inc.","9920 Belward Campus Drive Rockville, MD 20850",11/16/2022,1/14/2023,53,1
+155,"ReOpen Diagnostics, LLC d/b/a Pandemic Response Lab","9605 Medical Center Drive Suite 220 Rockville, MD 20850",12/6/2022,1/31/2023,21,1
+156,"Freshly, LLC","8704 Bollman Place Savage, MD 20763",12/6/2022,2/7/2023,454,1
+157,"Genesis Logistics, Inc.","1301 Edison Hwy Baltimore, MD 21213",12/12/2022,3/19/2023,50,1
+158,ALSCO,"4900 Philadelphia Way Lanham, MD 20706",1/5/2021,12/15/2020,21,2
+159,Macy's,"4101 Branch Avenue Marlow Heights, MD 20748",1/6/2021,3/14/2021,81,1
+160,MGM National Harbor,"101 MGM National Avenue Oxon Hill, MD 20745",1/6/2021,12/16/2020,518,2
+161,Ridgewells,"5525 Dorsey Lane Bethesda, MD 20816",1/11/2021,1/15/2021,278,2
+162,Sodexo Johns Hopkins Hospital,"600 North Wolfe Street Baltimore, MD 21287",1/15/2021,3/1/2021,55,2
+163,Instacart,"Giant Food 7142 Arlington Road Bethesda, MD 20814",1/22/2021,3/21/2021,17,2
+164,Sunfood Corporation,"140 Western Maryland Pkwy Hagerstown, MD 21740",2/18/2021,3/15/2021,3,1
+165,"AAA Club Alliance, Inc.","8245F Dickerson Lane Salisbury, MD 21804",2/23/2021,3/28/2021,6,1
+166,"GenOn Energy Services, LLC","25100 Chalk Point Road Aquasco, MD 20608",3/24/2021,6/1/2021,57,2
+167,"AAA Club Alliance, Inc.","1019 York Road Towson, MD 21204",4/9/2021,7/1/2021,12,1
+168,Auto Plus Auto Parts,"9909 Pulaski Highway Middle River, MD 21220",4/13/2021,6/13/2021,16,1
+169,Auto Plus Auto Parts,"1739 E. Joppa Road Baltimore, MD 21234",4/13/2021,6/13/2021,4,1
+170,"PAE Shared Services, LLC","23013 Cedar Point Road Bldg. 2118 Patuxent River, MD 20670",4/23/2021,6/12/2021,198,2
+171,"PAE Shared Services, LLC","48542 Haney Road Bldg. 2657 Patuxent River, MD 20670",4/23/2021,6/12/2021,56,2
+172,Maria Health Care Center,"5401 N. Charles Street Baltimore, MD 21212",4/23/2021,6/22/2021,31,1
+173,BioReliance Corporation,"14920 Broschart Road Rockville, MD 20850",4/29/2021,7/2/2021,99,1
+174,Menzies Aviation,"1001 Aviation Boulevard Suite 2400 Baltimore, MD 21240",4/29/2021,6/30/2021,25,2
+175,Kimball David Edward,"1407 Parker Road Baltimore, MD 21227",5/17/2021,5/21/2021,75,1
+176,"Kuehne & Nagel, Inc.","1100 Woodley Road Aberdeen, MD 21001",5/19/2021,7/31/2021,100,1
+177,"Eclipse Advantage, LLC","1100 Woodley Road Aberdeen, MD 21001",5/19/2021,7/19/2021,46,1
+178,"T.Rowe Price Group, Inc.","4515 Painters Mill Road Owings Mills, MD 21117",5/20/2021,7/31/2021,11,2
+179,ABM Industries,"815 E Pratt Street Baltimore, MD 21202",5/26/2021,5/1/2021,9,2
+180,ABM Industries,"655 Watkins Mill Road Gaithersburg, MD 20879",5/26/2021,5/1/2021,9,2
+181,ABM Industries,"10810 Connecticut Avenue Kensington, MD 20895",5/26/2021,5/1/2021,9,2
+182,ABM Industries,"1221 Mercantile Lane Upper Marlboro, MD 20774",5/26/2021,5/1/2021,9,2
+183,Abacus Staffing,"1100 Woodley Road Aberdeen, MD 21001",5/27/2021,7/31/2021,25,1
+184,Hanover Foods Corporation,"502 Factory Lane Ridgely, MD 21660",8/24/2021,11/15/2021,37,1
+185,Ascension Health Senior Care d/b/a Ascension Living,"331 S. Seton Avenue Emmitsburg, MD 21727",8/31/2021,10/29/2021,100,1
+186,Best Buy,"7000 Arundel Mills Circle Hanover, MD 21076",8/30/2021,10/30/2021,47,1
+187,"ShoTime Logistics, LLC","7890 WB&A Rd Severn, MD 21144",9/15/2021,11/9/2021,74,1
+188,"BP Lubricants USA, Inc.","9300 Pulaski Highway Baltimore, MD 21220",9/24/2021,7/29/2021,33,2
+189,Aspire Living & Learning,"2109 Laurel Bush Road Bel Air, MD 21015",9/24/2021,11/23/2021,27,1
+190,Wells Fargo,"7175 Columbia Gateway Drive Columbia, MD 21046",10/22/2021,12/19/2021,30,2
+191,Imerys Carbonate USA,"10000 Beaver Dam Road Cockeysville, MD 21030",11/2/2021,1/31/2022,40,1
+192,"Marriott Hotel Services, Inc.","6711 Democracy Boulevard Bethesda, MD 20817",11/4/2021,1/31/2022,52,2
+193,Ruth's Chris Steak House,"7315 Wisconsin Avenue Bethesda, MD 20814",11/5/2021,12/31/2021,29,1
+194,Price Rite,"5800 Silver Hill Road District Heights, MD 20747",11/30/2021,12/30/2021,36,1
+195,Gabriel Brothers,"3430 Emmorton Road Abingdon, MD 21009",12/1/2021,1/1/2022,61,2
+196,Wisetek Solutions,"3200 Hubbard Road Hyattsville, MD 20785",12/2/2021,2/2/2022,38,1
+197,"The Baltimore Sun Company, LLC","300 East Cromwell Street Baltimore, MD 21230",12/3/2021,1/30/2022,139,2
+198,AIS Healthcare,"10 Warren Road #220 Hunt Valley, MD 21030",12/8/2021,2/8/2022,23,2
+199,Crate & Barrel,"825 Dulaney Valley Road Towson, MD 21204",12/9/2021,2/7/2022,37,1
+200,Macy's,"2304 N. Salisbury Blvd Salisbury, MD 21801",1/10/2020,3/30/2020,80,1
+201,"IAS Logistics DFW, LLC d/b/a Pinnacle Logistics","BWI Airport 7050 Friendship Road Baltimore, MD 21240 1",1/15/2020,4/14/2020,"1,609",2
+202,Collington Distribution Center,"16020 Leeland Road Upper Marlboro, MD 20774",1/29/2020,8/1/2020,520,1
+203,Oakwood Worldwide (US) LP,"888 Airport Park Road Suite A Glen Burnie, MD 21061",1/29/2020,3/30/2020,2,2
+204,"Fedex Ground Package System, Inc.","4801 Hollins Ferry Road Halethorpe, MD 21227",2/11/2020,4/18/2020,130,1
+205,Transform SR LLC-06063 (Sears Auto Center),"11170 Mall Circle Waldorf, MD 20603",2/18/2020,4/12/2020,10,1
+206,Transform SR LLC-01074 (Sears Department Store),"11170 Mall Circle Waldorf, MD 20603",2/18/2020,4/12/2020,58,1
+207,Salvation Army Adult Rehabilitation Centers,"10912 York Road Cockeysville, MD 21030",3/5/2020,5/30/2020,11,1
+208,Salvation Army Adult Rehabilitation Centers,"2250 Gable Avenue Baltimore, MD 21230",3/5/2020,5/30/2020,17,1
+209,Salvation Army Adult Rehabilitation Centers,"2700 W. Patapsco Ave Baltimore, MD 21230",3/5/2020,5/30/2020,31,1
+210,Wolf Furniture,"2400 Churchville Road Bel Air, MD 21015",3/9/2020,5/9/2020,17,1
+211,Wolf Furniture,"6415 Baltimore National Pike Catonsville, MD 21228",3/9/2020,5/9/2020,19,1
+212,Wolf Furniture,"1215 W. Patrick Street Frederick, MD 21702",3/9/2020,5/9/2020,21,1
+213,Wolf Furniture,"900 Premimum Outlets Blvd. Hagerstown, MD 21740",3/9/2020,5/9/2020,24,1
+214,Wolf Furniture,"8038 Ritchie Highway Pasadena, MD 21122",3/9/2020,5/9/2020,27,1
+215,Wolf Furniture,"1530 E. Joppa Road Towson, MD 21286",3/9/2020,5/9/2020,26,1
+216,Wolf Furniture,"1030 Baltimore Blvd. Westminster, MD 21157",3/9/2020,5/9/2020,17,1
+217,Silver Spring Gymnastics & Fitness,"2701 Pittman Drive Silver Spring, MD 20910",3/18/2020,3/16/2020,88,2
+218,SP Plus Corporation,"101 MGM National Avenue Oxon Hill, MD 20745",3/18/2020,3/15/2020,85,2
+219,Artifact Coffee,"1500 Union Avenue Suite 1100 Baltimore, MD 21211",3/19/2020,3/16/2020,24,2
+220,"Foodshed, LLC","2031 Clipper Park Road Baltimore, MD 21211",3/19/2020,3/16/2020,4,2
+221,Woodberry Kitchen,"2010 Clipper Park Road Suite 118 Baltimore, MD 212110",3/19/2020,3/16/2020,76,2
+222,Hotel at UMCP,"7777 Baltimore Avenue College Park, MD 20740",3/19/2020,3/19/2020,150,2
+223,Delta Bingo & Gaming,"3605 Ft. Meade Road Laurel, MD 20724",3/23/2020,3/30/2020,122,2
+224,ALSCO,"4900 Philadelphia Way Lanham, MD 20706",3/25/2020,3/20/2020,150,2
+225,Sheraton Columbia Hotel,"10207 Wincopin Circle Columbia, MD 21044",3/25/2020,3/16/2020,111,2
+226,Case Design/Remodeling,"4701 Sangamore Road Suite P-40 Bethesda, MD 20816",3/26/2020,3/23/2020,16,2
+227,Case Design/Remodeling,"5030 Boiling Brook Parkway Rockville, MD 20852",3/26/2020,3/23/2020,8,2
+228,Prosegur Services Group at BWI,"7050 Friendship Road Baltimore, MD 21240",3/26/2020,3/25/2020,53,2
+229,Maximus Federal Services,"1601 McCormick Drive Largo, MD 20774",3/30/2020,7/1/2020,55,2
+230,Automotive Training Institute,"705 Digital Drive, Suite V Linthicum Heights, MD 21090",3/30/2020,3/29/2020,54,2
+231,Collegiate Hotel Group,"126 West Street Annapolis, MD 21401",3/30/2020,3/16/2020,103,2
+232,"Ahern Rentals, Inc.","7910 Penn Randall Place Upper Marlboro, MD 20772",3/31/2020,3/30/2020,1,2
+233,Cinemark Egyptian 24,"7000 Arundel Mills Circle C-1 Hanover, MD 21076",4/1/2020,3/27/2020,90,2
+234,Cinemark Egyptian 24,"111 East Joppa Road Towson, MD 21286",4/1/2020,3/27/2020,146,2
+235,Schulte Companies d/b/a Courtyard by Marriott,"128 Troopers Way Salisbury, MD 21804",4/1/2020,3/16/2020,32,2
+236,Schulte Companies d/b/a Residence Inn by Marriott,"140 Centre Road Salisbury, MD 21801",4/1/2020,3/16/2020,15,2
+237,Schulte Companies d/b/a Hampton Inn & Suites,"124 Womack Drive Annapolis, MD 21401",4/1/2020,3/16/2020,12,2
+238,"CorePower Yoga, LLC","727 West 40th Street Suite 136 Baltimore, MD 21211",4/1/2020,3/30/2020,27,2
+239,"CorePower Yoga, LLC","6708 Wisconsin Avenue Suite 300 Chevy Chase, MD 20815",4/1/2020,3/30/2020,59,2
+240,"CorePower Yoga, LLC","1321 Dock Street Baltimore, MD 21231",4/1/2020,3/30/2020,31,2
+241,"CorePower Yoga, LLC","1420 Key Highway Suite 201 Baltimore, MD 21230",4/1/2020,3/30/2020,42,2
+242,"CorePower Yoga, LLC","3700 Toone Street Suite D Baltimore, MD 21224",4/1/2020,3/30/2020,34,2
+243,Four Seasons Hotel Baltimore,"200 International Drive Baltimore, MD 21202",4/2/2020,3/23/2020,169,2
+244,Benihana,"7935 Wisconsin Avenue Bethesda, MD 20814",4/3/2020,3/16/2020,43,2
+245,Under Armour,"7030 Tradepoint Avenue Edgemere, Md 21219",4/3/2020,4/12/2020,154,1
+246,Bond 45,"149 Waterfront Street National Harbor, MD 20745",4/3/2020,3/16/2020,62,2
+247,"Caesars Baltimore Management Co., LLC d/b/a Horseshoe Baltimore","1525 Russell Street Baltimore, MD 21230",4/4/2020,3/16/2020,"1,230",2
+248,"Medical Faculty Associates, Inc.","4920 Elm Street Bethesda, MD 20814",4/4/2020,7/5/2020,2,1
+249,Capital Digestive Care,"10801 Lockwood Drive #200 Silver Spring, MD 20901",4/4/2020,3/30/2020,83,2
+250,"Meta Coastal, LLC","5200-B Coastal Highway Ocean City, MD 21842",4/6/2020,3/20/2020,7,2
+251,"Meta Coastal, LLC","16 N. Washington Street Suite 102 Easton, MD 21601",4/6/2020,3/20/2020,4,2
+252,"Meta Coastal, LLC","350 N. Washington Street Easton, MD 21601",4/6/2020,3/20/2020,2,2
+253,"Meta Coastal, LLC","12815 Coastal Highway Unit #104 Ocean City, MD 21842",4/6/2020,3/20/2020,9,2
+254,"Meta Coastal, LLC","19638 Garrett Highway Oakland, MD 21150",4/6/2020,3/20/2020,8,2
+255,"Meta Coastal, LLC","1404 Crain Highway South Suite 101 Glen Burnie, MD 21061",4/6/2020,3/20/2020,42,2
+256,The Silver Heron,"The Mall at Columbia 10300 Little Patuxent Parkway Columbia, MD 21044",4/6/2020,4/4/2020,4,2
+257,Pandora,"St. Charles Towne Center 11110 Mall Circle Waldorf, MD 20603",4/6/2020,4/4/2020,10,2
+258,Pandora,"The Mall at Columbia 10300 Little Patuxent Parkway Columbia, MD 21044",4/6/2020,4/4/2020,17,2
+259,Pandora,"The Gallery at Harborplace 300 East Pratt Street Baltimore, MD 21202",4/6/2020,4/4/2020,7,2
+260,RTW Retailwinds d/b/a Fashion to Figure,"Bowie Town Center 15402-B Emerald Way Space 19A Bowie, MD 20716",4/8/2020,3/29/2020,8,2
+261,RTW Retailwinds d/b/a Fashion to Figure,"Westview Mall 5816 Baltimore National Pike Catonsville, MD 21228",4/8/2020,3/29/2020,10,2
+262,RTW Retailwinds d/b/a Fashion to Figure,"3317 Rosary Court Abingdon, MD 21009",4/8/2020,3/29/2020,1,2
+263,RTW Retailwinds d/b/a New York & Company,"Annapolis Mall 2002 Annapolis Mall Annapolis, Md 21401",4/8/2020,3/29/2020,19,2
+264,RTW Retailwinds d/b/a New York & Company,"Arunde Mills Mall 7000 Arundel Mills Circle Hanover, MD 21076",4/8/2020,3/29/2020,12,2
+265,RTW Retailwinds d/b/a New York & Company,"Harford Mall 696A Bel Air Road Bel Air, MD 21014",4/8/2020,3/29/2020,9,2
+266,RTW Retailwinds d/b/a New York & Company,"Bowie Town Center 15443 Emerald Way Bowie, MD 20716",4/8/2020,3/29/2020,16,2
+267,RTW Retailwinds d/b/a New York & Company,"Columbia Mall 10300 Little Patuxent Parkway Columbia, MD 21044",4/8/2020,3/29/2020,31,2
+268,RTW Retailwinds d/b/a New York & Company,"Hagerstown Premium Outlets 495 Premium Outlel Blvd. Hagerstown, MD 21740",4/8/2020,3/29/2020,12,2
+269,RTW Retailwinds d/b/a New York & Company,"Marley Station Mall 7900 Ritchie Highway Suite E205 Glen Burnie, MD 21061",4/8/2020,3/29/2020,10,2
+270,RTW Retailwinds d/b/a New York & Company,"National Harbor 6800 Oxon Hill Road National Harbor, MD 20745",4/8/2020,3/29/2020,16,2
+271,RTW Retailwinds d/b/a New York & Company,"Centre at Salisbury 2300 N. Salisbury Blvd. Salisbury, MD 21801",4/8/2020,3/29/2020,10,2
+272,RTW Retailwinds d/b/a New York & Company,"Downtown Silver Spring 937 Ellsworth Drive Silver Spring, MD 20910",4/8/2020,3/29/2020,29,2
+273,RTW Retailwinds d/b/a New York & Company,"Towson Town Center 825 Dulaney Valley Road Towson, MD 21204",4/8/2020,3/29/2020,23,2
+274,RTW Retailwinds d/b/a New York & Company,"St. Charles Town Center 11110 Mall Circle Waldorf, MD 20603",4/8/2020,3/29/2020,17,2
+275,RTW Retailwinds d/b/a New York & Company,"TownMall of Westminster 400 North Center Street Westminster, MD 21157",4/8/2020,3/29/2020,6,2
+276,RTW Retailwinds d/b/a New York & Company,"Wheaton Mall 11160 Veirs Mill Road Wheaton, MD 20902",4/8/2020,3/29/2020,17,2
+277,RTW Retailwinds d/b/a New York & Company,"White Marsh Mall 8200 Perry Hall Blvd. Baltimore, MD 21236",4/8/2020,3/29/2020,17,2
+278,Medieval Times,"7000 Arundel Mills Circle Hanover, MD 21076",4/9/2020,4/12/2020,146,2
+279,The Bethesda Country Club,"7601 Bradley Boulevard Bethesda, MD 20817",4/13/2020,3/26/2020,128,2
+280,Enterprise Holdings,"1861 South Club Drive Landover, MD 20785",4/22/2020,4/30/2020,65,2
+281,Next Day Blinds,"8251 Preston Court Jessup, MD 20794",4/23/2020,4/14/2020,453,2
+282,Enterprise Holdings,"2273 Research Blvd. Floor 6 & 7 Rockville, MD 20850",4/23/2020,4/30/2020,92,2
+283,Visionworks,"169 Jennifer Road Suite D Annapolis, MD 21401",4/23/2020,4/4/2020,10,2
+284,Visionworks,"8153-C Honeygo Blvd. Baltimore, MD 21236",4/23/2020,4/4/2020,13,2
+285,Visionworks,"15431 Emerald Way Bowie, MD 20716",4/23/2020,4/4/2020,7,2
+286,Visionworks,"15902 Crain Highway SE Suite F Brandywine, MD 20613",4/23/2020,4/4/2020,15,2
+287,Visionworks,"23415 Three Notch Road Suite 1101 California, MD 20619",4/23/2020,4/4/2020,8,2
+288,Visionworks,"6427 Baltimore Pike Suite A Catonsville, MD 21228",4/23/2020,4/4/2020,5,2
+289,Visionworks,"10112 York Road Cockeysville, MD 21030",4/23/2020,4/4/2020,3,2
+290,Visionworks,"6250 Columbia Crossing Circle Suite K Columbia, MD 21045",4/23/2020,4/4/2020,12,2
+291,Visionworks,"5509 Urbana Pike Frederick, MD 21704",4/23/2020,4/4/2020,5,2
+292,Visionworks,"631 N. Frederick Avenue Gaithersburg, MD 20879",4/23/2020,4/4/2020,9,2
+293,Visionworks,"271 Kentlands Blvd. Gaithersburg, MD 20879",4/23/2020,4/4/2020,5,2
+294,Visionworks,"1402 S. Main Chapel Way Suite 114 Gambrills, MD 21054",4/23/2020,4/4/2020,4,2
+295,Visionworks,"7000 Arundel Mills Circle Space 404 Hanover, MD 21076",4/23/2020,4/4/2020,11,2
+296,Visionworks,"2830 Campus Way N. Suite 628 Lanham, MD 20706",4/23/2020,4/4/2020,8,2
+297,Visionworks,"1003 Fairlawn Avenue Suite 24A Laurel, MD 20707",4/23/2020,4/4/2020,5,2
+298,Visionworks,"10369 Reisterstown Road Owings Mills, MD 21117",4/23/2020,4/4/2020,6,2
+299,Visionworks,"11802-B Rockville Pike Rockville, MD 20852",4/23/2020,4/4/2020,11,2
+300,Visionworks,"8652 Pulaski Highway Suite A Rosedale, MD 21237",4/23/2020,4/4/2020,11,2
+301,Visionworks,"8551 Fenton Street Silver Spring, MD 20910",4/23/2020,4/4/2020,7,2
+302,Visionworks,"825 Dulaney Valley Road Suite 1335 Towson, MD 21204",4/23/2020,4/4/2020,15,2
+303,Visionworks,"11110 Mall Circle Waldorf, MD 20603",4/23/2020,4/4/2020,14,2
+304,Visionworks,"400 N. Center Street Suite 187 Westminster, MD 21157",4/23/2020,4/4/2020,14,2
+305,Visionworks,"11160 Veirs Mill Road P203A Wheaton, MD 20902",4/23/2020,4/4/2020,12,2
+306,Visionworks,"656 Bel Air Road Bel Air, MD 21014",4/23/2020,4/4/2020,10,2
+307,"OS Restaurant, LLC d/b/a Bonefish Grill","696J Bel Air Road #108 Bel Air, MD 21014",4/27/2020,4/27/2020,57,2
+308,"OS Restaurant, LLC d/b/a Bonefish Grill","15910 Crain Highway SE Brandywine, MD 20613",4/27/2020,4/27/2020,46,2
+309,"OS Restaurant, LLC d/b/a Bonefish Grill","2381 Brandermill Boulevard Gambrills, MD 21054",4/27/2020,4/27/2020,72,2
+310,"OS Restaurant, LLC d/b/a Bonefish Grill","6711 Governor Ritchie Hwy. Glen Burnie, MD 21060",4/27/2020,4/27/2020,47,2
+311,"OS Restaurant, LLC d/b/a Bonefish Grill","10906 Boulevard Circle Owings Mills, MD 21117",4/27/2020,4/27/2020,58,2
+312,"OS Restaurant, LLC d/b/a Bonefish Grill","127 East Joppa Road Towson, MD 21286",4/27/2020,4/27/2020,49,2
+313,"OS Restaurant, LLC d/b/a Bonefish Grill","1305 West 7th Street Frederick, MD 21702",4/27/2020,4/27/2020,54,2
+314,"OS Restaurant, LLC d/b/a Bonefish Grill","82 Market Street Gaithersburg, MD 20878",4/27/2020,4/27/2020,51,2
+315,"OS Restaurant, LLC d/b/a Carraba's","16431 Governor Bridge Road Bowie, MD 20716",4/27/2020,4/27/2020,66,2
+316,"OS Restaurant, LLC d/b/a Carraba's","19935 Century Boulevard Germantown, MD 20874",4/27/2020,4/27/2020,63,2
+317,"OS Restaurant, LLC d/b/a Carraba's","12728 Ocean Gateway Ocean City, MD 21842",4/27/2020,4/27/2020,43,2
+318,"OS Restaurant, LLC d/b/a Carraba's","8030 Ritchie Highway Pasadena, MD 21122",4/27/2020,4/27/2020,63,2
+319,"OS Restaurant, LLC d/b/a Carraba's","3754 Crain Highway Waldorf, MD 20602",4/27/2020,4/27/2020,65,2
+320,"OS Restaurant, LLC d/b/a Carraba's","7600 Belair Road Baltimore, MD 21236",4/27/2020,4/27/2020,63,2
+321,"OS Restaurant, LLC d/b/a Carraba's","4430 Long Gate Parkway Ellicott City, MD 21043",4/27/2020,4/27/2020,84,2
+322,"OS Restaurant, LLC d/b/a Carraba's","130 Shawan Road Hunt Valley, MD 21031",4/27/2020,4/27/2020,68,2
+323,"OS Restaurant, LLC d/b/a Flemings","720 Aliceanna Street Baltimore, MD 21202",4/27/2020,4/27/2020,48,2
+324,"OS Restaurant, LLC d/b/a Outback Steakhouse","2207 Forest Drive Annapolis, MD 21401",4/27/2020,4/27/2020,99,2
+325,"OS Restaurant, LLC d/b/a Outback Steakhouse","4215 Ebenezer Road Baltimore, MD 21236",4/27/2020,4/27/2020,84,2
+326,"OS Restaurant, LLC d/b/a Outback Steakhouse","2400 Boston Street Baltimore, MD 21224",4/27/2020,4/27/2020,57,2
+327,"OS Restaurant, LLC d/b/a Outback Steakhouse","615 Bel Air Road Bel Air, MD 21014",4/27/2020,4/27/2020,94,2
+328,"OS Restaurant, LLC d/b/a Outback Steakhouse","1007 West Patrick Street Frederick, MD 21702",4/27/2020,4/27/2020,97,2
+329,"OS Restaurant, LLC d/b/a Outback Steakhouse","2507 Evergreen Road Gambrills, MD 21054",4/27/2020,4/27/2020,77,2
+330,"OS Restaurant, LLC d/b/a Outback Steakhouse","7744 Governor Ritchie Hwy. Glen Burnie, MD 21061",4/27/2020,4/27/2020,127,2
+331,"OS Restaurant, LLC d/b/a Outback Steakhouse","240 Railway Lane Hagerstown, MD 21740",4/27/2020,4/27/2020,87,2
+332,"OS Restaurant, LLC d/b/a Outback Steakhouse","134 Shawan Road Hunt Valley, MD 21030",4/27/2020,4/27/2020,66,2
+333,"OS Restaurant, LLC d/b/a Outback Steakhouse","6649 Crain Highway La Plata, MD 20646",4/27/2020,4/27/2020,65,2
+334,"OS Restaurant, LLC d/b/a Outback Steakhouse","12741 Ocean Gateway #920 Ocean City, MD 21842",4/27/2020,4/27/2020,68,2
+335,"OS Restaurant, LLC d/b/a Outback Steakhouse","10904 Boulevard Circle Owings Mills, MD 21117",4/27/2020,4/27/2020,75,2
+336,"OS Restaurant, LLC d/b/a Outback Steakhouse","8245 Dickerson Lane Salisbury, MD 21804",4/27/2020,4/27/2020,80,2
+337,"OS Restaurant, LLC d/b/a Outback Steakhouse","23415 Three Notch Road California, MD 20619",4/27/2020,4/27/2020,87,2
+338,"OS Restaurant, LLC d/b/a Outback Steakhouse","3500 East West Highway Hyattsville, MD 20782",4/27/2020,4/27/2020,82,2
+339,"OS Restaurant, LLC d/b/a Outback Steakhouse","80 Central Square Drive Prince Frederick, MD 20678",4/27/2020,4/27/2020,88,2
+340,"OS Restaurant, LLC d/b/a Outback Steakhouse","3020 Crain Highway Waldorf, MD 20601",4/27/2020,4/27/2020,84,2
+341,"OS Restaurant, LLC d/b/a Outback Steakhouse","4420 Long Gate Parkway Ellicott City, MD 21043",4/27/2020,4/27/2020,144,2
+342,"OS Restaurant, LLC d/b/a Outback Steakhouse","12609 Wisteria Drive Germantown, MD 20874",4/27/2020,4/27/2020,63,2
+343,"OS Restaurant, LLC d/b/a Outback Steakhouse","9660 Lottsford Court Largo, MD 20774",4/27/2020,4/27/2020,76,2
+344,"OS Restaurant, LLC d/b/a Outback Steakhouse","14718 Baltimore Avenue Laurel, MD 20707",4/27/2020,4/27/2020,84,2
+345,"OS Restaurant, LLC d/b/a Outback Steakhouse","6091 Oxon Hill Road Oxon Hill, MD 20745",4/27/2020,4/27/2020,87,2
+346,"OS Restaurant, LLC d/b/a Outback Steakhouse","13703 Georgia Avenue Silver Spring, Md 20906",4/27/2020,4/27/2020,53,2
+347,Residence Inn at Hunt Valley,"45 Schilling Road Hunt Valley, MD 21031",4/27/2020,3/23/2020,34,2
+348,Enterprise Holdings,"7426 New Ridge Road Hanover, MD 21076",4/27/2020,4/30/2020,189,2
+349,Enterprise Holdings,"701 Wedeman Avenue Linthicum Heights, MD 21090",4/27/2020,4/30/2020,220,2
+350,"Shutterfly Lifetouch, LLC",Statewide,4/28/2020,3/12/2020,413,2
+351,HMS Host,"6905 Rockledge Drive Bethesda, MD 20817",5/1/2020,4/24/2020,1,2
+352,Capital Digestive Care,"10215 Fernwood Road Suite 404 Bethesda, MD 20817",5/4/2020,3/30/2020,3,2
+353,Capital Digestive Care,"4831 Tesla Drive Suite G Bowie, MD 20715",5/4/2020,3/30/2020,5,2
+354,Capital Digestive Care,"4861 Tesla Drive Suite K Bowie, MD 20715",5/4/2020,3/30/2020,4,2
+355,Capital Digestive Care,"5550 Friendship Boulevard Suite T-90 Chevy Chase, MD 20815",5/4/2020,3/30/2020,13,2
+356,Capital Digestive Care,"7350 Van Dusen Road Suite 210 Laurel, MD 20707",5/4/2020,3/30/2020,18,2
+357,Capital Digestive Care,"15001 Shady Grove Road Suite 300 Rockville, MD 20850",5/4/2020,3/30/2020,9,2
+358,Capital Digestive Care,"9711 Medical Center Drive Suite 308 Rockville, MD 20850",5/4/2020,3/30/2020,11,2
+359,Capital Digestive Care,"10801 Lockwood Drive #200 Silver Spring, MD 20901",5/4/2020,3/30/2020,13,2
+360,Capital Digestive Care,"12510 Prosperity Drive Suite 200 Silver Spring, MD 20904",5/4/2020,3/30/2020,1,2
+361,Turf Valley Resort,"2700 Turf Valley Road Ellicott City, MD 21042",5/7/2020,5/11/2020,200,2
+362,"Transdev Services, Inc.","8401 D'Arcy Road Forestville, MD 20747",5/8/2020,6/30/2020,194,1
+363,"Protocall Communications, Inc.","204 Main Street Laurel, MD 20707",5/8/2020,3/23/2020,110,2
+364,Cox Automotive,"7120 Dorsey Run Road Elkridge, MD 21075",5/8/2020,5/17/2020,161,2
+365,"LAZ Parking Mid-Atlantic, LLC","300 E. Lombard Street Suite 930 Baltimore, MD 21202",5/11/2020,3/18/2020,90,2
+366,"E&G Corporation, LLC","8730 Greewood Place Savage, MD 20763",5/11/2020,3/30/2020,22,2
+367,Delta Hunt Valley,"245 Shawan Road Hunt Valley, MD 21031",5/11/2020,3/20/2020,57,2
+368,"PPE Casino Resorts Maryland, LLC d/b/a Live Casino & Hotel","7002 Arundel Mills Circle Hanover, MD 21076",5/12/2020,3/16/2020,2400,2
+369,Nordstrom,"1880 Annapolis Mall Annapolis, MD 21401",5/12/2020,6/1/2020,237,1
+370,Cambria Suites - Rockville,"1 Helen Heneghan Way Rockville, MD 20850",5/15/2020,3/23/2020,25,2
+371,"Maryland Cinema Investments, LLC d/b/a Cinépolis","629 Center Point Way Gaithersburg, MD 20878",5/15/2020,3/23/2020,65,2
+372,Crowne Plaza Hotel,"105 W. Fayette Street Baltimore, MD 21201",5/15/2020,3/21/2020,6,2
+373,"Evitts Resort, LLC d/b/a Rocky Gap Casino","16701 Lakeview Road Flintstone, Md 21530",5/15/2020,3/16/2020,461,2
+374,HMS Host,"107 Fuel Farm Road Baltimore, MD 21240",5/15/2020,3/16/2020,152,2
+375,Hyatt Regency Bethesda,"1 Bethesda Metro Center Bethesda, MD 20814",5/15/2020,3/18/2020,95,2
+376,Marriott Baltimore,"110 S. Eutaw Street Baltimore, MD 21201",5/15/2020,3/21/2020,120,2
+377,Radisson Hotel - Baltimore Inner Harbor,"110 W. Fayette Street Baltimore, MD 21201",5/15/2020,3/21/2020,43,2
+378,The Westin - Baltimore Washington Airport,"1110 Old Elkridge Landing Rd Linthicum Heights, MD 21090",5/15/2020,3/27/2020,71,2
+379,The Westin - Washington National Harbor,"170 Waterfront Street National Harbor, MD 20745",5/15/2020,3/28/2020,68,2
+380,Uncle Julio's,"4870 Bethesda Avenue Bethesda, MD 20814",5/15/2020,3/19/2020,50,2
+381,"Guitar Center Stores, Inc.","7114 Geoffrey Way Suite A Frederick, MD 21704",5/15/2020,4/6/2020,105,2
+382,Holiday Inn Gaithersburg,"2 Montgomery Village Avenue Gaithersburg, MD 20879",5/15/2020,3/24/2020,57,2
+383,Miller's Ale House,"601 Baltimore Pike Bel Air, MD 21014",5/15/2020,3/21/2020,98,2
+384,Miller's Ale House,"1471 Rockville Pike Rockville, MD 20852",5/15/2020,3/21/2020,74,2
+385,Paper Source,"1809 Reisterstown Road Baltimore, MD 21208",5/15/2020,3/29/2020,14,2
+386,Paper Source,"4805 Bethesda Avenue Bethesda, MD 20814",5/15/2020,3/29/2020,15,2
+387,"Pier 1 Imports, Inc.","500 Old Post Road Aberdeen, MD 21001",5/15/2020,6/1/2020,134,1
+388,Holly Poultry,"2121 Wicomico Street Baltimore, MD 21230",5/15/2020,3/20/2020,36,2
+389,Holly Poultry,"2221 Berlin Street Baltimore, MD 21230",5/15/2020,3/20/2020,7,2
+390,"Hooters of America, LLC","301 Light Street Suite 173 Baltimore, MD 21202",5/15/2020,3/16/2020,18,2
+391,"Hooters of America, LLC","1600 Fedex Way Landover, MD 20785",5/15/2020,3/16/2020,18,2
+392,"Hooters of America, LLC","14707-A Baltimore Avenue Laurel, MD 20707",5/15/2020,3/16/2020,18,2
+393,"Hooters of America, LLC","3600 Crain Highway Waldorf, MD 20603",5/15/2020,3/16/2020,17,2
+394,Charlotte Russe,"8200 Perry Hall Boulevard Unit 2070 Baltimore, MD 21236",5/19/2020,3/27/2020,13,2
+395,Charlotte Russe,"11160 Veirs Mill Road Unit 156 Wheaton, MD 20902",5/19/2020,3/27/2020,13,2
+396,"GenOn Energy Services, LLC","21200 Martinsburg Road Dickerson, MD 20842",5/19/2020,8/1/2020,63,1
+397,North American Dental Group,"1415 River Avenue Suite B Cumberland, MD 21502",5/20/2020,3/23/2020,3,2
+398,North American Dental Group,"13975 Connecticut Avenue Suite 309 Silver Spring, MD 20906",5/20/2020,3/23/2020,4,2
+399,North American Dental Group,"16069 Comprint Circle Gaithersburg, MD 20877",5/20/2020,3/23/2020,1,2
+400,North American Dental Group,"85 Thomas Court Suite A Frederick, MD 21702",5/20/2020,3/23/2020,6,2
+401,Sheraton Silver Spring,"8777 Georgia Avenue Silver Spring, MD 20910",5/21/2020,5/7/2020,56,2
+402,"Bed, Bath & Beyond","1519 Rockville Pike Rockville, MD 20852",5/27/2020,4/4/2020,95,2
+403,Parkhurst Dining Services,"Loyola University 4501 N. Charles Street Baltimore, MD 21210",5/27/2020,4/17/2020,230,2
+404,Parkhurst Dining Services,"Maryland Institute College of Art 140 W. Lafayette Ave. Baltimore, MD 21217",5/27/2020,4/17/2020,50,2
+405,Prosegur Services Group at BWI,"7050 Friendship Road Baltimore, MD 21240",5/27/2020,5/18/2020,27,2
+406,Gaithersburg Marriott Washingtonian Center,"9751 Washingtonian Boulevard Gaithersburg, MD 20878",6/3/2020,3/28/2020,115,2
+407,Bethesda North Marriott Hotel & Conference Center,"5701 Marinelli Road North Bethesda, MD 20852",6/3/2020,3/21/2020,230,2
+408,Bethesda Marriott Waterfront Hotel,"700 Aliceanna Street Baltimore, MD 21201",6/4/2020,3/21/2020,308,2
+409,College Park Marriott Hotel & Conference Center,"3501 University Blvd. E Hyattsville, MD 20783",6/5/2020,3/14/2020,179,2
+410,Four Seasons Hotel Baltimore,"200 International Drive Baltimore, MD 21202",6/5/2020,5/24/2020,87,2
+411,BWI Airport Marriott Hotel,"1743 W. Nursery Road Linthicum, MD 21090",6/8/2020,3/21/2020,140,2
+412,Bethesda Marriott Suites,"6711 Democracy Boulevard Bethesda, MD 20817",6/8/2020,3/21/2020,84,2
+413,"NorthBay Education, Inc.",11 Horseshoe Point Lane,6/8/2020,6/19/2020,136,2
+414,Bethesda Marriott,"5151 Pooks Hill Road Bethesda, MD 20814",6/10/2020,3/21/2020,176,2
+415,Hyatt Regency Baltimore,"300 Light Street Baltimore, MD 21202",6/11/2020,3/20/2020,177,2
+416,Gaylord National Harbor Resort and Conference Center,"201 Waterfront Street National Harbor, MD 20745",6/15/2020,3/11/2020,"2,077",2
+417,"Jacobsen Daniels Enterprises, Inc.","BWI Airport 7050 Friendship Road Baltimore, Md 21240",6/15/2020,6/12/2020,15,2
+418,AC Hotel National Harbor,"156 Waterfront Street Oxon Hill, MD 20745",6/18/2020,3/10/2020,54,2
+419,The Padonia Corporation & Child Care International LTD,"12006 Jenifer Road Cockeysville, MD 21030",6/19/2020,6/3/2020,69,2
+420,Sheraton Inner Harbor,"300 South Charles Street Baltimore, MD 21201",6/19/2020,3/21/2020,135,2
+421,Marriott International Shared Services,"10400 Fernwood Road Bethesda, MD 20817",6/19/2020,4/4/2020,64,2
+422,Victoria's Secret,"7900 Governor Ritchie Hwy. Glen Burnie, MD 21061",6/24/2020,6/25/2020,28,1
+423,"VT Industries, Inc.","101 Western Maryland Pkwy Hagerstown, MD 21740",6/24/2020,5/13/2020,62,1
+424,Sheppard Pratt - Jefferson School and Residential Treatment Center,"2940 Point of Rocks Road Jefferson, MD 21755",6/24/2020,8/31/2020,175,1
+425,"Traylor Bros., Inc.","6811 Kenilworth Avenue Riverdale, MD 20737",6/24/2020,8/23/2020,28,2
+426,"Purple Line Transit Constructors, LLC","6811 Kenilworth Avenue Riverdale, MD 20737",6/24/2020,8/23/2020,478,2
+427,Lane Construction Corporation,"6811 Kenilworth Avenue Riverdale, MD 20737",6/24/2020,8/23/2020,125,2
+428,"Fluor Enterprises, Inc.","6811 Kenilworth Avenue Riverdale, MD 20737",6/24/2020,8/23/2020,87,2
+429,Kimpton Hotel Monaco Baltimore Inner Harbor,"2 N. Charles Street Baltimore, MD 21201",6/26/2020,3/11/2020,94,2
+430,Renaissance Baltimore Harbor Place Hotel,"202 East Pratt Street Baltimore, MD 21202",6/26/2020,3/23/2020,212,2
+431,Macy's,"1295 Annapolis Mall Annapolis, MD 21401",6/26/2020,6/30/2020,103,2
+432,Macy's,"10300 Little Patuxent Parkway Columbia, MD 21044",6/26/2020,6/30/2020,131,2
+433,Double Tree Annapolis,"210 Holiday Court Annapolis, MD 21401",6/29/2020,3/24/2020,54,2
+434,Delaware North Companies,"Oriole Park at Camden Yards 555 Russell Street Suite B Baltimore, MD 21230",7/10/2020,3/23/2020,350,2
+435,Hard Rock Café Baltimore,"601 E. Pratt Street Baltimore, MD 21202",7/14/2020,4/13/2020,69,2
+436,YogaWorks,"160 Governor Ritchie Highway Severna Park, MD 21146",7/17/2020,3/17/2020,26,2
+437,YogaWorks,"1807 Thames Street Baltimore, MD 21231",7/17/2020,3/17/2020,36,2
+438,YogaWorks,"107 E. Preston Street Baltimore, MD 21202",7/17/2020,3/17/2020,73,2
+439,YogaWorks,"1777 Reisterstown Road Pikesville, MD 21208",7/17/2020,3/17/2020,24,2
+440,YogaWorks,"7 Allegheny Avenue Towson, MD 21204",7/17/2020,3/17/2020,36,2
+441,YogaWorks,"8325 Guilford Road Columbia, MD 21046",7/17/2020,3/17/2020,28,2
+442,JC Penney,"3500 East West Highway Suite 1000 Hyattsville, MD 20782",7/17/2020,9/27/2020,94,1
+443,Hilton Baltimore Convention Center Hotel,"401 West Pratt Street Baltimore, MD 21201",7/21/2020,3/21/2020,380,2
+444,The Bygone,"400 International Drive 29th Floor Baltimore, MD 21202",7/28/2020,7/24/2020,46,2
+445,The Elk Room,"1010 Fleet Street Baltimore, MD 21202",7/29/2020,7/24/2020,1,2
+446,"IPIC Theaters, LLC","11830 Park Avenue #1102 North Bethesda, MD 20852",8/6/2020,8/7/2020,100,2
+447,Double Tree by Hilton,"8727 Colesville Road Silver Spring, MD 20910",8/7/2020,3/22/2020,71,2
+448,"Guest Services, Inc.","Domino Sugar 1100 Key Highway Baltimore, MD 21230",8/7/2020,9/25/2020,4,2
+449,"Guest Services, Inc.","Hogan Lovells 111 South Calvert Street Baltimore, MD 21202",8/7/2020,9/25/2020,1,2
+450,"Guest Services, Inc.","McCormick Company Store 24 Schilling Road #1 Hunt Valley, MD 21031",8/7/2020,9/25/2020,1,2
+451,"Guest Services, Inc.","NAS Patuxent River Cafeteria 47123 Buse Road #540 Patuxent River, MD 20607",8/7/2020,9/25/2020,13,2
+452,"Guest Services, Inc.","NG BWI ATL 1212 Winterson Road Linthicum, MD 21090",8/7/2020,9/25/2020,3,2
+453,"Guest Services, Inc.","NG BWI Central 7323 Aviation Blvd. Baltimore, MD 21203",8/7/2020,9/25/2020,11,2
+454,"Guest Services, Inc.","NIH 5601 Fishers Lane Rockville, MD 20852",8/7/2020,9/25/2020,13,2
+455,"Guest Services, Inc.","Office of Naval Intelligence 4251 Suitland Road Suitland, MD 20746",8/7/2020,9/25/2020,2,2
+456,"Guest Services, Inc.","Rockwell Collins 2551 Riva Road Annapolis, MD 21401",8/7/2020,9/25/2020,6,2
+457,"Guest Services, Inc.","Walter Reed Medical Center 8901 Wisconsin Avenue Bldg. 2 Bethesda, MD 20889",8/7/2020,9/25/2020,16,2
+458,"Quest Diagnostics, Inc.","1901 Sulphur Springs Road Halethorpe, MD 21227",8/7/2020,9/27/2020,52,2
+459,"TL Transportation, LLC","861 E. Gude Drive Rockville, MD 20850",8/12/2020,10/15/2020,70,1
+460,"Maritz Holdings, Inc.","5202 Presidents Court Suite 310 Frederick, MD 21703",8/12/2020,10/16/2020,127,2
+461,Capital One Financial,"7566 Ridge Road Hanover, MD 21076",8/20/2020,10/20/2020,0,1
+462,Capital One Financial,"9245 Baltimore National Pike Ellicott City, MD 21042",8/20/2020,10/20/2020,0,1
+463,Capital One Financial,"802 Pleasant Drive Rockville, MD 20850",8/20/2020,10/20/2020,0,1
+464,Capital One Financial,"402 East Ridgeville Boulevard Mt. Airy, MD 21771",8/20/2020,10/20/2020,0,1
+465,Sodexo,"842 Elkridge Landing Road Linthicum, MD 21090",8/26/2020,8/31/2020,4,2
+466,Sodexo,"9230 Sigaba Way Fort Meade, MD 20755",8/26/2020,8/31/2020,3,2
+467,Sodexo,"9800 Savage Road Fort Meade, MD 20755",8/26/2020,8/31/2020,39,2
+468,Sodexo,"9817 Erskine Road Fort Meade, MD 20755",8/26/2020,8/31/2020,4,2
+469,Sodexo,"9840 O'Brien Road Fort Meade, MD 20755",8/26/2020,8/31/2020,2,2
+470,Sodexo,"2730 Hercules Drive Annapolis Junction, MD 20701",8/26/2020,8/31/2020,1,2
+471,Sodexo,"318 National Business Pkwy. Annapolis Junction, MD 20701",8/26/2020,8/31/2020,1,2
+472,Sodexo,"8197 Dorsey Run Road Annapolis Junction, MD 20701",8/26/2020,8/31/2020,2,2
+473,Sodexo,"9111 Sterling Drive Laurel, MD 20723",8/26/2020,8/31/2020,2,2
+474,"Stellar Partners, Inc.","BWI Airport 7050 Friendship Road Baltimore, MD 21240",8/27/2020,3/16/2020,19,2
+475,Airport Management Services and Hudson Group,"BWI Airport 7050 Friendship Road Baltimore, MD 21240",9/1/2020,8/31/2020,60,2
+476,Avis Budget Group,"7432 New Ridge Road Hanover, MD 21076",9/1/2020,9/4/2020,5,2
+477,Avis Budget Group,"7145 Ritchie Highway Glen Burnie, MD 21061",9/1/2020,9/4/2020,1,2
+478,Avis Budget Group,"1429 Aliceanna Street Baltimore, MD 21231",9/1/2020,9/4/2020,1,2
+479,Avis Budget Group,"291 Bucheimer Road Frederick, MD 21701",9/1/2020,9/4/2020,5,2
+480,"Marriott International, Inc.","10400 Fernwood Road Bethesda, MD 20817",9/3/2020,10/23/2020,673,2
+481,Dave & Buster's,"8611 Colesville Road Suite 102 Silver Spring, MD 20910",9/9/2020,3/16/2020,117,2
+482,Dave & Buster's,"9811 Washingtonian Blvd. Suite H1 Gaithersburg, MD 20878",9/9/2020,3/16/2020,148,2
+483,Royal Sonesta Harbor Court Hotel,"550 Light Street Baltimore, MD 21202",9/11/2020,4/1/2020,66,2
+484,"Compass Group USA, Inc. d/b/a Chartwells","Towson University 8000 York Road Baltimore, MD 21252",9/15/2020,3/11/2020,349,2
+485,Compass Group USA d/b/a Chartwells at University of Maryland-Baltimore County,"1000 Hilltop Circle Baltimore, MD 21250",9/15/2020,3/12/2020,87,2
+486,"Freeman Digi Ventures, LLC","9900 Business Parkway Lanham, MD 20706",9/21/2020,6/30/2020,1,2
+487,"Freeman Expositions, LLC","9900 Business Parkway Lanham, MD 20706",9/21/2020,6/30/2020,19,2
+488,"Freeman Expositions, LLC","9900 Business Parkway Lanham, MD 20706",9/21/2020,6/30/2020,12,2
+489,P.F. Chang's China Bistro,"307 Sail Place Annapolis, MD 21401",9/21/2020,3/16/2020,75,2
+490,P.F. Chang's China Bistro,"8342 Honeygo Boulevard Baltimore, MD 21236",9/21/2020,3/16/2020,75,2
+491,P.F. Chang's China Bistro,"10300 Little Patuxent Parkway Columbia, MD 21044",9/21/2020,3/16/2020,75,2
+492,P.F. Chang's China Bistro,"825 Dulaney Valley Road Suite 1161 Towson, MD 21204",9/21/2020,3/16/2020,75,2
+493,"Rosa Mexicano National Harbor, LLC","153 Waterfront Street Oxon Hill, MD 20745",9/22/2020,3/16/2020,115,2
+494,"International Limousine Service, Inc.","12270 Wilkins Avenue Rockville, MD 20852",9/30/2020,9/24/2020,34,2
+495,"Errands Plus, Inc.","12270 Wilkins Avenue Rockville, MD 20852",9/30/2020,9/24/2020,131,2
+496,"RMA Coach, LLC","12270 Wilkins Avenue Rockville, MD 20852",9/30/2020,9/24/2020,34,2
+497,Candlewood Suites Baltimore-Linthicum,"1247 Winterson Road Linthicum, MD 21090",10/1/2020,11/30/2020,16,2
+498,"Le Tote, Inc.","11311 Rockville Pike Kensington, MD 20852",10/2/2020,12/1/2020,40,1
+499,"Le Tote, Inc.","10300 Little Patuxent Parkway Columbia, MD 21044",10/2/2020,12/1/2020,29,1
+500,Unitech Consulting d/b/a Chameleon Integrated Services,"6910 Cooper Avenue Fort Meade, MD 20755",10/13/2020,12/6/2020,79,2
+501,"Carey International, Inc.","7445 New Technology Way Frederick, MD 21703",10/15/2020,11/27/2020,4,2
+502,"PAE Shared Services, LLC","23013 Cedar Point Road Bldg. 2118 Patuxent River, MD 20670",10/16/2020,12/12/2020,296,2
+503,"Maritz Holdings, Inc.","5202 Presidents Court Suite 310 Frederick, MD 21703",10/22/2020,2/22/2021,21,2
+504,Schulte Companies d/b/a Embassy Suites Inner Harbor Hotel,"222 St. Paul Place Baltimore, MD 212020",4/1/2020 (REVISED) 10/22/2020,3/16/2020 (REVISED) 10/22/2020 11/26/2020,103 (REVISED) 10/22/2020 108,1
+505,Aramark at Guiness Brewery,"5001 Washington Blvd. Halethorpe, MD 21227",10/27/2020,3/31/2020,70,2
+506,Crothall Healthcare,"Medstar Harbor 3001 S. Hanover St. Baltimore, MD 21225",10/30/2020,12/31/2020,70,2
+507,Crothall Healthcare,"Good Samaritan 5601 Loch Raven Road Baltimore, MD 21239",10/30/2020,12/31/2020,61,2
+508,Crothall Healthcare,"Union Memorial 201 E. University Parkway Baltimore, MD 21218",10/30/2020,12/31/2020,142,2
+509,"La Madeleine de Corps, Inc.","7607 Old Georgetown Road Bethesda, MD 20814",11/4/2020,12/31/2020,20,2
+510,"Centene Management Company, LLC","1201 Winterson Road 4th Floor Linthicum Heights, MD 21090",11/4/2020,12/31/2020,224,1
+511,"Pet Valu, Inc.","1308 Main Chapel Way Gambrills, MD 21054",11/5/2020,1/6/2021,5,2
+512,"Pet Valu, Inc.","940 Bay Ridge Road Unit A-4 Annapolis, MD 21403",11/5/2020,1/6/2021,10,2
+513,"Pet Valu, Inc.","68 Central Avenue W Edgewater, MD 21037",11/5/2020,1/6/2021,9,2
+514,"Pet Valu, Inc.","4115 Mountain Road Suite 4193 Pasadena, MD 21122",11/5/2020,1/6/2021,8,2
+515,"Pet Valu, Inc.","895 East Fort Avenue Baltimore, MD 21230",11/5/2020,1/6/2021,8,2
+516,"Pet Valu, Inc.","1209 N. Charles Street Suite 1 Baltimore, MD 21201",11/5/2020,1/6/2021,6,2
+517,"Pet Valu, Inc.","711 W. 40th Street Suite 161 Baltimore, MD 21211",11/5/2020,1/6/2021,6,2
+518,"Pet Valu, Inc.","9910-9912 Reisterstown Road Owings Mills, MD 21117",11/5/2020,1/6/2021,3,2
+519,"Pet Valu, Inc.","5007 Honeygo Center Drive Perry Hall, MD 21128",11/5/2020,1/6/2021,13,2
+520,"Pet Valu, Inc.","114 Shawan Road Suite 4 Hunt Valley, MD 21030",11/5/2020,1/6/2021,7,2
+521,"Pet Valu, Inc.","2570-72 Quarry Lake Drive Baltimore, MD 21209",11/5/2020,1/6/2021,4,2
+522,"Pet Valu, Inc.","18 W. Ridgely Road Timonium, MD 21093",11/5/2020,1/6/2021,7,2
+523,"Pet Valu, Inc.","1758 Merritt Boulevard Dundalk, MD 20754",11/5/2020,1/6/2021,5,2
+524,"Pet Valu, Inc.","1305 West 7th Street Suite 28 Frederick, MD 21702",11/5/2020,1/6/2021,10,2
+525,"Pet Valu, Inc.","317 East Ridgeville Boulevard Mt. Airy, MD 21771",11/5/2020,1/6/2021,8,2
+526,"Pet Valu, Inc.","2315 Hanover Pike Hampstead, MD 21074",11/5/2020,1/6/2021,6,2
+527,"Pet Valu, Inc.","11099 Resort Road Suite A302 Ellicott City, MD 21042",11/5/2020,1/6/2021,4,2
+528,"Pet Valu, Inc.","9165 Rothbury Drive Space 20/21 Gaithersburg, MD 20879",11/5/2020,1/6/2021,6,2
+529,"Pet Valu, Inc.","18115 Town Center Drive Olney, MD 20832",11/5/2020,1/6/2021,8,2
+530,"Pet Valu, Inc.","9809 Main Street Suite 103 Damascus, MD 20872",11/5/2020,1/6/2021,11,2
+531,"Pet Valu, Inc.","7723-7725 Tuckerman Lane Potomac, MD 20854",11/5/2020,1/6/2021,7,2
+532,"Pet Valu, Inc.","14933 Shady Grove Rockville, MD 20850",11/5/2020,1/6/2021,5,2
+533,"Pet Valu, Inc.","22750 New Cut Road Suite D-2 Clarksburg, MD 20871",11/5/2020,1/6/2021,6,2
+534,"Pet Valu, Inc.","15904-A Crain Highway Brandywine, MD 20613",11/5/2020,1/6/2021,3,2
+535,"Pet Valu, Inc.","10804 Town Center Blvd. Dunkirk, MD 20754",11/5/2020,1/6/2021,5,2
+536,"Pet Valu, Inc.","40845-100 Merchants Lane Suite 100 Leonardtown, MD 20650",11/5/2020,1/6/2021,7,2
+537,"Pet Valu, Inc.","32 Rising Sun Town Center Rising Sun, MD 21911",11/5/2020,1/6/2021,5,2
+538,"Pet Valu, Inc.","1016-C Beards Hill Road Store C3 Aberdeen, MD 21001",11/5/2020,1/6/2021,7,2
+539,"Pet Valu, Inc.","3491 Merchants Boulevard Abingdon, MD 21009",11/5/2020,1/6/2021,4,2
+540,"Pet Valu, Inc.","63 Eastern Boulevard North Hagerstown, MD 21740",11/5/2020,1/6/2021,4,2
+541,"Pet Valu, Inc.","18728 N. Pointe Drive Unit C Hagerstown, MD 21742",11/5/2020,1/6/2021,6,2
+542,"Pet Valu, Inc.","704 Chase Six Boulevard Boonesboro, MD 21713",11/5/2020,1/6/2021,4,2
+543,"Texas Instruments, Inc.","20250 Century Boulevard Germantown, MD 20874",11/5/2020,11/5/2020,50,2
+544,Chick-fil-A,"7900 Ritchie Highway Space E-113 Glen Burnie, MD 21061",11/10/2020,1/16/2021,17,2
+545,Penn Jersey Paper Company (PJP),"9101 Yellow Brick Road Rosedale, MD 21237",11/16/2020,1/31/2021,18,1
+546,"Bed, Bath & Beyond","5210 Campbell Boulevard Baltimore, MD 21236",11/17/2020,1/15/2021,27,1
+547,WesTech,"1001 Cathedral Street Baltimore, MD 21201",11/20/2020,1/18/2021,24,2
+548,WesTech,"819 N. Charles Street Baltimore, MD 21230",11/20/2020,1/18/2021,5,2
+549,WesTech,"1217 St. Paul Street Baltimore, MD 21202",11/20/2020,1/18/2021,3,2
+550,WesTech,"10 W. Eager Street Baltimore, MD 21201",11/20/2020,1/18/2021,10,2
+551,WesTech,"702 Cathedral Street Baltimore, MD 21201",11/20/2020,1/18/2021,4,2
+552,WesTech,"814 Cathedral Street Baltimore, MD 21201",11/20/2020,1/18/2021,1,2
+553,WesTech,"14 West Mount Vernon Place Baltimore, MD 21201",11/20/2020,1/18/2021,4,2
+554,WesTech,"12 West Madison Street Baltimore, MD 21201",11/20/2020,1/18/2021,1,2
+555,Washington Metro Area Transit Authority,11 Locations in Prince George's County 3 Locations in Montgomery County,11/24/2020,1/23/2021,"1100-1200 (MD,DC,VA)",2
+556,"Fidelity & Guaranty Life Business Services, Inc.","1001 Fleet Street Baltimore, MD 21202",12/1/2020,2/1/2021,37,1
+557,National Express,"9729 Philadelphia Road Baltimore, MD 21237",12/2/2020,3/16/2020,87,2
+558,Columbia Association,"6310 Hillside Court Suite 100 Columbia, MD 21046",12/9/2020,2/28/2021,70,2
+559,GroceryWorks,"2610 Boston Street Baltimore, MD 21224",12/9/2020,2/27/2021,2,2
+560,GroceryWorks,"1017 York Road Towson, MD 21204",12/9/2020,2/27/2021,17,2
+561,GroceryWorks,"4370 Montgomery Road Ellicott City, MD 21043",12/9/2020,2/27/2021,6,2
+562,GroceryWorks,"444 West MD College Westminster, MD 21158",12/9/2020,2/27/2021,2,2
+563,Admiral's Cup,"1647 Thames Street Baltimore, MD 21231",12/15/2020,12/11/2020,5,2
+564,Azumi,"725 Aliceanna Street Baltimore, MD 21202",12/15/2020,12/11/2020,50,2
+565,Bygone,"Four Seasons 400 International Drive Baltimore, MD 21202",12/15/2020,12/11/2020,60,2
+566,The Choptank,"1641 Aliceanna Street Baltimore, MD 21231",12/15/2020,12/11/2020,76,2
+567,Elk Room,"1010 Fleet Street Baltimore, MD 21202",12/15/2020,12/11/2020,26,2
+568,H.E. Deli,"1006 Aliceanna Street Baltimore, MD 21202",12/15/2020,12/11/2020,8,2
+569,Italian Disco,"1006 Fleet Street Baltimore, MD 21202",12/15/2020,12/11/2020,26,2
+570,Loch Bar,"240 International Drive Baltimore, MD 21202",12/15/2020,12/11/2020,51,2
+571,Maximón,"200 International Drive Baltimore, MD 21202",12/15/2020,12/11/2020,60,2
+572,Monarque,"1010 Fleet Street Baltimore, MD 21202",12/15/2020,12/11/2020,26,2
+573,Ouzo Bay,"1000 Lancaster Street Suite 100 Baltimore, MD 21202",12/15/2020,12/11/2020,40,2
+574,Tagliata,"1012 Fleet Street Baltimore, MD 21202",12/15/2020,12/11/2020,26,2
+575,Big Huge Games,"9515 Deereco Road Suite 500 Timonium, MD 21903",12/17/2020,1/15/2021,32,2
+576,Cooper's Hawk Winery and Restaurant,"1403 Research Boulevard Rockville, MD 20850",12/22/2020,12/16/2020,51,2
+577,Courtyard by Marriott - Columbia,"8910 Standford Boulevard Columbia, MD 21045",12/30/2020,3/1/2021,30,2
+578,Shop Rite of White Oak,"12028 Cherry Hill Road Silver Spring, MD 20904",12/30/2020,2/28/2021,142,2
+579,Sears Department Store,"2306 N. Salisbury Blvd. Salisbury, MD 21801",1/3/2019,3/24/2019,51,1
+580,Staples Fulfillment Center,"7021 Dorsey Road Hanover, MD 21076",1/15/2019,3/16/2019,61,1
+581,Bank of America,"11333 McCormick Road Hunt Valley, MD 21031",1/23/2019,4/30/2019,74,2
+582,XPO Logistics Worldwide,"610 Chelsea Road Aberdeen, MD 21001",1/25/2019,3/18/2019,167,1
+583,"Centerra Group, LLC","11555 Rockville Pike Rockville, MD 2085",2/14/2019,3/31/2019,87,2
+584,Under Armour,"1020 Hull Street Baltimore, MD 21230",2/25/2019,3/8/19- 6/30/19,50,2
+585,"General Motors, LLC","10301 Philadelphia Road White Marsh, MD 21162",3/4/2019,5/4/2019,296,1
+586,Omniplex World Services,"Anne Arundel County, Maryland",3/4/2019,4/30/2019,344,2
+587,"New England Motor Freight, INC","1508 John Avenue Baltimore, MD 21227",3/4/2019,2/15/2019,59,1
+588,"New England Motor Freight, INC","16503 Hunters Green Parkway Hagerstown, MD",3/4/2019,2/15/2019,93,1
+589,"New England Motor Freight, INC","3 Center Drive Northeast, MD 21901",3/4/2019,2/15/2019,81,1
+590,"Livanta, LLC","10830 Guilford Road Suite 311 Annapolis Junction, MD 20701-1108",3/8/2019,5/8/2019,94,2
+591,MV Contract Transporation,"4501 Curtis Avenue Baltimore, MD 21226",3/15/2019,4/19/2019,249,1
+592,Shop Rite Store,"6716 Governor Ritchie Highway Glen Burnie, MD 21061",3/25/2019,5/24/2019,134,1
+593,"PayPal, Inc.","101 Schilling Road Suite 40 Hunt Valley, MD 21031",3/28/2019,7/8/2019,180,1
+594,"PayPal, Inc.","55 Schilling Road Hunt Valley, MD 21031",3/28/2019,7/8/2019,200,1
+595,AECOM Management Services,"4600 Sangamore Road Bethesda, MD 20816",4/19/2019,7/5/2019,TBD,1
+596,AECOM Management Services,"Maryland Square Riverdale, MD",4/19/2019,7/5/2019,TBD,1
+597,Verso,"300 Pratt Street Luke, MD 21540",4/30/2019,6/30/2019,675,1
+598,"Aramark Educational Services, LLC","Coppin State University 2500 W. North Avenue Baltimore, MD 21216",5/16/2019,7/31/2019,69,2
+599,Krafcor Industries,"6301 Seaforth Street Baltimore, MD 21224",5/28/2019,7/15/2019,40,1
+600,The Sherwin-Williams Company,"10406 Tucker Street Beltsville, MD 20705",5/31/2019,8/2/2019,64,1
+601,Lord and Taylor,"701 Russell Avenue, Lakeforest Blvd. Gaithersburg, MD 20877",6/5/2019,9/15/2019,73,1
+602,State Farm Mutual Automobile Insurance,"1 State Farm Drive Frederick, MD 21701-9332",6/26/2019,8/31/2019,205,1
+603,Meridian Behavioral Health,"2015 Martins Grant Ct Crownsville, MD 21032",7/2/2019,8/31/2019,65,1
+604,Chesapeake Bay Candle Company,"226 Dover Road Glen Burnie, MD 21061",7/2/2019,9/13/2019,120,1
+605,"RAMPF Molds Industries, Inc.","90 Western Maryland Parkway Hagerstown, MD 21740",7/10/2019,7/23/2019,33,2
+606,"Transdev Services, Inc.","1601 Wicomico Street Baltimore, MD 21230",7/10/2019,8/9/2019,18,1
+607,JC Penney,"701 Russell Avenue Gaithersburg, MD 20877",7/15/2019,7/5/2019,113,1
+608,"DPI Foods Mid Atlantic, Inc.","1000 Prince Georges Blvd Upper Marlboro, MD 20774",7/22/2019,9/21/2019,280,1
+609,"NovaSom, Inc","801 Cromwell Park Drive Glen Burnie, MD 21061",7/22/2019,9/1/2019,169,1
+610,"Amcor Flexibles, LLC","747 Bowman Avenue Hagerstown, MD 21740",7/23/2019,12/31/2019,74,1
+611,"ADP, LLC","11411 Red Run Boulevard Owings Mills, MD 21117",7/29/2019,9/27/2019,123,1
+612,KMART,"200 Kent Landing Stevensville, MD 21666",9/4/2019,12/15/2019,60,1
+613,Transform SR LLC-01754 (Sears Department Store),"701 Russell Avenue Gaithersburg, MD 20877",9/5/2019,12/1/2019,80,1
+614,Transform SR LLC-06544 (Sears Auto Center),"701 Russell Avenue Gaithersburg, MD 20877",9/5/2019,12/1/2019,14,1
+615,Nestlé Dreyer's Ice Cream Company,"9090 Whiskey Bottom Rd Laurel, MD 20723",9/9/2019,11/1/2019,69,2
+616,"PAE Applied Technologies, LLC","Patuxent River, MD",9/16/2019,11/17/2019,14,2
+617,Bob's Discount Furniture,"3015 Festival Way Waldorf, MD 20601",9/30/2019,11/11/19,13,1
+618,"Post Community Media, LLC","13501 Konterra Drive Laurel, MD 20707",10/30/2019,12/31/2019,34,1
+619,"Beacon Health Options, Inc.","1099 Winterson Road Suite 200 Linthicum, MD 21090",11/1/2019,12/31/2019,65,1
+620,Oakwood Worldwide (US) LP,"888 Airport Park Rd Suite A Glen Burnie, MD 21061",11/1/2019,12/31/2019,1,1
+621,CEI Collision and Fleet Safety,"940 Ridgebrook Road Sparks, MD 21152",11/19/2019,8/30/2019,66,2
+622,Common Securizations Solutions,"7501 Wisconsin Avenue Suite 300-W Bethesda, MD 20814",11/22/2019,11/22/2019,36,2
+623,Shoppers Food & Pharmacy,"2371 Solomons Island Road Annapolis, MD 21401",12/6/2019,2/5/2020,72,1
+624,Shoppers Food & Pharmacy,"5722 Ritchie Highway Brooklyn Park, MD 21225",12/6/2019,2/5/2020,76,1
+625,Shoppers Food & Pharmacy,"22599 MacArthur Blvd. California, MD 20619",12/6/2019,2/5/2020,56,1
+626,Shoppers Food & Pharmacy,"4801 Marlboro Pike Capitol Heights, MD 20743",12/6/2019,2/5/2020,73,1
+627,Shoppers Food & Pharmacy,"6500 Eastern Avenue Baltimore, MD 21224",12/6/2019,2/5/2020,63,1
+628,Shoppers Food & Pharmacy,"7051 Martin Luther King Jr. Highway Landover, MD 20875",12/6/2019,2/5/2020,72,1
+629,Shoppers Food & Pharmacy,"8212 Liberty Road Baltimore, MD 21244",12/6/2019,2/5/2020,75,1
+630,Shoppers Food & Pharmacy,"6111 Livingston Road Oxon Hill, MD 20745",12/6/2019,2/5/2020,83,1
+631,Shoppers Food & Pharmacy,"6881 New Hampshire Avenue Takoma Park, MD 20912",12/6/2019,2/5/2020,67,1
+632,Shoppers Food & Pharmacy,"1170 West Smallwood Drive Waldorf, MD 20912",12/6/2019,2/5/2020,67,1
+633,Shoppers Food & Pharmacy,"2201 Randolph Road Wheaton, MD 20902",12/6/2019,2/5/2020,81,1
+634,A.C. Moore Arts & Crafts,"5 Bel Air South Parkway Bel Air, MD 21015",12/17/2019,2/28/2020,33,1
+635,A.C. Moore Arts & Crafts,"7330 Guilford Drive Frederick, MD 21704",12/17/2019,2/28/2020,23,1
+636,A.C. Moore Arts & Crafts,"6625A Governor Ritchie Highway Glen Burnie, MD 21061",12/17/2019,2/28/2020,24,1
+637,A.C. Moore Arts & Crafts,"17656 Garland Groh Blvd Hagerstown, MD 21740",12/17/2019,2/28/2020,25,1
+638,A.C. Moore Arts & Crafts,"10240 Mill Run Circle Suite 1 Owings Mills, MD 21117",12/17/2019,2/28/2020,23,1
+639,A.C. Moore Arts & Crafts,"12013 Rockville Pike Rockville, MD 20852",12/17/2019,2/28/2020,40,1
+640,A.C. Moore Arts & Crafts,"571 Ritchie Highway Severna Park, MD 21146",12/17/2019,2/28/2020,27,1
+641,A.C. Moore Arts & Crafts,"3035 Waldorf Market Place Waldorf, MD 20603",12/17/2019,2/28/2020,40,1
+642,A.C. Moore Arts & Crafts,"8115 D Honeygo Blvd. White Marsh, MD 21236",12/17/2019,2/28/2020,24,1
+643,Shoppers Food & Pharmacy,"5110 Nicholson Lane Kensington, MD 20895",12/19/2019,2/17/2020,56,1
+644,Event Solutions d/b/a Motus One,"8906 Yellow Brick Rd Suite 6 Rosedale, MD 21237",12/26/2019,12/20/2019,9,2
+645,Lockheed Martin Aeronautics Division,"3136 Peary Road , Patuxent River, MD 20670",1/9/2018,3/9/2018,20,2
+646,Constellation,"1310 Point Street, Baltimore, MD 21231",1/10/2018,12/31/2017,25,2
+647,Sam's Club #4766,"9760 Reistertown Rd, Owings Mills, MD 21117",1/11/2018,4/13/2018to 5/11/2018,169,1
+648,"CBAC Borrower, LLC d/b/a Horseshoe Baltimore","1525 Russell Street, Baltimore, MD 21230",1/19/2018,2/25/2018,91,2
+649,"Compass Group, USA Inc.","10301 Philadelphia Road, White Marsh, MD 21162",2/1/2018,4/1/2018,5,2
+650,Transamerica Life Insurance Company,"100 Light Street, Baltimore, MD 21202",2/14/2018,4/14/2018,55,2
+651,Cenveo Corp. Port City Press,"1323 Greenwood Rd. Baltimore, MD 21208",3/5/2018,3/5/2018to 5/4/2018,113,1
+652,"Ameritox, LLC","7090 Samuel Morse Drive, Suite 300, Columbia, MD 21046",3/6/2018,5/4/2018,99,1
+653,"Nantomics, LLC","9600 Medical Center Dr #300 Rockville, MD 20850",3/7/2018,5/8/2018,52,2
+654,"Kane Freight Lines, Inc.","14557 Industrial Drive Hagerstown, MD 21740",3/9/2018,5/31/2018,53,1
+655,The Lash Group LLC,"9715 Key West Avenue Rockville, MD 20850",3/23/2018,6/1/2018,250,1
+656,Cintas Corporation,"136 Lafayette Avem, Laurel, MD 20707",3/23/2018,3/30/2018 - 6/2018,47,2
+657,Towson University Marriott Conference Hotel,"10 Burke Ave, Towson, MD 21204",4/9/2018,6/30/2018,60,2
+658,First Transit,"8210 Beechcraft Avenue Gaithersburg, MD 20879",5/7/2018,7/1/2018,221,1
+659,Howard Bank,"8820 Columbia 100 Parkway, Suite 400, Ellicott City, MD 21045",5/8/2018,6/29/2018,25,1
+660,Peoples Bank & Trust Co.,"90 Painters Mill Road, STE210-215, STE 200, Owings Mills, MD 21117",5/25/2018,7/27/2018,82,1
+661,AECOM,"20501 Seneca Meadows Parkway Germantown, MD 20876",6/8/2018,7/27/2018 - 8/31/2018,173,2
+662,"PESYSTEMS, INC.","1535 Command Drive Andrews AFB, MD 20762",6/12/2018,8/10/2018,4,2
+663,"Inovalon, Inc.","7120 Samuel Morse Drive, Columbia, MD 21046",6/15/2018,8/17/2018,70,1
+664,Wells Fargo & Company,"8480 Stagecoach Circle Frederick, MD 21701",6/22/2018,8/19/2018,61,2
+665,CoStar Group,"7120 Samuel Morse Drive, 3rd Floor, Columbia, MD 21046",6/29/2018,8/31/2018,104,1
+666,"Toys ""R"" Us Babies ""R"" Us","7106 Geoffrey Way, Frederick, MD 21704",7/17/2018,9/15/2018,161,1
+667,DoubleTree by Hilton-Pikesville,"1726 Reisterstown Road Pikesville, MD 21208",7/30/2018,9/20/18 - 9/30/18,130,2
+668,Wells Fargo & Company.,"8435 Progress Dr. Frederick, MD 21701",8/27/2018,10/23/2018,42,2
+669,Discovery Inc.,"1 Discovery Place, Silver Spring, MD 20910",8/29/2018,10/1/2018,212,1
+670,MedStar Franklin Square Hospital,"9000 Franklin Square Dr Baltimore, MD 21237",8/31/2018,10/31/2018,102,2
+671,MedStar Good Samaritan,"5601 Loch Raven Blvd. Baltimore, MD 21239",8/31/2018,10/31/2018,51,2
+672,MedStar Harbor Hospital,"3001 S. Hanover St. Baltimore, MD 21225",8/31/2018,10/31/2018,55,2
+673,MedStar Union Memorial Hospital,"201 E. University Parkway Baltimore, MD 21218",8/31/2018,10/31/2018,63,2
+674,CSRA (General Dynamics Information Technology),"9609 Medical Center Drive Rockville, MD 20850",9/27/2018,11/26/2018,122,2
+675,Wells Fargo & Company,"8480 Stagecoach Circle Frederick, MD 21701",9/28/2018,11/25/2018,61,2
+676,"Dawson's Market (Subsidiary of Ellwood Thompson, Inc.)","225 N. Washington Street Rockville, MD 20850",10/5/2018,10/27/2018,62,2
+677,"Lonza Walkersville, Inc.","8830 Biggs Ford Road Walkersville, MD 21793",10/19/2018,12/31/2018,60,2
+678,KMART,"835 Solomons Island Road North Prince Frederick, MD 20678",10/25/2018,1/13/2019,82,1
+679,KMART,"6163 Oxon Hill Road Oxon Hill, MD 20745",10/26/2018,1/13/2019,96,1
+680,First Transit,"7409 Baltimore Annapolis Boulevard Glen Burnie, MD 21061",11/5/2018,1/1/2019,47,1
+681,Saks Fith Avenue (Distribution Center),"500 Hickory Drive Aberdeen, MD 21001",11/8/2018,3/1/19 - 8/31/19,TBD,1
+682,Crothall Healthcare Laundry Facility,"1350 Brass Mill Road Belcamp, MD 21017",11/13/2018,1/7/2019,152,1
+683,"Maintenance Supply Headquarters, LP","13401 Konterra Drive Laurel, MD 20707",11/15/2018,11/9/2018,51,2
+684,Sodexo at McDaniel College,"2 College Hill P.O. Box 13A Westminster, MD 21157",11/19/2018,12/31/2018,107,1
+685,Wells Fargo & Company,"8480 Stagecoach Circle Frederick, MD 21701",11/19/2018,1/15/2019,8,2
+686,GE Healthcare,"8880 Gorman Rd Laurel, MD 20723",11/27/2018,12/31/18 - 7/31/19,76,2
+687,"Maines Paper & Food Service, Inc.","1501 Perryman Rd Aberdeen, MD 21001",12/10/2018,2/10/2019,106,2
+688,Bridgeview Bank Group,"8820 Columbia Parkway Suite 100 Columbia, MD 21045",12/10/2018,11/11/18 - 12/31/18,41,2
+689,Comcast,"8700 B Ritchie Drive, Capitol Heights, MD 20743",1/18/2017,7/14/2017,90,2
+690,Whole Foods Market,"1521 Cabin Branch Rd, Landover, MD 20785",1/20/2017,2/12/2017,136,1
+691,Good Shepherd Services,"4100 Maple Ave, Baltimore, MD 21227",2/16/2017,4/17/2017,230,1
+692,idX,"8901 Snowden River Pkwy, Ste. 100, Columbia, MD 21046",2/22/2017,5/1/2017,68,1
+693,"Cempra, Inc.","6320 Quadrangle Drive, Ste. 360, Chapel Hill, NC 27517",2/27/2017,3/1/2017,1,2
+694,"HealthStream, Inc.","7710 Montpelier Road, Laurel, MD 20723",3/1/2017,4/30/2017,134,1
+695,"HHGregg, Inc.","14301 Mattawoman Drive, Brandywine, MD 20613",3/2/2017,4/30/2017,63,1
+696,Canam Steel Corportation,"4010 Clay Street, Point of Rocks, MD 21777",3/9/2017,3/10/2017,80,2
+697,Dollar Express,"5110 Indian Head Hwy, Oxon Hill, MD 20745",3/30/2017,6/30/2017,22,1
+698,Dollar Express,"2201 Varnum St, Mt. Rainer, MD 20712",3/3020/17,6/30/2017,11,1
+699,Dollar Express,"9347 Annapolis Rd, Lanham, MD 20706",3/30/2017,6/30/2017,8,1
+700,Dollar Express,"3265 Brinkley Rd, Temple Hills, MD 20748",3/30/2017,6/30/2017,7,1
+701,Dollar Express,"9115 Central Ave, Capitol Heights, MD 20743",3/30/2017,6/30/2017,13,1
+702,Dollar Express,"5900 Reistertown Rd, Baltimore, MD 21215",3/30/2017,6/30/2017,13,1
+703,Dollar Express,"3824 Eastern Ave, Baltimore, MD 21224",3/30/2017,6/30/2017,7,1
+704,Dollar Express,"4206 Frankford Ave, Baltimore, MD 21206",3/30/2017,6/30/2017,15,1
+705,Dollar Express,"2429 Frederick Ave, Baltimore, MD 21223",3/30/2017,6/30/2017,16,1
+706,Dollar Express,"234 Tilghman Rd, Salisbury, MD 21804",3/30/2017,6/30/2017,5,1
+707,Dollar Express,"13817 Outlet Dr, Silver Spring, MD 20904",3/30/2017,6/30/2017,13,1
+708,"First Transit, Inc.","10745 DeMarr Road, White Plains, MD 20695",5/2/2017,7/1/2017,77,1
+709,"Kaydon Ring & Seal, Inc.","1600 Wicomico St, Baltimore, MD 21230",5/17/2017,7/17/2017,217,1
+710,Kellogg Company,"11841 Newgate Blvd, Hagerstown, MD 21740",5/26/2017,7/29/2017,76,2
+711,Inovalon,"7120 Samuel Morse Drive, Columbia, MD 21046",6/7/2017,7/10/2017,113,2
+712,NMS Healthcare of Hagerstown.,"14014 Marsh Pike, Hagerstown, MD 21742",6/29/2017,6/30/2017,approx. 150,1
+713,Locke Insulators,"2525 Insulator Dr, Baltimore, MD 21230",7/10/2017,9/8/2017,107,1
+714,Direct Energy,"7101 Riverwood Drive, Columbia, MD 21046",7/25/2017,9/12/2017,108,1
+715,Volvo Group North America,"7101 Troy Hill Drive Elkridge, MD 21075",7/27/2017,7/28/2017,30,2
+716,First Potomac Realty Trust,"10320 Little Patuxent Parkway, Suite 600, Columbia, MD 21044",7/28/2017,10/1/2017,22,2
+717,First Potomac Realty Trust,"7600 Wisconsin Ave, Bethesda, MD 20814",7/28/2017,10/1/2017,50,2
+718,OrderUp (a subsidiary of Groupon),"2400 Boston St, 2nd Floor, Baltimore, MD 21224",8/1/2017,9/30/2017,70,1
+719,"Fibrwrap Construction Services, Inc.","709 East Ordnance Road, Baltimore, MD 21226",8/10/2017,8/2017-12/2018,31,2
+720,McArdle Printing Company,"800 Commerce Drive, Upper Marlboro, MD 20774",8/10/2017,9/30/2017,77,1
+721,"APTIM Services, LLC","Calvert Cliffs Nuclear Station,1560 Calvert Cliffs Pkwy, Lusby, MD 20657",8/17/2017,8/18/2017,36,2
+722,"Lutech Resources, Inc.","Calvert Cliffs Nuclear Station,1560 Calvert Cliffs Pkwy, Lusby, MD 20657",8/23/2017,8/18/2017,36,2
+723,Triumph Thermal Systems dba Triumph Electronics Control,"540 Highland Street, Frederick, MD 21701",8/28/2017,12/2017-8/2018,96,1
+724,"Charles River Laboratories, Inc.","8501 Progress Drive, Frederick, MD 21701",11/13/2017,3/2018-8/2018,57,1
+725,Lord & Taylor,"1600 Annapolis Mall Road, Annapolis, MD 21401",11/16/2017,4/15/2018-4/28/2018,141,1
+726,First Guaranty Mortgage Corporation,"5280 Corporate Drive, Suite B200, Frederick, MD 21703",11/27/2017,1/31/2018,82,2
+727,The Bon-Ton Stores Inc.,"17301 Valley Mall Road, Hagerstown, MD 21740",11/27/2017,2/22/2018,47,1
+728,Acosta Sales & Marketing,"7455 New Ridge Road, Suite R, Hanover, MD 21076",1/5/2016,2/29/2016,7,2
+729,Acosta Sales & Marketing,"7455 New Ridge Road, Suite R, Hanover, MD 21076",1/5/2016,2/27/2016,93,2
+730,Sims Recycling Solutions,"7575 Washington Blvd, Elkridge, MD 21075",1/5/2016,3/31/2016,86,1
+731,Walmart,"2701 Port Covington Dr, Baltimore, MD 21230",1/15/2016,4/15/2016,196,2
+732,"C&S Wholesale Grocers, Inc.","100 Lums Road, North East, MD 21901",1/20/2016,3/24/2016,192,1
+733,Penn Parking,"9000 Rockville Pike, Bethesda, MD 20892",2/19/2016,3/13/2016,59,2
+734,"Graham Packaging Company, L.P.","210 Kane St, Baltimore, MD 21224",2/29/2016,4/1/2016,79,1
+735,"Allen Harim Foods, LLC","12041 Cordova Rd, Cordova, MD 21625",3/9/2016,5/9/2016,300,1
+736,Safeway,"13814 Outlet Drive, Silver Spring, MD 20904",3/30/2016,5/30/2016,25,1
+737,U.S. Foods,"8024 Telegraph Road, Severn, MD 21144",4/6/2016,6/24/2016,304,1
+738,Edaptive Systems,"400 Red Brook Blvd, Suite 120, Owings Mills, MD 21117",4/26/2016,6/30/2016,60,2
+739,Commune Hotels and Resorts,"612 Cathedral Street, Baltimore, MD 21201",4/27/2016,6/30/2016,49,2
+740,Aerospace Testing Alliance,"Tunnel 9 at Moffett Road, Silver Springs, MD 20904",5/2/2016,6/30/2016,23,2
+741,"Safeway, Inc","6300 Central Avenue, Seat Pleasant, MD 20743",5/5/2016,7/2/2016,94,1
+742,"Safeway, Inc","1902 Vier Mills Road, Rockville, MD 20851",5/5/2016,7/2/2016,70,1
+743,"Global Payments, Inc.","10705 Red Run Blvd, Owings Mills, MD 21117",5/26/2016,7/30/2016,334,2
+744,"Mars Super Markets, Inc.","7200 Holabird Ave, Baltimore, MD 21222",5/27/2016,7/31/2016,84,1
+745,"Mars Super Markets, Inc.","7848 Wise Ave Baltimore, MD 21222",5/27/2016,7/31/2016,119,1
+746,"Mars Super Markets, Inc.","165 Orville Rd Baltimore, MD 21221",5/27/2016,7/31/2016,105,1
+747,"Mars Super Markets, Inc.","9613 M Harford Rd Baltimore, MD 21234",5/27/2016,7/31/2016,104,1
+748,"Mars Super Markets, Inc.","5-15 Padonia Rd Timonium, MD 21093",5/27/2016,7/31/2016,62,1
+749,"Mars Super Markets, Inc.","9544 Philadelphia Rd Baltimore, MD 21237",5/27/2016,7/31/2016,52,1
+750,"Mars Super Markets, Inc.","1811 York Road Timonium, MD 21093",5/27/2016,7/31/2016,78,1
+751,"Mars Super Markets, Inc.","11953 Reisterstown Rd Reisterstown, MD 21136",5/27/2016,7/31/2016,72,1
+752,"Mars Super Markets, Inc.","8667 Belair Rd Baltimore, MD 21236",5/27/2016,7/31/2016,75,1
+753,"Mars Super Markets, Inc.","1401 Pulaski Hwy Edgewood, MD 21040",5/27/2016,7/31/2016,72,1
+754,"Mars Super Markets, Inc.","1080 Maiden Choice Ln Arbutus, MD 21227",5/27/2016,7/31/2016,104,1
+755,"Mars Super Markets, Inc.","9150 Baltimore National Pike, Ellicott City, MD 21042",5/27/2016,7/31/2016,70,1
+756,"Mars Super Markets, Inc.","1700 E. Northern Pkwy Baltimore, MD 21239",5/27/2016,7/31/2016,75,1
+757,MTC Facility,"8803 Kelso Drive Essex, MD 21221",5/27/2016,7/31/2016,20,1
+758,Main Office,"9627 Philadelphia Rd Baltimore, MD 21237",5/27/2016,7/31/2016,64,1
+759,U.S. Foods,"8024 Telegraph Road, Severn, MD 21144",6/23/2016,6/24/2016,147,2
+760,"The Hedwin Division of Zacros America, Inc.","1600 Roland Heights Ave, Baltimore, MD 21211",6/28/2016,8/28/2016,129,1
+761,"Safeway, Inc.","14100 Baltimore Ave, Laurel, MD 20707",8/22/2016,10/22/2016,75,1
+762,"SecTek, Inc.","8601 Adelphi Rd, College Park, MD 20740; and 700 Pennsylvania Ave, Washington, D.C. 20408",8/29/2016,8/31/2016,137,2
+763,American Capital,"2 Bethesda Metro Center, Bethesda, MD 20814",8/31/2016,1/1/2017,138,2
+764,"Finiti Title, LLC","7090 Samuel Morse Drive, Columbia, MD 21046",9/1/2016,11/1/2016,100,1
+765,"Adventist Healthcare, Inc.","821 Fieldcrest Rd, Cambridge, MD 21613",9/20/2016,11/30/2016,90,2
+766,"SunEdison, Inc.","7550 Wisconsin Ave, Bethesda, MD 20814",9/28/2016,9/29/2016,2,2
+767,"Harte Hanks Marketing, Inc.","4545 Annapolis Rd, Baltimore, MD 21227",9/28/2016,11/18/2016,112,1
+768,"Office Paper Systems, Inc.","7650 Airpark Road, Gaithersburg, MD 20879",9/28/2016,9/9/2016,29,1
+769,"Europ Assistance USA, Inc","4330 East-West Hwy, Bethesda, MD 20814",10/25/2016,1/6/2017,36,2
+770,Ameritas Insurance Company,"7315 Wisconsin Ave # 1000W, Bethesda, MD 20814",10/25/2016,12/30/2016,94,2
+771,"Simpson Strong-Tie, Inc.","3100 Falls Cliff Road, Baltimore, MD 21211",11/4/2016,2/28/2017,73,1
+772,Kraft Heinz Foods Company,"300 Reliance Ave, Federalsburg, MD 21632",11/11/2016,1/13/2017,73,1
+773,"Kenoc Logistic Services, LLC's","521 Chelsea Road, Aberdeen, MD 21001",11/21/2016,1/22/2017,115,2
+774,Transamerica Life Insurance Company,"100 Light St, Baltimore, MD 21202",12/2/2016,2/3/2017,25,2
+775,"CoreLogic, Inc.","7090 Samuel Morse Dr, Columbia, MD 21046",12/7/2016,2/7/2017,10,2
+776,The Kane Company,"6500 Kane Way, Elkridge, MD 21075",12/13/2016,12/9/2016,900,1
+777,"Market Day, LLC","8265 Patuxent Range Road, Ste L, Jessup, MD 20794",1/7/2015,3/7/2015,26,2
+778,"Actavis, Inc.","10065 Red Run Blvd, Owings Mills, MD 21117",1/9/2015,3/9/2015,33,1
+779,Ciena Corporation,"900 Elkridge Landing RD, Ste 120, Linthicum, MD 21090",1/13/2015,5/29/2015,57,2
+780,"DynCorp International, LLC","U.S.Navy's Fleet Readiness Center- Aviation Support Equipment, Solomons Complex, Bldg 105, B Ave, Solomons Island, MD 20688",2/3/2015,3/4/2015,121,2
+781,RadioShack Corporation,"100 Tandy Drive, Hagerstown, MD 21740",2/4/2015,3/11/2015,87,1
+782,Jos. A. Bank,"500 Hanover Pike, Hampstead, MD 21074",3/27/2015,5/29/2015,122,2
+783,AFP Logistics & Service,"2020 Washington Blvd, Baltimore, MD 21230",4/8/2015,6/7/2015,16,2
+784,"American Forest Products, LLC","1800 Washington Blvd, Ste 140, Baltimore, MD 21230",4/8/2015,6/7/2015,58,2
+785,"Riverbed Technology, Inc.","7255 Woodmont Ave, Bethesda, MD 20814",4/21/2015,6/30/2015,69,2
+786,Unilever,"3701 Southwestern Blvd, Baltimore, MD 21229",4/28/2015,5/29/2015,137,1
+787,Safran Labinal Power Systems,"600 Glen Ave, Salisbury, MD 21804",5/6/2015,7/6/2015,480,1
+788,Orion Safety Products,"28320 St. Michaels Road, Easton, MD 21601",5/22/2015,8/28/2015,54,2
+789,"T. Rowe Price Associates, Inc.","4515 Painters Mill Road, Owings Mills, MD 21117",6/1/2015,7/31/2015,211,2
+790,Prince George's County Gazette,"13501 Konterra Road, Laurel, MD 20707",6/12/2015,8/11/2015,15,1
+791,Montgomery County Gazette,"9030 Comprint Court, Gaithersburg, MD 20877",6/12/2015,8/11/2015,69,1
+792,"Diageo Americas Supply, Inc.","5001 Washington Blvd, Baltimore, MD 21227",6/25/2015,8/31/2015,64,2
+793,"Dunbar Armored, Inc.","4983 Mercantile Dr, White Marsh, MD 21236",6/30/2015,8/24/2015,100,2
+794,Kmart Corporation,"7923 Bel Air Rd, Baltimore, MD 21236",7/29/2015,11/1/2015,102,1
+795,"Atlantic & Pacific Tea Company (c/o Superfresh Food Markets, Inc.)","3507 Coastal Hwy; and 12741 Ocean Gateway, Ocean City, MD 21842",8/12/2015,11/12/2015,157,1
+796,"ZeniMax Media, Inc.","101 Schilling Road, Hunt Valley, MD 21031",8/14/2015,8/19/2015,25,2
+797,"CROWN Cork and Seal USA, Inc.","8801 Citation Road, Baltimore, MD 21221",8/31/2015,10/30/2015,47,1
+798,Sonco Worldwide,"5000 Windom Rd, Bladensburg, MD 20710",9/1/2015,10/31/2015,100,1
+799,The Home Depot,"16500 Hunters Green Pkwy, Hagerstown, MD 21740",9/8/2015,11/10/2015,315,2
+800,Colonial Parking,"9000 Rockville Pike, Bethesda, MD 20892",9/9/2015,10/14/2015,60,2
+801,Branch Banking and Trust Corporation (BB&T),"13511 Label Lane, Hagerstown, MD 21470",9/16/2015,10/9/2015,126,2
+802,Dimensions Healthcare System,"Laurel Regional Hospital, 7300 Van Dusen Rd, Laurel, MD 20707",9/18/2015,10/10/2015,118,2
+803,"Collington Services, LLC","16020 Leeland Rd, Upper Marlboro, MD 20774; 6300 Columbia Park Rd, Landover, MD 20785",10/6/2015,12/5/2015,191,1
+804,"Calvert Investments, Inc.","4550 Montgomery Ave, Bethesda, MD 20814",11/3/2015,12/31/2015,41,2
+805,"Voltronics, LLC","2250 Northwood Drive, Salisbury, MD 21801",11/18/2015,9/30/2016,26,2
+806,"Scripps Networks Interactive, Inc.","5425 Wisconsin Ave, Ste. 500, Chevy Chase, MD 20815",11/19/2015,1/19/2016,78,2
+807,Aramark,"Mount St. Mary’s University, 16300 Old Emmitsburg Road, Emmitsburg, MD 21727",11/20/2015,12/31/2015,83,2
+808,Giant (Pharmacy Distribution Center),"7110 Ambassador Road, Baltimore, MD 21244",12/1/2015,1/30/2016,89,2
+809,Sears Holdings Corporation Product Rebuild Center,"2101 Brightseat Road, Landover, MD 20785",1/3/2014,3/16/2014,86,1
+810,Mars Super Markets Inc.,"1401 Edison Highway, Baltimore, MD 21213",1/8/2014,3/9/2014,78,1
+811,"PAE Applied Technologies, LLC","Patuxent River NAS 47758 Ranch Road, Building 1492, Patuxent River, MD 20670",1/17/2014,2/24/2014,105,1
+812,Winner Distributing Company,"7616 Canton Center Drive, Baltimore, MD 21224",1/29/2014,2/29/2014,125,1
+813,Ascend One,"9755 Patuxent Woods Drive, Suite 100, Columbia, MD 21046",1/31/2014,3/31/2014,147,2
+814,"HDA, Inc and N-Store Merchandising, Inc",No specific location,2/4/2014,2/3/2014,37,2
+815,Meritus Health,"11116 Medical Campus Road, Hagerstown, MD 21742",2/11/2014,2/11/2014,56,1
+816,Sun Products Corporation,"5300 Holabird Ave, Baltimore, MD 21224",2/12/2014,4/1/2014,300,1
+817,Verizon Wireless,"7401 Coca Cola Drive, Hanover, MD 20176",2/21/2014,5/8/2014,361,2
+818,Verizon Wireless,"7600 Montpelier Road, Laurel, MD 20723",2/21/2014,5/8/2014,11,2
+819,Emery Federal Credit Union,"90 Painters Mill Road, STE 215, Owings Mills, MD 21117",3/6/2014,3/7/2014,78,1
+820,Aramark Educational Services,"Frostburg State University, 101 Braddock Road, Chesapeake Hall, Frostburg, MD 21532",3/11/2014,5/22/2014,172,1
+821,Saputo,"14738 Warfordsburg Road, Hancock, MD 21750",3/26/2014,6/27/2014,60,1
+822,Crossroads Hospitality Management Co. (Sheraton Baltimore City Center),"101 W. Fayette Street, Baltimore, MD 21201",3/28/2014,5/29/2014,Initially 110 (Possibly as high as 160),2 (Possibly turning into a closure)
+823,First Transit,"6333 Macaw Court, Elkridge, MD 21075",4/15/2014,7/1/2014,150,1
+824,BAE Systems,"23481 Cottonwood Parkway, California, MD 20619",5/1/2014,6/30/2014,172,1
+825,Nielsen Audio Inc.,"9705 Patuxent Woods Drive, Columbia, MD 21046",5/6/2014,8/31/2014,325,2
+826,PetSmart,"16522A Huntersgreen Pkwy, Hagerstown, MD 21740",5/23/2014,7/24/2014,56,1
+827,Charles River Laboratories,"8501 Progress Drive, Frederick, MD 21701",7/9/2014,9/25/2014,76,2
+828,Office Depot Max,"6745 Business Parkway, Elkridge, MD 21075",7/10/2014,9/5/2014,54,1
+829,RoundPoint Mortgage Company,"15825 Shady Grove Road, Suite 20, Rockville, MD 20850",7/21/2014,9/19/2014,68,2
+830,Vencore Services,"8800 Greenbelt Road, Greenbelt, MD 20771",8/12/2014,9/30/2014,Unknown,1
+831,General Dynamics Information Technology,"2600 Tower Oaks Blvd, Ste 600, Rockville, MD 20852",8/19/2014,10/18/14,61,2
+832,Murry's Inc.,"8300 Pennsylvania Ave, Upper Marlboro, MD 20772",9/10/2014,11/10/2014,64,2
+833,"Nielsen Audio, Inc.","9705 Patuxent Woods Dr, Columbia, MD 21046",9/19/2014,11/23/2014,80,2
+834,CORIX Utilities,"8803 Kelso Dr., Essex, MD 21221",9/22/2014,9/23/2014,116,1
+835,Kmart,"5760 Wabash Ave, Baltimore, MD 21215",9/23/2014,11/30/2014,107,1
+836,"Dolce International/Potomac, Inc.","9600 Newbridge Dr, Potomac, MD 20854",10/22/2014,12/31/2014,261,2
+837,"Trinity Services Group, Inc","901 Greenmount Ave, Baltimore, MD",12/17/2014,1/31/2015,143,2
+838,Serco Inc.,"6731 Columbia Gateway Drive Suite 300A, Columbia, MD 21046",3/6/2013,Unknown at this time,308,2
+839,Serco Inc.,"2099 Gaither Road, Third Floor, Rockville, MD 20850-4040",3/6/2013,Unknown at this time,38,2
+840,Serco Inc.,"4700 Silver Hill Road, Rm 3517 Suitland, MD 20746",3/6/2013,Unknown at this time,82,2
+841,Serco Inc.,"4305 Susquehanna Ave, Rm 145, Aberdeen Proving Ground, MD 21005-5001",3/6/2013,Unknown at this time,27,2
+842,Serco inc.,"8901 Wisconsin Avenue, Bld 17 Ste. 1B, Bethesda, MD 20889-5600",3/6/2013,Unknown at this time,23,2
+843,American Suzuki Motor Corporation,"3251 E. Imperial Highway, Brea, CA",1/11/2013,3/14/2013,2,2
+844,"Eby F.A Davis, LLC","6610 Cabot Drive, Baltimore, MD 21226",2/7/2013,4/22/2013,194,1
+845,Flying Food Group LLC,"15800 Commerce Court, Upper Marlboro, MD 20774",2/19/2013,4/22/2013,68,1
+846,Sodexo Inc.,"Loyola College-Maryland, 4501 N. Charles St., Baltimore, MD 21210",3/18/2013,5/31/2013,190,1
+847,MV Transportation,"6500 Ammendale Road Beltsville, MD 20705",4/10/2013,6/11/2013,188,1
+848,MV Transportation,"8540 Ashwood Drive Capitol Heights, MD 20743",4/12/2013,6/13/2013,447,1
+849,"Marriott International, Inc.","10400 Fernwood Road, Bethesda, MD 20817",4/22/2013,6/28/2013,Starting with 35 leading up to several hundred by December 2013,1
+850,"Marriott International, Inc.","9737 Washingtonian Boulevard, Suite 501, Gaithersburg, MD 20878",4/22/2013,6/28/2013,Starting with 35 leading up to several hundred by December 2013,1
+851,"Marriott International, Inc.","7300 Crestwood Boulevard, Frederick, MD 21703",4/22/2013,6/28/2013,Starting with 35 leading up to several hundred by December 2013,1
+852,"ARAMARK Educational Services, LLC","Johns Hopkins University, 3400 North Charles Street; AMR1-LL Basement Baltimore, MD 21218",4/29/2013,6/30/2013,202,1
+853,Comcast,"1301 McCormick Drive Largo, MD 20774",5/16/2013,9/7/2013,145,2
+854,Complementary Coatings Corp,"4701 O'Donnell Street, Baltimore, MD 21224",7/8/2013,9/13/2013,52,1
+855,Smithfield,"5801 Columbia Park Road Landover, MD 20785",7/16/2013,9/14/2013,156,1
+856,"MVM, Inc.","1325 East West Highway, Silver Spring, MD 20910",7/22/2013,9/30/2013,"Total 106 (at this time, number impacted at this location is unknown)",2
+857,"MVM, Inc.","1315 East West Highway, Silver Spring, MD 20910",7/22/2013,9/30/2013,"Total 106 (at this time, number impacted at this location is unknown)",2
+858,"MVM, Inc.","1305 East West Highway, Silver Spring, MD 20910",7/22/2013,9/30/2013,"Total 106 (at this time, number impacted at this location is unknown)",2
+859,"MVM, Inc.","5830 University Research Court, College Park, MD 20740",7/22/2013,9/30/2013,"Total 106 (at this time, number impacted at this location is unknown)",2
+860,NCO Financial Systems,"7595 Montevideo Road, Jessup, MD 20794",7/31/2013,9/30/2013,86,1
+861,Terrapin Systems LLC.,"1201 Seven Locks Road, Suite 300, Rockville, MD 20854",9/10/2013,11/15/2013,173,1
+862,"Laboratory Partners, Inc. (Suburban Medical Laboratory)","6800 Virginia Manor Road, Beltsville, MD 20705",10/21/2013,12/13/2013,Not sure of the number of impacted workers in MD at this time,Unsure at this time
+863,"Nielsen Audio, Inc.","9705, 9700, 9740 & 9830 Patuxent Woods Drive, Columbia, MD 21046",11/14/2013,1/14/2014,333,2
+864,MedStar Health,"MFSMC, 9000 Franklin Square Drive, Baltimore, MD 21237",11/27/2013,1/31/2014,43,2
+865,MedStar Health,"MGSH, 5601 Loch Raven Blvd., Baltimore, MD 21218",11/27/2013,1/31/2014,19,2
+866,MedStar Health,"MHH, 3001 S. Hanover St., Baltimore, MD 21225",11/27/2013,1/31/2014,29,2
+867,MedStar Health,"MMMC, 18101 Prince Phillip Drive, Olney, MD 20831",11/27/2013,1/31/2014,24,2
+868,MedStar Health,"MUMH, 201 E. University Parkway, Baltimore, MD 21218",11/27/2013,1/31/2014,26,2
+869,MedStar Health,"MedStar Health, 9105 Franklin Square Drive, Baltimore, MD 21237",11/27/2013,1/31/2014,4,2
+870,MedStar Health,"MedStar Health, 600 Pulaski Park Drive, Baltimore, MD 21220",11/27/2013,1/31/2014,2,2
+871,Saks Incorporated,"500 Hickory Drive, Aberdeen, MD 21001",12/4/2013,1/3/2014,191,2
+872,Worthington Industries,"8911 Kelso Drive, Baltimore, MD 21221",12/10/2013,2/10/2014,54,1
+873,Baltimore County Savings Bank,"4111 East Joppa Road, Suite 300, Baltimore MD 21236",12/10/2013,2/14/2014,53,2
+874,First National Bank,"9250 Rumsey Road, Suite 102, Columbia, MD 21045",12/16/2013,2/20/2014,11,1
+875,Bloomingdales,"11305 Rockville Pike, Kensington, MD",1/4/2012,3/17/2012,184,1
+876,Macy's,"14828 Baltimore-Washington Boulevard, Laurel, MD",1/6/2012,3/9/2012,113,1
+877,SSP America,"501 McCormick Drive #J, Glen Burnie, MD",1/19/2012,1/3/2012,112,1
+878,Adventist Behavioral Health,"14 Romig Drive, Crownsville, MD",1/30/2012,3/31/2012,100,1
+879,Stanley Black & Decker,"2631 Sisson Street, Baltimore MD",2/1/2012,4/1/2012-11/6/2012,142,1
+880,DocuLynx,"8007 Corporate Drive, Ste H, Baltimore, MD",2/14/2012,7/31/2012,19,1
+881,Northrop Grumman,"P.O. Box 100, Fort Meade, MD",2/15/2012,4/20/2012,224,2
+882,DIAGEO,"5001 Washington Blvd., Baltimore , MD",2/23/2012,4/27/2012,34,2
+883,"Science Systems and Applications, Inc.","10210 Greenbelt Road, Suite 600, Lanham, MD",3/8/2012,4/30/2012,117,2
+884,McKesson Pharmaceutical,"7721 Polk Street, Landover MD",3/16/2012,4/20/2012,106,1
+885,ARAMARK,"10000 New Hampshire Avenue, Silver Spring, MD",3/21/2012,5/21/2012,64,1
+886,HMS Host,"Maryland House Travel Plaza, I-95, JFK Memorial Highway, Mile Markers 82, Aberdeen, MD & Chesapeake House Travel Plaza, I-95, JFK Memorial Highway, Mile Marker 96.5, North East, MD",4/2/2012,9/15/2012,396,1
+887,Harland Clarke Holdings Corp.,"1094 Park 100 Drive, Glen Burnie, MD",4/3/2012,6/2/2012,125,2
+888,Best Buy,"118 Shawan Road, Hunt Valley, MD",4/14/2012,6/15/2012,68,1
+889,Sears,"16331 Shady Grove Road, Gaithersburg, MD",4/16/2012,6/16/2012,82,1
+890,Jessup Logistics,"7805 Assateague Drive, Jessup, MD",4/25/2012,6/30/2012,244,1
+891,Capital One,"1352 ""A"" Charwood Road, Hanover, MD",5/2/2012,4th quarter of this year,40,1
+892,Phillips Foods Inc.,"1215 E. Fort Avenue, Baltimore, MD",5/3/2012,7/1/2012,100,1
+893,Saks Fifth Avenue,"500 Hickory Drive, Abredeen, MD",5/4/2012,5/28/2012,223,2
+894,University of Maryland Medical System chronic care programs offered at University Specialty Hospital,"601 South Charles Street, Baltimore, MD",5/4/2012,7/11/2012,350,1
+895,Hostess Brands Inc.,"3675 Leonardtown Road, Waldorf, MD",5/4/2012,7/3/2012,158,1
+896,Hostess Brands Inc.,"11400 Baltimore Boulevard, Beltsville, MD",5/4/2012,7/3/2012,34,1
+897,Unilever Ice Cream,"1100 Frederick Street, Hagerstown, MD",5/9/2012,7/27/2012,420,"1 *Note-This is an update to the WARN sent by the company on September 2, 2011"
+898,RG Steel LLC,"1430 Sparrows Point Blvd., Sparrows Point, MD",5/23/2012,6/4/2012,1975,"The company is idling the plant, unsure at this time if temporary or permanent"
+899,iAP Worldwide Services,"8901 Rockville Pike, Bethesda, MD",6/4/2012,6/18/2012,99,1
+900,Capital One,"7501 Wisconsin Ave., Bethesda, MD",6/26/2012,11/5/2012,80,2
+901,Bank of America,"11333 McCormick Road, Hunt Valley, MD",7/17/2012,11/30/2012,55,2
+902,G4S Government Solutions Inc.,"Fort Meade, 4217 Roberts Ave., Ste 320, Fort Meade, MD",8/2/2012,9/30/2012,62,1
+903,G4S Government Solutions Inc.,"Walter Reed Medical Center, Forest Glen Annex, 2460 Linden Lane, Bldg. #605, PMO/WSI, Silver Spring, MD",8/2/2012,9/30/2012,31,1
+904,Ritz Camera & Image,"6711 Ritz Way, Beltsville, MD",8/14/2012,9/6/2012,72,1
+905,Harborside Nursing & Rehabilitation Center,"501 West Franklin Street, Baltimore, MD",8/24/2012,8/25/2012,71,2
+906,Human Genome Sciences,"14200 Shady Grove Road, Rockville, MD",8/30/2012,10/30/2012,114,2
+907,"White Marsh Distribution, LLC","10000 Franklin Square Drive, White Marsh, MD",9/7/2012,11/30/2012,120,1
+908,MV Transportation,"11A Irongate Drive, Waldorf, MD",9/24/2012,10/31/2012,68,1
+909,Eby-Brown,"6610 Cabot Dr. Baltimore, MD",9/26/2012,11/2/2012,112,2
+910,Sinful Colors Inc.,"10721 Tucker Street, Beltsville, MD",10/1/2012,1/1/2013,117,1
+911,Human Genome Sciences,"14200 Shady Grove Road, Rockville, MD",10/15/2012,12/15/2012,97,2
+912,Kratos Defense and Security Solutions,"5200 Philadelphia Way, Lanham, MD",10/26/2012,12/30/2012,125,2
+913,Sotera Defense Solutions,"24 S. Wisner Street, Suite 110, Frederick, MD",10/29/2012,12/31/2012,25,1
+914,Clyde's of Columbia and the Tomato Palace Restaurants,"10221 Wincopin Circle, Columbia, MD",11/1/2012,1/7/2013,195,1
+915,Mercier's,"7442 Shipley Avenue, Harmans MD",11/27/2012,12/31/2012,75,2
+916,URS Corporation,"MacArthur Road, Ft. Meade, MD & 430 National Business Parkway, Suite 400, Annapolis Junction, MD",12/20/2012,2/7/2013,Unknown at this time,2
+917,Commerce Corporation,"7603 Energy Parkway, Baltimore, MD",12/27/2012,12/28/2012,60-70 in Maryland,1
+918,URS Corporation,"MacArthur Road, Ft. Meade, MD & 430 National Business Parkway, Site 400, Annapolis Junction, MD",12/20/2012,2/27/2013,31,2
+919,Commerce Corporation,"7603 Energy Parkway, Baltimore, MD",12/27/2012,12/28/2012,60-70 in Maryland,1
+920,Veolia Transportation,"2100 Huntingdon Ave, Baltimore, MD",12/27/2012,3/3/2013,78,2
+921,Pepsi Beverages Company,"1650 Union Avenue, Baltimore, MD",1/10/2011,3/11/2011,77,1
+922,ZipRealty Inc.,"1122 Kenilworth Drive, Suite 217, Towson, MD",1/12/2011,3/14/2011,2,1
+923,GE Aviation,"20501 Seneca Medows Pkwy, Germantown, MD",1/26/2011,4/1/2011,44,2
+924,Northrop Grumman,"7040 TroyHill Dr., Elkridge, MD",2/28/2011,4/30/2011,146,2
+925,Bank of America,"11333 McCormick Road, Hunt Valley, MD",3/4/2011,4/30/2011,39,2
+926,Honeywell,"7515 & 7535 Mission Dr, Lanhan-Seabrook and 8800 Greenbelt Road, Geenbelt, MD",3/8/2011,4/82011,190,2
+927,Cansa Hershman Recycling,"6401 Quad Avenue, Baltimore, MD",3/10/2011,5/8/2011,25,2
+928,ARAMARK Educational Services,"8000 York Road, Towson, MD",3/14/2011,6/30/2011,83,1
+929,"ITT, Global Information Services","7556 Teague Road, Suite 300, Hanover, MD",3/22/2011,12/30/2011,48,1
+930,Peapod by Giant,"211 Edison Park Drive, Gaithersburg, MD",3/22/2011,5/31/2011,120,1
+931,Editor's Press,"6200 Editors Park Drive, Hyattsville, MD",3/31/2011,5/31/2011,84,1
+932,Chubb & Son,"1800 Washington Boulevard, Baltimore MD",4/11/2011,10/31/2011,90,1
+933,"Cristal Global, Millennium Inorganic Chemicals","3901 Fort Armistead Road, Baltimore, MD",4/19/2011,7/1/2011-12/2013,78,1
+934,Bank of America,"6711 Columbia Gateway Drive, Columbia, MD",4/27/2011,6/15/2011,18,2
+935,Solo Cup,"10100 Reisterstown Road, Owings Mills, MD",4/29/2011,6/30/2011,101,1
+936,A&P /Super Fresh,"222 N Charles St. Baltimore, MD",5/6/2011,7/62011,44,1
+937,A&P/Super Fresh,"5101 East Drive, Arbutus, MD",5/62011,7/6/2011,37,1
+938,A&P/Super Fresh,"7005 Security Blvd., Woodlawn, MD",5/6/2011,7/6/2011,91,1
+939,A&P/Super Fresh,"1350 W. 41st Street, Baltimore, MD",5/6/2011,7/6/2011,95,1
+940,A&P/Super Fresh,"1763 Chesaco Ave., Rosedale, MD",5/6/2011,7/6/2011,65,1
+941,A&P/Super Fresh,"504 Ridgeville Blvd. Mount Airy, MD",5/6/2011,7/6/2011,58,1
+942,A&P/Super Fresh,"1238 Putty Hill, Towson, MD",5/6/2011,7/6/2011,75,1
+943,A&P/Super Fresh,"8905 Belair Road, Baltimore, MD",5/6/2011,7/6/2011,58,1
+944,A&P/Super Fresh,"Route 213, Wash Square, Chestertown, MD",5/6/2011,7/6/2011,61,1
+945,A&P/Super Fresh,"3301 North Ridge Road, Ellicott City, MD",5/6/2011,7/6/2011,83,1
+946,A&P/Super Fresh,"7280 Montgomery, Elkridge, MD",5/6/2011,7/6/2011,72,1
+947,A&P/Super Fresh,"780 Cambridge, Cambridge, MD",5/6/2011,7/6/2011,76,1
+948,A&P/Super Fresh,"125 West College St, Salisbury, MD",5/6/2011,7/6/2011,82,1
+949,A&P/Super Fresh,"37 W. Aylesbury Ave., Timonium, MD",5/6/2011,7/6/2011,98,1
+950,A&P/Super Fresh,"1155 Annapolis Road, Odenton, MD",5/6/2011,7/6/2011,64,1
+951,A&P/Super Fresh,"7440 Ritchie Hwy., Glen Burnie, MD",5/6/2011,7/6/2011,67,1
+952,A&P/Super Fresh,"1238 Bay Dale Drive, Arnold, MD",5/6/2011,7/6/2011,63,1
+953,A&P/Super Fresh,"7709 Harford Road, Parkville, MD",5/6/2011,7/6/2011,68,1
+954,A&P/Super Fresh,"RT 140, Englar Road, Westminster, MD",5/6/2011,7/6/2011,58,1
+955,A&P/Super Fresh,"Ballenger Creek Pkwy., Frederick, MD",5/6/2011,7/6/2011,34,1
+956,A&P/Super Fresh,"40 Souner Road, Brunswick, MD",5/6/2011,7/6/2011,44,1
+957,A&P/Super Fresh,"12028 Cherry Hill Road, White Oak, MD",5/6/2011,7/6/2011,84,1
+958,Worthington Industries,"8911 Bethlehem Blvd., Baltimore MD",5/12/2011,7/13/2011,59,1
+959,IAP Worldwide Services,"229 Chisholm Avenue, Fort Meade MD",5/16/2011,6/30/2011,144,1
+960,Coca-Cola Refreshments,"2556 Riva Road, Annapolis, MD",5/17/2011,9/2/2011,72,1
+961,DIAGEO,"5001 Washington Blvd., Baltimore, MD",5/25/2011,7/29/2011,55,2
+962,RTS,"2562 Solomons Island Road, Annapolis, MD",5/25/2011,8/31/2011,10,2
+963,RTS,"7900 Ritchie Hwy., Suite E 157 Marley Station Mall, Glen Burnie, MD",5/25/2011,8/31/2011,6,2
+964,RTS,"6711 Ritchie Hwy., Suite 625, Glen Burnie, MD",5/25/2011,8/31/2011,2,2
+965,RTS,"1852 Reisterstown Rd., Suite 105, Pikesville, MD",5/25/2011,8/31/2011,6,2
+966,RTS,"405 Williams Court, Stes., 116-120, Middle River, MD",5/25/2011,8/31/2011,12,2
+967,RTS,"1964 York Rd., Timonium, MD",5/25/2011,8/31/2011,5,2
+968,RTS,"8149 Honeygo Boulevard, Suite E, Baltimore, MD",5/25/2011,8/31/2011,11,2
+969,RTS,"6220 Baltimore National Pike, Catonsville, MD",5/25/2011,8/31/2011,8,2
+970,RTS,"1160 West Patrick, St., Frederick, MD",5/25/2011,8/31/2011,11,2
+971,RTS,"2720 North Salisbury Blvd., Salisbury, MD",5/25/2011,8/31/2011,14,2
+972,RTS,"9021 Snowden Square Drive, Columbia, MD",5/25/2011,8/31/2011,9,2
+973,RTS,"400 North Center St., Suite 167, Westminster, MD",5/25/2011,8/31/2011,6,2
+974,RTS,"1701-A Rockville Pike, Rockville, MD",5/25/2011,8/31/2011,9,2
+975,RTS,"472 North Frederick Ave., Gaithersburg, MD",5/25/2011,8/31/2011,6,2
+976,RTS,"6932 Wisconsin Ave., Chevy Chase, MD",5/25/2011,8/31/2011,4,2
+977,RTS,"21040 Frederick Road Unit G, Germantown, MD",5/25/2011,8/31/2011,6,2
+978,RTS,"8919 Woodyard Rd., Suite B, Clinton, MD",5/25/2011,8/31/2011,6,2
+979,RTS,"10250 Baltimore Ave., Ste. A, College Park, MD",5/25/2011,8/31/2011,4,2
+980,RTS,"15642 Emerald Way, Space A-1, Bowie, MD",5/25/2011,8/31/2011,7,2
+981,RTS,"23105 Three Notch Road, California, MD",5/25/2011,8/31/2011,9,2
+982,RTS,"2915 Crain Highway, Waldorf, MD",5/25/2011,8/31/2011,11,2
+983,RTS,"2 Bel Air South Parkway, Bel Air, MD",5/25/2011,8/31/2011,11,2
+984,Hometown America,"1901 Fernwood Drive, Capitol Heights, MD",5/31/2011,9/30/2011,4,2
+985,General Dynamics Information Technology,"3071 Aberdeen Blvd., Aberdeen Proving Ground, MD",6/2/2011,Starting 7/15/2011,52,1
+986,"Allen Family Foods, Inc.","12041 Cordova Road, Cordova, MD",6/9/2011,8/8/2011,474,1
+987,Lockheed Martin,"7601 & 7615 Ora Glen Drive, Greenbelt, MD",6/13/2011,8/12/2011,95,1
+988,TransCare,"1125A Desoto Road, Baltimore, MD",6/28/2011,8/31/2011,55,1
+989,DEL-JEN,"3066 Perimeter Road, Andrews Air Force Base, MD",6/29/2011,8/31/2011,96,1
+990,"Gates, McDonald & Company Nationwide Better Heath","300 Clubhouse Lane, Hunt Valley, MD",6/29/2011,8/29/2011,96,1
+991,Phillips Seafood Restaurants,"301 Light Street, Baltimore MD",7/13/2011,9/15/2011,120,6 week temporary lay off
+992,Prestige Maintenance,Various-Workers were stationed in 17 different Target Stores around the state.,7/18/2011,8/1/2011,54,2
+993,BP Solar,"630 Solarex Court, Frederick Business Center, Frederick, MD",7/19/2011,10/18/2011,58,2
+994,Legg Mason,"11155 Red Run Blvd., Owings Mills, MD",7/25/2011,1/1/2012,35,2
+995,DPI Specialty Foods,"1100 Mercantile Lane, Suite 100, Largo, MD",7/25/2011,9/29/2011,89,2
+996,Lockheed Martin,"US Naval Academy, 257 Longshaw Road, Annapolis MD",7/28/2011,9/30/2011,4,2
+997,Lockheed Martin,"Naval Observatory, 9500 MacArthur Blvd., Bethesda, MD",7/28/2011,9/30/2011,2,2
+998,Lockheed Martin,"Naval Support Activity, Carderock, 9500 MacArthur Blvd.,Bethesda, MD",7/28/2011,9/30/2011,8,2
+999,Lockheed Martin,"Naval Support Activity, Indian Head, 4386 Security Drive, Indian Head, MD",7/28/2011,9/30/2011,6,2
+1000,Lockheed Martin,"Naval Air Station, Patuxent River, Sauffley Road, Bldg 3219, Lexington Park, MD",7/28/2011,9/30/2011,15,2
+1001,Omni Corporation,"16825 S. Seton, Emmitsburg, MD",8/1/2011,9/30/2011,97,1
+1002,Capital One,"6200 Chevy Dr., Laurel, MD",8/3/2011,10/2/2011,54,2
+1003,elnstruction,"7125 Riverwood Dr., Columbia, MD",8/3/2011,8/12/2011,20,1
+1004,L.H. Cranston & Sons,"1111 Pepper Rd., Hunt Valley, MD",8/22/2011,8/26/2011,unknown at this time,2
+1005,SAIC,"NIH Femwood Building, 10401 Femwood Road, Bethesda, MD",8/26/2011,10/28/2011,83,2
+1006,Unilever Ice Cream,"1100 Frederick Street, Hagerstown, MD",9/2/2011,11/1/2011,437,1
+1007,BP Solar,"630 Solarex Court, Frederick Business Center, Frederick, MD",9/20/2011,12/20/2011,8 additional,1
+1008,Bank of America,"5300 Westview Drive, Frederick, MD",9/27/2011,11/7/2011,20,2
+1009,Redland Brick,"15718 Clear Spring Road, Williamsport, MD",10/25/2011,12/23/2011,60,Temporary lay-off for a minimum of 60 days
+1010,Pillar Hotels & Resorts Holiday Inn (Frederick),"5400 Holiday Drive, Frederick, MD",11/3/2011,12/31/2011,87,2
+1011,Pillar Hotels & Resorts Holiday Inn Express (Frederick),"5579 Spectrum Drive, Frederick, MD",11/3/2011,12/31/2011,19,2
+1012,Pillar Hotels & Resorts Holiday Inn (Cumberland),"100 S. George Street, Cumberland, MD",11/3/2011,12/31/2011,53,2
+1013,Filene's Basement-Syms Clothing,"600 East Pratt St., Baltimore, MD",11/4/2011,1/9/2012,31,1
+1014,Filene's Basement-Syms Clothing,"1900 Chapman Avenue, Rockville, MD",11/4/2011,1/9/2012,37,1
+1015,DynCorp International,"P.O. Box 469, Lexington Park, MD",11/14/2011,12/31/2011,74,1
+1016,Interstate Hotels & Resorts Comfort Inn BWI,"6921 Baltimore-Annapolis Boulevard, Baltimore, MD",11/17/2011,11/18/2011,52,2
+1017,"Transnuclear Inc., an Areva Company","7135 Minstrel Way, Suite 300 Columbia, MD",12/1/2011,1/31/2012,1,2
+1018,Fechheimer,"11 Dorsey Hotel Road, Grantsville, MD",12/7/2011,3/1/2012,59,2
+1019,"Susquehanna Bancshares, Inc.","2532 Baltimore Blvd., Mount Airy, MD",12/22/2011,2/17/2012,"Total 35 (At this time, number impacted at this location is unknown.)",2
+1020,"Susquehanna Bancshares, Inc.","532 Baltimore Blvd., Ste 202, Westminster, MD",12/22/2011,2/17/2012,"Total 35 (At this time, number impacted at this location is unknown.)",2
+1021,"Susquehanna Bancshares, Inc.","2101 Laurel Bush Road, Bel Air, MD",12/22/2011,2/17/2012,"Total 35 (At this time, number impacted at this location is unknown.)",2
+1022,"Susquehanna Bancshares, Inc.","231 N. Main St., Boonsboro, MD",12/22/2011,2/17/2012,"Total 35 (At this time, number impacted at this location is unknown.)",2
+1023,"Susquehanna Bancshares, Inc.","1101 Professional Court, Hagerstown, MD",12/22/2011,2/17/2012,"Total 35 (At this time, number impacted at this location is unknown.)",2
+1024,"Susquehanna Bancshares, Inc.","940 Frederick Street, Hagerstown, MD",12/22/2011,2/17/2012,"Total 35 (At this time, number impacted at this location is unknown.)",2
+1025,"Susquehanna Bancshares, Inc.","1800 Dual Highway, Ste. 100, Hagerstown, MD",12/22/2011,2/17/2012,"Total 35 (At this time, number impacted at this location is unknown.)",2
+1026,"Susquehanna Bancshares, Inc.","17601 Virginia Ave., Hagerstown, MD",12/22/2011,2/17/2012,"Total 35 (At this time, number impacted at this location is unknown.)",2
+1027,"Susquehanna Bancshares, Inc.","18233 Maugans Ave., Hagerstown, MD",12/22/2011,2/17/2012,"Total 35 (At this time, number impacted at this location is unknown.)",2
+1028,"Susquehanna Bancshares, Inc.","13418 Marsh Pike, Hagerstown, MD",12/22/2011,2/17/2012,"Total 35 (At this time, number impacted at this location is unknown.)",2
+1029,"Susquehanna Bancshares, Inc.","13511 Label Lane, Hagerstown, MD",12/22/2011,2/17/2012,"Total 35 (At this time, number impacted at this location is unknown.)",2
+1030,"Susquehanna Bancshares, Inc.","1262 Vocke Road, LaVale, MD",12/22/2011,2/17/2012,"Total 35 (At this time, number impacted at this location is unknown.)",2
+1031,"Susquehanna Bancshares, Inc.","963 National Highway, LaVale, MD",12/22/2011,2/17/2012,"Total 35 (At this time, number impacted at this location is unknown.)",2
+1032,"Susquehanna Bancshares, Inc.","305 E. Oak Street, Oakland, MD",12/22/2011,2/17/2012,"Total 35 (At this time, number impacted at this location is unknown.)",2
+1033,"Susquehanna Bancshares, Inc.","4204 Ebenezer Road, Baltimore, MD",12/22/2011,2/17/2012,"Total 35 (At this time, number impacted at this location is unknown.)",2
+1034,"Susquehanna Bancshares, Inc.","307 International Circle, Suite 600, Hunt Valley, MD",12/22/2011,2/17/2012,"Total 35 (At this time, number impacted at this location is unknown.)",2
+1035,"Susquehanna Bancshares, Inc.","10455 Mill Run Circle, Owings Mills, MD",12/22/2011,2/17/2012,"Total 35 (At this time, number impacted at this location is unknown.)",2
+1036,"Marada Industries, Inc.",Westminster,1/7/2010,3/9/2010,117,1
+1037,ARAMARK Management Services University of Maryland Medical System,Baltimore City,1/18/2010,4/12/2010,411,1
+1038,ARAMARK Management Services University Specialty Hospital,Baltimore City,1/18/2010,4/12/2010,43,1
+1039,Prime Retail Management,Baltimore City,1/20/2010,3/15/2010,Not known,2
+1040,NO WARNS REPORTED,,2/1/2010 to 2/28/2010,,,
+1041,Wackenhut Services Inc.,Columbia,3/1/2010,4/30/2010,5,1
+1042,Sears Holdings,Columbia,3/5/2010,3/15/2010,101,1
+1043,General Dynamics,Westminster,3/8/2010,3/8/2010,80,2
+1044,Capital One Bank,Laurel,3/9/2010,7/1/2010,179,2
+1045,Northrop Grumman,Hagerstown,3/11/2010,5/9/2010,174,2
+1046,BP Solar,Frederick,3/26/2010,6/30/2010,323,2
+1047,Office Depot,Odenton,4/15/2010,6/18/2010,132,1
+1048,Pitney Bowes Government Services Inc.,Rockville and Landover,4/21/2010,4/30/2010,21,2
+1049,Science Applications International Corporation,Camp Springs,4/27/2010,6/28/2010,82,2
+1050,Amports,Baltimore,4/30/2010,7/1/2010,116,1
+1051,Capital One Bank,"6151 Chevy Chase Drive, Laurel, MD",5/11/2010,11/5/2010,134,2
+1052,Capital One Bank,"7501 Wisconsin Ave., Bethesda, MD",5/11/2010,9/17/2010,68,2
+1053,General Dynamics Land Systems,"1231 Tech Court, Westminster, MD",5/18/2010,7/16/2010,31,2
+1054,Hanger Orthopedic Group Inc.,"2 Bethesda Metro Center, Bethesda MD",5/25/2010,8/31/2010,77,1
+1055,Legg Mason,"11155 Red Run Blvd., Owings Mills, MD",6/3/2010,7/1/2011,141,2
+1056,ESPN Zone,"601 East Pratt St. Baltimore, MD",6/16/2010,8/15/2010,161,1
+1057,Northrop Grumman,"18450 Showalter Road, Hagerstown, MD",6/28/2010,8/16/2010,59,2
+1058,Prime Retail,"217 E. Redwood St., 20th Floor, Baltimore, MD",7/7/2010,9/5/2010,44,2
+1059,Wackenhut Services Incorporated,"P.O. Box 700, Suitland, MD",7/19/2010,9/30/2010,82,2
+1060,JP Morgan Chase,"5202 Presidents Court, Frederick, MD",7/27/2010,9/27/2010,561,1
+1061,Solo Cup Company,"10100 Reisterstown Road, Owing Mills",7/29/2010,10/3/2010,551,1
+1062,Bank of America,"11333 McCormick Road, Hunt Valley",7/30/2010,9/20/2010,50,2
+1063,"Ravenwood Healthcare, Inc.","501 West Franklin Street, Baltimore",8/4/2010,8/3/2010,Not known,2
+1064,Apex Tool Group,"7200 Standard Drive, Hanover, MD",8/11/2010,10/11/2010,106,1
+1065,Kongsberg Automotive,"101 Western Maryland Parkway, Hagerstown, MD",8/13/2010,10/31/2010,63,1
+1066,Aramark @ Oriole Park at Camden Yards,"555 Russell Street, Suite B, Baltimore, MD",8/31/2010,10/13/2010,613,1
+1067,General Dynamics,"1231 Tech Court, Westminster, MD",8/31/2010,10/29/2010,132,2
+1068,Redland Brick,"15718 Clear Spring Road, Williamsport, MD",9/17/2010,11/22/2010,60,2 Temporary
+1069,Kop-Flex/Emerson Power Transmission,"7565 Harmans Road, Hanover, MD",10/4/2010,Start 12/1/10 End 9/2011,110,1
+1070,Homestead Publishing,"10 N. Hays Street, Bel Air, MD",10/6/2010,12/10/2010,52,2
+1071,Principal Financial Group,"7125 Thomas Edison Dr., Suite 210, Columbia, MD",10/11/2010,12/10/2010,2,2
+1072,Baxter Healthcare Corporation,"12140 Indian Creek Court, Beltsville, MD",10/15/2010,12/15/2010,106,1
+1073,ARAMARK Educational Services LLC,"8000 York Road, Towson, MD",NOTE: possible event 10/22/2010,12/31/2010,84,1
+1074,Severstal International,"1430 Sparrows Point Boulevard, Sparrows Point, MD",11/4/2010,12/31/2010,1012,2 NOTE: Currently a temporary lay-off situation
+1075,ZipRealty,"1122 Kenilworth Drive, Suite 217, Towson MD",11/29/2010,1/31/2011,75,2
+1076,"LFC Agricultural Services, Inc.","9060 Crisfield Highway, Westover, MD",12/2/2010,2/1/2011,103,1
+1077,ProBuild,"11850 Pika Drive, Waldorf, MD",12/3/2010,12/7/2010,27,1

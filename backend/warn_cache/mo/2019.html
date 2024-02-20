@@ -1,0 +1,850 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"1a1ddd71e3",applicationID:"70695803"};;/*! For license information please see nr-loader-rum-1.246.1.min.js.LICENSE.txt */
+(()=>{"use strict";var e,t,n={234:(e,t,n)=>{n.d(t,{P_:()=>h,Mt:()=>m,C5:()=>s,DL:()=>w,OP:()=>j,lF:()=>S,Yu:()=>_,Dg:()=>v,CX:()=>c,GE:()=>A,sU:()=>T});var r=n(8632),i=n(9567);const a={beacon:r.ce.beacon,errorBeacon:r.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},o={};function s(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!o[e])throw new Error("Info for ".concat(e," was never set"));return o[e]}function c(e,t){if(!e)throw new Error("All info objects require an agent identifier!");o[e]=(0,i.D)(t,a),(0,r.Qy)(e,o[e],"info")}const d=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var u=n(7056),l=n(50);const f=()=>{const e={mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{feature_flags:[],proxy:{assets:void 0,beacon:void 0},privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,block_internal:!0,enabled:!0,harvestTimeSeconds:10,autoStart:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},session:{domain:void 0,expiresMs:u.oD,inactiveMs:u.Hb},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},metrics:{enabled:!0,autoStart:!0},page_action:{enabled:!0,harvestTimeSeconds:30,autoStart:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30,long_task:!1,autoStart:!0},session_trace:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},harvest:{tooManyRequestsDelay:60},session_replay:{autoStart:!0,enabled:!1,harvestTimeSeconds:60,sampling_rate:50,error_sampling_rate:50,collect_fonts:!1,inline_images:!1,inline_stylesheet:!0,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){d(t)?e.mask_selector=t+",[data-nr-mask]":null===t?e.mask_selector=t:(0,l.Z)("An invalid session_replay.mask_selector was provided and will not be used",t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){d(t)?e.block_selector+=",".concat(t):""!==t&&(0,l.Z)("An invalid session_replay.block_selector was provided and will not be used",t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,l.Z)("An invalid session_replay.mask_input_option was provided and will not be used",t)}},spa:{enabled:!0,harvestTimeSeconds:10,autoStart:!0}}},g={},p="All configuration objects require an agent identifier!";function h(e){if(!e)throw new Error(p);if(!g[e])throw new Error("Configuration for ".concat(e," was never set"));return g[e]}function v(e,t){if(!e)throw new Error(p);g[e]=(0,i.D)(t,f()),(0,r.Qy)(e,g[e],"config")}function m(e,t){if(!e)throw new Error(p);var n=h(e);if(n){for(var r=t.split("."),i=0;i<r.length-1;i++)if("object"!=typeof(n=n[r[i]]))return;n=n[r[r.length-1]]}return n}const b={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},y={};function w(e){if(!e)throw new Error("All loader-config objects require an agent identifier!");if(!y[e])throw new Error("LoaderConfig for ".concat(e," was never set"));return y[e]}function A(e,t){if(!e)throw new Error("All loader-config objects require an agent identifier!");y[e]=(0,i.D)(t,b),(0,r.Qy)(e,y[e],"loader_config")}const _=(0,r.mF)().o;var x=n(385),D=n(6818);const k={buildEnv:D.Re,customTransaction:void 0,disabled:!1,distMethod:D.gF,isolatedBacklog:!1,loaderType:void 0,maxBytes:3e4,offset:Math.floor(x._A?.performance?.timeOrigin||x._A?.performance?.timing?.navigationStart||Date.now()),onerror:void 0,origin:""+x._A.location,ptid:void 0,releaseIds:{},session:void 0,xhrWrappable:"function"==typeof x._A.XMLHttpRequest?.prototype?.addEventListener,version:D.q4,denyList:void 0},E={};function j(e){if(!e)throw new Error("All runtime objects require an agent identifier!");if(!E[e])throw new Error("Runtime for ".concat(e," was never set"));return E[e]}function T(e,t){if(!e)throw new Error("All runtime objects require an agent identifier!");E[e]=(0,i.D)(t,k),(0,r.Qy)(e,E[e],"runtime")}function S(e){return function(e){try{const t=s(e);return!!t.licenseKey&&!!t.errorBeacon&&!!t.applicationID}catch(e){return!1}}(e)}},9567:(e,t,n)=>{n.d(t,{D:()=>i});var r=n(50);function i(e,t){try{if(!e||"object"!=typeof e)return(0,r.Z)("Setting a Configurable requires an object as input");if(!t||"object"!=typeof t)return(0,r.Z)("Setting a Configurable requires a model to set its initial properties");const n=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),a=0===Object.keys(n).length?e:n;for(let o in a)if(void 0!==e[o])try{Array.isArray(e[o])&&Array.isArray(t[o])?n[o]=Array.from(new Set([...e[o],...t[o]])):"object"==typeof e[o]&&"object"==typeof t[o]?n[o]=i(e[o],t[o]):n[o]=e[o]}catch(e){(0,r.Z)("An error occurred while setting a property of a Configurable",e)}return n}catch(e){(0,r.Z)("An error occured while setting a Configurable",e)}}},6818:(e,t,n)=>{n.d(t,{Re:()=>i,gF:()=>a,q4:()=>r});const r="1.246.1",i="PROD",a="CDN"},385:(e,t,n)=>{n.d(t,{Nk:()=>u,Tt:()=>s,_A:()=>a,cv:()=>l,iS:()=>o,il:()=>r,ux:()=>c,v6:()=>i,w1:()=>d});const r="undefined"!=typeof window&&!!window.document,i="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),a=r?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),o=Boolean("hidden"===a?.document?.visibilityState),s=(a?.location,/iPad|iPhone|iPod/.test(a.navigator?.userAgent)),c=s&&"undefined"==typeof SharedWorker,d=((()=>{const e=a.navigator?.userAgent?.match(/Firefox[/\s](\d+\.\d+)/);Array.isArray(e)&&e.length>=2&&e[1]})(),Boolean(r&&window.document.documentMode)),u=!!a.navigator?.sendBeacon,l=Math.floor(a?.performance?.timeOrigin||a?.performance?.timing?.navigationStart||Date.now())},1117:(e,t,n)=>{n.d(t,{w:()=>a});var r=n(50);const i={agentIdentifier:"",ee:void 0};class a{constructor(e){try{if("object"!=typeof e)return(0,r.Z)("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,i),Object.entries(e).forEach((e=>{let[t,n]=e;Object.keys(i).includes(t)&&(this.sharedContext[t]=n)}))}catch(e){(0,r.Z)("An error occured while setting SharedContext",e)}}}},8e3:(e,t,n)=>{n.d(t,{L:()=>u,R:()=>c});var r=n(8325),i=n(1284),a=n(4322),o=n(3325);const s={};function c(e,t){const n={staged:!1,priority:o.p[t]||0};d(e),s[e].get(t)||s[e].set(t,n)}function d(e){e&&(s[e]||(s[e]=new Map))}function u(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"",t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"feature";if(d(e),!e||!s[e].get(t))return o(t);s[e].get(t).staged=!0;const n=[...s[e]];function o(t){const n=e?r.ee.get(e):r.ee,o=a.X.handlers;if(n.backlog&&o){var s=n.backlog[t],c=o[t];if(c){for(var d=0;s&&d<s.length;++d)l(s[d],c);(0,i.D)(c,(function(e,t){(0,i.D)(t,(function(t,n){n[0].on(e,n[1])}))}))}delete o[t],n.backlog[t]=null,n.emit("drain-"+t,[])}}n.every((e=>{let[t,n]=e;return n.staged}))&&(n.sort(((e,t)=>e[1].priority-t[1].priority)),n.forEach((t=>{let[n]=t;s[e].delete(n),o(n)})))}function l(e,t){var n=e[1];(0,i.D)(t[n],(function(t,n){var r=e[0];if(n[0]===r){var i=n[1],a=e[3],o=e[2];i.apply(a,o)}}))}},8325:(e,t,n)=>{n.d(t,{A:()=>c,ee:()=>d});var r=n(8632),i=n(2210),a=n(234);class o{constructor(e){this.contextId=e}}var s=n(3117);const c="nr@context:".concat(s.a),d=function e(t,n){var r={},s={},u={},f=!1;try{f=16===n.length&&(0,a.OP)(n).isolatedBacklog}catch(e){}var g={on:h,addEventListener:h,removeEventListener:function(e,t){var n=r[e];if(!n)return;for(var i=0;i<n.length;i++)n[i]===t&&n.splice(i,1)},emit:function(e,n,r,i,a){!1!==a&&(a=!0);if(d.aborted&&!i)return;t&&a&&t.emit(e,n,r);for(var o=p(r),c=v(e),u=c.length,l=0;l<u;l++)c[l].apply(o,n);var f=b()[s[e]];f&&f.push([g,e,n,o]);return o},get:m,listeners:v,context:p,buffer:function(e,t){const n=b();if(t=t||"feature",g.aborted)return;Object.entries(e||{}).forEach((e=>{let[r,i]=e;s[i]=t,t in n||(n[t]=[])}))},abort:l,aborted:!1,isBuffering:function(e){return!!b()[s[e]]},debugId:n,backlog:f?{}:t&&"object"==typeof t.backlog?t.backlog:{}};return g;function p(e){return e&&e instanceof o?e:e?(0,i.X)(e,c,(()=>new o(c))):new o(c)}function h(e,t){r[e]=v(e).concat(t)}function v(e){return r[e]||[]}function m(t){return u[t]=u[t]||e(g,t)}function b(){return g.backlog}}(void 0,"globalEE"),u=(0,r.fP)();function l(){d.aborted=!0,d.backlog={}}u.ee||(u.ee=d)},5546:(e,t,n)=>{n.d(t,{E:()=>r,p:()=>i});var r=n(8325).ee.get("handle");function i(e,t,n,i,a){a?(a.buffer([e],i),a.emit(e,t,n)):(r.buffer([e],i),r.emit(e,t,n))}},4322:(e,t,n)=>{n.d(t,{X:()=>a});var r=n(5546);a.on=o;var i=a.handlers={};function a(e,t,n,a){o(a||r.E,i,e,t,n)}function o(e,t,n,i,a){a||(a="feature"),e||(e=r.E);var o=t[a]=t[a]||{};(o[n]=o[n]||[]).push([e,i])}},3239:(e,t,n)=>{n.d(t,{bP:()=>s,iz:()=>c,m$:()=>o});var r=n(385);let i=!1,a=!1;try{const e={get passive(){return i=!0,!1},get signal(){return a=!0,!1}};r._A.addEventListener("test",null,e),r._A.removeEventListener("test",null,e)}catch(e){}function o(e,t){return i||a?{capture:!!e,passive:i,signal:t}:!!e}function s(e,t){let n=arguments.length>2&&void 0!==arguments[2]&&arguments[2],r=arguments.length>3?arguments[3]:void 0;window.addEventListener(e,t,o(n,r))}function c(e,t){let n=arguments.length>2&&void 0!==arguments[2]&&arguments[2],r=arguments.length>3?arguments[3]:void 0;document.addEventListener(e,t,o(n,r))}},3117:(e,t,n)=>{n.d(t,{a:()=>r});const r=(0,n(4402).Rl)()},4402:(e,t,n)=>{n.d(t,{Rl:()=>o,ky:()=>s});var r=n(385);const i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";function a(e,t){return e?15&e[t]:16*Math.random()|0}function o(){const e=r._A?.crypto||r._A?.msCrypto;let t,n=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(31))),i.split("").map((e=>"x"===e?a(t,++n).toString(16):"y"===e?(3&a()|8).toString(16):e)).join("")}function s(e){const t=r._A?.crypto||r._A?.msCrypto;let n,i=0;t&&t.getRandomValues&&(n=t.getRandomValues(new Uint8Array(31)));const o=[];for(var s=0;s<e;s++)o.push(a(n,++i).toString(16));return o.join("")}},7056:(e,t,n)=>{n.d(t,{Bq:()=>r,Hb:()=>a,oD:()=>i});const r="NRBA",i=144e5,a=18e5},7894:(e,t,n)=>{function r(){return Math.round(performance.now())}n.d(t,{z:()=>r})},50:(e,t,n)=>{function r(e,t){"function"==typeof console.warn&&(console.warn("New Relic: ".concat(e)),t&&console.warn(t))}n.d(t,{Z:()=>r})},2587:(e,t,n)=>{n.d(t,{N:()=>c,T:()=>d});var r=n(8325),i=n(5546),a=n(3325);const o={stn:[a.D.sessionTrace],err:[a.D.jserrors,a.D.metrics],ins:[a.D.pageAction],spa:[a.D.spa],sr:[a.D.sessionReplay,a.D.sessionTrace]},s=new Set;function c(e,t){const n=r.ee.get(t);e&&"object"==typeof e&&(s.has(t)||Object.entries(e).forEach((e=>{let[t,r]=e;o[t]?o[t].forEach((e=>{r?(0,i.p)("feat-"+t,[],void 0,e,n):(0,i.p)("block-"+t,[],void 0,e,n),(0,i.p)("rumresp-"+t,[Boolean(r)],void 0,e,n)})):r&&(0,i.p)("feat-"+t,[],void 0,void 0,n),d[t]=Boolean(r)})),Object.keys(o).forEach((e=>{void 0===d[e]&&(o[e]?.forEach((t=>(0,i.p)("rumresp-"+e,[!1],void 0,t,n))),d[e]=!1)})),s.add(t))}const d={}},2210:(e,t,n)=>{n.d(t,{X:()=>i});var r=Object.prototype.hasOwnProperty;function i(e,t,n){if(r.call(e,t))return e[t];var i=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},1284:(e,t,n)=>{n.d(t,{D:()=>r});const r=(e,t)=>Object.entries(e||{}).map((e=>{let[n,r]=e;return t(n,r)}))},4351:(e,t,n)=>{n.d(t,{P:()=>a});var r=n(8325);const i=()=>{const e=new WeakSet;return(t,n)=>{if("object"==typeof n&&null!==n){if(e.has(n))return;e.add(n)}return n}};function a(e){try{return JSON.stringify(e,i())}catch(e){try{r.ee.emit("internal-error",[e])}catch(e){}}}},3960:(e,t,n)=>{n.d(t,{K:()=>o,b:()=>a});var r=n(3239);function i(){return"undefined"==typeof document||"complete"===document.readyState}function a(e,t){if(i())return e();(0,r.bP)("load",e,t)}function o(e){if(i())return e();(0,r.iz)("DOMContentLoaded",e)}},8632:(e,t,n)=>{n.d(t,{EZ:()=>d,Qy:()=>c,ce:()=>a,fP:()=>o,gG:()=>u,mF:()=>s});var r=n(7894),i=n(385);const a={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function o(){return i._A.NREUM||(i._A.NREUM={}),void 0===i._A.newrelic&&(i._A.newrelic=i._A.NREUM),i._A.NREUM}function s(){let e=o();return e.o||(e.o={ST:i._A.setTimeout,SI:i._A.setImmediate,CT:i._A.clearTimeout,XHR:i._A.XMLHttpRequest,REQ:i._A.Request,EV:i._A.Event,PR:i._A.Promise,MO:i._A.MutationObserver,FETCH:i._A.fetch}),e}function c(e,t,n){let i=o();const a=i.initializedAgents||{},s=a[e]||{};return Object.keys(s).length||(s.initializedAt={ms:(0,r.z)(),date:new Date}),i.initializedAgents={...a,[e]:{...s,[n]:t}},i}function d(e,t){o()[e]=t}function u(){return function(){let e=o();const t=e.info||{};e.info={beacon:a.beacon,errorBeacon:a.errorBeacon,...t}}(),function(){let e=o();const t=e.init||{};e.init={...t}}(),s(),function(){let e=o();const t=e.loader_config||{};e.loader_config={...t}}(),o()}},7956:(e,t,n)=>{n.d(t,{N:()=>i});var r=n(3239);function i(e){let t=arguments.length>1&&void 0!==arguments[1]&&arguments[1],n=arguments.length>2?arguments[2]:void 0,i=arguments.length>3?arguments[3]:void 0;(0,r.iz)("visibilitychange",(function(){if(t)return void("hidden"===document.visibilityState&&e());e(document.visibilityState)}),n,i)}},3081:(e,t,n)=>{n.d(t,{gF:()=>a,mY:()=>i,t9:()=>r,vz:()=>s,xS:()=>o});const r=n(3325).D.metrics,i="sm",a="cm",o="storeSupportabilityMetrics",s="storeEventMetrics"},7633:(e,t,n)=>{n.d(t,{t:()=>r});const r=n(3325).D.pageViewEvent},9251:(e,t,n)=>{n.d(t,{t:()=>r});const r=n(3325).D.pageViewTiming},5938:(e,t,n)=>{n.d(t,{W:()=>i});var r=n(8325);class i{constructor(e,t,n){this.agentIdentifier=e,this.aggregator=t,this.ee=r.ee.get(e),this.featureName=n,this.blocked=!1}}},7530:(e,t,n)=>{n.d(t,{j:()=>b});var r=n(3325),i=n(234),a=n(5546),o=n(8325),s=n(7894),c=n(8e3),d=n(3960),u=n(385),l=n(50),f=n(3081),g=n(8632);function p(){const e=(0,g.gG)();["setErrorHandler","finished","addToTrace","addRelease","addPageAction","setCurrentRouteName","setPageViewName","setCustomAttribute","interaction","noticeError","setUserId","setApplicationVersion","start"].forEach((t=>{e[t]=function(){for(var n=arguments.length,r=new Array(n),i=0;i<n;i++)r[i]=arguments[i];return function(t){for(var n=arguments.length,r=new Array(n>1?n-1:0),i=1;i<n;i++)r[i-1]=arguments[i];let a=[];return Object.values(e.initializedAgents).forEach((e=>{e.exposed&&e.api[t]&&a.push(e.api[t](...r))})),a.length>1?a:a[0]}(t,...r)}}))}var h=n(2587);const v=e=>{const t=e.startsWith("http");e+="/",n.p=t?e:"https://"+e};let m=!1;function b(e){let t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{},b=arguments.length>2?arguments[2]:void 0,y=arguments.length>3?arguments[3]:void 0,{init:w,info:A,loader_config:_,runtime:x={loaderType:b},exposed:D=!0}=t;const k=(0,g.gG)();A||(w=k.init,A=k.info,_=k.loader_config),(0,i.Dg)(e,w||{}),(0,i.GE)(e,_||{}),A.jsAttributes??={},u.v6&&(A.jsAttributes.isWorker=!0),(0,i.CX)(e,A);const E=(0,i.P_)(e),j=[A.beacon,A.errorBeacon];m||(m=!0,E.proxy.assets&&(v(E.proxy.assets),j.push(E.proxy.assets)),E.proxy.beacon&&j.push(E.proxy.beacon)),x.denyList=[...E.ajax.deny_list||[],...E.ajax.block_internal?j:[]],(0,i.sU)(e,x),p();const T=function(e,t){t||(0,c.R)(e,"api");const g={};var p=o.ee.get(e),h=p.get("tracer"),v="api-",m=v+"ixn-";function b(t,n,r,a){const o=(0,i.C5)(e);return null===n?delete o.jsAttributes[t]:(0,i.CX)(e,{...o,jsAttributes:{...o.jsAttributes,[t]:n}}),A(v,r,!0,a||null===n?"session":void 0)(t,n)}function y(){}["setErrorHandler","finished","addToTrace","addRelease"].forEach((e=>{g[e]=A(v,e,!0,"api")})),g.addPageAction=A(v,"addPageAction",!0,r.D.pageAction),g.setCurrentRouteName=A(v,"routeName",!0,r.D.spa),g.setPageViewName=function(t,n){if("string"==typeof t)return"/"!==t.charAt(0)&&(t="/"+t),(0,i.OP)(e).customTransaction=(n||"http://custom.transaction")+t,A(v,"setPageViewName",!0)()},g.setCustomAttribute=function(e,t){let n=arguments.length>2&&void 0!==arguments[2]&&arguments[2];if("string"==typeof e){if(["string","number","boolean"].includes(typeof t)||null===t)return b(e,t,"setCustomAttribute",n);(0,l.Z)("Failed to execute setCustomAttribute.\nNon-null value must be a string, number or boolean type, but a type of <".concat(typeof t,"> was provided."))}else(0,l.Z)("Failed to execute setCustomAttribute.\nName must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setUserId=function(e){if("string"==typeof e||null===e)return b("enduser.id",e,"setUserId",!0);(0,l.Z)("Failed to execute setUserId.\nNon-null value must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setApplicationVersion=function(e){if("string"==typeof e||null===e)return b("application.version",e,"setApplicationVersion",!1);(0,l.Z)("Failed to execute setApplicationVersion. Expected <String | null>, but got <".concat(typeof e,">."))},g.start=e=>{try{const t=e?"defined":"undefined";(0,a.p)(f.xS,["API/start/".concat(t,"/called")],void 0,r.D.metrics,p);const n=Object.values(r.D);if(void 0===e)e=n;else{if((e=Array.isArray(e)&&e.length?e:[e]).some((e=>!n.includes(e))))return(0,l.Z)("Invalid feature name supplied. Acceptable feature names are: ".concat(n));e.includes(r.D.pageViewEvent)||e.push(r.D.pageViewEvent)}e.forEach((e=>{p.emit("".concat(e,"-opt-in"))}))}catch(e){(0,l.Z)("An unexpected issue occurred",e)}},g.interaction=function(){return(new y).get()};var w=y.prototype={createTracer:function(e,t){var n={},i=this,o="function"==typeof t;return(0,a.p)(m+"tracer",[(0,s.z)(),e,n],i,r.D.spa,p),function(){if(h.emit((o?"":"no-")+"fn-start",[(0,s.z)(),i,o],n),o)try{return t.apply(this,arguments)}catch(e){throw h.emit("fn-err",[arguments,this,e],n),e}finally{h.emit("fn-end",[(0,s.z)()],n)}}}};function A(e,t,n,i){return function(){return(0,a.p)(f.xS,["API/"+t+"/called"],void 0,r.D.metrics,p),i&&(0,a.p)(e+t,[(0,s.z)(),...arguments],n?null:this,i,p),n?void 0:this}}function _(){n.e(75).then(n.bind(n,7438)).then((t=>{let{setAPI:n}=t;n(e),(0,c.L)(e,"api")})).catch((()=>(0,l.Z)("Downloading runtime APIs failed...")))}return["actionText","setName","setAttribute","save","ignore","onEnd","getContext","end","get"].forEach((e=>{w[e]=A(m,e,void 0,r.D.spa)})),g.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),(0,a.p)(f.xS,["API/noticeError/called"],void 0,r.D.metrics,p),(0,a.p)("err",[e,(0,s.z)(),!1,t],void 0,r.D.jserrors,p)},u.il?(0,d.b)((()=>_()),!0):_(),g}(e,y);return(0,g.Qy)(e,T,"api"),(0,g.Qy)(e,D,"exposed"),(0,g.EZ)("activatedFeatures",h.T),T}},3325:(e,t,n)=>{n.d(t,{D:()=>r,p:()=>i});const r={ajax:"ajax",jserrors:"jserrors",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",spa:"spa"},i={[r.pageViewEvent]:1,[r.pageViewTiming]:2,[r.metrics]:3,[r.jserrors]:4,[r.ajax]:5,[r.sessionTrace]:6,[r.pageAction]:7,[r.spa]:8,[r.sessionReplay]:9}}},r={};function i(e){var t=r[e];if(void 0!==t)return t.exports;var a=r[e]={exports:{}};return n[e](a,a.exports,i),a.exports}i.m=n,i.d=(e,t)=>{for(var n in t)i.o(t,n)&&!i.o(e,n)&&Object.defineProperty(e,n,{enumerable:!0,get:t[n]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce(((t,n)=>(i.f[n](e,t),t)),[])),i.u=e=>"nr-rum-1.246.1.min.js",i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA-1.246.1.PROD:",i.l=(n,r,a,o)=>{if(e[n])e[n].push(r);else{var s,c;if(void 0!==a)for(var d=document.getElementsByTagName("script"),u=0;u<d.length;u++){var l=d[u];if(l.getAttribute("src")==n||l.getAttribute("data-webpack")==t+a){s=l;break}}s||(c=!0,(s=document.createElement("script")).charset="utf-8",s.timeout=120,i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+a),s.src=n),e[n]=[r];var f=(t,r)=>{s.onerror=s.onload=null,clearTimeout(g);var i=e[n];if(delete e[n],s.parentNode&&s.parentNode.removeChild(s),i&&i.forEach((e=>e(r))),t)return t(r)},g=setTimeout(f.bind(null,void 0,{type:"timeout",target:s}),12e4);s.onerror=f.bind(null,s.onerror),s.onload=f.bind(null,s.onload),c&&document.head.appendChild(s)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",(()=>{var e={50:0,832:0};i.f.j=(t,n)=>{var r=i.o(e,t)?e[t]:void 0;if(0!==r)if(r)n.push(r[2]);else{var a=new Promise(((n,i)=>r=e[t]=[n,i]));n.push(r[2]=a);var o=i.p+i.u(t),s=new Error;i.l(o,(n=>{if(i.o(e,t)&&(0!==(r=e[t])&&(e[t]=void 0),r)){var a=n&&("load"===n.type?"missing":n.type),o=n&&n.target&&n.target.src;s.message="Loading chunk "+t+" failed.\n("+a+": "+o+")",s.name="ChunkLoadError",s.type=a,s.request=o,r[1](s)}}),"chunk-"+t,t)}};var t=(t,n)=>{var r,a,[o,s,c]=n,d=0;if(o.some((t=>0!==e[t]))){for(r in s)i.o(s,r)&&(i.m[r]=s[r]);if(c)c(i)}for(t&&t(n);d<o.length;d++)a=o[d],i.o(e,a)&&e[a]&&e[a][0](),e[a]=0},n=self["webpackChunk:NRBA-1.246.1.PROD"]=self["webpackChunk:NRBA-1.246.1.PROD"]||[];n.forEach(t.bind(null,0)),n.push=t.bind(null,n.push.bind(n))})(),(()=>{var e=i(50);class t{addPageAction(t,n){(0,e.Z)("Call to agent api addPageAction failed. The page action feature is not currently initialized.")}setPageViewName(t,n){(0,e.Z)("Call to agent api setPageViewName failed. The page view feature is not currently initialized.")}setCustomAttribute(t,n,r){(0,e.Z)("Call to agent api setCustomAttribute failed. The js errors feature is not currently initialized.")}noticeError(t,n){(0,e.Z)("Call to agent api noticeError failed. The js errors feature is not currently initialized.")}setUserId(t){(0,e.Z)("Call to agent api setUserId failed. The js errors feature is not currently initialized.")}setApplicationVersion(t){(0,e.Z)("Call to agent api setApplicationVersion failed. The agent is not currently initialized.")}setErrorHandler(t){(0,e.Z)("Call to agent api setErrorHandler failed. The js errors feature is not currently initialized.")}finished(t){(0,e.Z)("Call to agent api finished failed. The page action feature is not currently initialized.")}addRelease(t,n){(0,e.Z)("Call to agent api addRelease failed. The js errors feature is not currently initialized.")}start(t){(0,e.Z)("Call to agent api addRelease failed. The agent is not currently initialized.")}}var n=i(3325),r=i(234);const a=Object.values(n.D);function o(e){const t={};return a.forEach((n=>{t[n]=function(e,t){return!1!==(0,r.Mt)(t,"".concat(e,".enabled"))}(n,e)})),t}var s=i(7530);var c=i(8e3),d=i(5938),u=i(3960),l=i(385);class f extends d.W{constructor(e,t,n){let i=!(arguments.length>3&&void 0!==arguments[3])||arguments[3];super(e,t,n),this.auto=i,this.abortHandler=void 0,this.featAggregate=void 0,this.onAggregateImported=void 0,!1===(0,r.Mt)(this.agentIdentifier,"".concat(this.featureName,".autoStart"))&&(this.auto=!1),this.auto&&(0,c.R)(e,n)}importAggregator(){let t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};if(this.featAggregate)return;if(!this.auto)return void this.ee.on("".concat(this.featureName,"-opt-in"),(()=>{(0,c.R)(this.agentIdentifier,this.featureName),this.auto=!0,this.importAggregator()}));const n=l.il&&!0===(0,r.Mt)(this.agentIdentifier,"privacy.cookies_enabled");let a;this.onAggregateImported=new Promise((e=>{a=e}));const o=async()=>{let r;try{if(n){const{setupAgentSession:e}=await i.e(75).then(i.bind(i,3228));r=e(this.agentIdentifier)}}catch(t){(0,e.Z)("A problem occurred when starting up session manager. This page will not start or extend any session.",t)}try{if(!this.shouldImportAgg(this.featureName,r))return(0,c.L)(this.agentIdentifier,this.featureName),void a(!1);const{lazyFeatureLoader:e}=await i.e(75).then(i.bind(i,8582)),{Aggregate:n}=await e(this.featureName,"aggregate");this.featAggregate=new n(this.agentIdentifier,this.aggregator,t),a(!0)}catch(t){(0,e.Z)("Downloading and initializing ".concat(this.featureName," failed..."),t),this.abortHandler?.(),(0,c.L)(this.agentIdentifier,this.featureName),a(!1)}};l.il?(0,u.b)((()=>o()),!0):o()}shouldImportAgg(e,t){return e!==n.D.sessionReplay||!!r.Yu.MO&&(!1!==(0,r.Mt)(this.agentIdentifier,"session_trace.enabled")&&(!!t?.isNew||!!t?.state.sessionReplayMode))}}var g=i(7633);class p extends f{static featureName=g.t;constructor(e,t){let n=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,g.t,n),this.importAggregator()}}var h=i(1117),v=i(1284);class m extends h.w{constructor(e){super(e),this.aggregatedData={}}store(e,t,n,r,i){var a=this.getBucket(e,t,n,i);return a.metrics=function(e,t){t||(t={count:0});return t.count+=1,(0,v.D)(e,(function(e,n){t[e]=b(n,t[e])})),t}(r,a.metrics),a}merge(e,t,n,r,i){var a=this.getBucket(e,t,r,i);if(a.metrics){var o=a.metrics;o.count+=n.count,(0,v.D)(n,(function(e,t){if("count"!==e){var r=o[e],i=n[e];i&&!i.c?o[e]=b(i.t,r):o[e]=function(e,t){if(!t)return e;t.c||(t=y(t.t));return t.min=Math.min(e.min,t.min),t.max=Math.max(e.max,t.max),t.t+=e.t,t.sos+=e.sos,t.c+=e.c,t}(i,o[e])}}))}else a.metrics=n}storeMetric(e,t,n,r){var i=this.getBucket(e,t,n);return i.stats=b(r,i.stats),i}getBucket(e,t,n,r){this.aggregatedData[e]||(this.aggregatedData[e]={});var i=this.aggregatedData[e][t];return i||(i=this.aggregatedData[e][t]={params:n||{}},r&&(i.custom=r)),i}get(e,t){return t?this.aggregatedData[e]&&this.aggregatedData[e][t]:this.aggregatedData[e]}take(e){for(var t={},n="",r=!1,i=0;i<e.length;i++)t[n=e[i]]=w(this.aggregatedData[n]),t[n].length&&(r=!0),delete this.aggregatedData[n];return r?t:null}}function b(e,t){return null==e?function(e){e?e.c++:e={c:1};return e}(t):t?(t.c||(t=y(t.t)),t.c+=1,t.t+=e,t.sos+=e*e,e>t.max&&(t.max=e),e<t.min&&(t.min=e),t):{t:e}}function y(e){return{t:e,min:e,max:e,sos:e*e,c:1}}function w(e){return"object"!=typeof e?[]:(0,v.D)(e,A)}function A(e,t){return t}var _=i(8632),x=i(4402),D=i(4351);var k=i(5546),E=i(7956),j=i(3239),T=i(7894),S=i(9251);class N extends f{static featureName=S.t;constructor(e,t){let n=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,S.t,n),l.il&&((0,E.N)((()=>(0,k.p)("docHidden",[(0,T.z)()],void 0,S.t,this.ee)),!0),(0,j.bP)("pagehide",(()=>(0,k.p)("winPagehide",[(0,T.z)()],void 0,S.t,this.ee))),this.importAggregator())}}var C=i(3081);class P extends f{static featureName=C.t9;constructor(e,t){let n=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,C.t9,n),this.importAggregator()}}new class extends t{constructor(t){let n=arguments.length>1&&void 0!==arguments[1]?arguments[1]:(0,x.ky)(16);super(),l._A?(this.agentIdentifier=n,this.sharedAggregator=new m({agentIdentifier:this.agentIdentifier}),this.features={},this.desiredFeatures=new Set(t.features||[]),this.desiredFeatures.add(p),Object.assign(this,(0,s.j)(this.agentIdentifier,t,t.loaderType||"agent")),this.run()):(0,e.Z)("Failed to initial the agent. Could not determine the runtime environment.")}get config(){return{info:(0,r.C5)(this.agentIdentifier),init:(0,r.P_)(this.agentIdentifier),loader_config:(0,r.DL)(this.agentIdentifier),runtime:(0,r.OP)(this.agentIdentifier)}}run(){const t="features";try{const r=o(this.agentIdentifier),i=[...this.desiredFeatures];i.sort(((e,t)=>n.p[e.featureName]-n.p[t.featureName])),i.forEach((t=>{if(r[t.featureName]||t.featureName===n.D.pageViewEvent){const i=function(e){switch(e){case n.D.ajax:return[n.D.jserrors];case n.D.sessionTrace:return[n.D.ajax,n.D.pageViewEvent];case n.D.sessionReplay:return[n.D.sessionTrace];case n.D.pageViewTiming:return[n.D.pageViewEvent];default:return[]}}(t.featureName);i.every((e=>r[e]))||(0,e.Z)("".concat(t.featureName," is enabled but one or more dependent features has been disabled (").concat((0,D.P)(i),"). This may cause unintended consequences or missing data...")),this.features[t.featureName]=new t(this.agentIdentifier,this.sharedAggregator)}})),(0,_.Qy)(this.agentIdentifier,this.features,t)}catch(n){(0,e.Z)("Failed to initialize all enabled instrument classes (agent aborted) -",n);for(const e in this.features)this.features[e].abortHandler?.();const r=(0,_.fP)();return delete r.initializedAgents[this.agentIdentifier]?.api,delete r.initializedAgents[this.agentIdentifier]?.[t],delete this.sharedAggregator,r.ee?.abort(),delete r.ee?.get(this.agentIdentifier),!1}}addToTrace(t){(0,e.Z)("Call to agent api addToTrace failed. The session trace feature is not currently initialized.")}setCurrentRouteName(t){(0,e.Z)("Call to agent api setCurrentRouteName failed. The spa feature is not currently initialized.")}interaction(){(0,e.Z)("Call to agent api interaction failed. The spa feature is not currently initialized.")}}({features:[p,N,P],loaderType:"lite"})})()})();</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5PZC104WLQ"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-5PZC104WLQ", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location","allow_ad_personalization_signals":false});</script>
+<link rel="canonical" href="https://jobs.mo.gov/warn/2019" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/sites/jobs/themes/jobs_2020/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>WARN Notices | JobsMoGov</title>
+    <link rel="stylesheet" media="all" href="/sites/jobs/files/css/css_pB9BqeOQzT0kl3BWEXNU7_kc6Z2cbLAIyJIovvRutC0.css?delta=0&amp;language=en&amp;theme=jobs_2020&amp;include=eJydU9uS2yAM_SEK2_Rl_4YRoDhKAFGEvfF-fYlxtpvtpNPpg40kju4HzxXN-eeMdVUT8xTRQoa4NvJivhqUrNIwGQeCykcQWR_khCIwoSh_i5q5Joj0jurMTuzh5fBipsgOosJri5QvJtS5QNS7qvwFAzWuFnyPEIiz-ZD0sXJumIOKsPLcbCDxvPS6DWf0HNWRYsNqPJTW8Sr1WGCGUd-NC-GbmO2vE4c54qh1L6RUnmpv4sEIZ7gqF-F9NYFTmSsd17u-HbviiAd2c6ZebO2D02O4-tin8ZD-N3TP08BF7NkLZ6EFlcPWQ1i8FhYMdnTSl4IZa5_hk2uYG1uZXaKmBCP6djD7qRPlkVG4btm-Iv7woO-vWWP3ioS5CQW0S99pgNs07Whtp4_eL_DvYL_o_8Tf2fGveDrelhtQMpWCzXyS9YmmU-xfO8tTjLQ1op6onWanEk-82B9FrFBDSp0pC5rtZQiJvfl9ovmg6LfxAnZfQaj-BKWYIdmNEU_uXGR_-QXl_WhP" />
+<link rel="stylesheet" media="all" href="/sites/jobs/files/css/css_kEN6tIW7_soeYOed9MNd_V-gjTtDwVratCbVO5VMZik.css?delta=1&amp;language=en&amp;theme=jobs_2020&amp;include=eJydU9uS2yAM_SEK2_Rl_4YRoDhKAFGEvfF-fYlxtpvtpNPpg40kju4HzxXN-eeMdVUT8xTRQoa4NvJivhqUrNIwGQeCykcQWR_khCIwoSh_i5q5Joj0jurMTuzh5fBipsgOosJri5QvJtS5QNS7qvwFAzWuFnyPEIiz-ZD0sXJumIOKsPLcbCDxvPS6DWf0HNWRYsNqPJTW8Sr1WGCGUd-NC-GbmO2vE4c54qh1L6RUnmpv4sEIZ7gqF-F9NYFTmSsd17u-HbviiAd2c6ZebO2D02O4-tin8ZD-N3TP08BF7NkLZ6EFlcPWQ1i8FhYMdnTSl4IZa5_hk2uYG1uZXaKmBCP6djD7qRPlkVG4btm-Iv7woO-vWWP3ioS5CQW0S99pgNs07Whtp4_eL_DvYL_o_8Tf2fGveDrelhtQMpWCzXyS9YmmU-xfO8tTjLQ1op6onWanEk-82B9FrFBDSp0pC5rtZQiJvfl9ovmg6LfxAnZfQaj-BKWYIdmNEU_uXGR_-QXl_WhP" />
+<link rel="stylesheet" media="print" href="/sites/jobs/files/css/css_lk-9dLHN2_zb5u6gLuUGhgYKxvNaUnI_wqpLqcYcIe8.css?delta=2&amp;language=en&amp;theme=jobs_2020&amp;include=eJydU9uS2yAM_SEK2_Rl_4YRoDhKAFGEvfF-fYlxtpvtpNPpg40kju4HzxXN-eeMdVUT8xTRQoa4NvJivhqUrNIwGQeCykcQWR_khCIwoSh_i5q5Joj0jurMTuzh5fBipsgOosJri5QvJtS5QNS7qvwFAzWuFnyPEIiz-ZD0sXJumIOKsPLcbCDxvPS6DWf0HNWRYsNqPJTW8Sr1WGCGUd-NC-GbmO2vE4c54qh1L6RUnmpv4sEIZ7gqF-F9NYFTmSsd17u-HbviiAd2c6ZebO2D02O4-tin8ZD-N3TP08BF7NkLZ6EFlcPWQ1i8FhYMdnTSl4IZa5_hk2uYG1uZXaKmBCP6djD7qRPlkVG4btm-Iv7woO-vWWP3ioS5CQW0S99pgNs07Whtp4_eL_DvYL_o_8Tf2fGveDrelhtQMpWCzXyS9YmmU-xfO8tTjLQ1op6onWanEk-82B9FrFBDSp0pC5rtZQiJvfl9ovmg6LfxAnZfQaj-BKWYIdmNEU_uXGR_-QXl_WhP" />
+
+    <script src="https://siteimproveanalytics.com/js/siteanalyze_7050.js"></script>
+
+  </head>
+  <body class="is-ultimenu-canvas is-ultimenu-canvas--hover theme--jobs-2020 base-theme--classy path--warn path--warn--2019 page--warn--2019 no-sidebars path-warn">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+
+  <header role="banner">
+    <div class="header-content">
+        <div class="region region-branding">
+    <div id="block-jobs-2020-site-branding" role="banner" aria-label="Branding" class="block block-system block-system-branding-block">
+  
+    
+        <a href="/" title="Home" rel="home" class="site-logo">
+      <img src="/sites/jobs/themes/jobs_2020/images/jobs-logo-white.png" alt="Home" />
+    </a>
+      </div>
+
+  </div>
+
+      <div class="utility-wrapper">
+          <div class="region region-search-utility">
+    <div id="block-mojobsloginbutton" class="hidden-sm hidden-md hidden-lg block-block-content-basic block block-block-content block-block-contentf26bbad4-aa02-4e87-a4f7-62df5bab7714">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div class="block block-layout-builder block-field-blockblock-contentbasicbody">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a href="https://app-jobs.mo.gov/?_ga=2.86535640.1707794871.1641223603-903189028.1640108839">MoJobs Login</a></p></div>
+      
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+<nav role="navigation" aria-labelledby="block-jobs-2020-utilitybar-menu" id="block-jobs-2020-utilitybar" class="block block-menu navigation menu--utility-bar">
+            
+  <h2 class="visually-hidden" id="block-jobs-2020-utilitybar-menu">Utility Bar</h2>
+  
+
+        <div class="content">
+            <div class="menu-toggle-target menu-toggle-target-show" id="show-block-jobs-2020-utilitybar"></div>
+      <div class="menu-toggle-target" id="hide-block-jobs-2020-utilitybar"></div>
+      <a class="menu-toggle" href="#show-block-jobs-2020-utilitybar">Show &mdash; Utility Bar</a>
+      <a class="menu-toggle menu-toggle--hide" href="#hide-block-jobs-2020-utilitybar">Hide &mdash; Utility Bar</a>
+      
+      <ul class="menu menu--utility-bar nav">
+                        <li class="item--contact-us">
+        <a href="/contact-customer-support" data-drupal-link-system-path="node/311">Contact Us</a>
+                  </li>
+                        <li class="item--media-inquiries">
+        <a href="/media-inquiries" data-drupal-link-system-path="node/336">Media Inquiries</a>
+                  </li>
+                        <li class="item--no-cost-workshops">
+        <a href="/jobseeker/workshops" data-drupal-link-system-path="node/516">No Cost Workshops</a>
+                  </li>
+                        <li class="item--¡importante--wichtig--重要">
+        <a href="/babel-notice" data-drupal-link-system-path="node/366">¡IMPORTANTE! | WICHTIG! | 重要!</a>
+                  </li>
+                        <li class="item--mojobs-login">
+        <a href="https://app-jobs.mo.gov/?_ga=2.86535640.1707794871.1641223603-903189028.1640108839">MoJobs Login</a>
+                  </li>
+        </ul>
+  
+
+    </div>
+  </nav>
+<div class="searchapp-form block block-mogov-searchapp block-searchapp-block" data-drupal-selector="searchapp-form" id="block-jobs-2020-searchappform" role="search" aria-label="Search">
+  
+    
+      <form action="/warn/2019" method="post" id="searchapp-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-search form-item-search">
+      <label for="edit-search">Search</label>
+        <input placeholder="" data-drupal-selector="edit-search" data-msg-maxlength="Search field has a maximum length of 128." type="search" id="edit-search" name="search" value="" size="60" maxlength="128" class="form-search" />
+
+        </div>
+<input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Submit" class="button js-form-submit form-submit" />
+<input autocomplete="off" data-drupal-selector="form-am8ghmol379quooqaots817brajjydgelkb4kh-jiyi" type="hidden" name="form_build_id" value="form-aM8GHMoL379qUOoQaots817bRAJjydgELkb4Kh_jIYI" />
+<input data-drupal-selector="edit-searchapp-form" type="hidden" name="form_id" value="searchapp_form" />
+
+</form>
+
+  </div>
+
+  </div>
+
+          <div class="region region-secondary-utility">
+    <div id="block-gtranslate" class="block block-gtranslate block-gtranslate-block">
+  
+      <h2>Google Translate</h2>
+    
+      
+<div class="gtranslate_wrapper"></div><script>window.gtranslateSettings = {"switcher_horizontal_position":"left","switcher_vertical_position":"bottom","horizontal_position":"inline","vertical_position":"inline","float_switcher_open_direction":"top","switcher_open_direction":"bottom","default_language":"en","native_language_names":1,"detect_browser_language":0,"add_new_line":1,"select_language_label":"Select Language","flag_size":32,"flag_style":"2d","globe_size":60,"alt_flags":[],"wrapper_selector":".gtranslate_wrapper","url_structure":"none","custom_domains":null,"languages":["en","ar","bg","zh-CN","hr","cs","da","nl","fi","fr","de","el","hi","it","ja","ko","no","pl","pt","ro","ru","es","sv","ca","tl","iw","id","lv","lt","sr","sk","sl","uk","vi","sq","et","gl","hu","mt","th","tr","fa","af","ms","sw","ga","cy","be","is","mk","yi","hy","az","eu","ka","ht","ur","bn","bs","ceb","eo","gu","ha","hmn","ig","jw","kn","km","lo","la","mi","mr","mn","ne","pa","so","ta","te","yo","zu","haw"],"custom_css":""}</script><script>(function(){var js = document.createElement('script');js.setAttribute('src', '/modules/contrib/gtranslate/js/dropdown.js');js.setAttribute('data-gt-orig-url', '/warn/2019');js.setAttribute('data-gt-orig-domain', 'jobs.mo.gov');document.body.appendChild(js);})();</script>
+  </div>
+
+  </div>
+
+      </div>
+    </div>
+  </header>
+
+  
+  
+
+  
+
+  
+
+  
+
+  <main role="main">
+
+    <div class="layout-content">
+      <a id="main-content" tabindex="-1"></a>        <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div><div id="block-jobs-2020-page-title" class="block block-core block-page-title-block">
+  
+    
+      
+  <h1 class="page-title">WARN Notices</h1>
+
+
+  </div>
+<div id="block-warnnoticeheader" class="alert alert-warning block-block-content-basic block block-block-content block-block-contente5d9881f-9d4b-46b2-afa8-07fc2d7a746b">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div class="block block-layout-builder block-field-blockblock-contentbasicbody">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><span><span><strong>Effective March 24, 2023: </strong>If you wish to receive further information about the most recent WARN Notice submitted to the Office of Workforce Development (OWD), sign up for our <a href="https://public.govdelivery.com/accounts/MODHEWD/subscriber/new?topic_id=MODHEWD_219">WARN Notice Mailing List</a>. </span></span>Submitted WARN Notices will be added to the list by the end of the next business day. WARN Notice updates will be emailed during business operating hours.</p>
+
+<p>To receive any previous WARN Notices, submit an open records request to Kristin Stokely, General Counsel, at <a href="mailto:%20kristin.stokely@dhewd.mo.gov" class="file file-inline text-html-charsetUTF-8 file--text-html-charsetUTF-8 file--text">kristin.stokely@dhewd.mo.gov</a>.</p></div>
+      
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+<div id="block-jobs-2020-content" class="block block-system block-system-main-block">
+  
+    
+      <div class="views-element-container"><div class="view view-warn-notices view-id-warn_notices view-display-id-page_1 js-view-dom-id-8aafdbe7c653397a29c44ca3eaa8460b358e8ceba538734df6d8b80a049cac0f">
+  
+    
+        <div class="view-filters">
+      <form class="views-exposed-form bef-exposed-form" data-bef-auto-submit-full-form="" data-bef-auto-submit="" data-bef-auto-submit-delay="500" data-drupal-selector="views-exposed-form-warn-notices-page-1" action="/warn/2019" method="get" id="views-exposed-form-warn-notices-page-1" accept-charset="UTF-8">
+  <div class="form--inline clearfix">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-company form-item-company">
+      <label for="edit-company">Company name</label>
+        <input data-drupal-selector="edit-company" data-msg-maxlength="Company name field has a maximum length of 128." type="text" id="edit-company" name="company" value="" size="30" maxlength="128" class="form-text" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-select form-type-select js-form-item-field-county-target-id form-item-field-county-target-id">
+      <label for="edit-field-county-target-id">Counties</label>
+        <select data-drupal-selector="edit-field-county-target-id" id="edit-field-county-target-id" name="field_county_target_id[]" size="9" class="form-select select2-widget" multiple="multiple" data-select2-config="{&quot;multiple&quot;:true,&quot;placeholder&quot;:&quot;- None -&quot;,&quot;allowClear&quot;:false,&quot;dir&quot;:&quot;ltr&quot;,&quot;language&quot;:&quot;en&quot;,&quot;tags&quot;:false,&quot;theme&quot;:&quot;default&quot;,&quot;maximumSelectionLength&quot;:0,&quot;tokenSeparators&quot;:[],&quot;selectOnClose&quot;:false,&quot;width&quot;:&quot;100%&quot;}"><option value="32">Adair</option><option value="33">Andrew</option><option value="34">Atchison</option><option value="35">Audrain</option><option value="36">Barry</option><option value="37">Barton</option><option value="38">Bates</option><option value="39">Benton</option><option value="40">Bollinger</option><option value="41">Boone</option><option value="42">Buchanan</option><option value="43">Butler</option><option value="44">Caldwell</option><option value="45">Callaway</option><option value="46">Camden</option><option value="47">Cape Girardeau</option><option value="48">Carroll</option><option value="49">Carter</option><option value="50">Cass</option><option value="51">Cedar</option><option value="52">Chariton</option><option value="53">Christian</option><option value="54">Clark</option><option value="55">Clay</option><option value="56">Clinton</option><option value="57">Cole</option><option value="58">Cooper</option><option value="59">Crawford</option><option value="60">Dade</option><option value="61">Dallas</option><option value="62">Daviess</option><option value="63">DeKalb</option><option value="64">Dent</option><option value="65">Douglas</option><option value="66">Dunklin</option><option value="67">Franklin</option><option value="68">Gasconade</option><option value="69">Gentry</option><option value="70">Greene</option><option value="71">Grundy</option><option value="72">Harrison</option><option value="73">Henry</option><option value="74">Hickory</option><option value="75">Holt</option><option value="76">Howard</option><option value="77">Howell</option><option value="78">Iron</option><option value="79">Jackson</option><option value="80">Jasper</option><option value="81">Jefferson</option><option value="82">Johnson</option><option value="83">Knox</option><option value="84">Laclede</option><option value="85">Lafayette</option><option value="86">Lawrence</option><option value="87">Lewis</option><option value="88">Lincoln</option><option value="89">Linn</option><option value="90">Livingston</option><option value="91">Macon</option><option value="92">Madison</option><option value="93">Maries</option><option value="94">Marion</option><option value="95">McDonald</option><option value="96">Mercer</option><option value="97">Miller</option><option value="98">Mississippi</option><option value="99">Moniteau</option><option value="100">Monroe</option><option value="101">Montgomery</option><option value="102">Morgan</option><option value="103">New Madrid</option><option value="104">Newton</option><option value="105">Nodaway</option><option value="106">Oregon</option><option value="107">Osage</option><option value="108">Ozark</option><option value="109">Pemiscot</option><option value="110">Perry</option><option value="111">Pettis</option><option value="112">Phelps</option><option value="113">Pike</option><option value="114">Platte</option><option value="115">Polk</option><option value="116">Pulaski</option><option value="117">Putnam</option><option value="118">Ralls</option><option value="119">Randolph</option><option value="120">Ray</option><option value="121">Reynolds</option><option value="122">Ripley</option><option value="123">Saline</option><option value="124">Schuyler</option><option value="125">Scotland</option><option value="126">Scott</option><option value="127">Shannon</option><option value="128">Shelby</option><option value="129">St. Charles</option><option value="130">St. Clair</option><option value="131">St. Francois</option><option value="132">St. Louis (county)</option><option value="133">Ste. Genevieve</option><option value="134">Stoddard</option><option value="135">Stone</option><option value="136">Sullivan</option><option value="137">Taney</option><option value="138">Texas</option><option value="139">Vernon</option><option value="140">Warren</option><option value="141">Washington</option><option value="142">Wayne</option><option value="143">Webster</option><option value="144">Worth</option><option value="145">Wright</option></select>
+        </div>
+<div class="js-form-item form-item js-form-type-select form-type-select js-form-item-type form-item-type">
+      <label for="edit-type">Type</label>
+        <select data-drupal-selector="edit-type" id="edit-type" name="type" class="form-select select2-widget" data-select2-config="{&quot;multiple&quot;:false,&quot;placeholder&quot;:&quot;- None -&quot;,&quot;allowClear&quot;:false,&quot;dir&quot;:&quot;ltr&quot;,&quot;language&quot;:&quot;en&quot;,&quot;tags&quot;:false,&quot;theme&quot;:&quot;default&quot;,&quot;maximumSelectionLength&quot;:0,&quot;tokenSeparators&quot;:[],&quot;selectOnClose&quot;:false,&quot;width&quot;:&quot;100%&quot;}"><option value=""></option><option value="All" selected="selected">- Any -</option><option value="Layoff">Layoff</option><option value="Closing">Closing</option><option value="Furlough">Furlough</option><option value="Loss_of_contract">Loss of Contract</option><option value="Company_restructure">Company Restructure</option></select>
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-bef-auto-submit-click="" class="js-hide button js-form-submit form-submit" data-drupal-selector="edit-submit-warn-notices" type="submit" id="edit-submit-warn-notices" value="Apply" />
+</div>
+
+</div>
+
+</form>
+
+    </div>
+    
+      <div class="view-content">
+      <table class="cols-8 responsive-enabled">
+  
+      <thead>
+      <tr>
+                                                  <th id="view-field-date-received-table-column" aria-sort="ascending" class="views-field views-field-field-date-received is-active" scope="col"><a href="?company=&amp;type=All&amp;order=field_date_received&amp;sort=desc" title="sort by Received" rel="nofollow">Received<span class="tablesort tablesort--desc">
+  <span class="visually-hidden">
+    Sort descending
+      </span>
+</span>
+</a></th>
+                                                  <th id="view-title-table-column" class="views-field views-field-title" scope="col"><a href="?company=&amp;type=All&amp;order=title&amp;sort=asc" title="sort by Title" rel="nofollow">Title</a></th>
+                                                  <th id="view-field-locations-table-column" class="views-field views-field-field-locations" scope="col">Location(s)</th>
+                                                  <th id="view-field-county-table-column" class="views-field views-field-field-county" scope="col"><a href="?company=&amp;type=All&amp;order=field_county&amp;sort=asc" title="sort by County" rel="nofollow">County</a></th>
+                                                  <th class="priority-low views-field views-field-field-region" id="view-field-region-table-column" scope="col">Region</th>
+                                                  <th id="view-field-type-table-column" class="views-field views-field-field-type" scope="col"><a href="?company=&amp;type=All&amp;order=field_type&amp;sort=asc" title="sort by Type" rel="nofollow">Type</a></th>
+                                                  <th class=" nowrap views-align-center views-field views-field-field-dates views-align-center" id="view-field-dates-table-column" scope="col">Layoff date(s)</th>
+                                                  <th class="nowrap views-align-right views-field views-field-field-affected-employees views-align-right" id="view-field-affected-employees-table-column" scope="col"><a href="?company=&amp;type=All&amp;order=field_affected_employees&amp;sort=asc" title="sort by # affected" rel="nofollow"># affected</a></th>
+              </tr>
+    </thead>
+  
+      <tbody>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-01-04T12:00:00Z" class="datetime">01/04/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">Beauty Brands            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">Kansas City            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">Clay            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">Kansas City &amp; Vicinity            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-01-18T12:00:00Z" class="datetime">01/18/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">81            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-01-08T12:00:00Z" class="datetime">01/08/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">DB Schenker            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">St. Peters            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">St. Charles            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">St. Charles County            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-03-10T12:00:00Z" class="datetime">03/10/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">144            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-01-17T12:00:00Z" class="datetime">01/17/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">Durham Schools Services, L.P.            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">Florissant            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">St. Louis (county)            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">St. Louis County            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-06-30T12:00:00Z" class="datetime">06/30/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">254            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-01-23T12:00:00Z" class="datetime">01/23/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">TreeHouse Foods, Inc &amp; its subsidiaries Bay Valley Foods LLC &amp; TreeHouse Private Brands            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">St. Louis (city)            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">St. Louis (county)            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">St. Louis County            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-06-28T12:00:00Z" class="datetime">06/28/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">131            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-02-13T12:00:00Z" class="datetime">02/13/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">Spectrum Pharmaceuticals            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">Multiple Locations            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-04-12T12:00:00Z" class="datetime">04/12/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">5            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-02-16T12:00:00Z" class="datetime">02/16/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">Receivable Solutions, Inc. (RSi)            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">Town &amp; Country            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">St. Louis (county)            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">St. Louis County            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-03-29T12:00:00Z" class="datetime">03/29/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">50            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-02-27T12:00:00Z" class="datetime">02/27/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">Crane Freight and Cartage            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">Kansas City            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">Platte            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">Kansas City &amp; Vicinity            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-05-30T12:00:00Z" class="datetime">05/30/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">28            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-03-01T12:00:00Z" class="datetime">03/01/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">The Results Companies, LLC            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">Kansas City            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">Platte            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">Kansas City &amp; Vicinity            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-05-03T12:00:00Z" class="datetime">05/03/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">82            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-03-13T12:00:00Z" class="datetime">03/13/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">CVS Health subsidiary companies Aetna Resources LLC and CVS Pharmacy, Inc.            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">Kansas City            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">Platte            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">Kansas City &amp; Vicinity            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-05-20T12:00:00Z" class="datetime">05/20/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">138            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-03-15T12:00:00Z" class="datetime">03/15/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">PepsiCo, Inc. (Kansas City)            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">Kansas City            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">Jackson            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">Kansas City &amp; Vicinity            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-05-17T12:00:00Z" class="datetime">05/17/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">57            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-04-12T12:00:00Z" class="datetime">04/12/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">Laird Technologies, Inc.            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">Chesterfield            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">St. Louis (county)            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">St. Louis County            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-06-14T12:00:00Z" class="datetime">06/14/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">5            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-05-01T12:00:00Z" class="datetime">05/01/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">Aramark Services Inc. and Aramark Sports and Entertainment Services, LLC (St. Louis)            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">St. Louis (city)            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">St. Louis (county)            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">St. Louis County            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-06-30T12:00:00Z" class="datetime">06/30/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">95            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-05-10T12:00:00Z" class="datetime">05/10/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">First Student Inc. (Kansas City)            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">Kansas City            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">Jackson            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">Kansas City &amp; Vicinity            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-06-30T12:00:00Z" class="datetime">06/30/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">293            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-06-06T12:00:00Z" class="datetime">06/06/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">Parker Hannifin Hose Products Division (Kennett)            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">Kennett            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">Dunklin            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">Southeast            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-09-30T12:00:00Z" class="datetime">09/30/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">92            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-07-08T12:00:00Z" class="datetime">07/08/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">Pioneer Services            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">Kansas City            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">Jackson            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">Kansas City &amp; Vicinity            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-09-01T12:00:00Z" class="datetime">09/01/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">89            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-07-29T12:00:00Z" class="datetime">07/29/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">Sheraton Clayton Plaza Hotel St. Louis            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">Clayton            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">St. Louis (county)            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">St. Louis County            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Layoff            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-10-01T12:00:00Z" class="datetime">10/01/2019</time>
+<br><time datetime="2019-10-14T12:00:00Z" class="datetime">10/14/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">82            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-07-29T12:00:00Z" class="datetime">07/29/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">Silgan Containers Manufacturing Corporation            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">Mount Vernon            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">Lawrence            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">Southwest            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-10-04T12:00:00Z" class="datetime">10/04/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">20            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-09-02T12:00:00Z" class="datetime">09/02/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">Nestle USA, Inc. &amp; Nestle Dreyers Ice Cream Company            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">Earth City            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">St. Louis (county)            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">St. Louis County            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-12-31T12:00:00Z" class="datetime">12/31/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">56            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-09-18T12:00:00Z" class="datetime">09/18/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">Sodexo, Inc., and Affiliates (Kansas City - Children&#039;s Mercy Hospital)             </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">Kansas City            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">Jackson            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">Kansas City &amp; Vicinity            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-11-08T12:00:00Z" class="datetime">11/08/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">96            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-10-02T12:00:00Z" class="datetime">10/02/2019</time>
+<br><time datetime="2020-10-30T12:00:00Z" class="datetime">10/30/2020</time>
+ rev            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">Cerner Corporation            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">Multiple Locations            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-12-13T12:00:00Z" class="datetime">12/13/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">154            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-10-08T12:00:00Z" class="datetime">10/08/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">Haldex Brake Products Corporation            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">Blue Springs            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">Jackson            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">Kansas City &amp; Vicinity            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-12-13T12:00:00Z" class="datetime">12/13/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">154            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-10-17T12:00:00Z" class="datetime">10/17/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">Union Pacific Neff Diesel Locomotive Shop            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">Kansas City            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">Jackson            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">Kansas City &amp; Vicinity            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-12-17T12:00:00Z" class="datetime">12/17/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">89            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-10-24T12:00:00Z" class="datetime">10/24/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">Thrift Books            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">Maryland Heights            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">St. Louis (county)            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">St. Louis County            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-11-01T12:00:00Z" class="datetime">11/01/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">65            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-10-29T12:00:00Z" class="datetime">10/29/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">Cowley Distributing, Inc. (Cape Girardeau, Jefferson City, Maryland Heights, Springfield)            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">Multiple Locations            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2019-12-31T12:00:00Z" class="datetime">12/31/2019</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">115            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-11-01T12:00:00Z" class="datetime">11/01/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">Regal Beloit America Inc.            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">West Plains            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">Howell            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">South Central            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2020-05-21T12:00:00Z" class="datetime">05/21/2020</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">204            </td>
+                  </tr>
+              <tr>
+                                                                                                                                      <td headers="view-field-date-received-table-column" class="nowrap views-field views-field-field-date-received is-active views-field-field-date-updated"><time datetime="2019-12-06T12:00:00Z" class="datetime">12/06/2019</time>
+            </td>
+                                                                                                        <td headers="view-title-table-column" class="views-field views-field-title">ExlService.com, LLC            </td>
+                                                                                                        <td headers="view-field-locations-table-column" class="views-field views-field-field-locations">Lee’s Summit            </td>
+                                                                                                        <td headers="view-field-county-table-column" class="views-field views-field-field-county">Jackson            </td>
+                                                                                                        <td class="priority-low views-field views-field-field-region" headers="view-field-region-table-column">Kansas City &amp; Vicinity            </td>
+                                                                                                        <td headers="view-field-type-table-column" class="views-field views-field-field-type">Closing            </td>
+                                                                                                        <td headers="view-field-dates-table-column" class="views-field views-field-field-dates views-align-center"><time datetime="2020-01-31T12:00:00Z" class="datetime">01/31/2020</time>
+            </td>
+                                                                                                        <td headers="view-field-affected-employees-table-column" class="views-field views-field-field-affected-employees views-align-right">82            </td>
+                  </tr>
+          </tbody>
+  
+  <tfoot>
+    <tr class="summary">
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td><div class="label">Total:</div> 2,661</td>
+          </tr>
+  </tfoot>
+</table>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+
+  </div>
+
+    </div>
+    
+    
+  </main>
+
+      <footer role="contentinfo">
+                <div class="region region-footer-top">
+    <nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="block block-menu navigation menu--main">
+      
+  <h2 id="block-mainnavigation-menu">jobs.mo.gov</h2>
+  
+
+        <div class="content">
+            <div class="menu-toggle-target menu-toggle-target-show" id="show-block-mainnavigation"></div>
+      <div class="menu-toggle-target" id="hide-block-mainnavigation"></div>
+      <a class="menu-toggle" href="#show-block-mainnavigation">Show &mdash; jobs.mo.gov</a>
+      <a class="menu-toggle menu-toggle--hide" href="#hide-block-mainnavigation">Hide &mdash; jobs.mo.gov</a>
+      
+      <ul class="menu menu--main nav">
+                        <li class="item--about-us">
+        <a href="/community/about-us" data-drupal-link-system-path="node/246">About Us</a>
+                  </li>
+                        <li class="item--contact-us">
+        <a href="/contact-customer-support" data-drupal-link-system-path="node/311">Contact Us</a>
+                  </li>
+                        <li class="item--media-inquiries">
+        <a href="/media-inquiries" data-drupal-link-system-path="node/336">Media Inquiries</a>
+                  </li>
+                        <li class="item--find-a-job-center">
+        <a href="/job-centers" data-drupal-link-system-path="node/16">Find a Job Center</a>
+                  </li>
+                        <li class="item--internet-safety">
+        <a href="/personal-internet-safety" data-drupal-link-system-path="node/361">Internet Safety</a>
+                  </li>
+                        <li class="item--owd-sms-short-code-terms-of-service">
+        <a href="/office-workforce-development-sms-short-code-terms-service" data-drupal-link-system-path="node/1896">OWD SMS Short Code Terms of Service</a>
+                  </li>
+                        <li class="item--babel-notice">
+        <a href="/babel-notice" data-drupal-link-system-path="node/366">Babel Notice</a>
+                  </li>
+                        <li class="item--employment-related-tips">
+        <a href="/newsletter-showcase" data-drupal-link-system-path="node/396">Employment Related Tips</a>
+                  </li>
+        </ul>
+  
+
+    </div>
+  </nav>
+<nav role="navigation" aria-labelledby="block-mainnavigation-2-menu" id="block-mainnavigation-2" class="block block-menu navigation menu--main">
+      
+  <h2 id="block-mainnavigation-2-menu">Job Seeker</h2>
+  
+
+        <div class="content">
+            <div class="menu-toggle-target menu-toggle-target-show" id="show-block-mainnavigation-2"></div>
+      <div class="menu-toggle-target" id="hide-block-mainnavigation-2"></div>
+      <a class="menu-toggle" href="#show-block-mainnavigation-2">Show &mdash; Job Seeker</a>
+      <a class="menu-toggle menu-toggle--hide" href="#hide-block-mainnavigation-2">Hide &mdash; Job Seeker</a>
+      
+      <ul class="menu menu--main nav">
+                        <li class="item--computer-usage-policy-notice">
+        <a href="https://jobs.mo.gov/computer-usage-policy-notice">Computer Usage Policy Notice</a>
+                  </li>
+                        <li class="item--find-a-job-using-mojobs">
+        <a href="https://app-jobs.mo.gov/vosnet/Default.aspx?_ga=2.3031536.1368411188.1640617555-1961970432.1620756716">Find a Job using MoJobs</a>
+                  </li>
+                        <li class="item--plan-your-career">
+        <a href="/jobseeker/plan-your-career" data-drupal-link-system-path="node/256">Plan Your Career</a>
+                  </li>
+                        <li class="item--prepare-for-the-job">
+        <a href="/jobseeker/prepare-for-the-job" data-drupal-link-system-path="node/266">Prepare for the Job</a>
+                  </li>
+                        <li class="item--journey-to-college">
+        <a href="https://journeytocollege.mo.gov/">Journey to College</a>
+                  </li>
+                        <li class="item--job-seeker-mojobs-login">
+        <a href="/mojobs-login-information" data-drupal-link-system-path="node/511">Job Seeker MoJobs Login</a>
+                  </li>
+        </ul>
+  
+
+    </div>
+  </nav>
+<nav role="navigation" aria-labelledby="block-mainnavigation-3-menu" id="block-mainnavigation-3" class="block block-menu navigation menu--main">
+      
+  <h2 id="block-mainnavigation-3-menu">Employers</h2>
+  
+
+        <div class="content">
+            <div class="menu-toggle-target menu-toggle-target-show" id="show-block-mainnavigation-3"></div>
+      <div class="menu-toggle-target" id="hide-block-mainnavigation-3"></div>
+      <a class="menu-toggle" href="#show-block-mainnavigation-3">Show &mdash; Employers</a>
+      <a class="menu-toggle menu-toggle--hide" href="#hide-block-mainnavigation-3">Hide &mdash; Employers</a>
+      
+      <ul class="menu menu--main nav">
+                        <li class="item--post-a-job-using-mojobs">
+        <a href="https://app-jobs.mo.gov/vosnet/Default.aspx?_ga=2.3031536.1368411188.1640617555-1961970432.1620756716">Post a Job using MoJobs</a>
+                  </li>
+                        <li class="item--recruitment">
+        <a href="/employer/recruitment" data-drupal-link-system-path="node/276">Recruitment</a>
+                  </li>
+                        <li class="item--incentives">
+        <a href="/employer/incentives" data-drupal-link-system-path="node/281">Incentives</a>
+                  </li>
+                        <li class="item--business-resources">
+        <a href="/employer/resources" data-drupal-link-system-path="node/286">Business Resources</a>
+                  </li>
+                        <li class="item--employer-mojobs-login">
+        <a href="/mojobs-login-information" data-drupal-link-system-path="node/511">Employer MoJobs Login</a>
+                  </li>
+        </ul>
+  
+
+    </div>
+  </nav>
+<nav role="navigation" aria-labelledby="block-mainnavigation-4-menu" id="block-mainnavigation-4" class="block block-menu navigation menu--main">
+      
+  <h2 id="block-mainnavigation-4-menu">Community</h2>
+  
+
+        <div class="content">
+            <div class="menu-toggle-target menu-toggle-target-show" id="show-block-mainnavigation-4"></div>
+      <div class="menu-toggle-target" id="hide-block-mainnavigation-4"></div>
+      <a class="menu-toggle" href="#show-block-mainnavigation-4">Show &mdash; Community</a>
+      <a class="menu-toggle menu-toggle--hide" href="#hide-block-mainnavigation-4">Hide &mdash; Community</a>
+      
+      <ul class="menu menu--main nav">
+                        <li class="item--equal-opportunity--disability-services">
+        <a href="/community/equal-opportunity" data-drupal-link-system-path="node/251">Equal Opportunity &amp; Disability Services</a>
+                  </li>
+                        <li class="item--missouri-workforce-development-board">
+        <a href="https://dhewd.mo.gov/WDB/">Missouri Workforce Development Board</a>
+                  </li>
+                        <li class="item--missouri-workforce-system">
+        <a href="/community/mo-workforce-system" data-drupal-link-system-path="node/661">Missouri Workforce System</a>
+                  </li>
+                        <li class="item--missouris-labor-market">
+        <a href="/community/labor-market" data-drupal-link-system-path="node/676">Missouri&#039;s Labor Market</a>
+                  </li>
+                        <li class="item--missouri’s-eligible-training-provider-system-etps">
+        <a href="/community/moetps" data-drupal-link-system-path="node/1301">Missouri’s Eligible Training Provider System (ETPS)</a>
+                  </li>
+                        <li class="item--staff-login">
+        <a href="https://app-jobs.mo.gov/vosnet/Default.aspx">Staff Login</a>
+                  </li>
+        </ul>
+  
+
+    </div>
+  </nav>
+
+  </div>
+
+                      <div class="region region-footer-middle">
+    <nav role="navigation" aria-labelledby="block-jobs-2020-socialtoolbar-footer-menu" id="block-jobs-2020-socialtoolbar-footer" class="block block-menu navigation menu--social-toolbar">
+      
+  <h2 id="block-jobs-2020-socialtoolbar-footer-menu">Connect with Us!</h2>
+  
+
+        <div class="content">
+            <div class="menu-toggle-target menu-toggle-target-show" id="show-block-jobs-2020-socialtoolbar-footer"></div>
+      <div class="menu-toggle-target" id="hide-block-jobs-2020-socialtoolbar-footer"></div>
+      <a class="menu-toggle" href="#show-block-jobs-2020-socialtoolbar-footer">Show &mdash; Connect with Us!</a>
+      <a class="menu-toggle menu-toggle--hide" href="#hide-block-jobs-2020-socialtoolbar-footer">Hide &mdash; Connect with Us!</a>
+      
+              <ul class="menu nav">
+                            <li class="item--like-us-on-facebook text-hide">
+        <a href="http://www.facebook.com/JobsMoGov/">Like us on Facebook</a>
+                  </li>
+                        <li class="item--follow-us-on-twitter text-hide">
+        <a href="http://twitter.com/JobsMoGov">Follow us on Twitter</a>
+                  </li>
+                        <li class="item--follow-us-on-pinterest text-hide">
+        <a href="https://www.pinterest.com/jobsmogov/" title="Follow us on Pinterest">Follow us on Pinterest</a>
+                  </li>
+                        <li class="item--watch-videos-on-youtube text-hide">
+        <a href="http://youtube.com/moworkforce1">Watch videos on YouTube</a>
+                  </li>
+                        <li class="item--email-us text-hide">
+        <a href="/contact-customer-support" data-drupal-link-system-path="node/311">Email us</a>
+                  </li>
+                        <li class="item--subscribe-to-govdelivery text-hide">
+        <a href="https://public.govdelivery.com/accounts/MODHEWD/subscriber/new" title="Subscribe to GovDelivery">Subscribe to GovDelivery</a>
+                  </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+<div id="block-savealifefooterlink" class="block-block-content-basic block block-block-content block-block-contentd59709e5-f347-4c19-8246-a7e80920eecd">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div class="block block-layout-builder block-field-blockblock-contentbasicbody">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><a href="https://donatelifemissouri.org/">
+<article class="align-center media media--type-image media--view-mode-default"><div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/jobs/files/styles/medium/public/media/image/2022/01/save-life-footer.png?itok=QQQj3wsk" width="113" height="78" alt="Click here to Save a Life" typeof="foaf:Image" class="image-style-medium" /></div>
+      
+  </article></a></div>
+      
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+
+                      <div class="region region-footer-bottom">
+    <div id="block-footerdisclaimer" class="block-block-content-basic block block-block-content block-block-content7ba553ca-400c-4785-9759-8c1676d9f2a3">
+  
+    
+        <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div class="block block-layout-builder block-field-blockblock-contentbasicbody">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>The Missouri Office of Workforce Development is a proud partner of the American Job Center network.</p>
+
+<p>Missouri Department of Higher Education and Workforce Development is an equal opportunity employer/program.<br />
+Auxiliary aids and services are available upon request to individuals with disabilities. Missouri Relay 711.</p>
+
+<p>This workforce product was funded by a grant awarded by the U.S. Department of Labor’s Employment and Training Administration.  The product was created by the contracting agency and does not necessarily reflect the official position of the U.S. Department of Labor.  The Department of Labor makes no guarantees, warranties, or assurances of any kind, express or implied, with respect to such information, including any information on linked sites and including, but not limited to, accuracy of the information or its completeness, timeliness, usefulness, adequacy, continued availability, or ownership. This product is copyrighted by the institution that created it.  Internal use by an organization and/or personal use by an individual for non-commercial purposes is permissible.  All other uses require the prior authorization of the copyright owner.</p></div>
+      
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+<nav role="navigation" aria-labelledby="block-jobs-2020-footer-menu" id="block-jobs-2020-footer" class="block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="block-jobs-2020-footer-menu">Footer menu</h2>
+  
+
+        <div class="content">
+            <div class="menu-toggle-target menu-toggle-target-show" id="show-block-jobs-2020-footer"></div>
+      <div class="menu-toggle-target" id="hide-block-jobs-2020-footer"></div>
+      <a class="menu-toggle" href="#show-block-jobs-2020-footer">Show &mdash; Footer menu</a>
+      <a class="menu-toggle menu-toggle--hide" href="#hide-block-jobs-2020-footer">Hide &mdash; Footer menu</a>
+      
+      <ul class="menu menu--footer nav">
+                        <li class="item--equal-opportunity">
+        <a href="/community/equal-opportunity" data-drupal-link-system-path="node/251">Equal Opportunity</a>
+                  </li>
+                        <li class="item--accessibility">
+        <a href="https://mo.gov/accessibility">Accessibility</a>
+                  </li>
+                        <li class="item--privacy-policy">
+        <a href="/privacy-policy" data-drupal-link-system-path="node/3006">Privacy Policy</a>
+                  </li>
+                        <li class="item--governor-parson">
+        <a href="https://governor.mo.gov">Governor Parson</a>
+                  </li>
+                        <li class="item--state-agencies">
+        <a href="http://www.mo.gov/search-results?mode=state_agencies">State Agencies</a>
+                  </li>
+                        <li class="item--online-services">
+        <a href="http://www.mo.gov/search-results?mode=online_services">Online Services</a>
+                  </li>
+                        <li class="item--translation">
+        <a href="/translate" data-drupal-link-system-path="node/1706">Translation</a>
+                  </li>
+        </ul>
+  
+
+    </div>
+  </nav>
+
+  </div>
+
+          </footer>
+  
+</div>
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"warn\/2019","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"better_exposed_filters\/auto_submit,better_exposed_filters\/general,blazy\/bio.ajax,ckeditor_accordion\/accordion.frontend,classy\/base,classy\/messages,clientside_validation_jquery\/cv.jquery.ckeditor,clientside_validation_jquery\/cv.jquery.ife,clientside_validation_jquery\/cv.jquery.validate,codesnippet\/codesnippet.highlightjs,codesnippet\/codesnippet.style.github,core\/drupal.tableresponsive,core\/normalize,extlink\/drupal.extlink,google_analytics\/google_analytics,jobs_2020\/global,jobs_2020\/layout-normal,layout_discovery\/onecol,media\/filter.caption,mogov_3ps_siteimprove\/analysis_code,mogov_searchapp\/search_block,mogov_searchapp\/search_form,select2\/select2,select2\/select2.i18n.en,system\/base,views\/views.ajax,views\/views.module","theme":"jobs_2020","theme_token":null},"ajaxTrustedUrl":{"\/warn\/2019":true,"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"clientside_validation_jquery":{"validate_all_ajax_forms":2,"force_validate_on_blur":true,"messages":{"required":"This field is required.","remote":"Please fix this field.","email":"Please enter a valid email address.","url":"Please enter a valid URL.","date":"Please enter a valid date.","dateISO":"Please enter a valid date (ISO).","number":"Please enter a valid number.","digits":"Please enter only digits.","equalTo":"Please enter the same value again.","maxlength":"Please enter no more than {0} characters.","minlength":"Please enter at least {0} characters.","rangelength":"Please enter a value between {0} and {1} characters long.","range":"Please enter a value between {0} and {1}.","max":"Please enter a value less than or equal to {0}.","min":"Please enter a value greater than or equal to {0}.","step":"Please enter a multiple of {0}."}},"google_analytics":{"account":"G-5PZC104WLQ","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":true},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"(mo\\.gov)|(state\\.mo\\.us)","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":true,"extAlertText":"You are currently exiting to a site that is not part of the government (.gov) domain. Web sites are places where diverse groups of people interact, so please be aware that you will be subject to a wide variety of experiences beyond our control. Always use good judgment when using these platforms and when following links to other web sites. Click OK to continue.","mailtoClass":"mailto","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":null}},"ckeditorAccordion":{"accordionStyle":{"collapseAll":null,"keepRowsOpen":null,"animateAccordionOpenAndClose":1,"openTabsWithHash":1}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:8aafdbe7c653397a29c44ca3eaa8460b358e8ceba538734df6d8b80a049cac0f":{"view_name":"warn_notices","view_display_id":"page_1","view_args":"2019","view_path":"\/warn\/2019","view_base_path":"warn\/%","view_dom_id":"8aafdbe7c653397a29c44ca3eaa8460b358e8ceba538734df6d8b80a049cac0f","pager_element":0}}},"user":{"uid":0,"permissionsHash":"087f3c4652413683af04bd63c671617ccddf7a53316b67c224eb8b0c03b26568"}}</script>
+<script src="/sites/jobs/files/js/js_esEnLQjlsfVgKnUl3VOV1RojMeZphWUoDAa-iNjzw2M.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=jobs_2020&amp;include=eJydU9uS2yAM_SEK2_Rl_4YRoDhKAFGEvfF-fYlxtpvtpNPpg40kju4HzxXN-eeMdVUT8xTRQoa4NvJivhqUrNIwGQeCykcQWR_khCIwoSh_i5q5Joj0jurMTuzh5fBipsgOosJri5QvJtS5QNS7qvwFAzWuFnyPEIiz-ZD0sXJumIOKsPLcbCDxvPS6DWf0HNWRYsNqPJTW8Sr1WGCGUd-NC-GbmO2vE4c54qh1L6RUnmpv4sEIZ7gqF-F9NYFTmSsd17u-HbviiAd2c6ZebO2D02O4-tin8ZD-N3TP08BF7NkLZ6EFlcPWQ1i8FhYMdnTSl4IZa5_hk2uYG1uZXaKmBCP6djD7qRPlkVG4btm-Iv7woO-vWWP3ioS5CQW0S99pgNs07Whtp4_eL_DvYL_o_8Tf2fGveDrelhtQMpWCzXyS9YmmU-xfO8tTjLQ1op6onWanEk-82B9FrFBDSp0pC5rtZQiJvfl9ovmg6LfxAnZfQaj-BKWYIdmNEU_uXGR_-QXl_WhP"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.js?s3i5vm"></script>
+<script src="/sites/jobs/files/js/js_85N7K4bolc6MTlTPmrjjyOUP--6F3rSsW7BjBMT0xmA.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=jobs_2020&amp;include=eJydU9uS2yAM_SEK2_Rl_4YRoDhKAFGEvfF-fYlxtpvtpNPpg40kju4HzxXN-eeMdVUT8xTRQoa4NvJivhqUrNIwGQeCykcQWR_khCIwoSh_i5q5Joj0jurMTuzh5fBipsgOosJri5QvJtS5QNS7qvwFAzWuFnyPEIiz-ZD0sXJumIOKsPLcbCDxvPS6DWf0HNWRYsNqPJTW8Sr1WGCGUd-NC-GbmO2vE4c54qh1L6RUnmpv4sEIZ7gqF-F9NYFTmSsd17u-HbviiAd2c6ZebO2D02O4-tin8ZD-N3TP08BF7NkLZ6EFlcPWQ1i8FhYMdnTSl4IZa5_hk2uYG1uZXaKmBCP6djD7qRPlkVG4btm-Iv7woO-vWWP3ioS5CQW0S99pgNs07Whtp4_eL_DvYL_o_8Tf2fGveDrelhtQMpWCzXyS9YmmU-xfO8tTjLQ1op6onWanEk-82B9FrFBDSp0pC5rtZQiJvfl9ovmg6LfxAnZfQaj-BKWYIdmNEU_uXGR_-QXl_WhP"></script>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1a1ddd71e3","applicationID":"70695803","transactionName":"YF0BMkNTDEMDAkILDlkXIgVFWw1eTSVEFxFWVD8QWFcVQz4zWRcVXlYEOmdbB0cyAFEHIlhWFxReXg5VEEwICgBZXA8D","queueTime":12,"applicationTime":411,"atts":"TBoWRAtJHxxAABRYGkpF","errorBeacon":"bam.nr-data.net","agent":""}</script><script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=1032137263" async></script></body>
+</html>

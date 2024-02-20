@@ -1,0 +1,381 @@
+,company_name,location,notice_date,employees_affected,URL
+0,Maine General,"35 Medical Center Pkwy; Augusta, Maine 04330","Jan 10, 2023",23.0,https://joblink.maine.gov/search/warn_lookups/453
+1,Presque Isle Inn,"116 Main Street; Presque Isle, Maine 04769","Jan 09, 2023",22.0,https://joblink.maine.gov/search/warn_lookups/454
+2,Marden's,"1016 US Rt. 2; Rumford, Maine 04276","Jan 12, 2023",24.0,https://joblink.maine.gov/search/warn_lookups/455
+3,The Pillars,"121 Main Street; Fairfield, Maine 04937","Jan 12, 2023",0.0,https://joblink.maine.gov/search/warn_lookups/456
+4,Aerotek (Abbott),"949 Brighton Avenue; Portland, Maine 04102","Feb 07, 2023",234.0,https://joblink.maine.gov/search/warn_lookups/457
+5,Co-Worx Staffing (Abbott),"833 Portland Road; Saco, Maine 04072","Feb 03, 2023",460.0,https://joblink.maine.gov/search/warn_lookups/458
+6,Manpower (Abbott),,"Feb 02, 2023",,https://joblink.maine.gov/search/warn_lookups/459
+7,Athena Health,"Hatley Road; Belfast, Maine 04915","Feb 08, 2023",28.0,https://joblink.maine.gov/search/warn_lookups/460
+8,Lavender Puff,"3 Water Street; Caribou, Maine 04736","Feb 01, 2023",4.0,https://joblink.maine.gov/search/warn_lookups/461
+9,HW Staffing (Abbott Labs),"142 St. John Street; Portland, Maine 04102","Feb 15, 2023",40.0,https://joblink.maine.gov/search/warn_lookups/462
+10,Pat's Pizza,,"Feb 24, 2023",,https://joblink.maine.gov/search/warn_lookups/463
+11,Bon Appétit Mgmt,"4000 mayflower hill rd ; Waterville, Maine 04901","May 30, 2023",10.0,https://joblink.maine.gov/search/warn_lookups/491
+12,ND Paper Old Town,"24 Portland St; Old Town, Maine 04468","Mar 30, 2023",0.0,https://joblink.maine.gov/search/warn_lookups/465
+13,Dollar Tree,"681 Bath Rd; Wiscasset, Maine 04578","Apr 03, 2023",6.0,https://joblink.maine.gov/search/warn_lookups/466
+14,PCHC,"103 Maine Avenue; Bangor, Maine 04401","Apr 03, 2023",11.0,https://joblink.maine.gov/search/warn_lookups/467
+15,It'll Be Pizza,"5 Lincoln Ave; Scarborough, Maine 04074","Apr 03, 2023",14.0,https://joblink.maine.gov/search/warn_lookups/468
+16,David's  Bridal,"374 Maine Mall Rd; South Portland, Maine 04106","Apr 14, 2023",0.0,https://joblink.maine.gov/search/warn_lookups/469
+17,Tall Pines Nursing Home,"24 Martin Ln; Belfast, Maine 04915","Apr 18, 2023",45.0,https://joblink.maine.gov/search/warn_lookups/470
+18,Puritan Medical Products,"31 School St; Hampden, Maine 04444","Apr 18, 2023",55.0,https://joblink.maine.gov/search/warn_lookups/472
+19,Bed Bath and Beyond,"490 Stillwater ave; Bangor, Maine 04401","Apr 23, 2023",20.0,https://joblink.maine.gov/search/warn_lookups/473
+20,Unum,"2211 Congress St ; Portland, Maine 04102","Apr 18, 2023",0.0,https://joblink.maine.gov/search/warn_lookups/474
+21,Tyson Foods/ Barber Foods,"56 Milliken st ; Portland, Maine 04102","Apr 18, 2023",0.0,https://joblink.maine.gov/search/warn_lookups/475
+22,York County Community Action Corp,,"Apr 18, 2023",,https://joblink.maine.gov/search/warn_lookups/476
+23,Bed Bath and Beyond,"200 running hill rd ; South Portland, Maine 04106","Apr 24, 2023",20.0,https://joblink.maine.gov/search/warn_lookups/477
+24,KeyBank,"135 main st ; Freeport, Maine 04032","May 01, 2023",4.0,https://joblink.maine.gov/search/warn_lookups/478
+25,Stonewall kitchen,"2 Stonewall Lane; York, Maine 03909","May 01, 2023",9.0,https://joblink.maine.gov/search/warn_lookups/479
+26,AMS LLC/Gagne Foods,"25 wing farm pkwy ; Bath, Maine 04530","May 08, 2023",30.0,https://joblink.maine.gov/search/warn_lookups/480
+27,KeyBank,"214 Madison Ave ; Skowhegan, Maine 04976","May 08, 2023",6.0,https://joblink.maine.gov/search/warn_lookups/481
+28,KeyBank,"40 Front St. ; Bath, Maine 04530","May 05, 2023",4.0,https://joblink.maine.gov/search/warn_lookups/482
+29,C & L Aviation,"40 wyoming ave ; Bangor, Maine 04401","Jun 02, 2023",40.0,https://joblink.maine.gov/search/warn_lookups/492
+30,GVS North,"63 Community Dr; Sanford, Maine 04073","May 15, 2023",12.0,https://joblink.maine.gov/search/warn_lookups/484
+31,Save-a-Lot,,"May 08, 2023",,https://joblink.maine.gov/search/warn_lookups/485
+32,Abbott Rapid Diagnostics,"5 bradley dr ; Westbrook, Maine 04092","May 16, 2023",199.0,https://joblink.maine.gov/search/warn_lookups/486
+33,Livermore Falls Baking Company,"49 gilbert st; Livermore Falls, Maine 04254","May 23, 2023",10.0,https://joblink.maine.gov/search/warn_lookups/487
+34,Days Inn Kittery,"85 US-1 BYP; Kittery, Maine 03904","May 18, 2023",0.0,https://joblink.maine.gov/search/warn_lookups/488
+35,Abbott Rapid Diagnostics,,"Mar 01, 2023",,https://joblink.maine.gov/search/warn_lookups/489
+36,American Roots Wear,"90 bridge st ; Westbrook, Maine 04092","May 22, 2023",0.0,https://joblink.maine.gov/search/warn_lookups/490
+37,G-Force Entertainment,"663 Stillwater ave , Suite 1180A; Bangor, Maine 04401","Jun 07, 2023",12.0,https://joblink.maine.gov/search/warn_lookups/493
+38,J.S. McCarthy Printing,"15 Darin Dr,; Augusta, Maine 04330","Jun 12, 2023",10.0,https://joblink.maine.gov/search/warn_lookups/494
+39,Jotul North America,,"Jun 06, 2023",,https://joblink.maine.gov/search/warn_lookups/495
+40,Bitwise Industries,,"Jun 14, 2023",,https://joblink.maine.gov/search/warn_lookups/496
+41,Yale Cordage,"77 Industrial Park Rd ; Saco, Maine 04072","Jun 22, 2023",9.0,https://joblink.maine.gov/search/warn_lookups/497
+42,Puritan Medical Products,"North Main Street; Pittsfield, Maine 04967","Jun 28, 2023",254.0,https://joblink.maine.gov/search/warn_lookups/471
+43,Maine Veterinary Medical Center,"1500 Technology Way ; Scarborough, Maine 04074","Jul 05, 2023",13.0,https://joblink.maine.gov/search/warn_lookups/498
+44,Courtland Rehab & Living Center,,"Jul 12, 2023",,https://joblink.maine.gov/search/warn_lookups/502
+45,Mid State Machine Products,"83 Verti Dr; winslow, Maine 04901","Jul 21, 2023",7.0,https://joblink.maine.gov/search/warn_lookups/503
+46,Mermaid Transportation,"985 Portland Rd ; Saco, Maine 04072","Jul 05, 2023",10.0,https://joblink.maine.gov/search/warn_lookups/504
+47,T Mobile,"133 First Park Dr ; Oakland, Maine 04963","Sep 07, 2023",21.0,https://joblink.maine.gov/search/warn_lookups/518
+48,The Christmas Tree Shops,"42 Whitten Rd ; Augusta, Maine 04330","Jul 05, 2023",38.0,https://joblink.maine.gov/search/warn_lookups/499
+49,The Christmas Tree Shops,"490 Payne Rd ; Scarborough, Maine 04074","Jul 05, 2023",31.0,https://joblink.maine.gov/search/warn_lookups/500
+50,The Christmas Tree Shops,"46 Springer Dr ; Bangor, Maine 04401","Jul 05, 2023",0.0,https://joblink.maine.gov/search/warn_lookups/501
+51,Made In Downeast Maine,"248 State Street ; Ellsworth, Maine 04605","Sep 20, 2023",2.0,https://joblink.maine.gov/search/warn_lookups/519
+52,Subway- Hampden,"7 Western Ave ; Hampden, Maine 04444","Sep 18, 2023",15.0,https://joblink.maine.gov/search/warn_lookups/520
+53,The Portland Pheonix,"251 US RT 1 ; Falmouth, Maine 04105","Jul 26, 2023",7.0,https://joblink.maine.gov/search/warn_lookups/521
+54,Yellow Corporation,,"Jul 30, 2023",,https://joblink.maine.gov/search/warn_lookups/506
+55,Yellow Corporation,"75 Eisenhower Dr; Westbrook, Maine 04092","Jul 30, 2023",16.0,https://joblink.maine.gov/search/warn_lookups/505
+56,Major's Appliance Service,"680 Maine St ; Farmingdale, Maine 04344","Aug 21, 2023",9.0,https://joblink.maine.gov/search/warn_lookups/507
+57,Walgreens,"3 Hudson Ave 147; Guilford, Maine 04443","Aug 30, 2023",12.0,https://joblink.maine.gov/search/warn_lookups/508
+58,Biddeford Internet Corp - DBA GWI,,"Aug 28, 2023",,https://joblink.maine.gov/search/warn_lookups/509
+59,Windham Weaponry,,"Sep 12, 2023",,https://joblink.maine.gov/search/warn_lookups/522
+60,Jotul North America,"55 Hutcherson Dr ; Gorham, Maine 04038","Aug 31, 2023",9.0,https://joblink.maine.gov/search/warn_lookups/511
+61,Esoco Orrington LLC,"29 Industrial Way ; Orrington, Maine 04474","Sep 05, 2023",31.0,https://joblink.maine.gov/search/warn_lookups/512
+62,Dragon Cement,"107 New County Rd; Thomaston, Maine 04861","Sep 06, 2023",65.0,https://joblink.maine.gov/search/warn_lookups/513
+63,Paradigm Windows,,"Sep 06, 2023",,https://joblink.maine.gov/search/warn_lookups/514
+64,York Hospital,"LOVING KINDNESS WAY YORK; York, Maine 03909","Sep 11, 2023",3.0,https://joblink.maine.gov/search/warn_lookups/515
+65,The Danforth,"211 Danforth St ; Portland, Maine 04102","Sep 19, 2023",15.0,https://joblink.maine.gov/search/warn_lookups/516
+66,Cousineau INC,"845 US Rt 2; Wilton, Maine 04294","Sep 26, 2023",3.0,https://joblink.maine.gov/search/warn_lookups/523
+67,Dip Net,,"Sep 28, 2023",,https://joblink.maine.gov/search/warn_lookups/524
+68,Petite Jacqueline,"46 Market St ; Portland, Maine 04101","Sep 25, 2023",10.0,https://joblink.maine.gov/search/warn_lookups/525
+69,Bluebird Restaurant,"78 Main St ; Machias, Maine 04654","Sep 14, 2023",28.0,https://joblink.maine.gov/search/warn_lookups/526
+70,Thriveworks Counseling & Psychiatry,"550 Forest Ave #201; Portland, Maine 04101","Sep 25, 2023",1.0,https://joblink.maine.gov/search/warn_lookups/527
+71,Mi Pueblo Tacos y Tequila,,"Oct 02, 2023",,https://joblink.maine.gov/search/warn_lookups/528
+72,Jotul North America,,"Oct 03, 2023",,https://joblink.maine.gov/search/warn_lookups/529
+73,First Savings Bank,"702 North Shore Dr ; Jeffersonville, Indiana 47130","Oct 06, 2023",1.0,https://joblink.maine.gov/search/warn_lookups/530
+74,Flemish Master Weavers,"96 Gatehouse Rd; Sanford, Maine 04073","Oct 05, 2023",1.0,https://joblink.maine.gov/search/warn_lookups/531
+75,Brickhouse Restaurant,"147 Madison Ave; Skowhegan, Maine 04976","Oct 17, 2023",13.0,https://joblink.maine.gov/search/warn_lookups/532
+76,Elevance Health,"5800 Northampton Blvd; Norfolk, Virginia 23502","Oct 02, 2023",7.0,https://joblink.maine.gov/search/warn_lookups/533
+77,Radici,"52 Washington ave ; Portland, Maine 04101","Oct 27, 2023",1.0,https://joblink.maine.gov/search/warn_lookups/534
+78,Hamilton Marine,,"Oct 30, 2023",,https://joblink.maine.gov/search/warn_lookups/535
+79,Yankee Lanes,"276 Bath Road; Brunswick, Maine 04011","May 21, 2022",15.0,https://joblink.maine.gov/search/warn_lookups/418
+80,Village Soup,"6 Virginia Ave.; Camden, Maine 04843","Jan 13, 2022",3.0,https://joblink.maine.gov/search/warn_lookups/401
+81,Purestat,"21 Old Farm Road; Lewiston, Maine 04240","Jan 10, 2022",26.0,https://joblink.maine.gov/search/warn_lookups/402
+82,NEUCO,"94 Glenn Street; Lawrence, Massachusetts 01843","Feb 01, 2022",5.0,https://joblink.maine.gov/search/warn_lookups/403
+83,Stage Neck Inn,"PO Box 70; York Harbor, Maine 03911","Feb 01, 2022",15.0,https://joblink.maine.gov/search/warn_lookups/404
+84,Mike's Clam Shop,,"Feb 01, 2022",,https://joblink.maine.gov/search/warn_lookups/405
+85,Shaw's Supermarket,"Main Street; Westbrook, Maine 04092","Feb 23, 2022",0.0,https://joblink.maine.gov/search/warn_lookups/406
+86,Dollar Tree,"784 Central Street; Millinocket, Maine 04462","Feb 23, 2022",9.0,https://joblink.maine.gov/search/warn_lookups/407
+87,University of New England,"11 Hills Beach Road; Biddeford, Maine 04005","Feb 24, 2022",6.0,https://joblink.maine.gov/search/warn_lookups/408
+88,Whiting Farm,,"Mar 11, 2022",,https://joblink.maine.gov/search/warn_lookups/409
+89,Grand Isle General Store,"364 Main Street; Grand Isle, Maine 04746","Mar 01, 2022",2.0,https://joblink.maine.gov/search/warn_lookups/410
+90,ProKnee,"137 Devine Road; Whitefield, Maine 04353","Mar 07, 2022",7.0,https://joblink.maine.gov/search/warn_lookups/411
+91,ON Semiconductor,"33 Western Avenue; South Portland, Maine 04106","Mar 01, 2022",19.0,https://joblink.maine.gov/search/warn_lookups/412
+92,Machias Veteran' Home,,"Mar 01, 2022",,https://joblink.maine.gov/search/warn_lookups/413
+93,RA Paradis,"81 Blaisdell Road; Newport, Maine 04953","Mar 31, 2022",2.0,https://joblink.maine.gov/search/warn_lookups/414
+94,Mid-Coast Dermatology,"85 Baribeau Drive; Brunswick, Maine 04011","Mar 31, 2022",2.0,https://joblink.maine.gov/search/warn_lookups/415
+95,Maine Natural Health,"825 Atlantic Highway; Warren, Maine 04864","Apr 26, 2022",5.0,https://joblink.maine.gov/search/warn_lookups/416
+96,Burrelle's,,"Apr 18, 2022",,https://joblink.maine.gov/search/warn_lookups/417
+97,Trails n Ales,,"May 14, 2022",,https://joblink.maine.gov/search/warn_lookups/419
+98,Beach Cove Waterfront Inn,"43 Lakeview Road; Boothbay Harbor, Maine 04538","May 24, 2022",1.0,https://joblink.maine.gov/search/warn_lookups/420
+99,The Roost,"439 Main Street; Calais, Maine 04619","May 02, 2022",5.0,https://joblink.maine.gov/search/warn_lookups/421
+100,Scarborough Downs,"90 Payne Road; Scarborough, Maine 04074","May 31, 2022",10.0,https://joblink.maine.gov/search/warn_lookups/422
+101,Mexico One Stop,"1 Harlow Hill Road; Mexico, Maine 04257","Jun 02, 2022",5.0,https://joblink.maine.gov/search/warn_lookups/424
+102,Wander Pizza,"265 Western Avenue; Augusta, Maine 04330","Jun 10, 2022",8.0,https://joblink.maine.gov/search/warn_lookups/425
+103,Gray Owl,"2 Park Drive; Rockland, Maine 04841","Nov 08, 2022",6.0,https://joblink.maine.gov/search/warn_lookups/445
+104,EVO Merchant Services,,"Jan 07, 2020",139.0,https://joblink.maine.gov/search/warn_lookups/250
+105,Famous Dave's Bar-B-Cue,,"Jan 03, 2020",75.0,https://joblink.maine.gov/search/warn_lookups/251
+106,Game Stop,,"Jan 03, 2020",5.0,https://joblink.maine.gov/search/warn_lookups/252
+107,Bass Factory Outlet,,"Jan 03, 2020",4.0,https://joblink.maine.gov/search/warn_lookups/253
+108,Bass Shoe Outlet,,"Jan 03, 2020",10.0,https://joblink.maine.gov/search/warn_lookups/254
+109,Joyce's,,"Jan 02, 2020",,https://joblink.maine.gov/search/warn_lookups/255
+110,Home Care for Maine,,"Jan 30, 2020",,https://joblink.maine.gov/search/warn_lookups/256
+111,Aroostook Milling,"191 Parsons Road; Presque Isle, Maine 04769","Feb 04, 2020",2.0,https://joblink.maine.gov/search/warn_lookups/257
+112,Burger King,"795 Main St; Presques Isle, Maine 04769","Feb 01, 2020",70.0,https://joblink.maine.gov/search/warn_lookups/258
+113,Bolsters Mills General Store,,"Jan 31, 2020",7.0,https://joblink.maine.gov/search/warn_lookups/259
+114,Sleepers,,"Jan 13, 2020",3.0,https://joblink.maine.gov/search/warn_lookups/261
+115,Days Milk Transport/Countryside Restaurant,,"Jan 02, 2020",37.0,https://joblink.maine.gov/search/warn_lookups/262
+116,"Huhtamaki, Inc",,"Mar 20, 2020",102.0,https://joblink.maine.gov/search/warn_lookups/282
+117,Kay Jewelers,,"Jan 07, 2020",7.0,https://joblink.maine.gov/search/warn_lookups/263
+118,Pier 1,,"Jan 27, 2020",15.0,https://joblink.maine.gov/search/warn_lookups/264
+119,Ship City Taxi,,"Feb 14, 2020",8.0,https://joblink.maine.gov/search/warn_lookups/268
+120,Wayfair,,"Feb 13, 2020",,https://joblink.maine.gov/search/warn_lookups/269
+121,Irving Forest Products,,"Jan 16, 2020",,https://joblink.maine.gov/search/warn_lookups/270
+122,Salley's Auto Repair,,"Feb 11, 2020",3.0,https://joblink.maine.gov/search/warn_lookups/271
+123,Wendy's,,"Jan 30, 2020",30.0,https://joblink.maine.gov/search/warn_lookups/272
+124,Office Max,,"Feb 21, 2020",20.0,https://joblink.maine.gov/search/warn_lookups/273
+125,Party City,,"Feb 19, 2020",12.0,https://joblink.maine.gov/search/warn_lookups/274
+126,"FormTek, In",,"Feb 27, 2020",7.0,https://joblink.maine.gov/search/warn_lookups/275
+127,The BedWorks of Maine,,"Feb 28, 2020",10.0,https://joblink.maine.gov/search/warn_lookups/276
+128,"L.L. Bean, Inc.",,"Feb 05, 2020",,https://joblink.maine.gov/search/warn_lookups/277
+129,DiElectric LLC,,"Feb 13, 2020",40.0,https://joblink.maine.gov/search/warn_lookups/278
+130,Whittemore & Sons Tractor & Power Equipment,,"Mar 17, 2020",3.0,https://joblink.maine.gov/search/warn_lookups/279
+131,American Legion Post 14,,"Mar 17, 2020",4.0,https://joblink.maine.gov/search/warn_lookups/280
+132,HMS Host,,"Mar 21, 2020",60.0,https://joblink.maine.gov/search/warn_lookups/281
+133,Gissing,,"Mar 25, 2020",84.0,https://joblink.maine.gov/search/warn_lookups/283
+134,JS McCarthy Printers,,"Mar 26, 2020",61.0,https://joblink.maine.gov/search/warn_lookups/284
+135,Sweetser,,"Apr 10, 2020",10.0,https://joblink.maine.gov/search/warn_lookups/285
+136,Prime Motor Group,,"Apr 18, 2020",78.0,https://joblink.maine.gov/search/warn_lookups/286
+137,Prime Motor Group,,"Apr 18, 2020",,https://joblink.maine.gov/search/warn_lookups/287
+138,18 Below,,"Mar 21, 2020",,https://joblink.maine.gov/search/warn_lookups/288
+139,CIEE,,"Mar 27, 2020",256.0,https://joblink.maine.gov/search/warn_lookups/289
+140,Eat'n Park Hospitality Group Inc,"11 Hills Beach Rd; Biddeford, Maine 04005","Apr 17, 2020",148.0,https://joblink.maine.gov/search/warn_lookups/290
+141,"Bed, Bath & Beyond","490 Payne Road; Scarborough, Maine 04074","Apr 17, 2020",71.0,https://joblink.maine.gov/search/warn_lookups/291
+142,"Bed, Bath & Beyond",,"Apr 17, 2020",,https://joblink.maine.gov/search/warn_lookups/292
+143,"Bed, Bath & Beyond","46 Spring Drive; Bangor, Maine 04401","Apr 17, 2020",56.0,https://joblink.maine.gov/search/warn_lookups/293
+144,"HH Brown Shoe Co., Inc.","71 Railroad Avenue; Dexter, Maine 04930","Apr 01, 2020",10.0,https://joblink.maine.gov/search/warn_lookups/294
+145,Whitecraft Scarborough Tempe,,"Apr 30, 2020",125.0,https://joblink.maine.gov/search/warn_lookups/295
+146,Tasman,,"May 04, 2020",115.0,https://joblink.maine.gov/search/warn_lookups/296
+147,Enterprise Holding Group,"140 Larrabee Road; Westbrook, Maine 04092","Apr 20, 2020",63.0,https://joblink.maine.gov/search/warn_lookups/297
+148,Chadwick-BaRoss,,"May 04, 2020",16.0,https://joblink.maine.gov/search/warn_lookups/298
+149,HH Brown Retail Store/Super Shoes,"364 Maine Mall Road; South Portland, Maine 04106","Apr 24, 2020",10.0,https://joblink.maine.gov/search/warn_lookups/299
+150,HH Brown Retail Store/Super Shoes,"550 Center Street; Auburn, Maine 04210","Apr 24, 2020",11.0,https://joblink.maine.gov/search/warn_lookups/300
+151,HH Brown Retail Store/Super Shoes,"930 Stillwater Avenue; Bangor, Maine 04401","Apr 24, 2020",8.0,https://joblink.maine.gov/search/warn_lookups/301
+152,HH Brown Retail Store/Super Shoes,"446 High Street; Ellsworth, Maine 04605","Apr 24, 2020",5.0,https://joblink.maine.gov/search/warn_lookups/302
+153,HH Brown Retail Store/Super Shoes,"1070 Commercial Street; Rockport, Maine 04856","Apr 24, 2020",5.0,https://joblink.maine.gov/search/warn_lookups/303
+154,HH Brown Retail Store/Super Shoes,,"Apr 24, 2020",4.0,https://joblink.maine.gov/search/warn_lookups/304
+155,HH Brown Retail Store/Super Shoes,"1 Washington Street; Waterville, Maine 04901","Apr 24, 2020",11.0,https://joblink.maine.gov/search/warn_lookups/305
+156,Eric's Restaurant,,"May 14, 2020",11.0,https://joblink.maine.gov/search/warn_lookups/306
+157,Westin Portland Harborview,,"May 18, 2020",,https://joblink.maine.gov/search/warn_lookups/307
+158,Pedro O'Hara's - Brunswick,,"May 29, 2020",5.0,https://joblink.maine.gov/search/warn_lookups/308
+159,Mid State Machine Products,,"Jun 10, 2020",24.0,https://joblink.maine.gov/search/warn_lookups/309
+160,Joseph's Fireside Steakhouse,,"Jun 09, 2020",50.0,https://joblink.maine.gov/search/warn_lookups/310
+161,Sweetser,,"Apr 01, 2020",,https://joblink.maine.gov/search/warn_lookups/311
+162,"Whitcraft Scarborough Tempe, LLC",,"Apr 30, 2020",125.0,https://joblink.maine.gov/search/warn_lookups/312
+163,White Barn Inn,,"Mar 31, 2020",43.0,https://joblink.maine.gov/search/warn_lookups/313
+164,Hollywood Casino Hotel & Raceway,,"Jun 15, 2020",121.0,https://joblink.maine.gov/search/warn_lookups/314
+165,Pratt & Whitney,,"Jun 01, 2020",,https://joblink.maine.gov/search/warn_lookups/315
+166,"Huhtamaki, Inc.",,"Mar 24, 2020",102.0,https://joblink.maine.gov/search/warn_lookups/316
+167,HMS Host,,"Mar 20, 2020",240.0,https://joblink.maine.gov/search/warn_lookups/317
+168,Starc Systems Inc,,"Jun 22, 2020",32.0,https://joblink.maine.gov/search/warn_lookups/318
+169,Nicky's Cruisin Diner,,"Jun 23, 2020",,https://joblink.maine.gov/search/warn_lookups/319
+170,Dempsey Center for Quality Cancer,,"Jul 01, 2020",,https://joblink.maine.gov/search/warn_lookups/320
+171,"NRF Distributors, Inc.",,"Jul 08, 2020",17.0,https://joblink.maine.gov/search/warn_lookups/321
+172,SAPPI,,"Jul 13, 2020",75.0,https://joblink.maine.gov/search/warn_lookups/322
+173,Pixelle Specialty Solutions,,"Jul 14, 2020",59.0,https://joblink.maine.gov/search/warn_lookups/323
+174,Coca-Cola/Odwalla,,"Jul 14, 2020",,https://joblink.maine.gov/search/warn_lookups/324
+175,US Citizenship & Immigration Service / USCIS,,"Jul 16, 2020",,https://joblink.maine.gov/search/warn_lookups/325
+176,Sears - Brunswick,,"Feb 10, 2020",15.0,https://joblink.maine.gov/search/warn_lookups/327
+177,Foshay-Carlton Cards & Gifts,,"Jul 24, 2020",2.0,https://joblink.maine.gov/search/warn_lookups/328
+178,PTM Inc / Pat's Pizza,,"Jul 27, 2020",6.0,https://joblink.maine.gov/search/warn_lookups/329
+179,Conform Gissing International,,"Sep 20, 2019",38.0,https://joblink.maine.gov/search/warn_lookups/232
+180,KMart,,"Nov 08, 2019",80.0,https://joblink.maine.gov/search/warn_lookups/172
+181,E-Waste,,"Jan 09, 2019",6.0,https://joblink.maine.gov/search/warn_lookups/177
+182,Key Bank,,"Jan 24, 2019",15.0,https://joblink.maine.gov/search/warn_lookups/178
+183,Taco Bell,,"Jan 17, 2019",5.0,https://joblink.maine.gov/search/warn_lookups/179
+184,Barclays Card,,"Jan 08, 2019",,https://joblink.maine.gov/search/warn_lookups/180
+185,Office Max,,"Apr 02, 2019",,https://joblink.maine.gov/search/warn_lookups/181
+186,Sonogee Rehab Center,,"Feb 25, 2019",50.0,https://joblink.maine.gov/search/warn_lookups/183
+187,Consolidated Communications,,"Apr 12, 2019",0.0,https://joblink.maine.gov/search/warn_lookups/184
+188,Tim Hortons,,"Mar 16, 2019",22.0,https://joblink.maine.gov/search/warn_lookups/185
+189,Southern Kennebec Child Development,,"Apr 03, 2019",,https://joblink.maine.gov/search/warn_lookups/186
+190,AthenaHealth,,"Apr 16, 2019",20.0,https://joblink.maine.gov/search/warn_lookups/187
+191,Propesct Hill Golf Course,,"Apr 25, 2019",1.0,https://joblink.maine.gov/search/warn_lookups/188
+192,Edward Laga DDS,,"Apr 29, 2019",5.0,https://joblink.maine.gov/search/warn_lookups/189
+193,DaaQuam Lumber,,"Apr 09, 2019",,https://joblink.maine.gov/search/warn_lookups/190
+194,Famiies And Children Together,,"Apr 29, 2019",12.0,https://joblink.maine.gov/search/warn_lookups/191
+195,fat cats cafe,,"May 02, 2019",4.0,https://joblink.maine.gov/search/warn_lookups/192
+196,Broadreach Family & Community Services,,"May 22, 2019",79.0,https://joblink.maine.gov/search/warn_lookups/193
+197,Dressbarn,,"May 21, 2019",,https://joblink.maine.gov/search/warn_lookups/194
+198,Thornton Academy,,"May 15, 2019",8.0,https://joblink.maine.gov/search/warn_lookups/195
+199,Friendlys,,"May 28, 2019",32.0,https://joblink.maine.gov/search/warn_lookups/196
+200,Dress Barn,,"May 21, 2019",7.0,https://joblink.maine.gov/search/warn_lookups/197
+201,Dress Barn,,"May 21, 2019",,https://joblink.maine.gov/search/warn_lookups/198
+202,Dress Barn,,"May 21, 2019",9.0,https://joblink.maine.gov/search/warn_lookups/199
+203,Point Lookout Resort,,"Jun 07, 2019",70.0,https://joblink.maine.gov/search/warn_lookups/200
+204,Pet Life - Augusta,,"Jun 05, 2019",5.0,https://joblink.maine.gov/search/warn_lookups/201
+205,Pet Life,,"Jun 03, 2019",11.0,https://joblink.maine.gov/search/warn_lookups/202
+206,RH Foster,,"Jun 10, 2019",7.0,https://joblink.maine.gov/search/warn_lookups/203
+207,F&A Market,,"Jun 17, 2019",,https://joblink.maine.gov/search/warn_lookups/204
+208,Broadway Hardware,,"Jun 19, 2019",3.0,https://joblink.maine.gov/search/warn_lookups/205
+209,Maine Made Furniture Wilton,,"Mar 25, 2019",5.0,https://joblink.maine.gov/search/warn_lookups/206
+210,McCain Foods,,"May 24, 2019",60.0,https://joblink.maine.gov/search/warn_lookups/207
+211,ReEnergy Holding,,"Mar 29, 2019",,https://joblink.maine.gov/search/warn_lookups/208
+212,Jagger,,"Feb 11, 2019",19.0,https://joblink.maine.gov/search/warn_lookups/209
+213,The Dress Barn,,"May 21, 2019",8.0,https://joblink.maine.gov/search/warn_lookups/210
+214,Habitat for Humanity Restore,,"May 17, 2019",3.0,https://joblink.maine.gov/search/warn_lookups/211
+215,US Access / Global Environmental,,"Apr 16, 2019",,https://joblink.maine.gov/search/warn_lookups/212
+216,Sears Houlton,,"Jun 19, 2019",4.0,https://joblink.maine.gov/search/warn_lookups/213
+217,Kanon Communications,,"Jun 24, 2019",3.0,https://joblink.maine.gov/search/warn_lookups/214
+218,Open Door Recovery,,"Jul 01, 2019",23.0,https://joblink.maine.gov/search/warn_lookups/215
+219,Stratton Lumber,,"Jul 10, 2019",,https://joblink.maine.gov/search/warn_lookups/216
+220,Sitel,,"Jul 16, 2019",94.0,https://joblink.maine.gov/search/warn_lookups/217
+221,Ellsworth Collision and Service,,"Jul 29, 2019",0.0,https://joblink.maine.gov/search/warn_lookups/218
+222,Lowe's,,"Aug 01, 2019",4.0,https://joblink.maine.gov/search/warn_lookups/219
+223,Consolidated Communications,,"Jul 30, 2019",,https://joblink.maine.gov/search/warn_lookups/220
+224,Covenant Health,,"Jul 31, 2019",73.0,https://joblink.maine.gov/search/warn_lookups/221
+225,Silly's,,"Aug 23, 2019",10.0,https://joblink.maine.gov/search/warn_lookups/222
+226,Lolita,,"Aug 14, 2019",0.0,https://joblink.maine.gov/search/warn_lookups/223
+227,Mid-State Machine,,"Sep 06, 2019",,https://joblink.maine.gov/search/warn_lookups/224
+228,Walgreens,,"Sep 05, 2019",10.0,https://joblink.maine.gov/search/warn_lookups/225
+229,Kmart,"58 Western Ave; Augusta, Maine 04330","Sep 03, 2019",38.0,https://joblink.maine.gov/search/warn_lookups/226
+230,Kmart,,"Sep 03, 2019",,https://joblink.maine.gov/search/warn_lookups/227
+231,Castle Builders,,"Sep 06, 2019",23.0,https://joblink.maine.gov/search/warn_lookups/228
+232,Point Lookout,,"Sep 20, 2019",75.0,https://joblink.maine.gov/search/warn_lookups/229
+233,Yamas Bar and Grill,,"Oct 18, 2019",12.0,https://joblink.maine.gov/search/warn_lookups/230
+234,Friend and Friend,,"Sep 27, 2019",,https://joblink.maine.gov/search/warn_lookups/231
+235,Olympia Sports,,"Oct 18, 2019",0.0,https://joblink.maine.gov/search/warn_lookups/233
+236,Bangor News and Gifts,,"Oct 18, 2019",0.0,https://joblink.maine.gov/search/warn_lookups/234
+237,The Tan Turtle,,"Oct 18, 2019",0.0,https://joblink.maine.gov/search/warn_lookups/235
+238,Olympia Sports,,"Oct 15, 2019",,https://joblink.maine.gov/search/warn_lookups/236
+239,Cunningham Security,,"Oct 02, 2019",11.0,https://joblink.maine.gov/search/warn_lookups/237
+240,Olympia Sports,,"Oct 10, 2019",10.0,https://joblink.maine.gov/search/warn_lookups/238
+241,Olympia Sports,,"Nov 04, 2019",9.0,https://joblink.maine.gov/search/warn_lookups/239
+242,Olympia Sports,,"Nov 04, 2019",,https://joblink.maine.gov/search/warn_lookups/240
+243,Olympia Sports,,"Nov 04, 2019",10.0,https://joblink.maine.gov/search/warn_lookups/241
+244,Victor News,,"Oct 03, 2019",4.0,https://joblink.maine.gov/search/warn_lookups/242
+245,Olympia Sports Warehouse,,"Oct 29, 2019",75.0,https://joblink.maine.gov/search/warn_lookups/243
+246,Edward H. Best,,"Nov 15, 2019",,https://joblink.maine.gov/search/warn_lookups/244
+247,Family Dollar,,"Nov 21, 2019",,https://joblink.maine.gov/search/warn_lookups/245
+248,A.C. Moore,,"Nov 27, 2019",35.0,https://joblink.maine.gov/search/warn_lookups/246
+249,The Daniel,,"Nov 01, 2019",10.0,https://joblink.maine.gov/search/warn_lookups/247
+250,Specialty Sweets,,"Oct 28, 2019",5.0,https://joblink.maine.gov/search/warn_lookups/248
+251,Growers Express,,"Dec 29, 2019",93.0,https://joblink.maine.gov/search/warn_lookups/249
+252,The County Diner,,"Dec 29, 2019",14.0,https://joblink.maine.gov/search/warn_lookups/260
+253,A.C. Moore,,"Nov 26, 2019",15.0,https://joblink.maine.gov/search/warn_lookups/265
+254,Staffing Solutions,,"Nov 26, 2019",,https://joblink.maine.gov/search/warn_lookups/266
+255,Olympia Sports,,"Oct 10, 2019",,https://joblink.maine.gov/search/warn_lookups/267
+256,Build A Bear,,"Jan 04, 2018",10.0,https://joblink.maine.gov/search/warn_lookups/117
+257,Sears,,"Jan 08, 2018",46.0,https://joblink.maine.gov/search/warn_lookups/118
+258,Toys R Us,,"Jan 24, 2018",,https://joblink.maine.gov/search/warn_lookups/119
+259,Pac Sun,,"Jan 19, 2018",4.0,https://joblink.maine.gov/search/warn_lookups/120
+260,Maine Cloth Diaper,,"Jan 22, 2018",3.0,https://joblink.maine.gov/search/warn_lookups/121
+261,Nautel,,"Jan 29, 2018",100.0,https://joblink.maine.gov/search/warn_lookups/123
+262,Downeast Corrections,,"Feb 09, 2018",,https://joblink.maine.gov/search/warn_lookups/124
+263,Eastern Maine HealthSystems,,"Feb 15, 2018",6.0,https://joblink.maine.gov/search/warn_lookups/125
+264,Bath Iron Works Local S6,,"Feb 09, 2018",57.0,https://joblink.maine.gov/search/warn_lookups/126
+265,Mega Industries,,"Feb 26, 2018",6.0,https://joblink.maine.gov/search/warn_lookups/133
+266,Thomas Moser,,"Feb 26, 2018",,https://joblink.maine.gov/search/warn_lookups/134
+267,BIW,,"Feb 27, 2018",25.0,https://joblink.maine.gov/search/warn_lookups/135
+268,ESOCO Orrington LLC,"29 Industrial Way; Orrington, Maine 04474","Mar 16, 2018",17.0,https://joblink.maine.gov/search/warn_lookups/136
+269,Maine State Legislative Support,,"Mar 23, 2018",13.0,https://joblink.maine.gov/search/warn_lookups/137
+270,Southern Kennebec Child Development  (SKCDC),,"Mar 26, 2018",,https://joblink.maine.gov/search/warn_lookups/138
+271,Controlled Environment Equipment Corp.,,"Mar 28, 2018",12.0,https://joblink.maine.gov/search/warn_lookups/139
+272,Bath Iron Works,,"Apr 10, 2018",31.0,https://joblink.maine.gov/search/warn_lookups/140
+273,Rolandeau's Restaurant,,"May 10, 2018",10.0,https://joblink.maine.gov/search/warn_lookups/141
+274,Stored Solar,,"Mar 30, 2018",,https://joblink.maine.gov/search/warn_lookups/142
+275,Maine Military Authority,,"May 30, 2018",65.0,https://joblink.maine.gov/search/warn_lookups/143
+276,Norway Laundry,,"Jun 19, 2018",12.0,https://joblink.maine.gov/search/warn_lookups/144
+277,Cuddledown,,"Feb 02, 2018",26.0,https://joblink.maine.gov/search/warn_lookups/145
+278,Maine Girls' Academy,,"Jul 05, 2018",,https://joblink.maine.gov/search/warn_lookups/146
+279,Sears,,"Jun 18, 2018",,https://joblink.maine.gov/search/warn_lookups/147
+280,Mount Heights Health Care Facility,,"Aug 02, 2018",53.0,https://joblink.maine.gov/search/warn_lookups/148
+281,Ledgeview Living Center,,"Aug 10, 2018",122.0,https://joblink.maine.gov/search/warn_lookups/149
+282,Farmington Coca- Cola,,"Aug 09, 2018",6.0,https://joblink.maine.gov/search/warn_lookups/150
+283,Consolidated Communications Bangor,,"Sep 05, 2018",33.0,https://joblink.maine.gov/search/warn_lookups/151
+284,Consolidated Communications Portland,,"Sep 05, 2018",30.0,https://joblink.maine.gov/search/warn_lookups/152
+285,Fuel Bistro,,"Aug 29, 2018",,https://joblink.maine.gov/search/warn_lookups/153
+286,Northeast Publishing Company,,"Aug 29, 2018",17.0,https://joblink.maine.gov/search/warn_lookups/154
+287,Southern New Hampshire University,,"Oct 17, 2018",8.0,https://joblink.maine.gov/search/warn_lookups/156
+288,Bridgton Health and Residential,,"Oct 01, 2018",50.0,https://joblink.maine.gov/search/warn_lookups/157
+289,Freeport Nrsing and Rehab Center,,"Oct 01, 2018",,https://joblink.maine.gov/search/warn_lookups/158
+290,Tri County Rescue,,"Oct 17, 2018",,https://joblink.maine.gov/search/warn_lookups/159
+291,Carbonite,,"Nov 02, 2018",5.0,https://joblink.maine.gov/search/warn_lookups/160
+292,Landmark,,"Nov 05, 2018",6.0,https://joblink.maine.gov/search/warn_lookups/161
+293,Emery Waterhouse,,"Oct 10, 2018",150.0,https://joblink.maine.gov/search/warn_lookups/162
+294,Thomas Moser,,"Nov 06, 2018",,https://joblink.maine.gov/search/warn_lookups/163
+295,Weber Machine USA,,"Nov 12, 2018",3.0,https://joblink.maine.gov/search/warn_lookups/165
+296,Lighting Concepts,,"Dec 10, 2018",3.0,https://joblink.maine.gov/search/warn_lookups/166
+297,Congressman Bruce Poliquin,,"Dec 17, 2018",8.0,https://joblink.maine.gov/search/warn_lookups/167
+298,Christmas Tree Acres,,"Dec 09, 2018",,https://joblink.maine.gov/search/warn_lookups/168
+299,Access Worldwide,,"Nov 02, 2018",20.0,https://joblink.maine.gov/search/warn_lookups/169
+300,Affordable Appliance,,"Dec 05, 2018",2.0,https://joblink.maine.gov/search/warn_lookups/170
+301,Liberty Mutual,,"Dec 10, 2018",39.0,https://joblink.maine.gov/search/warn_lookups/171
+302,Payless Shoes,,"Dec 07, 2018",,https://joblink.maine.gov/search/warn_lookups/173
+303,Times Record,,"Dec 04, 2018",4.0,https://joblink.maine.gov/search/warn_lookups/174
+304,ReEnergy Holdings,,"Nov 30, 2018",21.0,https://joblink.maine.gov/search/warn_lookups/175
+305,Covenant Health- St. Mary's,,"Nov 20, 2018",3.0,https://joblink.maine.gov/search/warn_lookups/176
+306,Verso Paper,,"Nov 01, 2017",150.0,https://joblink.maine.gov/search/warn_lookups/54
+307,Marden's,,"Jan 08, 2017",7.0,https://joblink.maine.gov/search/warn_lookups/55
+308,Northern Bay Residential Care,,"Jan 01, 2017",20.0,https://joblink.maine.gov/search/warn_lookups/56
+309,Northern Girl,,"Mar 03, 2017",9.0,https://joblink.maine.gov/search/warn_lookups/61
+310,Macy's,,"Jan 07, 2017",65.0,https://joblink.maine.gov/search/warn_lookups/62
+311,Chippewa,,"Feb 03, 2017",,https://joblink.maine.gov/search/warn_lookups/63
+312,Hannaford,,"Mar 01, 2017",,https://joblink.maine.gov/search/warn_lookups/65
+313,Le Garage,,"Apr 24, 2017",25.0,https://joblink.maine.gov/search/warn_lookups/66
+314,BIW,,"Apr 24, 2017",50.0,https://joblink.maine.gov/search/warn_lookups/67
+315,The Yard at the Mill,,"Apr 27, 2017",4.0,https://joblink.maine.gov/search/warn_lookups/68
+316,Dollar Express/Family Dollar,,"Apr 03, 2017",,https://joblink.maine.gov/search/warn_lookups/69
+317,Dollar Express/Family Dollar,,"Apr 03, 2017",5.0,https://joblink.maine.gov/search/warn_lookups/70
+318,Dollar Express/Family Dollar,,"Apr 03, 2017",5.0,https://joblink.maine.gov/search/warn_lookups/71
+319,Chaffee Transport,,"Apr 07, 2017",2.0,https://joblink.maine.gov/search/warn_lookups/72
+320,JC Penney,,"Apr 03, 2017",,https://joblink.maine.gov/search/warn_lookups/73
+321,Payless Shoes,,"Apr 11, 2017",3.0,https://joblink.maine.gov/search/warn_lookups/74
+322,Payless Shoes,,"Apr 12, 2017",5.0,https://joblink.maine.gov/search/warn_lookups/75
+323,Dollar Express/Family Dollar,,"May 01, 2017",5.0,https://joblink.maine.gov/search/warn_lookups/76
+324,Rue 21,,"Apr 18, 2017",,https://joblink.maine.gov/search/warn_lookups/77
+325,Payless,,"Apr 10, 2017",4.0,https://joblink.maine.gov/search/warn_lookups/78
+326,Rue 21,,"Apr 26, 2017",3.0,https://joblink.maine.gov/search/warn_lookups/79
+327,Pizza Hut,,"May 08, 2017",14.0,https://joblink.maine.gov/search/warn_lookups/80
+328,Profile Ford- Blueberry/Cranberry Ford,,"May 15, 2017",,https://joblink.maine.gov/search/warn_lookups/81
+329,Rue 21,,"Apr 18, 2017",15.0,https://joblink.maine.gov/search/warn_lookups/82
+330,Windham Millwork,,"May 08, 2017",15.0,https://joblink.maine.gov/search/warn_lookups/83
+331,Mr. Mike's,,"May 24, 2017",,https://joblink.maine.gov/search/warn_lookups/84
+332,Family Dollar,,"May 05, 2017",8.0,https://joblink.maine.gov/search/warn_lookups/85
+333,Bridge Restaurant,,"Jun 19, 2017",7.0,https://joblink.maine.gov/search/warn_lookups/87
+334,Southern Kennebec Child Development,,"May 01, 2017",12.0,https://joblink.maine.gov/search/warn_lookups/88
+335,Bon-Ton,,"Jun 15, 2017",,https://joblink.maine.gov/search/warn_lookups/89
+336,Ace Hardware,,"Jul 17, 2017",26.0,https://joblink.maine.gov/search/warn_lookups/90
+337,Asian Taste,,"Jul 16, 2017",26.0,https://joblink.maine.gov/search/warn_lookups/93
+338,Solo Bistro,,"Jul 31, 2017",15.0,https://joblink.maine.gov/search/warn_lookups/94
+339,Ravens Roost,,"Aug 01, 2017",,https://joblink.maine.gov/search/warn_lookups/95
+340,Surgi-Care Inc.,,"Aug 14, 2017",,https://joblink.maine.gov/search/warn_lookups/96
+341,Walkers Family Restaurant,,"Sep 05, 2017",30.0,https://joblink.maine.gov/search/warn_lookups/97
+342,Cornerstone Christian Academy,,"Sep 01, 2017",8.0,https://joblink.maine.gov/search/warn_lookups/98
+343,Ecoshel,,"Jul 10, 2017",11.0,https://joblink.maine.gov/search/warn_lookups/99
+344,Vacationland Bowling,,"Sep 19, 2017",,https://joblink.maine.gov/search/warn_lookups/100
+345,Southgate Restaurant,,"Sep 27, 2017",10.0,https://joblink.maine.gov/search/warn_lookups/101
+346,National Wood Products,,"Oct 19, 2017",20.0,https://joblink.maine.gov/search/warn_lookups/102
+347,Owens Corning Composite Materials,,"Oct 09, 2017",60.0,https://joblink.maine.gov/search/warn_lookups/103
+348,Owens Corning Composite Materials,,"Oct 09, 2017",,https://joblink.maine.gov/search/warn_lookups/104
+349,"Moosewood Millworks, LLC",,"Oct 16, 2017",,https://joblink.maine.gov/search/warn_lookups/105
+350,Davids KPT Restaurant,,"Oct 30, 2017",40.0,https://joblink.maine.gov/search/warn_lookups/106
+351,Chaffee Transport,,"Oct 26, 2017",1.0,https://joblink.maine.gov/search/warn_lookups/107
+352,Eastern Maine Development Corp.,,"Nov 21, 2017",10.0,https://joblink.maine.gov/search/warn_lookups/108
+353,Sitel,,"Dec 08, 2017",,https://joblink.maine.gov/search/warn_lookups/109
+354,St. Josephs College,,"Dec 08, 2017",19.0,https://joblink.maine.gov/search/warn_lookups/110
+355,Cosmic Charlies,,"Dec 07, 2017",11.0,https://joblink.maine.gov/search/warn_lookups/111
+356,Charming Charlies,,"Dec 06, 2017",,https://joblink.maine.gov/search/warn_lookups/112
+357,Somerset Manor,,"Dec 08, 2017",,https://joblink.maine.gov/search/warn_lookups/113
+358,Thomas Moser,,"Dec 08, 2017",67.0,https://joblink.maine.gov/search/warn_lookups/114
+359,Boivans Harvet House,,"Dec 18, 2017",13.0,https://joblink.maine.gov/search/warn_lookups/115
+360,KBS Builders,,"Dec 21, 2017",20.0,https://joblink.maine.gov/search/warn_lookups/116
+361,Dairy Queen,,"Dec 18, 2017",,https://joblink.maine.gov/search/warn_lookups/122
+362,Madison Paper Industries,,"Mar 14, 2016",210.0,https://joblink.maine.gov/search/warn_lookups/49
+363,Maine Made Furniture,,"Aug 31, 2016",10.0,https://joblink.maine.gov/search/warn_lookups/53
+364,Bibo's Madd Apple Cafe,,"Dec 31, 2016",,https://joblink.maine.gov/search/warn_lookups/57
+365,KBS,,"Nov 01, 2016",55.0,https://joblink.maine.gov/search/warn_lookups/58
+366,Denny's,,"Dec 23, 2016",40.0,https://joblink.maine.gov/search/warn_lookups/59
+367,Weatherend Furniture,,"Oct 20, 2016",9.0,https://joblink.maine.gov/search/warn_lookups/60
+368,Evergreen Manufacturing,,"Feb 19, 2016",,https://joblink.maine.gov/search/warn_lookups/64
+369,Sears - Augusta,,"Dec 27, 2016",,https://joblink.maine.gov/search/warn_lookups/326
+370,Expera,,"Oct 12, 2015",220.0,https://joblink.maine.gov/search/warn_lookups/50
+371,Lincoln Paper and Tissue,,"Sep 28, 2015",200.0,https://joblink.maine.gov/search/warn_lookups/86
+372,Cascade Fiber,,"Jun 29, 2015",,https://joblink.maine.gov/search/warn_lookups/132
+373,Corinth Wood Pellets,,"Sep 20, 2015",15.0,https://joblink.maine.gov/search/warn_lookups/155
+374,Verso Paper,"2 River Rd; Bucksport, Maine 04416","Oct 01, 2014",500.0,https://joblink.maine.gov/search/warn_lookups/52
+375,UTC,,"Nov 01, 2014",,https://joblink.maine.gov/search/warn_lookups/128
+376,Great Northern Paper,,"Feb 06, 2014",250.0,https://joblink.maine.gov/search/warn_lookups/130
+377,William Aurthur / Crane Co,,"Apr 18, 2013",270.0,https://joblink.maine.gov/search/warn_lookups/127
+378,Laserwords,,"Aug 01, 2013",,https://joblink.maine.gov/search/warn_lookups/129
+379,Hostess,,"Jan 25, 2012",423.0,https://joblink.maine.gov/search/warn_lookups/131
